@@ -4,9 +4,10 @@ const fs = require('fs');
 const session = require('express-session');
 const crypto = require('crypto');
 const history = require('connect-history-api-fallback');
+const cors = require('cors'); // Import the package
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000; // Updated for Heroku compatibility
 
 const categoryData = require('./src/data/categoryData.json');
 const questionDataPath = './src/data/questions/';
@@ -20,6 +21,10 @@ const generateSecretKey = () => {
 const secretKey = generateSecretKey();
 
 app.use(express.json()); // Parse JSON request body
+
+app.use(cors({
+  origin: 'https://quiz-frontend-vhra.vercel.app' // Your Vercel frontend URL
+})); 
 
 // Add session middleware
 app.use(
@@ -167,7 +172,7 @@ if (process.env.NODE_ENV === 'development') {
 
 
   app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname,  'index.html'));
+    res.sendFile(path.join(__dirname, 'index.html'));
   });
 
   app.listen(PORT, () => {
