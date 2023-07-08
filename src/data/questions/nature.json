@@ -1,0 +1,412 @@
+[
+    {
+        "question": "Quel est le plus grand océan du monde ?",
+        "options": [
+            "Océan Atlantique",
+            "Océan Arctique",
+            "Océan Indien",
+            "Océan Pacifique"
+        ],
+        "correctAnswer": "Océan Pacifique"
+    },
+    {
+        "question": "Quelle est la plus haute montagne du monde ?",
+        "options": [
+            "Mont Everest",
+            "Mont Kilimandjaro",
+            "Mont Denali",
+            "Mont Blanc"
+        ],
+        "correctAnswer": "Mont Everest"
+    },
+    {
+        "question": "Quel est le plus grand désert du monde ?",
+        "options": [
+            "Désert du Sahara",
+            "Désert de Gobi",
+            "Désert d'Arabie",
+            "Désert du Kalahari"
+        ],
+        "correctAnswer": "Désert du Sahara"
+    },
+    {
+        "question": "Quel est le fleuve le plus long du monde ?",
+        "options": [
+            "Nil",
+            "Amazone",
+            "Mississippi",
+            "Yangtsé"
+        ],
+        "correctAnswer": "Nil"
+    },
+    {
+        "question": "Quel est le plus grand lac du monde en superficie ?",
+        "options": [
+            "lac Supérieur",
+            "lac Baïkal",
+            "lac Victoria",
+            "lac Michigan"
+        ],
+        "correctAnswer": "lac Supérieur"
+    },
+    {
+        "question": "Quelle est la plus grande forêt tropicale du monde ?",
+        "options": [
+            "Forêt amazonienne",
+            "Forêt du Congo",
+            "Forêt de Bornéo",
+            "Forêt de Daintree"
+        ],
+        "correctAnswer": "Forêt amazonienne"
+    },
+    {
+        "question": "Quel est le plus grand récif corallien du monde ?",
+        "options": [
+            "Grande Barrière de Corail",
+            "Récif de Tubbataha",
+            "Récif de la mer Rouge",
+            "Récif de Ningaloo"
+        ],
+        "correctAnswer": "Grande Barrière de Corail"
+    },
+    {
+        "question": "Quel est l'animal terrestre le plus rapide ?",
+        "options": [
+            "Guépard",
+            "Lion",
+            "Gazelle",
+            "Leopard"
+        ],
+        "correctAnswer": "Guépard"
+    },
+    {
+        "question": "Quel est l'oiseau le plus grand du monde ?",
+        "options": [
+            "Autruche",
+            "Condor des Andes",
+            "Aigle royal",
+            "Manchot empereur"
+        ],
+        "correctAnswer": "Autruche"
+    },
+    {
+        "question": "Quel est le plus grand animal vivant sur Terre ?",
+        "options": [
+            "Baleine bleue",
+            "Éléphant d'Afrique",
+            "Requin baleine",
+            "Girafe"
+        ],
+        "correctAnswer": "Baleine bleue"
+    },
+    {
+        "question": "Quel est le plus grand prédateur terrestre ?",
+        "options": [
+            "Ours polaire",
+            "Tigre de Sibérie",
+            "Lion",
+            "Requin blanc"
+        ],
+        "correctAnswer": "Ours polaire"
+    },
+    {
+        "question": "Quel est le plus grand reptile du monde ?",
+        "options": [
+            "Crocodile marin",
+            "Varan de Komodo",
+            "Serpent anaconda",
+            "Tortue luth"
+        ],
+        "correctAnswer": "Crocodile marin"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de singe ?",
+        "options": [
+            "Gorille",
+            "Orang-outan",
+            "Chimpanzé",
+            "Babouin"
+        ],
+        "correctAnswer": "Gorille"
+    },
+    {
+        "question": "Quel est le plus grand arbre du monde ?",
+        "options": [
+            "Séquoia géant",
+            "Chêne-liège",
+            "Baobab",
+            "Pin de Bristlecone"
+        ],
+        "correctAnswer": "Séquoia géant"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de serpent venimeux ?",
+        "options": [
+            "Cobra royal",
+            "Mamba noir",
+            "Vipère de Russell",
+            "Crotale à diamant"
+        ],
+        "correctAnswer": "Cobra royal"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de requin ?",
+        "options": [
+            "Requin baleine",
+            "Grand requin blanc",
+            "Requin-tigre",
+            "Requin-marteau"
+        ],
+        "correctAnswer": "Requin baleine"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de tortue de mer ?",
+        "options": [
+            "Tortue luth",
+            "Tortue verte",
+            "Tortue caouanne",
+            "Tortue imbriquée"
+        ],
+        "correctAnswer": "Tortue luth"
+    },
+    {
+        "question": "Quel est l'insecte le plus grand du monde ?",
+        "options": [
+            "Scarabée géant",
+            "Cigale",
+            "Sauterelle",
+            "Papillon atlas"
+        ],
+        "correctAnswer": "Scarabée géant"
+    },
+    {
+        "question": "Quel est le plus grand mammifère volant ?",
+        "options": [
+            "Chauve-souris géante de l'île de Rodrigues",
+            "Chauve-souris vampire",
+            "Renard volant",
+            "Pteropus"
+        ],
+        "correctAnswer": "Chauve-souris géante de l'île de Rodrigues"
+    },
+    {
+        "question": "Quelle est la plus grande espèce d'abeille ?",
+        "options": [
+            "Abeille à miel",
+            "Abeille charpentière",
+            "Abeille géante de Wallace",
+            "Abeille maçonne"
+        ],
+        "correctAnswer": "Abeille géante de Wallace"
+    },
+    {
+        "question": "Quel est le plus grand insecte du monde en termes de longueur ?",
+        "options": [
+            "Phasme de Lord Howe",
+            "Staphylin géant",
+            "Grillon géant",
+            "Mante orchidée"
+        ],
+        "correctAnswer": "Phasme de Lord Howe"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de lézard ?",
+        "options": [
+            "Dragon de Komodo",
+            "Iguane marin",
+            "Varan du Nil",
+            "Basilic vert"
+        ],
+        "correctAnswer": "Dragon de Komodo"
+    },
+    {
+        "question": "Quel est le plus grand crustacé du monde ?",
+        "options": [
+            "Crabe araignée géant du Japon",
+            "Homard américain",
+            "Crevette impériale",
+            "Bernard-l'ermite"
+        ],
+        "correctAnswer": "Crabe araignée géant du Japon"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de méduse ?",
+        "options": [
+            "Méduse lion's mane",
+            "Méduse immortelle",
+            "Méduse ombrelle",
+            "Méduse boîte"
+        ],
+        "correctAnswer": "Méduse lion's mane"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de papillon ?",
+        "options": [
+            "Papillon Atlas",
+            "Papillon monarque",
+            "Papillon morpho",
+            "Papillon tigre"
+        ],
+        "correctAnswer": "Papillon Atlas"
+    },
+    {
+        "question": "Quel est le plus grand oiseau de proie ?",
+        "options": [
+            "Condor des Andes",
+            "Aigle royal",
+            "Vautour fauve",
+            "Buse variable"
+        ],
+        "correctAnswer": "Condor des Andes"
+    },
+    {
+        "question": "Quel est le plus grand prédateur marin ?",
+        "options": [
+            "Orque",
+            "Requin blanc",
+            "Grand cachalot",
+            "Poisson-lune"
+        ],
+        "correctAnswer": "Orque"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de corail ?",
+        "options": [
+            "Corail cerveau",
+            "Corail de feu",
+            "Corail cornes de cerf",
+            "Corail noir"
+        ],
+        "correctAnswer": "Corail cerveau"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de méduse ?",
+        "options": [
+            "Méduse lion's mane",
+            "Méduse immortelle",
+            "Méduse ombrelle",
+            "Méduse boîte"
+        ],
+        "correctAnswer": "Méduse lion's mane"
+    },
+    {
+        "question": "Quel est le plus grand arbre fruitier du monde ?",
+        "options": [
+            "Jaboticaba",
+            "Jacquier",
+            "Durian",
+            "Mangue"
+        ],
+        "correctAnswer": "Jacquier"
+    },
+    {
+        "question": "Quelle est la plus grande espèce d'abeille ?",
+        "options": [
+            "Abeille à miel",
+            "Abeille charpentière",
+            "Abeille géante de Wallace",
+            "Abeille maçonne"
+        ],
+        "correctAnswer": "Abeille géante de Wallace"
+    },
+    {
+        "question": "Quel est le plus grand mammifère terrestre d'Afrique ?",
+        "options": [
+            "Éléphant d'Afrique",
+            "Rhinocéros blanc",
+            "Hippopotame",
+            "Girafe"
+        ],
+        "correctAnswer": "Éléphant d'Afrique"
+    },
+    {
+        "question": "Quel est le plus grand carnivore terrestre d'Amérique du Nord ?",
+        "options": [
+            "Ours kodiak",
+            "Grizzli",
+            "Couguar",
+            "Loup gris"
+        ],
+        "correctAnswer": "Ours kodiak"
+    },
+    {
+        "question": "Quel est le plus grand prédateur des eaux douces d'Amérique du Sud ?",
+        "options": [
+            "Piranha",
+            "Poisson-tigre",
+            "Arapaima",
+            "Dorade géante"
+        ],
+        "correctAnswer": "Piranha"
+    },
+    {
+        "question": "Quel est le plus grand marsupial du monde ?",
+        "options": [
+            "Kangourou rouge",
+            "Koala",
+            "Wombat",
+            "Tasmanien diable"
+        ],
+        "correctAnswer": "Kangourou rouge"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de grenouille ?",
+        "options": [
+            "Grenouille taureau",
+            "Grenouille géante de Goliath",
+            "Grenouille arboricole",
+            "Grenouille venimeuse dorée"
+        ],
+        "correctAnswer": "Grenouille géante de Goliath"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de libellule ?",
+        "options": [
+            "Libellule ailes de verre",
+            "Libellule déprimée",
+            "Libellule géante",
+            "Libellule sauterelle"
+        ],
+        "correctAnswer": "Libellule géante"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de champignon ?",
+        "options": [
+            "Champignon calocère visqueux",
+            "Champignon pied de mouton",
+            "Champignon matou",
+            "Champignon trompette de la mort"
+        ],
+        "correctAnswer": "Champignon calocère visqueux"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de requin ?",
+        "options": [
+            "Requin baleine",
+            "Grand requin blanc",
+            "Requin-tigre",
+            "Requin-marteau"
+        ],
+        "correctAnswer": "Requin baleine"
+    },
+    {
+        "question": "Quelle est la plus grande espèce de méduse ?",
+        "options": [
+            "Méduse lion's mane",
+            "Méduse immortelle",
+            "Méduse ombrelle",
+            "Méduse boîte"
+        ],
+        "correctAnswer": "Méduse lion's mane"
+    },
+    {
+        "question": "Quel est le plus grand arbre fruitier du monde ?",
+        "options": [
+            "Jaboticaba",
+            "Jacquier",
+            "Durian",
+            "Mangue"
+        ],
+        "correctAnswer": "Jacquier"
+    }
+]

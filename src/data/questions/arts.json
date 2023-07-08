@@ -1,0 +1,583 @@
+[
+    {
+        "question": "Quelle est la technique de peinture utilisée par Vincent van Gogh ?",
+        "options": [
+            "Aquarelle",
+            "Huile",
+            "Acrylique",
+            "Gouache"
+        ],
+        "correctAnswer": "Huile"
+    },
+    {
+        "question": "Quel célèbre sculpteur a créé la statue de David ?",
+        "options": [
+            "Auguste Rodin",
+            "Michel-Ange",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "correctAnswer": "Michel-Ange"
+    },
+    {
+        "question": "Qui a peint la Joconde ?",
+        "options": [
+            "Pierre-Auguste Renoir",
+            "Leonardo da Vinci",
+            "Salvador Dalí",
+            "Rembrandt"
+        ],
+        "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Quel est le mouvement artistique caractérisé par des couleurs vives et des formes géométriques abstraites ?",
+        "options": [
+            "Cubisme",
+            "Impressionnisme",
+            "Surréalisme",
+            "Fauvisme"
+        ],
+        "correctAnswer": "Fauvisme"
+    },
+    {
+        "question": "Quel compositeur est connu pour sa Symphonie n° 9, également appelée la Symphonie du Nouveau Monde ?",
+        "options": [
+            "Johannes Brahms",
+            "Ludwig van Beethoven",
+            "Antonín Dvořák",
+            "Wolfgang Amadeus Mozart"
+        ],
+        "correctAnswer": "Antonín Dvořák"
+    },
+    {
+        "question": "Quel mouvement musical a été lancé par Elvis Presley dans les années 1950 ?",
+        "options": [
+            "Rock and Roll",
+            "Jazz",
+            "Hip-hop",
+            "Blues"
+        ],
+        "correctAnswer": "Rock and Roll"
+    },
+    {
+        "question": "Qui est l'auteur de la pièce de théâtre Roméo et Juliette ?",
+        "options": [
+            "William Shakespeare",
+            "Anton Chekhov",
+            "George Bernard Shaw",
+            "Henrik Ibsen"
+        ],
+        "correctAnswer": "William Shakespeare"
+    },
+    {
+        "question": "Quel est le nom du célèbre ballet de Tchaïkovski mettant en scène un prince transformé en cygne ?",
+        "options": [
+            "La Bayadère",
+            "Le Corsaire",
+            "Giselle",
+            "Le Lac des cygnes"
+        ],
+        "correctAnswer": "Le Lac des cygnes"
+    },
+    {
+        "question": "Quel mouvement littéraire du 19e siècle met l'accent sur l'importance des émotions et de l'individualité ?",
+        "options": [
+            "Romantisme",
+            "Naturalisme",
+            "Classicisme",
+            "Symbolisme"
+        ],
+        "correctAnswer": "Romantisme"
+    },
+    {
+        "question": "Qui est l'auteur du tableau La Nuit étoilée ?",
+        "options": [
+            "Pablo Picasso",
+            "Édouard Manet",
+            "Vincent van Gogh",
+            "Georges Seurat"
+        ],
+        "correctAnswer": "Vincent van Gogh"
+    },
+    {
+        "question": "Quel est le courant artistique qui se caractérise par des formes simples, des lignes épurées et l'utilisation de matériaux industriels ?",
+        "options": [
+            "Pop Art",
+            "Art déco",
+            "Cubisme",
+            "Art nouveau"
+        ],
+        "correctAnswer": "Art déco"
+    },
+    {
+        "question": "Qui a écrit le roman Moby Dick ?",
+        "options": [
+            "Herman Melville",
+            "F. Scott Fitzgerald",
+            "Mark Twain",
+            "Charles Dickens"
+        ],
+        "correctAnswer": "Herman Melville"
+    },
+    {
+        "question": "Quel est le compositeur de la Symphonie pastorale ?",
+        "options": [
+            "Frédéric Chopin",
+            "Franz Schubert",
+            "Ludwig van Beethoven",
+            "Johann Sebastian Bach"
+        ],
+        "correctAnswer": "Ludwig van Beethoven"
+    },
+    {
+        "question": "Quel est le titre de la célèbre toile de Grant Wood représentant un couple de fermiers ?",
+        "options": [
+            "La Nuit étoilée",
+            "Le Baiser",
+            "American Gothic",
+            "Les Tournesols"
+        ],
+        "correctAnswer": "American Gothic"
+    },
+    {
+        "question": "Qui est l'auteur de la pièce de théâtre Hamlet ?",
+        "options": [
+            "Oscar Wilde",
+            "Anton Chekhov",
+            "George Bernard Shaw",
+            "William Shakespeare"
+        ],
+        "correctAnswer": "William Shakespeare"
+    },
+    {
+        "question": "Quel est le mouvement artistique caractérisé par des œuvres déformées et surréalistes ?",
+        "options": [
+            "Surréalisme",
+            "Impressionnisme",
+            "Cubisme",
+            "Expressionnisme"
+        ],
+        "correctAnswer": "Surréalisme"
+    },
+    {
+        "question": "Qui a écrit le roman 1984 ?",
+        "options": [
+            "George Orwell",
+            "Jules Verne",
+            "Aldous Huxley",
+            "Ray Bradbury"
+        ],
+        "correctAnswer": "George Orwell"
+    },
+    {
+        "question": "Quel est le nom de l'artiste qui a peint Les Demoiselles d'Avignon ?",
+        "options": [
+            "Pablo Picasso",
+            "Claude Monet",
+            "Vincent van Gogh",
+            "Salvador Dalí"
+        ],
+        "correctAnswer": "Pablo Picasso"
+    },
+    {
+        "question": "Quel compositeur est connu pour sa Symphonie fantastique ?",
+        "options": [
+            "Hector Berlioz",
+            "Wolfgang Amadeus Mozart",
+            "Pyotr Ilyich Tchaikovsky",
+            "Richard Wagner"
+        ],
+        "correctAnswer": "Hector Berlioz"
+    },
+    {
+        "question": "Quel est le nom de la danse traditionnelle espagnole ?",
+        "options": [
+            "Ballet",
+            "Flamenco",
+            "Valse",
+            "Salsa"
+        ],
+        "correctAnswer": "Flamenco"
+    },
+    {
+        "question": "Qui est l'auteur du tableau La Persistance de la mémoire ?",
+        "options": [
+            "René Magritte",
+            "Salvador Dalí",
+            "Gustav Klimt",
+            "Édouard Manet"
+        ],
+        "correctAnswer": "Salvador Dalí"
+    },
+    {
+        "question": "Quel est le courant artistique qui met l'accent sur l'observation objective de la réalité ?",
+        "options": [
+            "Naturalisme",
+            "Romantisme",
+            "Classicisme",
+            "Impressionnisme"
+        ],
+        "correctAnswer": "Naturalisme"
+    },
+    {
+        "question": "Qui a écrit la pièce de théâtre Cyrano de Bergerac ?",
+        "options": [
+            "Molière",
+            "Jean Racine",
+            "Victor Hugo",
+            "Edmond Rostand"
+        ],
+        "correctAnswer": "Edmond Rostand"
+    },
+    {
+        "question": "Quel est le compositeur de la Symphonie du Nouveau Monde ?",
+        "options": [
+            "Antonín Dvořák",
+            "Johannes Brahms",
+            "Ludwig van Beethoven",
+            "Franz Schubert"
+        ],
+        "correctAnswer": "Antonín Dvořák"
+    },
+    {
+        "question": "Qui a peint le célèbre tableau 'Le Cri'?",
+        "options": [
+            "Edvard Munch",
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Claude Monet"
+        ],
+        "correctAnswer": "Edvard Munch"
+    },
+    {
+        "question": "Dans quelle ville peut-on voir la fresque 'La Cène' de Leonardo da Vinci?",
+        "options": [
+            "Florence",
+            "Venise",
+            "Rome",
+            "Milan"
+        ],
+        "correctAnswer": "Milan"
+    },
+    {
+        "question": "Quel style d'art est associé à Salvador Dali?",
+        "options": [
+            "Réalisme",
+            "Surréalisme",
+            "Impressionnisme",
+            "Cubisme"
+        ],
+        "correctAnswer": "Surréalisme"
+    },
+    {
+        "question": "Quel mouvement artistique a été cofondé par Wassily Kandinsky?",
+        "options": [
+            "Cubisme",
+            "Fauvisme",
+            "Art Nouveau",
+            "Expressionnisme abstrait"
+        ],
+        "correctAnswer": "Expressionnisme abstrait"
+    },
+    {
+        "question": "Quel artiste est connu pour son travail sur les objets 'ready-made'?",
+        "options": [
+            "Marcel Duchamp",
+            "Pablo Picasso",
+            "Jackson Pollock",
+            "Andy Warhol"
+        ],
+        "correctAnswer": "Marcel Duchamp"
+    },
+    {
+        "question": "Où est situé le célèbre musée du Louvre?",
+        "options": [
+            "Paris",
+            "Londres",
+            "New York",
+            "Berlin"
+        ],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "Quel artiste est célèbre pour ses sculptures de ballons?",
+        "options": [
+            "Jeff Koons",
+            "Banksy",
+            "Damien Hirst",
+            "Ai Weiwei"
+        ],
+        "correctAnswer": "Jeff Koons"
+    },
+    {
+        "question": "Qui a peint 'American Gothic'?",
+        "options": [
+            "Grant Wood",
+            "Edward Hopper",
+            "Norman Rockwell",
+            "Jackson Pollock"
+        ],
+        "correctAnswer": "Grant Wood"
+    },
+    {
+        "question": "Quel peintre a réalisé la série des 'Nymphéas'?",
+        "options": [
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Edouard Manet",
+            "Pierre-Auguste Renoir"
+        ],
+        "correctAnswer": "Claude Monet"
+    },
+    {
+        "question": "Quel architecte a conçu la Sagrada Familia à Barcelone?",
+        "options": [
+            "Frank Lloyd Wright",
+            "Le Corbusier",
+            "Antoni Gaudi",
+            "Mies van der Rohe"
+        ],
+        "correctAnswer": "Antoni Gaudi"
+    },
+    {
+        "question": "Quelle est l'époque de l'art préhistorique connue pour ses peintures rupestres?",
+        "options": [
+            "L'ère paléolithique",
+            "L'ère néolithique",
+            "L'ère mésolithique",
+            "L'ère du bronze"
+        ],
+        "correctAnswer": "L'ère paléolithique"
+    },
+    {
+        "question": "Quelle est la technique de gravure dans laquelle le design est incisé dans une surface plane?",
+        "options": [
+            "Lithographie",
+            "Serigraphie",
+            "Gravure sur bois",
+            "Intaglio"
+        ],
+        "correctAnswer": "Intaglio"
+    },
+    {
+        "question": "Quel style architectural est caractérisé par des vitraux, des voûtes en arc et des sculptures détaillées?",
+        "options": [
+            "Gothique",
+            "Baroque",
+            "Roman",
+            "Renaissance"
+        ],
+        "correctAnswer": "Gothique"
+    },
+    {
+        "question": "Dans quel musée peut-on voir la 'Joconde'?",
+        "options": [
+            "Musée du Louvre",
+            "Musée d'Orsay",
+            "Musée de l'Ermitage",
+            "Musée du Prado"
+        ],
+        "correctAnswer": "Musée du Louvre"
+    },
+    {
+        "question": "Quel peintre français est le plus associé au mouvement impressionniste?",
+        "options": [
+            "Pablo Picasso",
+            "Claude Monet",
+            "Vincent Van Gogh",
+            "Pierre-Auguste Renoir"
+        ],
+        "correctAnswer": "Claude Monet"
+    },
+    {
+        "question": "Qui est l'auteur de l'œuvre 'Les Demoiselles d'Avignon'?",
+        "options": [
+            "Pablo Picasso",
+            "Henri Matisse",
+            "Marcel Duchamp",
+            "Amedeo Modigliani"
+        ],
+        "correctAnswer": "Pablo Picasso"
+    },
+    {
+        "question": "Qui a sculpté 'Le Penseur'?",
+        "options": [
+            "Auguste Rodin",
+            "Michel-Ange",
+            "Gian Lorenzo Bernini",
+            "Donatello"
+        ],
+        "correctAnswer": "Auguste Rodin"
+    },
+    {
+        "question": "Quelle peinture de Grant Wood est devenue une icône de la Grande Dépression?",
+        "options": [
+            "Le Cri",
+            "Nighthawks",
+            "American Gothic",
+            "Les Moissonneurs"
+        ],
+        "correctAnswer": "American Gothic"
+    },
+    {
+        "question": "Quel mouvement artistique était basé sur l'interprétation subjective et les réactions émotionnelles?",
+        "options": [
+            "Surréalisme",
+            "Expressionnisme",
+            "Impressionnisme",
+            "Cubisme"
+        ],
+        "correctAnswer": "Expressionnisme"
+    },
+    {
+        "question": "Quel artiste est le plus connu pour sa série de toiles représentant des nénuphars?",
+        "options": [
+            "Claude Monet",
+            "Vincent Van Gogh",
+            "Pierre-Auguste Renoir",
+            "Edgar Degas"
+        ],
+        "correctAnswer": "Claude Monet"
+    },
+    {
+        "question": "Quelle période de l'art a commencé en France à la fin du 18ème siècle et est connue pour sa représentation idéalisée du monde naturel?",
+        "options": [
+            "Renaissance",
+            "Romantisme",
+            "Impressionnisme",
+            "Baroque"
+        ],
+        "correctAnswer": "Romantisme"
+    },
+    {
+        "question": "Qui est l'artiste derrière 'L'Homme qui marche'?",
+        "options": [
+            "Alberto Giacometti",
+            "Auguste Rodin",
+            "Henry Moore",
+            "Pablo Picasso"
+        ],
+        "correctAnswer": "Alberto Giacometti"
+    },
+    {
+        "question": "Quelle technique d'impression utilisait souvent l'artiste japonais Hokusai?",
+        "options": [
+            "Eau-forte",
+            "Lithographie",
+            "Gravure sur bois",
+            "Screen printing"
+        ],
+        "correctAnswer": "Gravure sur bois"
+    },
+    {
+        "question": "Quel style d'architecture est caractérisé par des formes simples, une utilisation minimale de décoration et une attention particulière à la fonctionnalité?",
+        "options": [
+            "Modernisme",
+            "Gothique",
+            "Renaissance",
+            "Baroque"
+        ],
+        "correctAnswer": "Modernisme"
+    },
+    {
+        "question": "Quel artiste populaire du pop art a utilisé des images de produits de consommation courants et de célébrités dans son travail?",
+        "options": [
+            "Andy Warhol",
+            "Roy Lichtenstein",
+            "Jackson Pollock",
+            "Mark Rothko"
+        ],
+        "correctAnswer": "Andy Warhol"
+    },
+    {
+        "question": "Quelle femme peintre est connue pour ses autoportraits et sa relation avec Diego Rivera?",
+        "options": [
+            "Georgia O'Keeffe",
+            "Frida Kahlo",
+            "Mary Cassatt",
+            "Berthe Morisot"
+        ],
+        "correctAnswer": "Frida Kahlo"
+    },
+    {
+        "question": "Qui a peint 'La nuit étoilée'?",
+        "options": [
+            "Pablo Picasso",
+            "Claude Monet",
+            "Vincent van Gogh",
+            "Edvard Munch"
+        ],
+        "correctAnswer": "Vincent van Gogh"
+    },
+    {
+        "question": "Quel peintre est associé au mouvement Fauvisme?",
+        "options": [
+            "Paul Cézanne",
+            "Henri Matisse",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "correctAnswer": "Henri Matisse"
+    },
+    {
+        "question": "Qui est l'auteur de 'La jeune fille à la perle'?",
+        "options": [
+            "Rembrandt van Rijn",
+            "Johannes Vermeer",
+            "Vincent van Gogh",
+            "Peter Paul Rubens"
+        ],
+        "correctAnswer": "Johannes Vermeer"
+    },
+    {
+        "question": "Quelle école artistique japonaise est connue pour ses estampes représentant des paysages, des fleurs, des théâtres kabuki et des scènes de la vie quotidienne?",
+        "options": [
+            "Ukiyo-e",
+            "Yamato-e",
+            "Kano",
+            "Nihonga"
+        ],
+        "correctAnswer": "Ukiyo-e"
+    },
+    {
+        "question": "Quel artiste britannique est connu pour ses sculptures monumentales en acier corten et en acier inoxydable?",
+        "options": [
+            "Damien Hirst",
+            "Anthony Caro",
+            "Anish Kapoor",
+            "Antony Gormley"
+        ],
+        "correctAnswer": "Anthony Caro"
+    },
+    {
+        "question": "Quelle technique de peinture utilise des petits points de couleurs primaires pour générer un effet optique quand on regarde l'œuvre de loin?",
+        "options": [
+            "Pointillisme",
+            "Fauvisme",
+            "Impressionnisme",
+            "Cubisme"
+        ],
+        "correctAnswer": "Pointillisme"
+    },
+    {
+        "question": "Qui a créé 'Le Château des Pyrénées', une œuvre surréaliste montrant un rocher suspendu dans le ciel?",
+        "options": [
+            "Max Ernst",
+            "René Magritte",
+            "Salvador Dalí",
+            "Joan Miró"
+        ],
+        "correctAnswer": "René Magritte"
+    },
+    {
+        "question": "Quel architecte a conçu le Guggenheim Museum à Bilbao, Espagne?",
+        "options": [
+            "Frank Gehry",
+            "I. M. Pei",
+            "Zaha Hadid",
+            "Rem Koolhaas"
+        ],
+        "correctAnswer": "Frank Gehry"
+    }
+   
+]

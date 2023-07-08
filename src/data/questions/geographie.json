@@ -1,0 +1,462 @@
+[
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "options": [
+            "Paris",
+            "Londres",
+            "Berlin",
+            "Madrid"
+        ],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "Quelle est la plus grande île du monde ?",
+        "options": [
+            "Groenland",
+            "Australie",
+            "Borneo",
+            "Madagascar"
+        ],
+        "correctAnswer": "Groenland"
+    },
+    {
+        "question": "Quel est le plus long fleuve du monde ?",
+        "options": [
+            "Nil",
+            "Amazone",
+            "Mississippi",
+            "Yangtsé"
+        ],
+        "correctAnswer": "Nil"
+    },
+    {
+        "question": "Quelle est la plus haute montagne du monde ?",
+        "options": [
+            "Mont Everest",
+            "K2",
+            "Kangchenjunga",
+            "Makalu"
+        ],
+        "correctAnswer": "Mont Everest"
+    },
+    {
+        "question": "Dans quel pays se trouve le Machu Picchu ?",
+        "options": [
+            "Pérou",
+            "Mexique",
+            "Brésil",
+            "Chili"
+        ],
+        "correctAnswer": "Pérou"
+    },
+    {
+        "question": "Quel océan est le plus grand ?",
+        "options": [
+            "Océan Atlantique",
+            "Océan Indien",
+            "Océan Arctique",
+            "Océan Pacifique"
+        ],
+        "correctAnswer": "Océan Pacifique"
+    },
+    {
+        "question": "Quel pays est connu pour abriter le Taj Mahal ?",
+        "options": [
+            "Inde",
+            "Turquie",
+            "Egypte",
+            "Italie"
+        ],
+        "correctAnswer": "Inde"
+    },
+    {
+        "question": "Quelle est la plus grande ville du Canada ?",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Montréal",
+            "Calgary"
+        ],
+        "correctAnswer": "Toronto"
+    },
+    {
+        "question": "Quel est le plus grand désert du monde ?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabie"
+        ],
+        "correctAnswer": "Sahara"
+    },
+    {
+        "question": "Quel est le pays le plus peuplé du monde ?",
+        "options": [
+            "Chine",
+            "Inde",
+            "Etats-Unis",
+            "Russie"
+        ],
+        "correctAnswer": "Chine"
+    },
+    {
+        "question": "Quelle est la plus grande île d'Europe ?",
+        "options": [
+            "Grande-Bretagne",
+            "Islande",
+            "Sardaigne",
+            "Crète"
+        ],
+        "correctAnswer": "Grande-Bretagne"
+    },
+    {
+        "question": "Dans quel pays se trouve le Kilimandjaro ?",
+        "options": [
+            "Tanzanie",
+            "Kenya",
+            "Afrique du Sud",
+            "Zimbabwe"
+        ],
+        "correctAnswer": "Tanzanie"
+    },
+    {
+        "question": "Quelle est la plus haute cascade du monde ?",
+        "options": [
+            "Angel Falls",
+            "Iguazu Falls",
+            "Niagara Falls",
+            "Victoria Falls"
+        ],
+        "correctAnswer": "Angel Falls"
+    },
+    {
+        "question": "Quel est le plus grand lac d'Afrique ?",
+        "options": [
+            "lac Victoria",
+            "lac Tanganyika",
+            "lac Malawi",
+            "lac Turkana"
+        ],
+        "correctAnswer": "lac Victoria"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Amérique du Sud ?",
+        "options": [
+            "Brésil",
+            "Argentine",
+            "Pérou",
+            "Colombie"
+        ],
+        "correctAnswer": "Brésil"
+    },
+    {
+        "question": "Dans quel pays se trouve la tour de Pise ?",
+        "options": [
+            "Italie",
+            "France",
+            "Espagne",
+            "Allemagne"
+        ],
+        "correctAnswer": "Italie"
+    },
+    {
+        "question": "Quel est le plus grand archipel du monde ?",
+        "options": [
+            "Indonésie",
+            "Philippines",
+            "Japon",
+            "Hawaï"
+        ],
+        "correctAnswer": "Indonésie"
+    },
+    {
+        "question": "Quelle est la plus grande chaîne de montagnes du monde ?",
+        "options": [
+            "Himalaya",
+            "Andes",
+            "Rocheuses",
+            "Alpes"
+        ],
+        "correctAnswer": "Himalaya"
+    },
+    {
+        "question": "Quel pays est traversé par le fleuve Amazone ?",
+        "options": [
+            "Brésil",
+            "Colombie",
+            "Pérou",
+            "Bolivie"
+        ],
+        "correctAnswer": "Brésil"
+    },
+    {
+        "question": "Quelle est la capitale de l'Australie ?",
+        "options": [
+            "Canberra",
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "correctAnswer": "Canberra"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Amérique du Nord ?",
+        "options": [
+            "Canada",
+            "Etats-Unis",
+            "Mexique",
+            "Groenland"
+        ],
+        "correctAnswer": "Canada"
+    },
+    {
+        "question": "Dans quel pays se trouve le mont Fuji ?",
+        "options": [
+            "Japon",
+            "Chine",
+            "Corée du Sud",
+            "Vietnam"
+        ],
+        "correctAnswer": "Japon"
+    },
+    {
+        "question": "Quel est le pays le plus grand d'Asie ?",
+        "options": [
+            "Russie",
+            "Chine",
+            "Inde",
+            "Arabie Saoudite"
+        ],
+        "correctAnswer": "Russie"
+    },
+    {
+        "question": "Quelle est la plus haute tour du monde ?",
+        "options": [
+            "Burj Khalifa",
+            "Shanghai Tower",
+            "Abraj Al-Bait Clock Tower",
+            "Ping An Finance Center"
+        ],
+        "correctAnswer": "Burj Khalifa"
+    },
+    {
+        "question": "Quelle est la plus grande ville d'Inde ?",
+        "options": [
+            "Mumbai",
+            "Delhi",
+            "Bangalore",
+            "Kolkata"
+        ],
+        "correctAnswer": "Mumbai"
+    },
+    {
+        "question": "Dans quel pays se trouve la Grande Barrière de corail ?",
+        "options": [
+            "Australie",
+            "Philippines",
+            "Indonésie",
+            "Thaïlande"
+        ],
+        "correctAnswer": "Australie"
+    },
+    {
+        "question": "Quelle est la capitale de l'Espagne ?",
+        "options": [
+            "Madrid",
+            "Barcelone",
+            "Séville",
+            "Valence"
+        ],
+        "correctAnswer": "Madrid"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Europe ?",
+        "options": [
+            "Russie",
+            "France",
+            "Allemagne",
+            "Espagne"
+        ],
+        "correctAnswer": "Russie"
+    },
+    {
+        "question": "Dans quel pays se trouve le mont Kilimandjaro ?",
+        "options": [
+            "Tanzanie",
+            "Kenya",
+            "Ouganda",
+            "Rwanda"
+        ],
+        "correctAnswer": "Tanzanie"
+    },
+    {
+        "question": "Quelle est la plus grande ville des États-Unis ?",
+        "options": [
+            "New York",
+            "Los Angeles",
+            "Chicago",
+            "Houston"
+        ],
+        "correctAnswer": "New York"
+    },
+    {
+        "question": "Quel est le pays le plus petit du monde ?",
+        "options": [
+            "Vatican",
+            "Monaco",
+            "Nauru",
+            "Tuvalu"
+        ],
+        "correctAnswer": "Vatican"
+    },
+    {
+        "question": "Quelle est la capitale du Canada ?",
+        "options": [
+            "Ottawa",
+            "Toronto",
+            "Vancouver",
+            "Montréal"
+        ],
+        "correctAnswer": "Ottawa"
+    },
+    {
+        "question": "Quel est le plus grand pays d'Afrique ?",
+        "options": [
+            "Algérie",
+            "Soudan",
+            "Congo",
+            "Nigéria"
+        ],
+        "correctAnswer": "Algérie"
+    },
+    {
+        "question": "Dans quel pays se trouve la tour Eiffel ?",
+        "options": [
+            "France",
+            "Italie",
+            "Royaume-Uni",
+            "Allemagne"
+        ],
+        "correctAnswer": "France"
+    },
+    {
+        "question": "Quelle est la plus haute montagne d'Amérique du Nord ?",
+        "options": [
+            "Mont McKinley (Denali)",
+            "Mont Rainier",
+            "Mont Elbert",
+            "Mont Logan"
+        ],
+        "correctAnswer": "Mont McKinley (Denali)"
+    },
+    {
+        "question": "Quel pays est connu pour le tango ?",
+        "options": [
+            "Argentine",
+            "Brésil",
+            "Colombie",
+            "Chili"
+        ],
+        "correctAnswer": "Argentine"
+    },
+    {
+        "question": "Dans quel pays se trouve le mont Rushmore ?",
+        "options": [
+            "Etats-Unis",
+            "Canada",
+            "Mexique",
+            "Brésil"
+        ],
+        "correctAnswer": "Etats-Unis"
+    },
+    {
+        "question": "Quelle est la plus grande île du Japon ?",
+        "options": [
+            "Hokkaido",
+            "Honshu",
+            "Kyushu",
+            "Shikoku"
+        ],
+        "correctAnswer": "Honshu"
+    },
+    {
+        "question": "Quel est le pays le plus petit d'Amérique centrale ?",
+        "options": [
+            "El Salvador",
+            "Belize",
+            "Costa Rica",
+            "Panama"
+        ],
+        "correctAnswer": "El Salvador"
+    },
+    {
+        "question": "Quelle est la capitale de la Chine ?",
+        "options": [
+            "Pékin",
+            "Shanghai",
+            "Hong Kong",
+            "Canton"
+        ],
+        "correctAnswer": "Pékin"
+    },
+    {
+        "question": "Quel pays est connu pour les pyramides de Gizeh ?",
+        "options": [
+            "Egypte",
+            "Maroc",
+            "Tunisie",
+            "Algérie"
+        ],
+        "correctAnswer": "Egypte"
+    },
+    {
+        "question": "Dans quel pays se trouve la ville de Prague ?",
+        "options": [
+            "République tchèque",
+            "Pologne",
+            "Hongrie",
+            "Autriche"
+        ],
+        "correctAnswer": "République tchèque"
+    },
+    {
+        "question": "Quelle est la plus haute montagne d'Amérique du Sud ?",
+        "options": [
+            "Mont Aconcagua",
+            "Mont Ojos del Salado",
+            "Mont Pissis",
+            "Mont Mercedario"
+        ],
+        "correctAnswer": "Mont Aconcagua"
+    },
+    {
+        "question": "Quel pays est connu pour les fjords ?",
+        "options": [
+            "Norvège",
+            "Suède",
+            "Danemark",
+            "Finlande"
+        ],
+        "correctAnswer": "Norvège"
+    },
+    {
+        "question": "Dans quel pays se trouve le mont Blanc ?",
+        "options": [
+            "France",
+            "Italie",
+            "Suisse",
+            "Autriche"
+        ],
+        "correctAnswer": "France"
+    },
+    {
+        "question": "Quelle est la capitale de l'Allemagne ?",
+        "options": [
+            "Berlin",
+            "Munich",
+            "Hambourg",
+            "Francfort"
+        ],
+        "correctAnswer": "Berlin"
+    }
+]

@@ -1,0 +1,432 @@
+[
+    {
+        "question": "Quelle est la plus petite particule de matière ?",
+        "options": [
+            "Proton",
+            "Neutron",
+            "Électron",
+            "Quark"
+        ],
+        "correctAnswer": "Quark"
+    },
+    {
+        "question": "Quel est le processus par lequel les plantes utilisent la lumière du soleil pour produire de l'énergie ?",
+        "options": [
+            "Respiration",
+            "Photosynthèse",
+            "Fermentation",
+            "Combustion"
+        ],
+        "correctAnswer": "Photosynthèse"
+    },
+    {
+        "question": "Quelle est la formule chimique de l'eau ?",
+        "options": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "C6H12O6"
+        ],
+        "correctAnswer": "H2O"
+    },
+    {
+        "question": "Quelle est la force qui attire les objets vers le centre de la Terre ?",
+        "options": [
+            "Force gravitationnelle",
+            "Force électromagnétique",
+            "Force nucléaire",
+            "Force centripète"
+        ],
+        "correctAnswer": "Force gravitationnelle"
+    },
+    {
+        "question": "Quel est l'organe responsable de la pompe du sang dans le corps humain ?",
+        "options": [
+            "Cœur",
+            "Poumon",
+            "Rein",
+            "Estomac"
+        ],
+        "correctAnswer": "Cœur"
+    },
+    {
+        "question": "Quelle est la planète la plus proche du Soleil ?",
+        "options": [
+            "Vénus",
+            "Mars",
+            "Mercure",
+            "Jupiter"
+        ],
+        "correctAnswer": "Mercure"
+    },
+    {
+        "question": "Quel est le symbole chimique du carbone ?",
+        "options": [
+            "C",
+            "Ca",
+            "Co",
+            "Cr"
+        ],
+        "correctAnswer": "C"
+    },
+    {
+        "question": "Quel est le processus par lequel les cellules se divisent pour créer de nouvelles cellules ?",
+        "options": [
+            "Fécondation",
+            "Mitose",
+            "Méiose",
+            "Apoptose"
+        ],
+        "correctAnswer": "Mitose"
+    },
+    {
+        "question": "Quel est le principal composant de l'air que nous respirons ?",
+        "options": [
+            "Azote",
+            "Oxygène",
+            "Dioxyde de carbone",
+            "Hydrogène"
+        ],
+        "correctAnswer": "Azote"
+    },
+    {
+        "question": "Quel est le phénomène qui se produit lorsqu'un rayon de lumière change de direction en passant d'un milieu à un autre ?",
+        "options": [
+            "Réfraction",
+            "Réflexion",
+            "Dispersion",
+            "Diffraction"
+        ],
+        "correctAnswer": "Réfraction"
+    },
+    {
+        "question": "Quelle est l'unité de mesure de la force ?",
+        "options": [
+            "Watt",
+            "Volt",
+            "Newton",
+            "Ohm"
+        ],
+        "correctAnswer": "Newton"
+    },
+    {
+        "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+        "options": [
+            "Hydrogène",
+            "Oxygène",
+            "Carbone",
+            "Azote"
+        ],
+        "correctAnswer": "Hydrogène"
+    },
+    {
+        "question": "Quel est l'organe responsable de la vision dans le corps humain ?",
+        "options": [
+            "Cerveau",
+            "Œil",
+            "Foie",
+            "Poumon"
+        ],
+        "correctAnswer": "Œil"
+    },
+    {
+        "question": "Quel est le processus par lequel les plantes libèrent de l'eau à travers leurs feuilles ?",
+        "options": [
+            "Transpiration",
+            "Évaporation",
+            "Condensation",
+            "Infiltration"
+        ],
+        "correctAnswer": "Transpiration"
+    },
+    {
+        "question": "Quel est le phénomène qui se produit lorsque les rayons du soleil sont piégés par l'atmosphère terrestre, provoquant une augmentation de la température ?",
+        "options": [
+            "Effet de serre",
+            "Marée noire",
+            "Ozone",
+            "Inversion thermique"
+        ],
+        "correctAnswer": "Effet de serre"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'oxygène ?",
+        "options": [
+            "O",
+            "H",
+            "N",
+            "S"
+        ],
+        "correctAnswer": "O"
+    },
+    {
+        "question": "Quelle est la force qui maintient les planètes en orbite autour du Soleil ?",
+        "options": [
+            "Force gravitationnelle",
+            "Force électromagnétique",
+            "Force nucléaire",
+            "Force centrifuge"
+        ],
+        "correctAnswer": "Force gravitationnelle"
+    },
+    {
+        "question": "Quel est l'organe responsable de la digestion des aliments dans le corps humain ?",
+        "options": [
+            "Pancréas",
+            "Intestin grêle",
+            "Estomac",
+            "Foie"
+        ],
+        "correctAnswer": "Estomac"
+    },
+    {
+        "question": "Quelle est la planète la plus grande du système solaire ?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturne",
+            "Uranus"
+        ],
+        "correctAnswer": "Jupiter"
+    },
+    {
+        "question": "Quel est le symbole chimique de l'hydrogène ?",
+        "options": [
+            "H",
+            "He",
+            "Ho",
+            "Hg"
+        ],
+        "correctAnswer": "H"
+    },
+    {
+        "question": "Quel est le processus par lequel les organismes vivants produisent de l'énergie à partir de la nourriture ?",
+        "options": [
+            "Respiration",
+            "Photosynthèse",
+            "Fermentation",
+            "Combustion"
+        ],
+        "correctAnswer": "Respiration"
+    },
+    {
+        "question": "Quel est l'unité de mesure de la température ?",
+        "options": [
+            "Watt",
+            "Volt",
+            "Kelvin",
+            "Ohm"
+        ],
+        "correctAnswer": "Kelvin"
+    },
+    {
+        "question": "Quel est l'élément chimique le plus lourd naturellement présent sur Terre ?",
+        "options": [
+            "Uranium",
+            "Plomb",
+            "Or",
+            "Plutonium"
+        ],
+        "correctAnswer": "Uranium"
+    },
+    {
+        "question": "Quel est l'organe responsable de la respiration dans le corps humain ?",
+        "options": [
+            "Poumon",
+            "Cœur",
+            "Rein",
+            "Cerveau"
+        ],
+        "correctAnswer": "Poumon"
+    },
+    {
+        "question": "Quel est le processus par lequel les liquides se transforment en gaz à une température donnée ?",
+        "options": [
+            "Évaporation",
+            "Condensation",
+            "Sublimation",
+            "Solidification"
+        ],
+        "correctAnswer": "Évaporation"
+    },
+    {
+        "question": "Quel est le phénomène qui se produit lorsque la lumière rebondit sur une surface ?",
+        "options": [
+            "Réflexion",
+            "Réfraction",
+            "Dispersion",
+            "Diffraction"
+        ],
+        "correctAnswer": "Réflexion"
+    },
+    {
+        "question": "Quelle est l'unité de mesure de la puissance électrique ?",
+        "options": [
+            "Watt",
+            "Volt",
+            "Ampère",
+            "Ohm"
+        ],
+        "correctAnswer": "Watt"
+    },
+    {
+        "question": "Quel est l'élément chimique le plus abondant dans le corps humain ?",
+        "options": [
+            "Oxygène",
+            "Carbone",
+            "Calcium",
+            "Hydrogène"
+        ],
+        "correctAnswer": "Oxygène"
+    },
+    {
+        "question": "Quel est l'organe responsable de l'élimination des déchets liquides dans le corps humain ?",
+        "options": [
+            "Poumon",
+            "Intestin grêle",
+            "Rein",
+            "Cerveau"
+        ],
+        "correctAnswer": "Rein"
+    },
+    {
+        "question": "Quelle est la planète la plus éloignée du Soleil ?",
+        "options": [
+            "Neptune",
+            "Mars",
+            "Vénus",
+            "Mercure"
+        ],
+        "correctAnswer": "Neptune"
+    },
+    {
+        "question": "Quel est le symbole chimique du sodium ?",
+        "options": [
+            "Na",
+            "Ca",
+            "Co",
+            "Ne"
+        ],
+        "correctAnswer": "Na"
+    },
+    {
+        "question": "Quel est le processus par lequel les cellules sexuelles se divisent pour former des cellules reproductrices ?",
+        "options": [
+            "Fécondation",
+            "Mitose",
+            "Méiose",
+            "Apoptose"
+        ],
+        "correctAnswer": "Méiose"
+    },
+    {
+        "question": "Quel est le principal gaz à effet de serre contribuant au réchauffement climatique ?",
+        "options": [
+            "Dioxyde de carbone",
+            "Ozone",
+            "Méthane",
+            "Dioxyde de soufre"
+        ],
+        "correctAnswer": "Dioxyde de carbone"
+    },
+    {
+        "question": "Quelle est la force qui maintient les objets en équilibre sur une surface ?",
+        "options": [
+            "Force gravitationnelle",
+            "Force électromagnétique",
+            "Force de friction",
+            "Force centripète"
+        ],
+        "correctAnswer": "Force de friction"
+    },
+    {
+        "question": "Quel est l'organe responsable de la production d'urine dans le corps humain ?",
+        "options": [
+            "Cœur",
+            "Poumon",
+            "Rein",
+            "Intestin grêle"
+        ],
+        "correctAnswer": "Rein"
+    },
+    {
+        "question": "Quel est le processus par lequel les liquides se transforment en solides à une température donnée ?",
+        "options": [
+            "Évaporation",
+            "Condensation",
+            "Sublimation",
+            "Solidification"
+        ],
+        "correctAnswer": "Solidification"
+    },
+    {
+        "question": "Quel est le phénomène qui se produit lorsque la lumière est décomposée en plusieurs couleurs ?",
+        "options": [
+            "Réflexion",
+            "Réfraction",
+            "Dispersion",
+            "Diffraction"
+        ],
+        "correctAnswer": "Dispersion"
+    },
+    {
+        "question": "Quelle est l'unité de mesure de la résistance électrique ?",
+        "options": [
+            "Watt",
+            "Volt",
+            "Ampère",
+            "Ohm"
+        ],
+        "correctAnswer": "Ohm"
+    },
+    {
+        "question": "Quel est l'élément chimique le plus abondant dans l'écorce terrestre ?",
+        "options": [
+            "Oxygène",
+            "Silicium",
+            "Aluminium",
+            "Fer"
+        ],
+        "correctAnswer": "Oxygène"
+    },
+    {
+        "question": "Quel est l'organe responsable de la coordination des mouvements et du traitement des informations dans le corps humain ?",
+        "options": [
+            "Cerveau",
+            "Œil",
+            "Poumon",
+            "Rein"
+        ],
+        "correctAnswer": "Cerveau"
+    },
+    {
+        "question": "Quelle est la planète connue pour avoir des anneaux autour d'elle ?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturne",
+            "Uranus"
+        ],
+        "correctAnswer": "Saturne"
+    },
+    {
+        "question": "Quel est le symbole chimique du calcium ?",
+        "options": [
+            "Ca",
+            "Na",
+            "Co",
+            "Cu"
+        ],
+        "correctAnswer": "Ca"
+    },
+    {
+        "question": "Quel est le processus par lequel les organismes vivants décomposent les molécules organiques pour libérer de l'énergie ?",
+        "options": [
+            "Respiration",
+            "Photosynthèse",
+            "Fermentation",
+            "Combustion"
+        ],
+        "correctAnswer": "Combustion"
+    }
+]

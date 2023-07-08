@@ -1,0 +1,442 @@
+[
+    {
+        "question": "Quel empereur romain a construit le Colisée ?",
+        "options": [
+            "Néron",
+            "Auguste",
+            "Vespasien",
+            "Caligula"
+        ],
+        "correctAnswer": "Vespasien"
+    },
+    {
+        "question": "Quelle bataille a mis fin à la domination napoléonienne en Europe ?",
+        "options": [
+            "Bataille de Waterloo",
+            "Bataille d'Austerlitz",
+            "Bataille de Leipzig",
+            "Bataille de Trafalgar"
+        ],
+        "correctAnswer": "Bataille de Waterloo"
+    },
+    {
+        "question": "Qui a découvert l'Amérique en 1492 ?",
+        "options": [
+            "Christophe Colomb",
+            "Amerigo Vespucci",
+            "Ferdinand Magellan",
+            "Vasco de Gama"
+        ],
+        "correctAnswer": "Christophe Colomb"
+    },
+    {
+        "question": "Quel est l'événement déclencheur de la Première Guerre mondiale ?",
+        "options": [
+            "Assassinat de l'archiduc François-Ferdinand",
+            "Bombe atomique sur Hiroshima",
+            "Révolution russe",
+            "Crise des missiles de Cuba"
+        ],
+        "correctAnswer": "Assassinat de l'archiduc François-Ferdinand"
+    },
+    {
+        "question": "Quelle est la capitale de l'Égypte ?",
+        "options": [
+            "Le Caire",
+            "Alexandrie",
+            "Gizeh",
+            "Louxor"
+        ],
+        "correctAnswer": "Le Caire"
+    },
+    {
+        "question": "Quel est le nom de la reine d'Angleterre actuelle ?",
+        "options": [
+            "Élisabeth II",
+            "Victoria",
+            "Marie-Antoinette",
+            "Catherine de Médicis"
+        ],
+        "correctAnswer": "Élisabeth II"
+    },
+    {
+        "question": "Quel pays a été le premier à envoyer un homme sur la Lune ?",
+        "options": [
+            "États-Unis",
+            "Russie",
+            "Chine",
+            "France"
+        ],
+        "correctAnswer": "États-Unis"
+    },
+    {
+        "question": "Qui a écrit le livre 'Guerre et Paix' ?",
+        "options": [
+            "Léon Tolstoï",
+            "Fiodor Dostoïevski",
+            "Anton Tchekhov",
+            "Nikolaï Gogol"
+        ],
+        "correctAnswer": "Léon Tolstoï"
+    },
+    {
+        "question": "Quel roi de France a construit le château de Versailles ?",
+        "options": [
+            "Louis XIV",
+            "Louis XVI",
+            "François Ier",
+            "Napoléon Bonaparte"
+        ],
+        "correctAnswer": "Louis XIV"
+    },
+    {
+        "question": "Quelle était la capitale de l'empire inca ?",
+        "options": [
+            "Cuzco",
+            "Machu Picchu",
+            "Lima",
+            "Quito"
+        ],
+        "correctAnswer": "Cuzco"
+    },
+    {
+        "question": "Quel événement a marqué le début de la Révolution française ?",
+        "options": [
+            "Prise de la Bastille",
+            "Déclaration des droits de l'homme et du citoyen",
+            "Exécution de Louis XVI",
+            "Nuit du 4 août"
+        ],
+        "correctAnswer": "Prise de la Bastille"
+    },
+    {
+        "question": "Quel navigateur portugais a fait le tour du monde au XVIe siècle ?",
+        "options": [
+            "Ferdinand Magellan",
+            "Vasco de Gama",
+            "Christophe Colomb",
+            "Bartolomeu Dias"
+        ],
+        "correctAnswer": "Ferdinand Magellan"
+    },
+    {
+        "question": "Quel était le nom de la dynastie au pouvoir en Russie avant la révolution de 1917 ?",
+        "options": [
+            "Romanov",
+            "Habsbourg",
+            "Hohenzollern",
+            "Windsor"
+        ],
+        "correctAnswer": "Romanov"
+    },
+    {
+        "question": "Dans quelle ville allemande le mur de Berlin était-il situé ?",
+        "options": [
+            "Berlin",
+            "Dresde",
+            "Munich",
+            "Hambourg"
+        ],
+        "correctAnswer": "Berlin"
+    },
+    {
+        "question": "Quel empereur a érigé la Grande Muraille de Chine ?",
+        "options": [
+            "Qin Shi Huang",
+            "Mao Zedong",
+            "Kubilai Khan",
+            "Sun Yat-sen"
+        ],
+        "correctAnswer": "Qin Shi Huang"
+    },
+    {
+        "question": "Quel était le nom de la première femme pilote à traverser l'Atlantique ?",
+        "options": [
+            "Amelia Earhart",
+            "Valentina Terechkova",
+            "Beryl Markham",
+            "Harriet Quimby"
+        ],
+        "correctAnswer": "Amelia Earhart"
+    },
+    {
+        "question": "Quel est le nom du traité qui a mis fin à la Première Guerre mondiale ?",
+        "options": [
+            "Traité de Versailles",
+            "Traité de Trianon",
+            "Traité de Brest-Litovsk",
+            "Traité de Saint-Germain-en-Laye"
+        ],
+        "correctAnswer": "Traité de Versailles"
+    },
+    {
+        "question": "Quel est le nom de l'explorateur portugais qui a ouvert la voie des Indes par la mer ?",
+        "options": [
+            "Vasco de Gama",
+            "Bartolomeu Dias",
+            "Fernand de Magellan",
+            "Pedro Álvares Cabral"
+        ],
+        "correctAnswer": "Vasco de Gama"
+    },
+    {
+        "question": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+        "options": [
+            "Louis XVI",
+            "Louis XIV",
+            "Louis XV",
+            "Louis XIII"
+        ],
+        "correctAnswer": "Louis XVI"
+    },
+    {
+        "question": "Quel est le nom de la première femme à avoir remporté un prix Nobel ?",
+        "options": [
+            "Marie Curie",
+            "Rosa Parks",
+            "Malala Yousafzai",
+            "Jane Addams"
+        ],
+        "correctAnswer": "Marie Curie"
+    },
+    {
+        "question": "Quel pays a colonisé le Brésil au XVIe siècle ?",
+        "options": [
+            "Portugal",
+            "Espagne",
+            "Angleterre",
+            "France"
+        ],
+        "correctAnswer": "Portugal"
+    },
+    {
+        "question": "Quel empereur français a été exilé sur l'île de Sainte-Hélène après sa défaite à Waterloo ?",
+        "options": [
+            "Napoléon Bonaparte",
+            "Louis-Napoléon Bonaparte",
+            "Charles-Louis Napoléon",
+            "Napoléon III"
+        ],
+        "correctAnswer": "Napoléon Bonaparte"
+    },
+    {
+        "question": "Quel est le nom du traité qui a mis fin à la guerre de Cent Ans entre la France et l'Angleterre ?",
+        "options": [
+            "Traité de Paris",
+            "Traité de Troyes",
+            "Traité de Versailles",
+            "Traité de Picquigny"
+        ],
+        "correctAnswer": "Traité de Paris"
+    },
+    {
+        "question": "Quelle est la capitale de l'Allemagne ?",
+        "options": [
+            "Berlin",
+            "Munich",
+            "Francfort",
+            "Hambourg"
+        ],
+        "correctAnswer": "Berlin"
+    },
+    {
+        "question": "Quel événement a marqué le début de la Seconde Guerre mondiale ?",
+        "options": [
+            "Invasion de la Pologne",
+            "Attaque de Pearl Harbor",
+            "Capitulation de l'Allemagne",
+            "Bombe atomique sur Hiroshima"
+        ],
+        "correctAnswer": "Invasion de la Pologne"
+    },
+    {
+        "question": "Quel était le nom du dirigeant de l'Union soviétique lors de la guerre froide ?",
+        "options": [
+            "Joseph Staline",
+            "Vladimir Lénine",
+            "Mikhaïl Gorbatchev",
+            "Nikita Khrouchtchev"
+        ],
+        "correctAnswer": "Joseph Staline"
+    },
+    {
+        "question": "Quel est le nom de la philosophe et écrivaine française qui a joué un rôle majeur pendant la Révolution française ?",
+        "options": [
+            "Olympe de Gouges",
+            "Simone de Beauvoir",
+            "George Sand",
+            "Colette"
+        ],
+        "correctAnswer": "Olympe de Gouges"
+    },
+    {
+        "question": "Quel est le nom du traité qui a mis fin à la guerre d'indépendance américaine ?",
+        "options": [
+            "Traité de Paris",
+            "Traité de Versailles",
+            "Traité de Tordesillas",
+            "Traité de Westphalie"
+        ],
+        "correctAnswer": "Traité de Paris"
+    },
+    {
+        "question": "Quelle est la capitale de l'Italie ?",
+        "options": [
+            "Rome",
+            "Milan",
+            "Naples",
+            "Turin"
+        ],
+        "correctAnswer": "Rome"
+    },
+    {
+        "question": "Quel roi de France a été surnommé 'le Roi-Soleil' ?",
+        "options": [
+            "Louis XIV",
+            "Louis XV",
+            "Louis XVI",
+            "Louis XIII"
+        ],
+        "correctAnswer": "Louis XIV"
+    },
+    {
+        "question": "Quel événement a marqué la fin de la guerre du Vietnam ?",
+        "options": [
+            "Chute de Saïgon",
+            "Bombe atomique sur Hiroshima",
+            "Crise des missiles de Cuba",
+            "Chute du mur de Berlin"
+        ],
+        "correctAnswer": "Chute de Saïgon"
+    },
+    {
+        "question": "Quel est le nom de la reine d'Angleterre qui a régné pendant l'apogée de l'Empire britannique au XIXe siècle ?",
+        "options": [
+            "Victoria",
+            "Élisabeth II",
+            "Anne",
+            "Mary"
+        ],
+        "correctAnswer": "Victoria"
+    },
+    {
+        "question": "Quel est le nom du général français qui a mené les troupes françaises lors de la guerre d'indépendance américaine ?",
+        "options": [
+            "La Fayette",
+            "Napoléon Bonaparte",
+            "Joachim Murat",
+            "Jean-Baptiste Jourdan"
+        ],
+        "correctAnswer": "La Fayette"
+    },
+    {
+        "question": "Quelle est la capitale de la Russie ?",
+        "options": [
+            "Moscou",
+            "Saint-Pétersbourg",
+            "Kiev",
+            "Kazan"
+        ],
+        "correctAnswer": "Moscou"
+    },
+    {
+        "question": "Quel événement a marqué le début de la révolution industrielle ?",
+        "options": [
+            "Invention de la machine à vapeur",
+            "Découverte de l'Amérique",
+            "Révolution française",
+            "Chute du mur de Berlin"
+        ],
+        "correctAnswer": "Invention de la machine à vapeur"
+    },
+    {
+        "question": "Quel est le nom du roi anglais qui a été décapité pendant la guerre civile anglaise au XVIIe siècle ?",
+        "options": [
+            "Charles Ier",
+            "Henry VIII",
+            "Richard III",
+            "Édouard III"
+        ],
+        "correctAnswer": "Charles Ier"
+    },
+    {
+        "question": "Quelle est la capitale de l'Espagne ?",
+        "options": [
+            "Madrid",
+            "Barcelone",
+            "Séville",
+            "Valence"
+        ],
+        "correctAnswer": "Madrid"
+    },
+    {
+        "question": "Quelle est la capitale de la Grèce ?",
+        "options": [
+            "Athènes",
+            "Thessalonique",
+            "Héraklion",
+            "Patras"
+        ],
+        "correctAnswer": "Athènes"
+    },
+    {
+        "question": "Quel explorateur italien a découvert l'Amérique pour le compte de l'Espagne en 1492 ?",
+        "options": [
+            "Christophe Colomb",
+            "Marco Polo",
+            "Amerigo Vespucci",
+            "Ferdinand Magellan"
+        ],
+        "correctAnswer": "Christophe Colomb"
+    },
+    {
+        "question": "Quel est le nom du président américain qui a proclamé l'émancipation des esclaves en 1863 ?",
+        "options": [
+            "Abraham Lincoln",
+            "George Washington",
+            "Thomas Jefferson",
+            "Andrew Jackson"
+        ],
+        "correctAnswer": "Abraham Lincoln"
+    },
+    {
+        "question": "Quelle est la capitale de l'Inde ?",
+        "options": [
+            "New Delhi",
+            "Bombay",
+            "Calcutta",
+            "Madras"
+        ],
+        "correctAnswer": "New Delhi"
+    },
+    {
+        "question": "Quel philosophe français a écrit 'Le Contrat social' ?",
+        "options": [
+            "Jean-Jacques Rousseau",
+            "Voltaire",
+            "Montesquieu",
+            "René Descartes"
+        ],
+        "correctAnswer": "Jean-Jacques Rousseau"
+    },
+    {
+        "question": "Quel est le nom du navire britannique célèbre pour son voyage autour du monde avec le capitaine James Cook ?",
+        "options": [
+            "Endeavour",
+            "Bounty",
+            "Golden Hind",
+            "Discovery"
+        ],
+        "correctAnswer": "Endeavour"
+    },
+    {
+        "question": "Quel est le nom de l'empereur romain qui a adopté le christianisme comme religion officielle de l'Empire ?",
+        "options": [
+            "Constantin",
+            "Auguste",
+            "Néron",
+            "Hadrien"
+        ],
+        "correctAnswer": "Constantin"
+    }
+]

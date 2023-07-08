@@ -1,0 +1,432 @@
+[
+    {
+        "question": "Dans quel jeu vidéo pouvez-vous incarner le personnage de Mario ?",
+        "options": [
+            "Super Mario Bros.",
+            "The Legend of Zelda",
+            "Pokémon",
+            "Minecraft"
+        ],
+        "correctAnswer": "Super Mario Bros."
+    },
+    {
+        "question": "Quel est le nom du protagoniste dans la série de jeux vidéo 'The Legend of Zelda' ?",
+        "options": [
+            "Link",
+            "Zelda",
+            "Ganon",
+            "Epona"
+        ],
+        "correctAnswer": "Link"
+    },
+    {
+        "question": "Quel studio de développement est responsable de la série de jeux vidéo 'Final Fantasy' ?",
+        "options": [
+            "Square Enix",
+            "Capcom",
+            "Nintendo",
+            "Ubisoft"
+        ],
+        "correctAnswer": "Square Enix"
+    },
+    {
+        "question": "Quel est le jeu vidéo le plus vendu de tous les temps ?",
+        "options": [
+            "Minecraft",
+            "Tetris",
+            "Grand Theft Auto V",
+            "PlayerUnknown's Battlegrounds"
+        ],
+        "correctAnswer": "Minecraft"
+    },
+    {
+        "question": "Quelle est la console de jeux vidéo la plus vendue de tous les temps ?",
+        "options": [
+            "PlayStation 2",
+            "Nintendo DS",
+            "Game Boy",
+            "Xbox 360"
+        ],
+        "correctAnswer": "PlayStation 2"
+    },
+    {
+        "question": "Dans quel jeu vidéo pouvez-vous construire des structures avec des blocs en 3D ?",
+        "options": [
+            "Minecraft",
+            "Fortnite",
+            "Roblox",
+            "Terraria"
+        ],
+        "correctAnswer": "Minecraft"
+    },
+    {
+        "question": "Quel est le nom du personnage principal dans la série de jeux vidéo 'Metal Gear Solid' ?",
+        "options": [
+            "Solid Snake",
+            "Liquid Snake",
+            "Big Boss",
+            "Gray Fox"
+        ],
+        "correctAnswer": "Solid Snake"
+    },
+    {
+        "question": "Quelle est la première console de jeux vidéo de Nintendo ?",
+        "options": [
+            "Nintendo Entertainment System (NES)",
+            "Super Nintendo Entertainment System (SNES)",
+            "Nintendo 64",
+            "GameCube"
+        ],
+        "correctAnswer": "Nintendo Entertainment System (NES)"
+    },
+    {
+        "question": "Quel jeu vidéo a popularisé le genre du battle royale ?",
+        "options": [
+            "PlayerUnknown's Battlegrounds",
+            "Fortnite",
+            "Apex Legends",
+            "Call of Duty: Warzone"
+        ],
+        "correctAnswer": "PlayerUnknown's Battlegrounds"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'The Witcher' ?",
+        "options": [
+            "CD Projekt",
+            "Rockstar Games",
+            "Naughty Dog",
+            "Electronic Arts"
+        ],
+        "correctAnswer": "CD Projekt"
+    },
+    {
+        "question": "Quel est le nom du protagoniste dans la série de jeux vidéo 'Pokémon' ?",
+        "options": [
+            "Régis",
+            "Sacha",
+            "Pikachu",
+            "Jacky"
+        ],
+        "correctAnswer": "Sacha"
+    },
+    {
+        "question": "Quel est le nom de la mascotte emblématique de Sega ?",
+        "options": [
+            "Sonic the Hedgehog",
+            "Mario",
+            "Pac-Man",
+            "Crash Bandicoot"
+        ],
+        "correctAnswer": "Sonic the Hedgehog"
+    },
+    {
+        "question": "Quelle est la première console de jeux vidéo de Microsoft ?",
+        "options": [
+            "Xbox",
+            "Xbox 360",
+            "Xbox One",
+            "Xbox Series X"
+        ],
+        "correctAnswer": "Xbox"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'Grand Theft Auto' ?",
+        "options": [
+            "Rockstar Games",
+            "Ubisoft",
+            "Activision",
+            "Bethesda Game Studios"
+        ],
+        "correctAnswer": "Rockstar Games"
+    },
+    {
+        "question": "Dans quel jeu vidéo pouvez-vous incarner le personnage de Lara Croft ?",
+        "options": [
+            "Tomb Raider",
+            "Uncharted",
+            "Resident Evil",
+            "Silent Hill"
+        ],
+        "correctAnswer": "Tomb Raider"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'Super Mario' ?",
+        "options": [
+            "Nintendo",
+            "Sega",
+            "Sony",
+            "Microsoft"
+        ],
+        "correctAnswer": "Nintendo"
+    },
+    {
+        "question": "Quel est le nom du protagoniste dans la série de jeux vidéo 'Uncharted' ?",
+        "options": [
+            "Nathan Drake",
+            "Samuel Drake",
+            "Victor Sullivan",
+            "Elena Fisher"
+        ],
+        "correctAnswer": "Nathan Drake"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'The Elder Scrolls' ?",
+        "options": [
+            "Bethesda Game Studios",
+            "BioWare",
+            "Square Enix",
+            "Blizzard Entertainment"
+        ],
+        "correctAnswer": "Bethesda Game Studios"
+    },
+    {
+        "question": "Quel est le nom du personnage principal dans la série de jeux vidéo 'God of War' ?",
+        "options": [
+            "Kratos",
+            "Ares",
+            "Zeus",
+            "Hades"
+        ],
+        "correctAnswer": "Kratos"
+    },
+    {
+        "question": "Quel jeu vidéo a été développé par Mojang Studios ?",
+        "options": [
+            "Minecraft",
+            "Fortnite",
+            "Roblox",
+            "Terraria"
+        ],
+        "correctAnswer": "Minecraft"
+    },
+    {
+        "question": "Dans quel jeu vidéo pouvez-vous incarner le personnage de Sonic ?",
+        "options": [
+            "Sonic the Hedgehog",
+            "Super Mario Bros.",
+            "Crash Bandicoot",
+            "Pac-Man"
+        ],
+        "correctAnswer": "Sonic the Hedgehog"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'Call of Duty' ?",
+        "options": [
+            "Activision",
+            "Electronic Arts",
+            "Ubisoft",
+            "Capcom"
+        ],
+        "correctAnswer": "Activision"
+    },
+    {
+        "question": "Quel est le nom du protagoniste dans la série de jeux vidéo 'Halo' ?",
+        "options": [
+            "Master Chief",
+            "Arbiter",
+            "Cortana",
+            "Sergeant Johnson"
+        ],
+        "correctAnswer": "Master Chief"
+    },
+    {
+        "question": "Dans quel jeu vidéo pouvez-vous incarner le personnage de Geralt de Riv ?",
+        "options": [
+            "The Witcher",
+            "Dark Souls",
+            "Skyrim",
+            "Bloodborne"
+        ],
+        "correctAnswer": "The Witcher"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'BioShock' ?",
+        "options": [
+            "2K Games",
+            "EA Games",
+            "Konami",
+            "Square Enix"
+        ],
+        "correctAnswer": "2K Games"
+    },
+    {
+        "question": "Quel est le nom du personnage principal dans la série de jeux vidéo 'Half-Life' ?",
+        "options": [
+            "Gordon Freeman",
+            "Alyx Vance",
+            "Barney Calhoun",
+            "G-Man"
+        ],
+        "correctAnswer": "Gordon Freeman"
+    },
+    {
+        "question": "Quelle est la première console portable de Nintendo ?",
+        "options": [
+            "Game Boy",
+            "Game Boy Color",
+            "Game Boy Advance",
+            "Nintendo DS"
+        ],
+        "correctAnswer": "Game Boy"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'Resident Evil' ?",
+        "options": [
+            "Capcom",
+            "Konami",
+            "Square Enix",
+            "Ubisoft"
+        ],
+        "correctAnswer": "Capcom"
+    },
+    {
+        "question": "Quel est le nom du personnage principal dans la série de jeux vidéo 'Mass Effect' ?",
+        "options": [
+            "Commander Shepard",
+            "Garrus Vakarian",
+            "Liara T'Soni",
+            "Urdnot Wrex"
+        ],
+        "correctAnswer": "Commander Shepard"
+    },
+    {
+        "question": "Dans quel jeu vidéo pouvez-vous incarner le personnage de Joel ?",
+        "options": [
+            "The Last of Us",
+            "Red Dead Redemption",
+            "Gears of War",
+            "Bioshock Infinite"
+        ],
+        "correctAnswer": "The Last of Us"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'Pokémon' ?",
+        "options": [
+            "Game Freak",
+            "Nintendo",
+            "Square Enix",
+            "Bandai Namco"
+        ],
+        "correctAnswer": "Game Freak"
+    },
+    {
+        "question": "Quel est le nom du protagoniste dans la série de jeux vidéo 'Final Fantasy VII' ?",
+        "options": [
+            "Cloud Strife",
+            "Tifa Lockhart",
+            "Sephiroth",
+            "Aerith Gainsborough"
+        ],
+        "correctAnswer": "Cloud Strife"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'Super Smash Bros.' ?",
+        "options": [
+            "Nintendo",
+            "Sega",
+            "Capcom",
+            "Bandai Namco"
+        ],
+        "correctAnswer": "Nintendo"
+    },
+    {
+        "question": "Quel est le nom du personnage principal dans la série de jeux vidéo 'Fallout' ?",
+        "options": [
+            "Vault Dweller",
+            "Sole Survivor",
+            "Courier",
+            "Lone Wanderer"
+        ],
+        "correctAnswer": "Vault Dweller"
+    },
+    {
+        "question": "Dans quel jeu vidéo pouvez-vous incarner le personnage de Arthur Morgan ?",
+        "options": [
+            "Red Dead Redemption 2",
+            "Grand Theft Auto V",
+            "Bioshock Infinite",
+            "The Witcher 3: Wild Hunt"
+        ],
+        "correctAnswer": "Red Dead Redemption 2"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'The Sims' ?",
+        "options": [
+            "Maxis",
+            "EA Games",
+            "Blizzard Entertainment",
+            "Bethesda Game Studios"
+        ],
+        "correctAnswer": "Maxis"
+    },
+    {
+        "question": "Quel est le nom du protagoniste dans la série de jeux vidéo 'Mega Man' ?",
+        "options": [
+            "Mega Man",
+            "Proto Man",
+            "Dr. Wily",
+            "Roll"
+        ],
+        "correctAnswer": "Mega Man"
+    },
+    {
+        "question": "Dans quel jeu vidéo pouvez-vous incarner le personnage de Marcus Fenix ?",
+        "options": [
+            "Gears of War",
+            "Halo",
+            "Doom",
+            "Resident Evil"
+        ],
+        "correctAnswer": "Gears of War"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'Overwatch' ?",
+        "options": [
+            "Blizzard Entertainment",
+            "Valve Corporation",
+            "Respawn Entertainment",
+            "Epic Games"
+        ],
+        "correctAnswer": "Blizzard Entertainment"
+    },
+    {
+        "question": "Quel est le nom du personnage principal dans la série de jeux vidéo 'Devil May Cry' ?",
+        "options": [
+            "Dante",
+            "Vergil",
+            "Nero",
+            "Trish"
+        ],
+        "correctAnswer": "Dante"
+    },
+    {
+        "question": "Dans quel jeu vidéo pouvez-vous incarner le personnage de Ezio Auditore ?",
+        "options": [
+            "Assassin's Creed II",
+            "Splinter Cell",
+            "Hitman",
+            "Prince of Persia"
+        ],
+        "correctAnswer": "Assassin's Creed II"
+    },
+    {
+        "question": "Quelle est la société qui a développé la série de jeux vidéo 'Portal' ?",
+        "options": [
+            "Valve Corporation",
+            "Bethesda Game Studios",
+            "Blizzard Entertainment",
+            "Ubisoft"
+        ],
+        "correctAnswer": "Valve Corporation"
+    },
+    {
+        "question": "Quel est le nom du protagoniste dans la série de jeux vidéo 'Crash Bandicoot' ?",
+        "options": [
+            "Crash Bandicoot",
+            "Coco Bandicoot",
+            "Dr. Neo Cortex",
+            "Aku Aku"
+        ],
+        "correctAnswer": "Crash Bandicoot"
+    }
+]

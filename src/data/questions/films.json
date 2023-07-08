@@ -1,0 +1,412 @@
+[
+    {
+        "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+        "options": [
+            "Parasite",
+            "Joker",
+            "Once Upon a Time... in Hollywood",
+            "1917"
+        ],
+        "correctAnswer": "Parasite"
+    },
+    {
+        "question": "Quel acteur a joué le rôle de Tony Stark / Iron Man dans le Marvel Cinematic Universe ?",
+        "options": [
+            "Chris Hemsworth",
+            "Chris Pratt",
+            "Robert Downey Jr.",
+            "Mark Ruffalo"
+        ],
+        "correctAnswer": "Robert Downey Jr."
+    },
+    {
+        "question": "Quel réalisateur a dirigé le film 'Inception' ?",
+        "options": [
+            "Christopher Nolan",
+            "Martin Scorsese",
+            "Quentin Tarantino",
+            "Steven Spielberg"
+        ],
+        "correctAnswer": "Christopher Nolan"
+    },
+    {
+        "question": "Quel film a remporté le Palme d'Or au Festival de Cannes 2019 ?",
+        "options": [
+            "Parasite",
+            "Le Livre d'image",
+            "Pain and Glory",
+            "Une affaire de famille"
+        ],
+        "correctAnswer": "Parasite"
+    },
+    {
+        "question": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2020 pour son rôle dans 'Judy' ?",
+        "options": [
+            "Scarlett Johansson",
+            "Saoirse Ronan",
+            "Charlize Theron",
+            "Renée Zellweger"
+        ],
+        "correctAnswer": "Renée Zellweger"
+    },
+    {
+        "question": "Dans quel film Leonardo DiCaprio incarne-t-il le personnage de Jordan Belfort ?",
+        "options": [
+            "The Wolf of Wall Street",
+            "Inception",
+            "Shutter Island",
+            "The Revenant"
+        ],
+        "correctAnswer": "The Wolf of Wall Street"
+    },
+    {
+        "question": "Quel film a remporté l'Oscar du meilleur film en 2019 ?",
+        "options": [
+            "Green Book",
+            "Bohemian Rhapsody",
+            "BlacKkKlansman",
+            "La Favorite"
+        ],
+        "correctAnswer": "Green Book"
+    },
+    {
+        "question": "Quel réalisateur a dirigé le film 'The Shawshank Redemption' ?",
+        "options": [
+            "Quentin Tarantino",
+            "Steven Spielberg",
+            "Christopher Nolan",
+            "Frank Darabont"
+        ],
+        "correctAnswer": "Frank Darabont"
+    },
+    {
+        "question": "Quel acteur a joué le rôle de Batman dans 'The Dark Knight' ?",
+        "options": [
+            "Christian Bale",
+            "Ben Affleck",
+            "Michael Keaton",
+            "Val Kilmer"
+        ],
+        "correctAnswer": "Christian Bale"
+    },
+    {
+        "question": "Quel film a remporté l'Oscar du meilleur film en 2018 ?",
+        "options": [
+            "The Shape of Water",
+            "Three Billboards Outside Ebbing, Missouri",
+            "Get Out",
+            "Lady Bird"
+        ],
+        "correctAnswer": "The Shape of Water"
+    },
+    {
+        "question": "Quel réalisateur a dirigé le film 'Pulp Fiction' ?",
+        "options": [
+            "Quentin Tarantino",
+            "Martin Scorsese",
+            "Stanley Kubrick",
+            "David Fincher"
+        ],
+        "correctAnswer": "Quentin Tarantino"
+    },
+    {
+        "question": "Quel acteur a joué le rôle de Neo dans 'The Matrix' ?",
+        "options": [
+            "Keanu Reeves",
+            "Hugo Weaving",
+            "Lawrence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "correctAnswer": "Keanu Reeves"
+    },
+    {
+        "question": "Quel film a remporté le Palme d'Or au Festival de Cannes 2018 ?",
+        "options": [
+            "Shoplifters",
+            "BlacKkKlansman",
+            "Cold War",
+            "Dogman"
+        ],
+        "correctAnswer": "Shoplifters"
+    },
+    {
+        "question": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2019 pour son rôle dans 'La La Land' ?",
+        "options": [
+            "Emma Stone",
+            "Natalie Portman",
+            "Meryl Streep",
+            "Jennifer Lawrence"
+        ],
+        "correctAnswer": "Emma Stone"
+    },
+    {
+        "question": "Dans quel film Al Pacino incarne-t-il le personnage de Michael Corleone ?",
+        "options": [
+            "The Godfather",
+            "Scarface",
+            "Heat",
+            "Serpico"
+        ],
+        "correctAnswer": "The Godfather"
+    },
+    {
+        "question": "Quel film a remporté l'Oscar du meilleur film en 2017 ?",
+        "options": [
+            "Moonlight",
+            "La La Land",
+            "Manchester by the Sea",
+            "Arrival"
+        ],
+        "correctAnswer": "Moonlight"
+    },
+    {
+        "question": "Quel réalisateur a dirigé le film 'Fight Club' ?",
+        "options": [
+            "David Fincher",
+            "Martin Scorsese",
+            "Quentin Tarantino",
+            "Christopher Nolan"
+        ],
+        "correctAnswer": "David Fincher"
+    },
+    {
+        "question": "Quel acteur a joué le rôle de Jack Sparrow dans la franchise 'Pirates des Caraïbes' ?",
+        "options": [
+            "Johnny Depp",
+            "Orlando Bloom",
+            "Geoffrey Rush",
+            "Javier Bardem"
+        ],
+        "correctAnswer": "Johnny Depp"
+    },
+    {
+        "question": "Quel film a remporté l'Oscar du meilleur film en 2016 ?",
+        "options": [
+            "Spotlight",
+            "The Revenant",
+            "Mad Max: Fury Road",
+            "The Big Short"
+        ],
+        "correctAnswer": "Spotlight"
+    },
+    {
+        "question": "Quel réalisateur a dirigé le film 'The Godfather' ?",
+        "options": [
+            "Francis Ford Coppola",
+            "Martin Scorsese",
+            "Steven Spielberg",
+            "Alfred Hitchcock"
+        ],
+        "correctAnswer": "Francis Ford Coppola"
+    },
+    {
+        "question": "Quel acteur a joué le rôle de Luke Skywalker dans la trilogie originale de 'Star Wars' ?",
+        "options": [
+            "Harrison Ford",
+            "Mark Hamill",
+            "Carrie Fisher",
+            "Anthony Daniels"
+        ],
+        "correctAnswer": "Mark Hamill"
+    },
+    {
+        "question": "Quel film a remporté le Palme d'Or au Festival de Cannes 2017 ?",
+        "options": [
+            "The Square",
+            "120 battements par minute",
+            "Loveless",
+            "You Were Never Really Here"
+        ],
+        "correctAnswer": "The Square"
+    },
+    {
+        "question": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2018 pour son rôle dans 'Three Billboards Outside Ebbing, Missouri' ?",
+        "options": [
+            "Frances McDormand",
+            "Saoirse Ronan",
+            "Meryl Streep",
+            "Margot Robbie"
+        ],
+        "correctAnswer": "Frances McDormand"
+    },
+    {
+        "question": "Dans quel film Brad Pitt incarne-t-il le personnage de Tyler Durden ?",
+        "options": [
+            "Fight Club",
+            "Se7en",
+            "Inglourious Basterds",
+            "Ocean's Eleven"
+        ],
+        "correctAnswer": "Fight Club"
+    },
+    {
+        "question": "Quel film a remporté l'Oscar du meilleur film en 2015 ?",
+        "options": [
+            "Birdman",
+            "Boyhood",
+            "The Grand Budapest Hotel",
+            "Whiplash"
+        ],
+        "correctAnswer": "Birdman"
+    },
+    {
+        "question": "Quel réalisateur a dirigé le film 'The Social Network' ?",
+        "options": [
+            "David Fincher",
+            "Martin Scorsese",
+            "Christopher Nolan",
+            "Steven Spielberg"
+        ],
+        "correctAnswer": "David Fincher"
+    },
+    {
+        "question": "Quel acteur a joué le rôle de Hannibal Lecter dans 'The Silence of the Lambs' ?",
+        "options": [
+            "Anthony Hopkins",
+            "Jodie Foster",
+            "Julianne Moore",
+            "Edward Norton"
+        ],
+        "correctAnswer": "Anthony Hopkins"
+    },
+    {
+        "question": "Quel film a remporté le Palme d'Or au Festival de Cannes 2016 ?",
+        "options": [
+            "I, Daniel Blake",
+            "Toni Erdmann",
+            "The Salesman",
+            "Dheepan"
+        ],
+        "correctAnswer": "I, Daniel Blake"
+    },
+    {
+        "question": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2017 pour son rôle dans 'La La Land' ?",
+        "options": [
+            "Emma Stone",
+            "Natalie Portman",
+            "Meryl Streep",
+            "Viola Davis"
+        ],
+        "correctAnswer": "Emma Stone"
+    },
+    {
+        "question": "Dans quel film Clint Eastwood incarne-t-il le personnage de Dirty Harry ?",
+        "options": [
+            "Dirty Harry",
+            "Unforgiven",
+            "Gran Torino",
+            "Million Dollar Baby"
+        ],
+        "correctAnswer": "Dirty Harry"
+    },
+    {
+        "question": "Quel film a remporté l'Oscar du meilleur film en 2014 ?",
+        "options": [
+            "12 Years a Slave",
+            "Gravity",
+            "American Hustle",
+            "The Wolf of Wall Street"
+        ],
+        "correctAnswer": "12 Years a Slave"
+    },
+    {
+        "question": "Quel réalisateur a dirigé le film 'Interstellar' ?",
+        "options": [
+            "Christopher Nolan",
+            "Martin Scorsese",
+            "Steven Spielberg",
+            "Denis Villeneuve"
+        ],
+        "correctAnswer": "Christopher Nolan"
+    },
+    {
+        "question": "Quel acteur a joué le rôle de James Bond dans 'Casino Royale' ?",
+        "options": [
+            "Daniel Craig",
+            "Pierce Brosnan",
+            "Sean Connery",
+            "Roger Moore"
+        ],
+        "correctAnswer": "Daniel Craig"
+    },
+    {
+        "question": "Quel film a remporté le Palme d'Or au Festival de Cannes 2015 ?",
+        "options": [
+            "Dheepan",
+            "Carol",
+            "The Lobster",
+            "Son of Saul"
+        ],
+        "correctAnswer": "Dheepan"
+    },
+    {
+        "question": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2016 pour son rôle dans 'Room' ?",
+        "options": [
+            "Brie Larson",
+            "Cate Blanchett",
+            "Jennifer Lawrence",
+            "Saoirse Ronan"
+        ],
+        "correctAnswer": "Brie Larson"
+    },
+    {
+        "question": "Dans quel film Marlon Brando incarne-t-il le personnage de Don Vito Corleone ?",
+        "options": [
+            "The Godfather",
+            "Apocalypse Now",
+            "On the Waterfront",
+            "A Streetcar Named Desire"
+        ],
+        "correctAnswer": "The Godfather"
+    },
+    {
+        "question": "Quel film a remporté l'Oscar du meilleur film en 2013 ?",
+        "options": [
+            "Argo",
+            "Lincoln",
+            "Silver Linings Playbook",
+            "Zero Dark Thirty"
+        ],
+        "correctAnswer": "Argo"
+    },
+    {
+        "question": "Quel réalisateur a dirigé le film 'The Dark Knight' ?",
+        "options": [
+            "Christopher Nolan",
+            "Martin Scorsese",
+            "Quentin Tarantino",
+            "Steven Spielberg"
+        ],
+        "correctAnswer": "Christopher Nolan"
+    },
+    {
+        "question": "Quel acteur a joué le rôle de Tony Montana dans 'Scarface' ?",
+        "options": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Johnny Depp",
+            "Tom Hanks"
+        ],
+        "correctAnswer": "Al Pacino"
+    },
+    {
+        "question": "Quel film a remporté le Palme d'Or au Festival de Cannes 2014 ?",
+        "options": [
+            "Winter Sleep",
+            "Leviathan",
+            "Mommy",
+            "Two Days, One Night"
+        ],
+        "correctAnswer": "Winter Sleep"
+    },
+    {
+        "question": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2015 pour son rôle dans 'Still Alice' ?",
+        "options": [
+            "Julianne Moore",
+            "Rosamund Pike",
+            "Reese Witherspoon",
+            "Felicity Jones"
+        ],
+        "correctAnswer": "Julianne Moore"
+    }
+]

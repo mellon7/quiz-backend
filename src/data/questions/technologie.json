@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Qu'est-ce que le DNS signifie en informatique ?",
+        "options": [
+            "Domain Name System",
+            "Dynamic Network System",
+            "Digital Network Server",
+            "Data Naming Service"
+        ],
+        "correctAnswer": "Domain Name System"
+    },
+    {
+        "question": "Quel est le plus grand réseau social au monde ?",
+        "options": [
+            "Facebook",
+            "Twitter",
+            "Instagram",
+            "LinkedIn"
+        ],
+        "correctAnswer": "Facebook"
+    },
+    {
+        "question": "Qu'est-ce que HTML signifie en programmation web ?",
+        "options": [
+            "Hyperlinks and Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyper Text Markup Language",
+            "Hyperlinking Textual Markup Language"
+        ],
+        "correctAnswer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Quelle entreprise est connue pour ses smartphones iPhone ?",
+        "options": [
+            "Apple",
+            "Samsung",
+            "Microsoft",
+            "Sony"
+        ],
+        "correctAnswer": "Apple"
+    },
+    {
+        "question": "Qu'est-ce que GPU signifie en informatique ?",
+        "options": [
+            "Graphics Processing Unit",
+            "General Purpose Unit",
+            "Gaming Processing Unit",
+            "General Processing Unit"
+        ],
+        "correctAnswer": "Graphics Processing Unit"
+    },
+    {
+        "question": "Quelle entreprise est connue pour son système d'exploitation Windows ?",
+        "options": [
+            "Microsoft",
+            "Apple",
+            "Google",
+            "IBM"
+        ],
+        "correctAnswer": "Microsoft"
+    },
+    {
+        "question": "Quelle est l'unité de mesure de la capacité d'un disque dur ?",
+        "options": [
+            "Octet",
+            "Gigaoctet",
+            "Terabyte",
+            "Kilobyte"
+        ],
+        "correctAnswer": "Octet"
+    },
+    {
+        "question": "Quel est le langage de programmation utilisé pour créer des pages web dynamiques ?",
+        "options": [
+            "JavaScript",
+            "Java",
+            "Python",
+            "C++"
+        ],
+        "correctAnswer": "JavaScript"
+    },
+    {
+        "question": "Qu'est-ce que VPN signifie en informatique ?",
+        "options": [
+            "Virtual Private Network",
+            "Very Personal Network",
+            "Virtual Public Network",
+            "Visual Personal Network"
+        ],
+        "correctAnswer": "Virtual Private Network"
+    },
+    {
+        "question": "Quelle entreprise a développé le premier ordinateur personnel (PC) ?",
+        "options": [
+            "IBM",
+            "Microsoft",
+            "Apple",
+            "Intel"
+        ],
+        "correctAnswer": "IBM"
+    },
+    {
+        "question": "Qu'est-ce que le langage de programmation Python est souvent utilisé pour ?",
+        "options": [
+            "Le développement web",
+            "L'intelligence artificielle",
+            "L'analyse de données",
+            "Toutes les réponses ci-dessus"
+        ],
+        "correctAnswer": "Toutes les réponses ci-dessus"
+    },
+    {
+        "question": "Qu'est-ce que le Wi-Fi signifie en informatique ?",
+        "options": [
+            "Wireless Fidelity",
+            "Wireless Network",
+            "Worldwide Interconnection",
+            "Web Interface"
+        ],
+        "correctAnswer": "Wireless Fidelity"
+    },
+    {
+        "question": "Quelle entreprise a développé le navigateur web Chrome ?",
+        "options": [
+            "Google",
+            "Microsoft",
+            "Mozilla",
+            "Apple"
+        ],
+        "correctAnswer": "Google"
+    },
+    {
+        "question": "Qu'est-ce que le langage de programmation Java est souvent utilisé pour ?",
+        "options": [
+            "Le développement Android",
+            "La création d'applications de bureau",
+            "Le développement d'applications web",
+            "Toutes les réponses ci-dessus"
+        ],
+        "correctAnswer": "Toutes les réponses ci-dessus"
+    },
+    {
+        "question": "Qu'est-ce que le HTML5 apporte de nouveau par rapport à HTML4 ?",
+        "options": [
+            "Support de la vidéo et de l'audio",
+            "Nouvelles balises sémantiques",
+            "Meilleur support pour les applications web",
+            "Toutes les réponses ci-dessus"
+        ],
+        "correctAnswer": "Toutes les réponses ci-dessus"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'URL' signifie en informatique ?",
+        "options": [
+            "Uniform Resource Locator",
+            "Universal Reference Link",
+            "Unified Research Locator",
+            "User Retrieval Link"
+        ],
+        "correctAnswer": "Uniform Resource Locator"
+    },
+    {
+        "question": "Quelle entreprise a développé le système d'exploitation Android ?",
+        "options": [
+            "Google",
+            "Apple",
+            "Microsoft",
+            "Samsung"
+        ],
+        "correctAnswer": "Google"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'firewall' signifie en informatique ?",
+        "options": [
+            "Un dispositif de sécurité réseau",
+            "Un logiciel antivirus",
+            "Un type de câble réseau",
+            "Un langage de programmation"
+        ],
+        "correctAnswer": "Un dispositif de sécurité réseau"
+    },
+    {
+        "question": "Quelle technologie permet la transmission de données sans fil à longue distance ?",
+        "options": [
+            "LTE",
+            "Bluetooth",
+            "Wi-Fi",
+            "NFC"
+        ],
+        "correctAnswer": "LTE"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'HTTP' signifie en informatique ?",
+        "options": [
+            "Hypertext Transfer Protocol",
+            "Hypertext Transmission Protocol",
+            "High-Tech Transfer Protocol",
+            "Hyperlink Text Transfer Protocol"
+        ],
+        "correctAnswer": "Hypertext Transfer Protocol"
+    },
+    {
+        "question": "Quelle entreprise est connue pour ses processeurs Intel Core ?",
+        "options": [
+            "Intel",
+            "AMD",
+            "NVIDIA",
+            "Qualcomm"
+        ],
+        "correctAnswer": "Intel"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'RAM' signifie en informatique ?",
+        "options": [
+            "Random Access Memory",
+            "Read-Only Memory",
+            "Remote Access Memory",
+            "Randomized Algorithm Memory"
+        ],
+        "correctAnswer": "Random Access Memory"
+    },
+    {
+        "question": "Quel est le langage de programmation le plus utilisé pour le développement d'applications mobiles ?",
+        "options": [
+            "Java",
+            "Swift",
+            "Python",
+            "C#"
+        ],
+        "correctAnswer": "Java"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'API' signifie en informatique ?",
+        "options": [
+            "Application Programming Interface",
+            "Automated Program Integration",
+            "Advanced Program Interface",
+            "Application Process Interface"
+        ],
+        "correctAnswer": "Application Programming Interface"
+    },
+    {
+        "question": "Quelle entreprise est connue pour ses cartes graphiques GeForce ?",
+        "options": [
+            "NVIDIA",
+            "AMD",
+            "Intel",
+            "Qualcomm"
+        ],
+        "correctAnswer": "NVIDIA"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'URL' signifie en informatique ?",
+        "options": [
+            "Uniform Resource Locator",
+            "Universal Reference Link",
+            "Unified Research Locator",
+            "User Retrieval Link"
+        ],
+        "correctAnswer": "Uniform Resource Locator"
+    },
+    {
+        "question": "Quelle technologie est utilisée pour stocker des données de manière permanente sur des disques durs ?",
+        "options": [
+            "HDD (Hard Disk Drive)",
+            "SSD (Solid State Drive)",
+            "USB (Universal Serial Bus)",
+            "CD (Compact Disc)"
+        ],
+        "correctAnswer": "HDD (Hard Disk Drive)"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'SSL' signifie en informatique ?",
+        "options": [
+            "Secure Sockets Layer",
+            "Server Security Language",
+            "Structured Service Language",
+            "System Software Library"
+        ],
+        "correctAnswer": "Secure Sockets Layer"
+    },
+    {
+        "question": "Quelle entreprise est connue pour son assistant virtuel Siri ?",
+        "options": [
+            "Apple",
+            "Google",
+            "Microsoft",
+            "Amazon"
+        ],
+        "correctAnswer": "Apple"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'URL' signifie en informatique ?",
+        "options": [
+            "Uniform Resource Locator",
+            "Universal Reference Link",
+            "Unified Research Locator",
+            "User Retrieval Link"
+        ],
+        "correctAnswer": "Uniform Resource Locator"
+    },
+    {
+        "question": "Quel est le langage de programmation principalement utilisé pour les bases de données relationnelles ?",
+        "options": [
+            "SQL",
+            "Java",
+            "C++",
+            "Python"
+        ],
+        "correctAnswer": "SQL"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'OS' signifie en informatique ?",
+        "options": [
+            "Operating System",
+            "Optimized Software",
+            "Online Service",
+            "Organized Storage"
+        ],
+        "correctAnswer": "Operating System"
+    },
+    {
+        "question": "Quelle entreprise est connue pour son moteur de recherche Google ?",
+        "options": [
+            "Google",
+            "Microsoft",
+            "Apple",
+            "Yahoo"
+        ],
+        "correctAnswer": "Google"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'LAN' signifie en informatique ?",
+        "options": [
+            "Local Area Network",
+            "Long Antenna Network",
+            "Low-bandwidth Access Network",
+            "Laptop Access Node"
+        ],
+        "correctAnswer": "Local Area Network"
+    },
+    {
+        "question": "Quelle est la technologie utilisée pour la transmission sans fil à courte distance entre des appareils mobiles ?",
+        "options": [
+            "NFC",
+            "Bluetooth",
+            "Wi-Fi",
+            "LTE"
+        ],
+        "correctAnswer": "NFC"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'HTML' signifie en informatique ?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlinks and Text Markup Language",
+            "Hyperlinking Textual Markup Language"
+        ],
+        "correctAnswer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Quelle entreprise est connue pour ses appareils photo numériques EOS ?",
+        "options": [
+            "Canon",
+            "Nikon",
+            "Sony",
+            "Fujifilm"
+        ],
+        "correctAnswer": "Canon"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'CSS' signifie en programmation web ?",
+        "options": [
+            "Cascading Style Sheets",
+            "Cascaded Style System",
+            "Custom Style Selector",
+            "Creative Styling Software"
+        ],
+        "correctAnswer": "Cascading Style Sheets"
+    },
+    {
+        "question": "Quelle entreprise est connue pour ses consoles de jeu PlayStation ?",
+        "options": [
+            "Sony",
+            "Microsoft",
+            "Nintendo",
+            "Sega"
+        ],
+        "correctAnswer": "Sony"
+    },
+    {
+        "question": "Qu'est-ce que le terme 'IoT' signifie en informatique ?",
+        "options": [
+            "Internet of Things",
+            "Input/Output Technology",
+            "Internet over Time",
+            "Intelligent Online Tracking"
+        ],
+        "correctAnswer": "Internet of Things"
+    }
+]
