@@ -4,15 +4,14 @@ const fs = require('fs');
 const session = require('express-session');
 const crypto = require('crypto');
 const history = require('connect-history-api-fallback');
-const cors = require('cors'); // Import the package
+const cors = require('cors'); 
 
 const app = express();
-const PORT = process.env.PORT || 3000; // Updated for Heroku compatibility
+const PORT = process.env.PORT || 3000;
 
 const categoryData = require('./src/data/categoryData.json');
 const questionDataPath = './src/data/questions/';
 
-// Generate a secure secret key
 const generateSecretKey = () => {
   const bytes = crypto.randomBytes(32);
   return bytes.toString('hex');
@@ -20,13 +19,13 @@ const generateSecretKey = () => {
 
 const secretKey = generateSecretKey();
 
-app.use(express.json()); // Parse JSON request body
+app.use(express.json());
 
 app.use(cors({
-  origin: 'https://quiz-frontend-vhra.vercel.app' // Your Vercel frontend URL
-})); 
+  origin: 'https://quiz-frontend-vhra.vercel.app', 
+  credentials: true // Important
+}));
 
-// Add session middleware
 app.use(
   session({
     secret: secretKey,
@@ -35,12 +34,11 @@ app.use(
     cookie: {
       sameSite: 'none',
       httpOnly: true,
-      secure: false, // Set secure to false
+      secure: false,
     },
   })
 );
 
-// Development mode
 if (process.env.NODE_ENV === 'development') {
   const { createServer: createViteServer } = require('vite');
 
