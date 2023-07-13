@@ -22,9 +22,10 @@ const secretKey = generateSecretKey();
 app.use(express.json());
 
 app.use(cors({
-  origin: 'https://quiz-frontend-vhra.vercel.app', 
-  credentials: true // Important
+  origin: ['http://localhost:5173', 'https://quiz-frontend-vhra.vercel.app'],
+  credentials: true,
 }));
+
 
 app.use(
   session({
