@@ -3,8 +3,10 @@ const path = require('path');
 const fs = require('fs');
 const session = require('express-session');
 const crypto = require('crypto');
-const history = require('connect-history-api-fallback');
 const cors = require('cors');
+const { doc, getDoc, updateDoc, setDoc, collection, serverTimestamp } = require('firebase/firestore');
+const admin = require('firebase-admin');
+const { auth, firestore } = require('./firebaseConfig.cjs');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -41,12 +43,11 @@ app.use(
   })
 );
 
-let totalQuestions = 0; // Store the total number of questions
+let totalQuestions = 0;
 
 // Count the total number of questions on server start
 countTotalQuestions();
 
-// Helper function to count the total number of questions
 function countTotalQuestions() {
   for (let category of categoryData) {
     const questionDataFile = `${category.id}.json`;
@@ -71,7 +72,6 @@ app.get('/api/randomQuestions', (req, res) => {
   const { count } = req.query;
   let allQuestions = [];
 
-  // Read all questions from all categories
   for (let category of categoryData) {
     const questionDataFile = `${category.id}.json`;
     const questionDataFilePath = path.join(questionDataPath, questionDataFile);
@@ -84,16 +84,14 @@ app.get('/api/randomQuestions', (req, res) => {
     }
   }
 
-  // Shuffle all questions and slice
   const shuffledQuestions = allQuestions.sort(() => 0.5 - Math.random());
-  const selectedQuestions = shuffledQuestions.slice(0, count || 10); // 10 being the default number of questions
+  const selectedQuestions = shuffledQuestions.slice(0, count || 10);
 
-  // Save the associated questions in the session data
   req.session.questions = selectedQuestions;
   req.session.score = 0;
 
   res.json({
-    sessionId: req.sessionID, // Include the session ID in the response
+    sessionId: req.sessionID,
     questions: selectedQuestions,
   });
 });
@@ -108,7 +106,6 @@ app.get('/api/questions', (req, res) => {
   if (category === 'random') {
     let allQuestions = [];
 
-    // Read all questions from all categories
     for (let category of categoryData) {
       const questionDataFile = `${category.id}.json`;
       const questionDataFilePath = path.join(questionDataPath, questionDataFile);
@@ -121,16 +118,14 @@ app.get('/api/questions', (req, res) => {
       }
     }
 
-    // Shuffle all questions and slice
     const shuffledQuestions = allQuestions.sort(() => 0.5 - Math.random());
-    const selectedQuestions = shuffledQuestions.slice(0, count || 10); // 10 being the default number of questions
+    const selectedQuestions = shuffledQuestions.slice(0, count || 10);
 
-    // Save the associated questions in the session data
     req.session.questions = selectedQuestions;
     req.session.score = 0;
 
     res.json({
-      sessionId: req.sessionID, // Include the session ID in the response
+      sessionId: req.sessionID,
       questions: selectedQuestions,
     });
   } else if (!category) {
@@ -143,14 +138,13 @@ app.get('/api/questions', (req, res) => {
       const questionData = JSON.parse(fs.readFileSync(questionDataFilePath, 'utf8'));
 
       const shuffledQuestions = questionData.sort(() => 0.5 - Math.random());
-      const selectedQuestions = shuffledQuestions.slice(0, count || 10);
+      const selectedQuestions = shuffledQuestions.slice(0, count || 3);
 
-      // Save the associated questions in the session data
       req.session.questions = selectedQuestions;
       req.session.score = 0;
 
       res.json({
-        sessionId: req.sessionID, // Include the session ID in the response
+        sessionId: req.sessionID,
         questions: selectedQuestions,
       });
     } catch (error) {
@@ -160,15 +154,66 @@ app.get('/api/questions', (req, res) => {
   }
 });
 
-app.post('/api/score', (req, res) => {
-  const { score } = req.body;
+app.post('/api/score', async (req, res) => {
+  console.log('Received request for /api/score');
+  console.log('Request body:', req.body);
+  console.log('Request headers:', req.headers);
+  const { score, category, uid } = req.body;
 
-  // Update the session data with the user's score
-  if (req.session) {
-    req.session.score = score;
-    res.sendStatus(200);
-  } else {
-    res.status(404).json({ error: 'Session not found' });
+  if (!uid) {
+    return res.status(400).json({ error: 'User ID not provided' });
+  }
+
+  const idToken = req.headers.authorization && req.headers.authorization.split('Bearer ')[1];
+
+  if (!idToken) {
+    return res.status(403).send('Unauthorized');
+  }
+
+  try {
+    const decodedToken = await admin.auth().verifyIdToken(idToken, true);
+    if (decodedToken.uid === uid) {
+      const userRef = doc(firestore, 'users', uid);
+      const userSnap = await getDoc(userRef);
+    
+      if (userSnap.exists()) {
+        console.log('User exists'); // Debug line
+    
+        // Update user score
+        const currentGlobalScore = userSnap.data().globalScore;
+        const newGlobalScore = currentGlobalScore + score;
+        await updateDoc(userRef, { globalScore: newGlobalScore });
+    
+        console.log('Updated global score'); // Debug line
+    
+        // Create a new game history document in the "quizzes" collection
+        const gamesCollectionRef = collection(firestore, 'users', uid, 'games');
+        const gameHistoryRef = doc(gamesCollectionRef);
+        const gameRecordData = {
+            category: category,
+            score: score,
+            date: serverTimestamp(),
+        };
+        await setDoc(gameHistoryRef, gameRecordData);
+    
+        console.log('Updated games subcollection'); // Debug line
+    
+        return res.sendStatus(200);
+      } else {
+        // Create user and set initial score
+        await setDoc(userRef, { globalScore: score });
+    
+        console.log('Created user and set initial score'); // Debug line
+    
+        return res.sendStatus(200);
+      }
+    } else {
+      console.log('Unauthorized request'); // Debug line
+      return res.status(403).send('Unauthorized');
+    }
+  } catch (error) {
+    console.error('Error updating user score:', error);
+    return res.status(500).json({ error: 'Internal server error' });
   }
 });
 
