@@ -25,3 +25,5 @@ dist-ssr
 
 # Ignore node_modules folder
 /backend/node_modules/
+
+serviceAccountKey.json
