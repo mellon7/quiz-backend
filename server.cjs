@@ -7,7 +7,6 @@ const cors = require('cors');
 const { doc, getDoc, updateDoc, setDoc, collection, serverTimestamp } = require('firebase/firestore');
 const admin = require('firebase-admin');
 const { auth, firestore } = require('./firebaseConfig.cjs');
-
 const app = express();
 const PORT = process.env.PORT || 3000;
 
@@ -21,27 +20,36 @@ const generateSecretKey = () => {
 
 const secretKey = generateSecretKey();
 
+const NB_QUIZ_QUESTIONS = 2;
+
+
 app.use(express.json());
 
-app.use(
-  cors({
-    origin: ['http://localhost:5173', 'https://quiz-frontend-vhra.vercel.app'],
-    credentials: true,
-  })
-);
+app.use(cors({
+  origin: [
+    'http://localhost:5173',
+    'https://quiz-frontend-vhra.vercel.app',
+    'http://localhost:3000'
+  ],
+  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+  credentials: true
+}));
 
 app.use(
   session({
     secret: secretKey,
     resave: false,
-    saveUninitialized: true,
+    saveUninitialized: false,
     cookie: {
-      sameSite: 'none',
+      maxAge: 24 * 60 * 60 * 1000, // 1 day
+      sameSite: 'lax', // Change from 'none' to 'lax'
       httpOnly: true,
       secure: false,
     },
   })
 );
+
+
 
 let totalQuestions = 0;
 
@@ -64,11 +72,36 @@ function countTotalQuestions() {
   console.log('Total Questions:', totalQuestions);
 }
 
+// Middleware to validate session
+const validateSession = (req, res, next) => {
+  const sessionId = req.query.sessionId;
+  console.log('Session ID:', sessionId);
+  console.log('Stored Session ID:', req.sessionID); // Changed from req.session.sessionId
+
+  if (!sessionId || sessionId !== req.sessionID) {
+    console.log('Invalid session');
+    return res.status(403).json({ error: 'Invalid session' });
+  }
+  next();
+};
+
+app.get('/api/newSession', (req, res, next) => {
+  req.session.regenerate((err) => {
+    if (err) {
+      return res.status(500).json({ error: 'Failed to create session' });
+    }
+    req.session.sessionId = req.sessionID;
+    next();
+  });
+}, (req, res) => {
+  res.json({ sessionId: req.session.sessionId });
+});
+
 app.get('/api/totalQuestions', (req, res) => {
   res.json({ totalQuestions });
 });
 
-app.get('/api/randomQuestions', (req, res) => {
+app.get('/api/randomQuestions', validateSession, (req, res) => {
   const { count } = req.query;
   let allQuestions = [];
 
@@ -85,14 +118,18 @@ app.get('/api/randomQuestions', (req, res) => {
   }
 
   const shuffledQuestions = allQuestions.sort(() => 0.5 - Math.random());
-  const selectedQuestions = shuffledQuestions.slice(0, count || 10);
+  const selectedQuestions = shuffledQuestions.slice(0, count || NB_QUIZ_QUESTIONS);
 
   req.session.questions = selectedQuestions;
   req.session.score = 0;
-
+  req.session.sessionId = req.sessionID;
+  
   res.json({
     sessionId: req.sessionID,
-    questions: selectedQuestions,
+    questions: selectedQuestions.map(q => {
+      let { answer, ...qWithoutAnswer } = q;
+      return qWithoutAnswer;
+    }),
   });
 });
 
@@ -100,8 +137,11 @@ app.get('/api/categories', (req, res) => {
   res.json(categoryData);
 });
 
-app.get('/api/questions', (req, res) => {
+app.get('/api/questions', validateSession, (req, res) => {
   const { category, count } = req.query;
+
+  console.log('Validated session:', req.session.sessionId);
+  console.log('Category:', category);
 
   if (category === 'random') {
     let allQuestions = [];
@@ -119,7 +159,7 @@ app.get('/api/questions', (req, res) => {
     }
 
     const shuffledQuestions = allQuestions.sort(() => 0.5 - Math.random());
-    const selectedQuestions = shuffledQuestions.slice(0, count || 10);
+    const selectedQuestions = shuffledQuestions.slice(0, count || NB_QUIZ_QUESTIONS);
 
     req.session.questions = selectedQuestions;
     req.session.score = 0;
@@ -129,6 +169,7 @@ app.get('/api/questions', (req, res) => {
       questions: selectedQuestions,
     });
   } else if (!category) {
+    console.log('Category not specified');
     return res.status(400).json({ error: 'Category not specified' });
   } else {
     const questionDataFile = `${category}.json`;
@@ -138,7 +179,7 @@ app.get('/api/questions', (req, res) => {
       const questionData = JSON.parse(fs.readFileSync(questionDataFilePath, 'utf8'));
 
       const shuffledQuestions = questionData.sort(() => 0.5 - Math.random());
-      const selectedQuestions = shuffledQuestions.slice(0, count || 3);
+      const selectedQuestions = shuffledQuestions.slice(0, count || NB_QUIZ_QUESTIONS);
 
       req.session.questions = selectedQuestions;
       req.session.score = 0;
@@ -154,10 +195,35 @@ app.get('/api/questions', (req, res) => {
   }
 });
 
-app.post('/api/score', async (req, res) => {
+app.post('/api/answer', validateSession, (req, res) => {
+  const { questionId, answer, uid } = req.body;
+
+  if (!uid) {
+    return res.status(400).json({ error: 'User ID not provided' });
+  }
+
+  const idToken = req.headers.authorization && req.headers.authorization.split('Bearer ')[1];
+
+  if (!idToken) {
+    return res.status(403).send('Unauthorized');
+  }
+
+  const question = req.session.questions.find(q => q.id === questionId);
+  if (!question) {
+    return res.status(400).json({ error: 'Invalid question id' });
+  }
+
+  if (question.answer === answer) {
+    req.session.score++;
+    return res.json({ correct: true });
+  } else {
+    return res.json({ correct: false });
+  }
+});
+
+app.post('/api/score', validateSession, async (req, res) => {
   console.log('Received request for /api/score');
   console.log('Request body:', req.body);
-  console.log('Request headers:', req.headers);
   const { score, category, uid } = req.body;
 
   if (!uid) {

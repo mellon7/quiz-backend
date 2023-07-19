@@ -27,3 +27,4 @@ dist-ssr
 /backend/node_modules/
 
 serviceAccountKey.json
+firebaseConfig.cjs      
