@@ -1,44 +1,62 @@
 [
-    {
-    "id": "films",
-    "name": "Films"
-    },
-    {
-    "id": "musique",
-    "name": "Musique"
-    },
-    {
-    "id": "histoire",
-    "name": "Histoire"
-    },
-    {
-    "id": "sciences",
-    "name": "Sciences"
-    },
-    {
-    "id": "geographie",
-    "name": "Géographie"
-    },
-    {
+  {
     "id": "arts",
     "name": "Arts"
-    },
-    {
-     "id": "jeuvideo",
-     "name": "Jeux vidéos"
-    },
-    {   
-    "id": "sport",
-    "name": "Sport"
-    },
-    {
-    "id": "technologie",
-    "name": "Technologie"
-    },
-    {
+  },
+  {
+    "id": "enigmes",
+    "name": "Énigmes"
+  },
+  {
+    "id": "films",
+    "name": "Films"
+  },
+  {
+    "id": "geographie",
+    "name": "Géographie"
+  },
+  {
+    "id": "histoire",
+    "name": "Histoire"
+  },
+  {
+    "id": "jeuvideo",
+    "name": "Jeux vidéos"
+  },
+  {
+    "id": "litterature",
+    "name": "Littérature"
+  },
+  {
+    "id": "manga",
+    "name": "Manga"
+  },
+  {
+    "id": "musique",
+    "name": "Musique"
+  },
+  {
+    "id": "mythologie",
+    "name": "Mythologie"
+  },
+  {
     "id": "nature",
     "name": "Nature"
-    }
-    
-    
-    ]
+  },
+  {
+    "id": "religion",
+    "name": "Religion"
+  },
+  {
+    "id": "sciences",
+    "name": "Sciences"
+  },
+  {
+    "id": "sport",
+    "name": "Sport"
+  },
+  {
+    "id": "technologie",
+    "name": "Technologie"
+  }
+]

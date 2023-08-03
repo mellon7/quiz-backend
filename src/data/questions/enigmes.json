@@ -1,0 +1,332 @@
+[
+  {
+    "id": 6975636082113805,
+    "question": "Je parle, mais je ne peux pas entendre. Qui suis-je ?",
+    "options": [
+      "Un téléphone",
+      "Un miroir",
+      "Un ordinateur",
+      "Un chien"
+    ],
+    "correctAnswer": "Un téléphone"
+  },
+  {
+    "id": 4030038157409695,
+    "question": "Qu'est-ce qui peut voyager partout dans le monde tout en restant dans son coin ?",
+    "options": [
+      "Un avion",
+      "Une carte postale",
+      "Un timbre",
+      "Une voiture"
+    ],
+    "correctAnswer": "Un timbre"
+  },
+  {
+    "id": 1146607640231735,
+    "question": "Qu'est-ce qui a des clés mais ne peut pas ouvrir des serrures ?",
+    "options": [
+      "Un trousseau de clés",
+      "Un piano",
+      "Une carte",
+      "Un stylo"
+    ],
+    "correctAnswer": "Un piano"
+  },
+  {
+    "id": 2995063261021511,
+    "question": "Qu'est-ce qui monte et qui descend sans bouger ?",
+    "options": [
+      "Un ascenseur",
+      "Une montre",
+      "Une échelle",
+      "Un escalier"
+    ],
+    "correctAnswer": "Une échelle"
+  },
+  {
+    "id": 6913599939123875,
+    "question": "Qu'est-ce qui est plus grand que la Tour Eiffel, mais ne pèse rien ?",
+    "options": [
+      "Un bâtiment",
+      "Un gratte-ciel",
+      "Un nuage",
+      "L'ombre de la Tour Eiffel"
+    ],
+    "correctAnswer": "L'ombre de la Tour Eiffel"
+  },
+  {
+    "id": 7793591069464923,
+    "question": "Qu'est-ce qui a un cœur qui ne bat pas ?",
+    "options": [
+      "Un mort",
+      "Un artichaut",
+      "Un robot",
+      "Un mannequin"
+    ],
+    "correctAnswer": "Un artichaut"
+  },
+  {
+    "id": 3273373106671213,
+    "question": "Qu'est-ce qui a des dents mais ne mord pas ?",
+    "options": [
+      "Un peigne",
+      "Un dentier",
+      "Un chien en peluche",
+      "Une photo de sourire"
+    ],
+    "correctAnswer": "Un peigne"
+  },
+  {
+    "id": 4102335815238761,
+    "question": "Qu'est-ce qui court tout autour d'un champ sans bouger ?",
+    "options": [
+      "Un lapin",
+      "Une clôture",
+      "Un chemin",
+      "Une rivière"
+    ],
+    "correctAnswer": "Une clôture"
+  },
+  {
+    "id": 7368632694690319,
+    "question": "Qu'est-ce qui peut être brisé, mais ne peut pas être tenu ?",
+    "options": [
+      "Un verre",
+      "Une promesse",
+      "Un miroir",
+      "Une pierre"
+    ],
+    "correctAnswer": "Une promesse"
+  },
+  {
+    "id": 3670542190761425,
+    "question": "Qu'est-ce qui est à toi, mais que les autres utilisent plus que toi ?",
+    "options": [
+      "Ton argent",
+      "Ton téléphone",
+      "Ton nom",
+      "Ton ordinateur"
+    ],
+    "correctAnswer": "Ton nom"
+  },
+  {
+    "id": 8605877836303515,
+    "question": "Je suis plein de trous, mais je peux encore contenir beaucoup d'eau. Qu'est-ce que je suis ?",
+    "options": [
+      "Une passoire",
+      "Une éponge",
+      "Un seau percé",
+      "Un bateau"
+    ],
+    "correctAnswer": "Une éponge"
+  },
+  {
+    "id": 6125727383821517,
+    "question": "Qu'est-ce qui a une tête et une queue, mais pas de corps ?",
+    "options": [
+      "Un serpent",
+      "Un ver de terre",
+      "Une pièce de monnaie",
+      "Une écharpe"
+    ],
+    "correctAnswer": "Une pièce de monnaie"
+  },
+  {
+    "id": 1877768760921425,
+    "question": "Qu'est-ce qui est noir lorsque tu l'achètes, rouge lorsque tu l'utilises, et gris lorsque tu le jettes ?",
+    "options": [
+      "Un charbon",
+      "Un stylo",
+      "Une voiture",
+      "Un ordinateur"
+    ],
+    "correctAnswer": "Un charbon"
+  },
+  {
+    "id": 4909012398138443,
+    "question": "Je suis toujours devant toi, mais tu ne peux jamais me voir. Qu'est-ce que je suis ?",
+    "options": [
+      "Le futur",
+      "Le passé",
+      "Le présent",
+      "Le temps"
+    ],
+    "correctAnswer": "Le futur"
+  },
+  {
+    "id": 1693657602096169,
+    "question": "Qu'est-ce qui est si fragile que même en prononçant son nom, tu peux le briser ?",
+    "options": [
+      "Un miroir",
+      "Un secret",
+      "Un vœu",
+      "Le silence"
+    ],
+    "correctAnswer": "Le silence"
+  },
+  {
+    "id": 7268891190350209,
+    "question": "Qu'est-ce qui court mais n'arrive jamais fatigué ?",
+    "options": [
+      "Un athlète",
+      "Un cheval",
+      "Une voiture",
+      "L'eau du robinet"
+    ],
+    "correctAnswer": "L'eau du robinet"
+  },
+  {
+    "id": 4548708058047767,
+    "question": "Qu'est-ce qui est toujours à la fin de tout ?",
+    "options": [
+      "Le mot 'fin'",
+      "Le temps",
+      "La lettre 't'",
+      "La mort"
+    ],
+    "correctAnswer": "La lettre 't'"
+  },
+  {
+    "id": 3487008973576415,
+    "question": "Qu'est-ce qui a des oreilles mais ne peut pas entendre ?",
+    "options": [
+      "Un sourd",
+      "Un téléphone",
+      "Un épi de maïs",
+      "Un casque"
+    ],
+    "correctAnswer": "Un épi de maïs"
+  },
+  {
+    "id": 4311172848631335,
+    "question": "Qu'est-ce qui a quatre pattes, mais ne peut pas marcher ?",
+    "options": [
+      "Un chien paralysé",
+      "Une table",
+      "Une chaise à roulettes",
+      "Un bébé"
+    ],
+    "correctAnswer": "Une table"
+  },
+  {
+    "id": 7857037911585291,
+    "question": "Qu'est-ce qui a un visage et deux mains, mais pas d'yeux ni de bouche ?",
+    "options": [
+      "Un masque",
+      "Une poupée",
+      "Une montre",
+      "Un dessin"
+    ],
+    "correctAnswer": "Une montre"
+  },
+  {
+    "id": 6356142575579409,
+    "question": "Qu'est-ce qui est rempli le jour et vide la nuit ?",
+    "options": [
+      "Le ciel",
+      "Un rêve",
+      "Une plage",
+      "Un lit"
+    ],
+    "correctAnswer": "Un lit"
+  },
+  {
+    "id": 6769003395722311,
+    "question": "Qu'est-ce qui est plus utile lorsque c'est cassé ?",
+    "options": [
+      "Un œuf",
+      "Une assiette",
+      "Un crayon",
+      "Un vase"
+    ],
+    "correctAnswer": "Un œuf"
+  },
+  {
+    "id": 73377867106545,
+    "question": "Qu'est-ce qui a beaucoup de dents, mais ne peut pas mordre ?",
+    "options": [
+      "Une scie",
+      "Un requin en peluche",
+      "Un peigne",
+      "Un dentier"
+    ],
+    "correctAnswer": "Une scie"
+  },
+  {
+    "id": 4800665645843331,
+    "question": "Qu'est-ce qui grandit et diminue en même temps ?",
+    "options": [
+      "Une bougie",
+      "Une fleur",
+      "Un arbre",
+      "Une montagne"
+    ],
+    "correctAnswer": "Une bougie"
+  },
+  {
+    "id": 7998848749069933,
+    "question": "Qu'est-ce qui peut monter une colline avec trois jambes et redescendre avec quatre jambes ?",
+    "options": [
+      "Un animal",
+      "Un humain",
+      "Un robot",
+      "Un homme avec une canne"
+    ],
+    "correctAnswer": "Un homme avec une canne"
+  },
+  {
+    "id": 3967489041584501,
+    "question": "Qu'est-ce qui est transparent et peut apparaître dans toutes les couleurs de l'arc-en-ciel ?",
+    "options": [
+      "Un verre",
+      "Une bulle",
+      "L'eau",
+      "Un diamant"
+    ],
+    "correctAnswer": "Une bulle"
+  },
+  {
+    "id": 7280545484385889,
+    "question": "Qu'est-ce qui est rond comme un bol, mais ne contient rien à moins qu'il soit cassé ?",
+    "options": [
+      "Un œuf",
+      "Un bol",
+      "Une boule de cristal",
+      "Une pomme"
+    ],
+    "correctAnswer": "Un œuf"
+  },
+  {
+    "id": 3616078831444485,
+    "question": "Qu'est-ce qui devient blanc lorsqu'il est sale ?",
+    "options": [
+      "Un tableau noir",
+      "Des vêtements blancs",
+      "Une fenêtre",
+      "Une voiture"
+    ],
+    "correctAnswer": "Un tableau noir"
+  },
+  {
+    "id": 4350692210641671,
+    "question": "Qu'est-ce qui a un cœur qui ne bat pas et une maison sans porte ni fenêtre ?",
+    "options": [
+      "Un arbre",
+      "Une coquille d'escargot",
+      "Un robot",
+      "Une noix"
+    ],
+    "correctAnswer": "Une noix"
+  },
+  {
+    "id": 316977751843333,
+    "question": "Qu'est-ce qui est plus léger qu'une plume, mais même le monde ne peut pas le porter ?",
+    "options": [
+      "L'air",
+      "Un ballon d'hélium",
+      "Le vent",
+      "Un souffle"
+    ],
+    "correctAnswer": "Un souffle"
+  }
+]

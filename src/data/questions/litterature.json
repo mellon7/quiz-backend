@@ -1,0 +1,332 @@
+[
+  {
+    "correctAnswer": "J.K. Rowling",
+    "id": 7963498359047307,
+    "options": [
+      "Stephen King",
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "George R.R. Martin"
+    ],
+    "question": "Qui est l'auteur de la série 'Harry Potter' ?"
+  },
+  {
+    "correctAnswer": "1984",
+    "id": 7663052488098593,
+    "options": [
+      "Les Misérables",
+      "1984",
+      "Guerre et Paix",
+      "Le Seigneur des Anneaux"
+    ],
+    "question": "Quel livre dépeint une dystopie totalitaire surveillée par le 'Big Brother' ?"
+  },
+  {
+    "correctAnswer": "Moby Dick",
+    "id": 8361049167112593,
+    "options": [
+      "Le Vieil Homme et la Mer",
+      "Vingt mille lieues sous les mers",
+      "Moby Dick",
+      "La Pêche à la baleine"
+    ],
+    "question": "Quel livre raconte l'obsession d'un capitaine pour la chasse d'une grande baleine blanche ?"
+  },
+  {
+    "correctAnswer": "Pride and Prejudice",
+    "id": 93805536677135,
+    "options": [
+      "Wuthering Heights",
+      "Sense and Sensibility",
+      "Pride and Prejudice",
+      "Emma"
+    ],
+    "question": "Quel roman de Jane Austen suit l'histoire d'amour de Elizabeth Bennet et Mr. Darcy ?"
+  },
+  {
+    "correctAnswer": "Ernest Hemingway",
+    "id": 76451412509925,
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "Mark Twain",
+      "John Steinbeck"
+    ],
+    "question": "Qui est l'auteur de 'Le Vieil Homme et la Mer' ?"
+  },
+  {
+    "correctAnswer": "Fahrenheit 451",
+    "id": 5016601854514361,
+    "options": [
+      "1984",
+      "Le Meilleur des Mondes",
+      "Fahrenheit 451",
+      "Le Maître du Haut Château"
+    ],
+    "question": "Dans quel livre la possession de livres est-elle illégale et ceux-ci sont-ils brûlés par des 'pompiers' ?"
+  },
+  {
+    "correctAnswer": "George Orwell",
+    "id": 359909159898987,
+    "options": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "George Orwell",
+      "Philip K. Dick"
+    ],
+    "question": "Qui est l'auteur du livre 'La Ferme des Animaux' ?"
+  },
+  {
+    "correctAnswer": "To Kill a Mockingbird",
+    "id": 3737456845650661,
+    "options": [
+      "Of Mice and Men",
+      "To Kill a Mockingbird",
+      "The Great Gatsby",
+      "The Catcher in the Rye"
+    ],
+    "question": "Quel roman classique raconte une histoire de préjugés raciaux dans le Sud des États-Unis à travers les yeux d'une petite fille ?"
+  },
+  {
+    "correctAnswer": "Franz Kafka",
+    "id": 2626884855301541,
+    "options": [
+      "Fyodor Dostoevsky",
+      "Franz Kafka",
+      "Leo Tolstoy",
+      "Thomas Mann"
+    ],
+    "question": "Qui est l'auteur du livre 'La Métamorphose' ?"
+  },
+  {
+    "correctAnswer": "Jane Eyre",
+    "id": 6641730566036153,
+    "options": [
+      "Wuthering Heights",
+      "Jane Eyre",
+      "Pride and Prejudice",
+      "Sense and Sensibility"
+    ],
+    "question": "Quel roman suit l'histoire d'une jeune fille orpheline devenue gouvernante et son amour pour son employeur, Mr. Rochester ?"
+  },
+  {
+    "correctAnswer": "Harper Lee",
+    "id": 2440321712361411,
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "Harper Lee",
+      "Mark Twain"
+    ],
+    "question": "Qui est l'auteur du livre 'To Kill a Mockingbird' ?"
+  },
+  {
+    "correctAnswer": "Don Quichotte",
+    "id": 5197238364696595,
+    "options": [
+      "Les Misérables",
+      "Don Quichotte",
+      "Guerre et Paix",
+      "Le Comte de Monte-Cristo"
+    ],
+    "question": "Quel livre raconte l'histoire d'un chevalier idéaliste qui combat des moulins à vent qu'il croit être des géants ?"
+  },
+  {
+    "correctAnswer": "Brave New World",
+    "id": 1146103393154753,
+    "options": [
+      "1984",
+      "Brave New World",
+      "Fahrenheit 451",
+      "A Clockwork Orange"
+    ],
+    "question": "Dans quel livre la société est-elle divisée en castes et les gens sont-ils conditionnés pour être heureux avec leur sort ?"
+  },
+  {
+    "correctAnswer": "Gabriel Garcia Marquez",
+    "id": 8077343493819137,
+    "options": [
+      "Mario Vargas Llosa",
+      "Gabriel Garcia Marquez",
+      "Carlos Fuentes",
+      "Isabel Allende"
+    ],
+    "question": "Qui est l'auteur de 'Cent Ans de Solitude' ?"
+  },
+  {
+    "correctAnswer": "Virginia Woolf",
+    "id": 1253092035617035,
+    "options": [
+      "Emily Bronte",
+      "Virginia Woolf",
+      "Agatha Christie",
+      "Jane Austen"
+    ],
+    "question": "Qui est l'auteur de 'Mrs. Dalloway' ?"
+  },
+  {
+    "correctAnswer": "The Catcher in the Rye",
+    "id": 625231105529711,
+    "options": [
+      "To Kill a Mockingbird",
+      "The Catcher in the Rye",
+      "Of Mice and Men",
+      "The Great Gatsby"
+    ],
+    "question": "Quel roman suit l'histoire d'un adolescent rebelle, Holden Caulfield ?"
+  },
+  {
+    "correctAnswer": "Miguel de Cervantes",
+    "id": 2546727140617197,
+    "options": [
+      "Victor Hugo",
+      "Leo Tolstoy",
+      "Miguel de Cervantes",
+      "Fyodor Dostoevsky"
+    ],
+    "question": "Qui est l'auteur de 'Don Quichotte' ?"
+  },
+  {
+    "correctAnswer": "Ulysses",
+    "id": 7508154253343263,
+    "options": [
+      "Moby Dick",
+      "The Odyssey",
+      "Ulysses",
+      "The Iliad"
+    ],
+    "question": "Quel roman de James Joyce suit les pérégrinations de Leopold Bloom à travers Dublin ?"
+  },
+  {
+    "correctAnswer": "Mark Twain",
+    "id": 6766203822574711,
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "Mark Twain"
+    ],
+    "question": "Qui est l'auteur de 'Les Aventures de Tom Sawyer' ?"
+  },
+  {
+    "correctAnswer": "Les Misérables",
+    "id": 1865612595520207,
+    "options": [
+      "War and Peace",
+      "Don Quixote",
+      "The Count of Monte Cristo",
+      "Les Misérables"
+    ],
+    "question": "Quel roman de Victor Hugo suit l'histoire de Jean Valjean, un ancien bagnard, et de sa poursuite par l'inspecteur Javert ?"
+  },
+  {
+    "correctAnswer": "Fyodor Dostoevsky",
+    "id": 758674703661923,
+    "options": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Nikolai Gogol"
+    ],
+    "question": "Qui est l'auteur de 'Crime and Punishment' ?"
+  },
+  {
+    "correctAnswer": "Leo Tolstoy",
+    "id": 44261927355873,
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Nikolai Gogol"
+    ],
+    "question": "Qui est l'auteur de 'War and Peace' ?"
+  },
+  {
+    "correctAnswer": "The Great Gatsby",
+    "id": 2337090711822415,
+    "options": [
+      "To Kill a Mockingbird",
+      "Of Mice and Men",
+      "The Catcher in the Rye",
+      "The Great Gatsby"
+    ],
+    "question": "Quel roman de F. Scott Fitzgerald suit la vie de Jay Gatsby et son amour non partagé pour Daisy ?"
+  },
+  {
+    "correctAnswer": "Ernest Hemingway",
+    "id": 5429028552505269,
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Mark Twain"
+    ],
+    "question": "Qui est l'auteur de 'For Whom the Bell Tolls' ?"
+  },
+  {
+    "correctAnswer": "J.R.R. Tolkien",
+    "id": 5832552157363827,
+    "options": [
+      "George R.R. Martin",
+      "J.K. Rowling",
+      "C.S. Lewis",
+      "J.R.R. Tolkien"
+    ],
+    "question": "Qui est l'auteur de 'The Lord of the Rings' ?"
+  },
+  {
+    "correctAnswer": "Aldous Huxley",
+    "id": 302568865814705,
+    "options": [
+      "George Orwell",
+      "Ray Bradbury",
+      "Aldous Huxley",
+      "Philip K. Dick"
+    ],
+    "question": "Qui est l'auteur de 'Brave New World' ?"
+  },
+  {
+    "correctAnswer": "William Shakespeare",
+    "id": 5857639653830281,
+    "options": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "Ben Jonson",
+      "Thomas Kyd"
+    ],
+    "question": "Qui est l'auteur de 'Romeo and Juliet' ?"
+  },
+  {
+    "correctAnswer": "Moby Dick",
+    "id": 3326050525952943,
+    "options": [
+      "The Old Man and the Sea",
+      "Moby Dick",
+      "The Great Gatsby",
+      "To Kill a Mockingbird"
+    ],
+    "question": "Quel roman d'Herman Melville raconte la chasse obsessionnelle du capitaine Ahab pour une baleine blanche ?"
+  },
+  {
+    "correctAnswer": "Jane Austen",
+    "id": 3433746465889577,
+    "options": [
+      "Virginia Woolf",
+      "Emily Bronte",
+      "Agatha Christie",
+      "Jane Austen"
+    ],
+    "question": "Qui est l'auteur de 'Pride and Prejudice' ?"
+  },
+  {
+    "correctAnswer": "Charles Dickens",
+    "id": 6004650523073689,
+    "options": [
+      "Victor Hugo",
+      "Charles Dickens",
+      "Jane Austen",
+      "William Thackeray"
+    ],
+    "question": "Qui est l'auteur de 'A Tale of Two Cities' ?"
+  }
+]

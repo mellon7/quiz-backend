@@ -1,0 +1,332 @@
+[
+  {
+    "correctAnswer": "Eiichiro Oda",
+    "id": 7793896845085517,
+    "options": [
+      "Akira Toriyama",
+      "Masashi Kishimoto",
+      "Eiichiro Oda",
+      "Tite Kubo"
+    ],
+    "question": "Qui est le créateur du manga 'One Piece' ?"
+  },
+  {
+    "correctAnswer": "Goku",
+    "id": 2827378929155427,
+    "options": [
+      "Naruto",
+      "Ichigo",
+      "Luffy",
+      "Goku"
+    ],
+    "question": "Quel est le personnage principal du manga 'Dragon Ball' ?"
+  },
+  {
+    "correctAnswer": "Naruto",
+    "id": 2800704965156541,
+    "options": [
+      "Bleach",
+      "One Piece",
+      "Attack on Titan",
+      "Naruto"
+    ],
+    "question": "Dans quel manga le personnage de Sasuke Uchiha apparaît-il ?"
+  },
+  {
+    "correctAnswer": "Studio Ghibli",
+    "id": 6795927687344281,
+    "options": [
+      "Studio Pierrot",
+      "Toei Animation",
+      "Studio Ghibli",
+      "Madhouse"
+    ],
+    "question": "Quel studio a produit le film 'Mon Voisin Totoro' ?"
+  },
+  {
+    "correctAnswer": "1984",
+    "id": 5636453281528897,
+    "options": [
+      "1978",
+      "1984",
+      "1991",
+      "2000"
+    ],
+    "question": "En quelle année le manga 'Dragon Ball' a-t-il été publié pour la première fois ?"
+  },
+  {
+    "correctAnswer": "Tokyo Ghoul",
+    "id": 5915747063544883,
+    "options": [
+      "Attack on Titan",
+      "Bleach",
+      "Naruto",
+      "Tokyo Ghoul"
+    ],
+    "question": "Dans quel manga le personnage de Kaneki Ken apparaît-il ?"
+  },
+  {
+    "correctAnswer": "Astro Boy",
+    "id": 1392192373418859,
+    "options": [
+      "Dragon Ball",
+      "Astro Boy",
+      "Naruto",
+      "One Piece"
+    ],
+    "question": "Quel est considéré comme le premier anime diffusé à la télévision ?"
+  },
+  {
+    "correctAnswer": "One Punch Man",
+    "id": 690096672840391,
+    "options": [
+      "Bleach",
+      "One Punch Man",
+      "Naruto",
+      "One Piece"
+    ],
+    "question": "Dans quel manga le personnage de Saitama apparaît-il ?"
+  },
+  {
+    "correctAnswer": "Pikachu",
+    "id": 5668112989232913,
+    "options": [
+      "Pikachu",
+      "Squirtle",
+      "Charmander",
+      "Bulbasaur"
+    ],
+    "question": "Quel est le Pokémon principal de l'anime 'Pokémon' ?"
+  },
+  {
+    "correctAnswer": "Hunter x Hunter",
+    "id": 5215447669519819,
+    "options": [
+      "Naruto",
+      "Hunter x Hunter",
+      "One Piece",
+      "Dragon Ball"
+    ],
+    "question": "Dans quel manga le personnage de Gon Freecss apparaît-il ?"
+  },
+  {
+    "correctAnswer": "Détective Conan",
+    "id": 808000536534243,
+    "options": [
+      "One Piece",
+      "Naruto",
+      "Détective Conan",
+      "Bleach"
+    ],
+    "question": "Quel manga suit les aventures d'un détective sous l'apparence d'un enfant ?"
+  },
+  {
+    "correctAnswer": "Rumiko Takahashi",
+    "id": 8525129376098401,
+    "options": [
+      "Akira Toriyama",
+      "Rumiko Takahashi",
+      "Eiichiro Oda",
+      "Tite Kubo"
+    ],
+    "question": "Qui est le créateur du manga 'InuYasha' ?"
+  },
+  {
+    "correctAnswer": "Kyojin",
+    "id": 7288781948619555,
+    "options": [
+      "Akuma",
+      "Kyojin",
+      "Neko",
+      "Tenshi"
+    ],
+    "question": "Comment s'appellent les géants dans 'Attack on Titan' en japonais ?"
+  },
+  {
+    "correctAnswer": "Osamu Tezuka",
+    "id": 6534655859185357,
+    "options": [
+      "Hayao Miyazaki",
+      "Osamu Tezuka",
+      "Akira Toriyama",
+      "Masashi Kishimoto"
+    ],
+    "question": "Qui est surnommé 'le dieu du manga' ?"
+  },
+  {
+    "correctAnswer": "Hayao Miyazaki",
+    "id": 5746598419186019,
+    "options": [
+      "Osamu Tezuka",
+      "Hayao Miyazaki",
+      "Akira Toriyama",
+      "Eiichiro Oda"
+    ],
+    "question": "Qui est le réalisateur du film 'Le Voyage de Chihiro' ?"
+  },
+  {
+    "correctAnswer": "Shonen",
+    "id": 1505993976977509,
+    "options": [
+      "Shojo",
+      "Seinen",
+      "Shonen",
+      "Josei"
+    ],
+    "question": "Quel est le terme utilisé pour désigner les mangas destinés aux jeunes garçons ?"
+  },
+  {
+    "correctAnswer": "Spirited Away",
+    "id": 4402908366808503,
+    "options": [
+      "My Neighbor Totoro",
+      "Spirited Away",
+      "Princess Mononoke",
+      "Howl's Moving Castle"
+    ],
+    "question": "Quel film d'animation japonais a remporté un Oscar ?"
+  },
+  {
+    "correctAnswer": "Jojo's Bizarre Adventure",
+    "id": 194336878412079,
+    "options": [
+      "Naruto",
+      "One Piece",
+      "Dragon Ball",
+      "Jojo's Bizarre Adventure"
+    ],
+    "question": "Dans quel manga le personnage de Jotaro Kujo apparaît-il ?"
+  },
+  {
+    "correctAnswer": "Sailor Moon",
+    "id": 6254878736232323,
+    "options": [
+      "One Piece",
+      "Naruto",
+      "Bleach",
+      "Sailor Moon"
+    ],
+    "question": "Quel manga suit les aventures d'une jeune fille qui se transforme en justicière ?"
+  },
+  {
+    "correctAnswer": "Akira",
+    "id": 6463399793473013,
+    "options": [
+      "Ghost in the Shell",
+      "Akira",
+      "Princess Mononoke",
+      "My Neighbor Totoro"
+    ],
+    "question": "Quel film d'animation est souvent crédité pour avoir popularisé l'anime en Occident ?"
+  },
+  {
+    "correctAnswer": "Hajime Isayama",
+    "id": 1954333809687725,
+    "options": [
+      "Akira Toriyama",
+      "Masashi Kishimoto",
+      "Eiichiro Oda",
+      "Hajime Isayama"
+    ],
+    "question": "Qui est le créateur du manga 'Attack on Titan' ?"
+  },
+  {
+    "correctAnswer": "Gintama",
+    "id": 6665423354492689,
+    "options": [
+      "Naruto",
+      "One Piece",
+      "Dragon Ball",
+      "Gintama"
+    ],
+    "question": "Dans quel manga le personnage de Gintoki Sakata apparaît-il ?"
+  },
+  {
+    "correctAnswer": "Chopper",
+    "id": 3358683574814135,
+    "options": [
+      "Zoro",
+      "Nami",
+      "Sanji",
+      "Chopper"
+    ],
+    "question": "Qui est le docteur de l'équipage du Chapeau de paille dans 'One Piece' ?"
+  },
+  {
+    "correctAnswer": "Miyazaki",
+    "id": 3882999990322165,
+    "options": [
+      "Takahashi",
+      "Miyazaki",
+      "Tezuka",
+      "Oda"
+    ],
+    "question": "Quel est le nom de famille du créateur de 'My Neighbor Totoro' ?"
+  },
+  {
+    "correctAnswer": "Makoto Shinkai",
+    "id": 5232777320731099,
+    "options": [
+      "Hayao Miyazaki",
+      "Osamu Tezuka",
+      "Akira Toriyama",
+      "Makoto Shinkai"
+    ],
+    "question": "Qui est le réalisateur du film 'Your Name' ?"
+  },
+  {
+    "correctAnswer": "Tokyo",
+    "id": 7536176365132245,
+    "options": [
+      "Osaka",
+      "Tokyo",
+      "Kyoto",
+      "Hiroshima"
+    ],
+    "question": "Dans quelle ville se déroule principalement l'action de 'Tokyo Ghoul' ?"
+  },
+  {
+    "correctAnswer": "7",
+    "id": 4226464960841987,
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "question": "Combien de Dragon Balls doit-on rassembler pour invoquer Shenron ?"
+  },
+  {
+    "correctAnswer": "Your Lie in April",
+    "id": 4366348386672159,
+    "options": [
+      "One Piece",
+      "Naruto",
+      "Your Lie in April",
+      "Bleach"
+    ],
+    "question": "Dans quel anime le personnage de Kousei Arima apparaît-il ?"
+  },
+  {
+    "correctAnswer": "My Hero Academia",
+    "id": 7580866198647065,
+    "options": [
+      "Bleach",
+      "My Hero Academia",
+      "Naruto",
+      "One Piece"
+    ],
+    "question": "Dans quel manga le personnage de Izuku Midoriya apparaît-il ?"
+  },
+  {
+    "correctAnswer": "Japon",
+    "id": 8947977381971785,
+    "options": [
+      "Chine",
+      "Corée du Sud",
+      "États-Unis",
+      "Japon"
+    ],
+    "question": "Dans quel pays le manga a-t-il été inventé ?"
+  }
+]

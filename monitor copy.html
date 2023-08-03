@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memory Log Line Charts</title>
+    <style>
+        body {
+            background-color: #111;
+            color: #fff;
+            font-family: Arial, sans-serif;
+        }
+
+        .chart-container {
+            width: 80%;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Memory Log Line Charts</h1>
+    <div class="chart-container">
+        <canvas id="rss-chart"></canvas>
+    </div>
+    <div class="chart-container">
+        <canvas id="heap-total-chart"></canvas>
+    </div>
+    <div class="chart-container">
+        <canvas id="heap-used-chart"></canvas>
+    </div>
+    <div class="chart-container">
+        <canvas id="external-chart"></canvas>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script >document.addEventListener('DOMContentLoaded', function () {
+        fetch('memory_log.txt')
+            .then(response => response.text())
+            .then(data => processData(data))
+            .catch(error => console.error(error));
+    });
+    
+    function processData(data) {
+        const logs = data.split('Process Memory Usage:').slice(1);
+        const memoryData = logs.map(log => {
+            const values = log.match(/RSS: ([\d.]+) MB\n\s+Heap Total: ([\d.]+) MB\n\s+Heap Used: ([\d.]+) MB\n\s+External: ([\d.]+) MB/);
+            return {
+                rss: parseFloat(values[1]),
+                heapTotal: parseFloat(values[2]),
+                heapUsed: parseFloat(values[3]),
+                external: parseFloat(values[4])
+            };
+        });
+    
+        displayCharts(memoryData);
+    }
+    
+    function displayCharts(data) {
+        const dates = Array.from({ length: data.length }, (_, i) => `Log ${i + 1}`);
+        const rssData = data.map(log => log.rss);
+        const heapTotalData = data.map(log => log.heapTotal);
+        const heapUsedData = data.map(log => log.heapUsed);
+        const externalData = data.map(log => log.external);
+    
+        displayChart('rss-chart', 'RSS (MB)', dates, rssData);
+        displayChart('heap-total-chart', 'Heap Total (MB)', dates, heapTotalData);
+        displayChart('heap-used-chart', 'Heap Used (MB)', dates, heapUsedData);
+        displayChart('external-chart', 'External (MB)', dates, externalData);
+    }
+    
+    function displayChart(chartId, label, labels, data) {
+        const ctx = document.getElementById(chartId).getContext('2d');
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [
+                    {
+                        label: label,
+                        borderColor: getRandomColor(),
+                        backgroundColor: 'rgba(255, 255, 255, 0.2)',
+                        data: data,
+                    },
+                ],
+            },
+            options: {
+                scales: {
+                    y: {
+                        type: 'logarithmic',
+                        min: 1,
+                    },
+                },
+            },
+        });
+    }
+    
+    function getRandomColor() {
+        const letters = '0123456789ABCDEF';
+        let color = '#';
+        for (let i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+    }
+    </script>
+</body>
+
+</html>

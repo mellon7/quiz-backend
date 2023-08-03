@@ -1,0 +1,332 @@
+[
+  {
+    "correctAnswer": "Zeus",
+    "id": 6177454031583191,
+    "options": [
+      "Poseidon",
+      "Hades",
+      "Ares",
+      "Zeus"
+    ],
+    "question": "Qui est le roi des dieux dans la mythologie grecque ?"
+  },
+  {
+    "correctAnswer": "Thor",
+    "id": 8277823540140321,
+    "options": [
+      "Odin",
+      "Loki",
+      "Freya",
+      "Thor"
+    ],
+    "question": "Quel dieu de la mythologie nordique est associé au tonnerre ?"
+  },
+  {
+    "correctAnswer": "Anubis",
+    "id": 8942754054746635,
+    "options": [
+      "Ra",
+      "Osiris",
+      "Anubis",
+      "Horus"
+    ],
+    "question": "Quel dieu de la mythologie égyptienne est associé à la momification et l'au-delà ?"
+  },
+  {
+    "correctAnswer": "Hercule",
+    "id": 8998164702171643,
+    "options": [
+      "Jason",
+      "Perseus",
+      "Achilles",
+      "Hercule"
+    ],
+    "question": "Qui a accompli douze travaux dans la mythologie grecque ?"
+  },
+  {
+    "correctAnswer": "Aphrodite",
+    "id": 3081111114732733,
+    "options": [
+      "Artemis",
+      "Athena",
+      "Hera",
+      "Aphrodite"
+    ],
+    "question": "Qui est la déesse de l'amour dans la mythologie grecque ?"
+  },
+  {
+    "correctAnswer": "Fenrir",
+    "id": 2883034352661153,
+    "options": [
+      "Loki",
+      "Odin",
+      "Thor",
+      "Fenrir"
+    ],
+    "question": "Quel loup géant de la mythologie nordique est destiné à dévorer Odin lors du Ragnarok ?"
+  },
+  {
+    "correctAnswer": "Méduse",
+    "id": 315629691639575,
+    "options": [
+      "Méduse",
+      "Minotaure",
+      "Centaure",
+      "Sphinx"
+    ],
+    "question": "Quel monstre de la mythologie grecque a des serpents à la place des cheveux ?"
+  },
+  {
+    "correctAnswer": "Yggdrasil",
+    "id": 5998578906253089,
+    "options": [
+      "Midgard",
+      "Asgard",
+      "Valhalla",
+      "Yggdrasil"
+    ],
+    "question": "Comment s'appelle l'arbre monde dans la mythologie nordique ?"
+  },
+  {
+    "correctAnswer": "Cerbère",
+    "id": 5160968196379195,
+    "options": [
+      "Minotaure",
+      "Hydre",
+      "Cerbère",
+      "Sphinx"
+    ],
+    "question": "Comment s'appelle le chien à trois têtes gardant l'entrée des Enfers dans la mythologie grecque ?"
+  },
+  {
+    "correctAnswer": "Horus",
+    "id": 3358766865673791,
+    "options": [
+      "Anubis",
+      "Osiris",
+      "Seth",
+      "Horus"
+    ],
+    "question": "Quel dieu de la mythologie égyptienne est souvent représenté avec une tête de faucon ?"
+  },
+  {
+    "correctAnswer": "Pégase",
+    "id": 3466283082778817,
+    "options": [
+      "Minotaure",
+      "Hydre",
+      "Pégase",
+      "Cerbère"
+    ],
+    "question": "Comment s'appelle le cheval ailé de la mythologie grecque ?"
+  },
+  {
+    "correctAnswer": "Freya",
+    "id": 8706853041145271,
+    "options": [
+      "Loki",
+      "Odin",
+      "Thor",
+      "Freya"
+    ],
+    "question": "Qui est la déesse de l'amour dans la mythologie nordique ?"
+  },
+  {
+    "correctAnswer": "Valhalla",
+    "id": 5308835141265409,
+    "options": [
+      "Asgard",
+      "Midgard",
+      "Helheim",
+      "Valhalla"
+    ],
+    "question": "Comment s'appelle le hall où les guerriers tombés au combat sont accueillis dans la mythologie nordique ?"
+  },
+  {
+    "correctAnswer": "Poseidon",
+    "id": 8953451631029391,
+    "options": [
+      "Zeus",
+      "Hades",
+      "Ares",
+      "Poseidon"
+    ],
+    "question": "Qui est le dieu de la mer dans la mythologie grecque ?"
+  },
+  {
+    "correctAnswer": "Loki",
+    "id": 4201282382108507,
+    "options": [
+      "Thor",
+      "Odin",
+      "Freya",
+      "Loki"
+    ],
+    "question": "Quel dieu de la mythologie nordique est connu pour être un trompeur ?"
+  },
+  {
+    "correctAnswer": "Atlas",
+    "id": 7043875487645763,
+    "options": [
+      "Prometheus",
+      "Atlas",
+      "Hercules",
+      "Perseus"
+    ],
+    "question": "Quel titan de la mythologie grecque a été condamné à porter le ciel sur ses épaules ?"
+  },
+  {
+    "correctAnswer": "Râ",
+    "id": 2723833841459887,
+    "options": [
+      "Anubis",
+      "Osiris",
+      "Râ",
+      "Horus"
+    ],
+    "question": "Qui est le dieu du Soleil dans la mythologie égyptienne ?"
+  },
+  {
+    "correctAnswer": "Valkyries",
+    "id": 3238164660755609,
+    "options": [
+      "Valkyries",
+      "Norns",
+      "Jotuns",
+      "Einherjar"
+    ],
+    "question": "Comment s'appellent les guerrières divines qui choisissent qui mourra au combat dans la mythologie nordique ?"
+  },
+  {
+    "correctAnswer": "Phoenix",
+    "id": 7332760893162715,
+    "options": [
+      "Sphinx",
+      "Griffin",
+      "Phoenix",
+      "Manticore"
+    ],
+    "question": "Quel oiseau mythologique est connu pour renaître de ses cendres ?"
+  },
+  {
+    "correctAnswer": "Hades",
+    "id": 1878836367171023,
+    "options": [
+      "Zeus",
+      "Poseidon",
+      "Hades",
+      "Hermes"
+    ],
+    "question": "Qui est le dieu des enfers dans la mythologie grecque ?"
+  },
+  {
+    "correctAnswer": "Isis",
+    "id": 7419201903184899,
+    "options": [
+      "Isis",
+      "Nephthys",
+      "Hathor",
+      "Sekhmet"
+    ],
+    "question": "Qui est la déesse de la maternité et de la magie dans la mythologie égyptienne ?"
+  },
+  {
+    "correctAnswer": "Heimdall",
+    "id": 3929676603126007,
+    "options": [
+      "Thor",
+      "Odin",
+      "Heimdall",
+      "Loki"
+    ],
+    "question": "Quel dieu de la mythologie nordique est le gardien du pont Bifrost ?"
+  },
+  {
+    "correctAnswer": "Centaur",
+    "id": 1304025984774827,
+    "options": [
+      "Minotaur",
+      "Cyclops",
+      "Siren",
+      "Centaur"
+    ],
+    "question": "Quelle créature de la mythologie grecque a le haut du corps d'un homme et le bas du corps d'un cheval ?"
+  },
+  {
+    "correctAnswer": "Bastet",
+    "id": 5325721707384957,
+    "options": [
+      "Anubis",
+      "Osiris",
+      "Bastet",
+      "Seth"
+    ],
+    "question": "Quelle déesse de la mythologie égyptienne est souvent représentée avec une tête de lionne ou de chatte ?"
+  },
+  {
+    "correctAnswer": "Mjölnir",
+    "id": 4153931056844451,
+    "options": [
+      "Gungnir",
+      "Mjölnir",
+      "Draupnir",
+      "Fenrir"
+    ],
+    "question": "Comment s'appelle le marteau de Thor dans la mythologie nordique ?"
+  },
+  {
+    "correctAnswer": "Sphinx",
+    "id": 1200800661289153,
+    "options": [
+      "Cyclops",
+      "Minotaur",
+      "Siren",
+      "Sphinx"
+    ],
+    "question": "Quelle créature de la mythologie grecque pose des énigmes mortelles aux voyageurs ?"
+  },
+  {
+    "correctAnswer": "Vishnu",
+    "id": 1373222860366011,
+    "options": [
+      "Shiva",
+      "Vishnu",
+      "Brahma",
+      "Ganesha"
+    ],
+    "question": "Qui est le dieu preservateur dans la trinité hindoue ?"
+  },
+  {
+    "correctAnswer": "Valhalla",
+    "id": 4076554749406147,
+    "options": [
+      "Midgard",
+      "Helheim",
+      "Asgard",
+      "Valhalla"
+    ],
+    "question": "Où vont les guerriers honorables morts au combat dans la mythologie nordique ?"
+  },
+  {
+    "correctAnswer": "Odin",
+    "id": 6006954138290783,
+    "options": [
+      "Thor",
+      "Loki",
+      "Odin",
+      "Freyr"
+    ],
+    "question": "Qui est le dieu suprême dans la mythologie nordique ?"
+  },
+  {
+    "correctAnswer": "Maât",
+    "id": 1970120753027987,
+    "options": [
+      "Anubis",
+      "Horus",
+      "Isis",
+      "Maât"
+    ],
+    "question": "Quelle déesse de la mythologie égyptienne représente la vérité, la justice et l'ordre cosmique ?"
+  }
+]
