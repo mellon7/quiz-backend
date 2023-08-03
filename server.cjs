@@ -307,17 +307,25 @@ function isJsonString(str) {
 }
 
 app.get('/api/newSession', (req, res, next) => {
+  console.log('Before regenerate:', req.sessionID); // Log before regenerating
+  
   req.session.regenerate((err) => {
     if (err) {
       return res.status(500).json({ error: 'Failed to create session' });
     }
+    
     req.session.sessionId = req.sessionID;
     sessionScoreSubmitted[req.sessionID] = false;
+
+    console.log('After regenerate - Session ID:', req.sessionID); // Log after regenerating
+    console.log('After regenerate - Stored Session ID:', req.session.sessionId); // Log stored session ID
+    
     next();
   });
 }, (req, res) => {
   res.json({ sessionId: req.session.sessionId });
 });
+
 
 app.get('/api/totalQuestions', (req, res) => {
   res.json({ totalQuestions });
