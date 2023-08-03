@@ -94,7 +94,9 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'https://quiz-frontend-vhra.vercel.app',
-    'https://quiz-frontend-rose.vercel.app'
+    'https://quiz-frontend-rose.vercel.app',
+    'http://localhost:3000',
+    
   ],
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true
@@ -109,7 +111,7 @@ app.use(
       maxAge: 24 * 60 * 60 * 1000,
       sameSite: 'lax',
       httpOnly: true,
-      secure: true,
+      secure: false,
     },
   })
 );
