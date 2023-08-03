@@ -465,6 +465,10 @@ app.post('/api/answer', validateSession, async (req, res) => {
     }
   }
 
+  if (!req.session || !req.session.questions) {
+    // Handle the error or return a response indicating the session is invalid
+    return;
+  }
   const question = req.session.questions.find(q => q.id === questionId);
   if (!question) {
     console.log('No matching question in session');
