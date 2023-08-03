@@ -94,7 +94,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'https://quiz-frontend-vhra.vercel.app',
-    'http://localhost:3000'
+    'https://quiz-frontend-rose.vercel.app'
   ],
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true

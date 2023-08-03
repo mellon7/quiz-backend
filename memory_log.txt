@@ -1068,3 +1068,13 @@ Process Memory Usage:
   Heap Total: 32.58 MB
   Heap Used: 30.79 MB
   External: 1.26 MB
+Process Memory Usage:
+  RSS: 71.20 MB
+  Heap Total: 26.31 MB
+  Heap Used: 24.26 MB
+  External: 1.12 MB
+Process Memory Usage:
+  RSS: 70.34 MB
+  Heap Total: 25.81 MB
+  Heap Used: 23.98 MB
+  External: 1.12 MB
