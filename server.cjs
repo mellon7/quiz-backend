@@ -227,15 +227,24 @@ function countTotalQuestions() {
 
 const validateSession = (req, res, next) => {
   const sessionId = req.query.sessionId;
-  console.log('Session ID:', sessionId);
-  console.log('Stored Session ID:', req.sessionID); 
+  console.log('Received Session ID:', sessionId);
+  console.log('Stored Session ID:', req.sessionID);
 
   if (!sessionId || sessionId !== req.sessionID) {
-    console.log('Invalid session');
-    return res.status(403).json({ error: 'Invalid session' });
+    console.log('Session mismatch, regenerating session');
+    req.session.regenerate((err) => {
+      if (err) {
+        console.log('Error regenerating session:', err);
+        return res.status(500).json({ error: 'Internal server error' });
+      }
+      console.log('After regenerate - Session ID:', req.sessionID);
+      next();
+    });
+  } else {
+    next();
   }
-  next();
 };
+
 app.get('/api/user/:uid', async (req, res) => {
   const { uid } = req.params;
 
