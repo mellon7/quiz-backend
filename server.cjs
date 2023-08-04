@@ -109,7 +109,13 @@ app.use(
     secret: secretKey,
     resave: true,
     saveUninitialized: true,
-   
+    cookie: {
+      proxy: true,
+      maxAge: 24 * 60 * 60 * 1000,
+      sameSite: 'lax',
+      httpOnly: true,
+      secure: false,
+    },
   })
 );
 
