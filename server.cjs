@@ -108,7 +108,7 @@ app.use(
   session({
     secret: secretKey,
     resave: true,
-    saveUninitialized: false,
+    saveUninitialized: true,
     cookie: {
       maxAge: 24 * 60 * 60 * 1000,
       sameSite: 'lax',
@@ -118,7 +118,6 @@ app.use(
   })
 );
 
-app.enable('trust proxy')
 
 let idSet = new Set();
 let allQuestions = [];
