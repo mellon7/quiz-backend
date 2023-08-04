@@ -102,6 +102,8 @@ app.use(cors({
   credentials: true
 }));
 
+
+
 app.use(
   session({
     secret: secretKey,
@@ -110,11 +112,13 @@ app.use(
     cookie: {
       maxAge: 24 * 60 * 60 * 1000,
       sameSite: 'lax',
-      httpOnly: false,
+      httpOnly: true,
       secure: false,
     },
   })
 );
+
+app.enable('trust proxy')
 
 let idSet = new Set();
 let allQuestions = [];
@@ -465,10 +469,6 @@ app.post('/api/answer', validateSession, async (req, res) => {
     }
   }
 
-  if (!req.session || !req.session.questions) {
-    // Handle the error or return a response indicating the session is invalid
-    return;
-  }
   const question = req.session.questions.find(q => q.id === questionId);
   if (!question) {
     console.log('No matching question in session');
