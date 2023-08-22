@@ -680,5 +680,2073 @@
       "9 sets gagnants"
     ],
     "question": "Quelle est la durée réglementaire d'un match de tennis en Grand Chelem ?"
+  },
+  {
+    "correctAnswer": "Michael Jordan",
+    "id": 2763288392656113,
+    "options": [
+      "LeBron James",
+      "Kobe Bryant",
+      "Michael Jordan",
+      "Magic Johnson"
+    ],
+    "question": "Quel joueur de basketball a été surnommé 'His Airness' ?"
+  },
+  {
+    "correctAnswer": "Pelé",
+    "id": 1234567890123452,
+    "options": [
+      "Diego Maradona",
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Pelé"
+    ],
+    "question": "Quel footballeur a marqué trois fois lors de finales de la Coupe du Monde de la FIFA ?"
+  },
+  {
+    "correctAnswer": "Danse de la pluie",
+    "id": 7093259550542831,
+    "options": [
+      "Saut du poisson",
+      "Danse de la pluie",
+      "Saut de la grenouille",
+      "Pas du vent"
+    ],
+    "question": "Quelle célébration de victoire est associée au pilote de Formule 1, Ayrton Senna ?"
+  },
+  {
+    "correctAnswer": "Le Fosbury Flop",
+    "id": 2042012151293831,
+    "options": [
+      "Le saut périlleux",
+      "Le Fosbury Flop",
+      "La rotation inversée",
+      "Le saut twist"
+    ],
+    "question": "Quelle technique révolutionnaire de saut en hauteur a été popularisée par Dick Fosbury dans les années 1960 ?"
+  },
+  {
+    "correctAnswer": "Curling",
+    "id": 1088833187248983,
+    "options": [
+      "Bobsleigh",
+      "Curling",
+      "Patinage artistique",
+      "Ski de fond"
+    ],
+    "question": "Quel sport d'hiver implique des pierres lourdes, des balais et une cible de glace ?"
+  },
+  {
+    "correctAnswer": "All Blacks",
+    "id": 4415890328028355,
+    "options": [
+      "Wallabies",
+      "Springboks",
+      "Lions britanniques et irlandais",
+      "All Blacks"
+    ],
+    "question": "Quelle équipe nationale de rugby est célèbre pour sa danse traditionnelle, le Haka ?"
+  },
+  {
+    "correctAnswer": "Rafael Nadal",
+    "id": 5897969101749711,
+    "options": [
+      "Roger Federer",
+      "Novak Djokovic",
+      "Andy Murray",
+      "Rafael Nadal"
+    ],
+    "question": "Quel joueur de tennis est surnommé 'Le roi de la terre battue' ?"
+  },
+  {
+    "correctAnswer": "Paume",
+    "id": 2945304465064899,
+    "options": [
+      "Paume",
+      "Pétanque",
+      "Polo",
+      "Padel"
+    ],
+    "question": "Quel ancien sport est l'ancêtre du tennis moderne ?"
+  },
+  {
+    "correctAnswer": "Le cricket",
+    "id": 4956379881318683,
+    "options": [
+      "Le rugby",
+      "Le polo",
+      "Le cricket",
+      "Le snooker"
+    ],
+    "question": "Quel sport utilise des termes comme 'boulingrin', 'guichet' et 'century' ?"
+  },
+  {
+    "correctAnswer": "8",
+    "id": 3080155697790679,
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "question": "Combien de joueurs y a-t-il dans une équipe de polo sur gazon ?"
+  },
+  {
+    "correctAnswer": "Muhammad Ali",
+    "id": 7108820561533597,
+    "options": [
+      "Mike Tyson",
+      "Muhammad Ali",
+      "Joe Frazier",
+      "George Foreman"
+    ],
+    "question": "Quel boxeur a prononcé la célèbre phrase 'Vole comme un papillon, pique comme une abeille' ?"
+  },
+  {
+    "correctAnswer": "Biathlon",
+    "id": 3892503036584839,
+    "options": [
+      "Triathlon",
+      "Biathlon",
+      "Decathlon",
+      "Heptathlon"
+    ],
+    "question": "Quel sport combine le ski de fond et le tir à la carabine ?"
+  },
+  {
+    "correctAnswer": "Échecs",
+    "id": 8457334275534023,
+    "options": [
+      "Go",
+      "Dames",
+      "Échecs",
+      "Mahjong"
+    ],
+    "question": "Dans quel jeu peut-on trouver une ouverture appelée 'La défense sicilienne' ?"
+  },
+  {
+    "correctAnswer": "Pugilat",
+    "id": 7127728362550823,
+    "options": [
+      "Lancer du javelot",
+      "Pugilat",
+      "Course de chars",
+      "Lutte"
+    ],
+    "question": "Quel sport ancien grec est considéré comme l'ancêtre de la boxe moderne ?"
+  },
+  {
+    "correctAnswer": "La France",
+    "id": 2589862541944811,
+    "options": [
+      "L'Angleterre",
+      "L'Italie",
+      "L'Allemagne",
+      "La France"
+    ],
+    "question": "Quel pays a accueilli les Jeux Olympiques d'hiver de 1992 à Albertville ?"
+  },
+  {
+    "correctAnswer": "Le golf",
+    "id": 1405820797358499,
+    "options": [
+      "Le tennis",
+      "Le badminton",
+      "Le golf",
+      "Le cricket"
+    ],
+    "question": "Dans quel sport peut-on entendre le terme 'birdie' ?"
+  },
+  {
+    "correctAnswer": "La Jamaïque",
+    "id": 4702933269699279,
+    "options": [
+      "La Norvège",
+      "Le Canada",
+      "La Suisse",
+      "La Jamaïque"
+    ],
+    "question": "Quel pays a surpris le monde avec son équipe de bobsleigh aux Jeux Olympiques d'hiver de 1988 ?"
+  },
+  {
+    "correctAnswer": "Le sumo",
+    "id": 8618103498576077,
+    "options": [
+      "Le kendo",
+      "Le karaté",
+      "Le judo",
+      "Le sumo"
+    ],
+    "question": "Quel sport traditionnel japonais se déroule dans un cercle appelé 'dohyo' ?"
+  },
+  {
+    "correctAnswer": "La Belgique",
+    "id": 5910059509412623,
+    "options": [
+      "La France",
+      "L'Italie",
+      "Les Pays-Bas",
+      "La Belgique"
+    ],
+    "question": "De quel pays provient le cycliste Eddy Merckx, considéré comme l'un des plus grands coureurs de tous les temps ?"
+  },
+  {
+    "correctAnswer": "Le hockey sur gazon",
+    "id": 3596436185777071,
+    "options": [
+      "Le hockey sur glace",
+      "Le hockey sur gazon",
+      "Le polo sur gazon",
+      "Le rugby sur gazon"
+    ],
+    "question": "Quel sport nécessite un ballon dur et plat et est joué sur gazon avec des crosse courbées ?"
+  },
+  {
+    "correctAnswer": "Sebastian Vettel",
+    "id": 2234567890123451,
+    "options": [
+      "Fernando Alonso",
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Nico Rosberg"
+    ],
+    "question": "Quel pilote de Formule 1 a remporté quatre championnats du monde consécutifs de 2010 à 2013 ?"
+  },
+  {
+    "correctAnswer": "7",
+    "id": 1271597128027973,
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "question": "Combien de joueurs composent une équipe de rugby à sept ?"
+  },
+  {
+    "correctAnswer": "La planche à voile",
+    "id": 2234567890123453,
+    "options": [
+      "Le surf",
+      "Le kitesurf",
+      "La planche à voile",
+      "Le paddle"
+    ],
+    "question": "Quel sport aquatique combine les éléments du surf et de la voile ?"
+  },
+  {
+    "correctAnswer": "Pierre de Coubertin",
+    "id": 2234567890123454,
+    "options": [
+      "Henri Didon",
+      "Albert Londres",
+      "Pierre de Coubertin",
+      "Jean Borotra"
+    ],
+    "question": "Qui est considéré comme le rénovateur des Jeux Olympiques modernes ?"
+  },
+  {
+    "correctAnswer": "Marathon",
+    "id": 2234567890123455,
+    "options": [
+      "100m",
+      "800m",
+      "10 000m",
+      "Marathon"
+    ],
+    "question": "Quelle épreuve d'athlétisme correspond à une distance de 42,195 km ?"
+  },
+  {
+    "correctAnswer": "Le pétanque",
+    "id": 2234567890123456,
+    "options": [
+      "Le billard",
+      "Le bowling",
+      "Le curling",
+      "Le pétanque"
+    ],
+    "question": "Quel jeu consiste à lancer des boules métalliques afin qu'elles se rapprochent le plus d'une petite balle en bois appelée 'cochonnet' ?"
+  },
+  {
+    "correctAnswer": "Handball",
+    "id": 2234567890123457,
+    "options": [
+      "Volleyball",
+      "Basketball",
+      "Handball",
+      "Water-polo"
+    ],
+    "question": "Dans quel sport deux équipes de sept joueurs s'affrontent pour marquer dans le but adverse avec leurs mains ?"
+  },
+  {
+    "correctAnswer": "Stade de France",
+    "id": 2234567890123458,
+    "options": [
+      "Parc des Princes",
+      "Stade de France",
+      "Stade Vélodrome",
+      "Stade Gerland"
+    ],
+    "question": "Quel stade a été construit pour la Coupe du Monde de football de 1998 en France ?"
+  },
+  {
+    "correctAnswer": "L'escrime",
+    "id": 2234567890123459,
+    "options": [
+      "L'archerie",
+      "Le tir à l'arc",
+      "L'escrime",
+      "La boxe"
+    ],
+    "question": "Quel sport utilise des armes blanches comme le fleuret, l'épée et le sabre pour marquer des points ?"
+  },
+  {
+    "correctAnswer": "Steffi Graf",
+    "id": 2234567890123460,
+    "options": [
+      "Martina Navratilova",
+      "Serena Williams",
+      "Maria Sharapova",
+      "Steffi Graf"
+    ],
+    "question": "Quelle joueuse de tennis a réalisé le Grand Chelem doré en remportant les quatre tournois du Grand Chelem et la médaille d'or olympique la même année ?"
+  },
+  {
+    "correctAnswer": "Le bobsleigh",
+    "id": 2234567890123461,
+    "options": [
+      "Le ski alpin",
+      "Le bobsleigh",
+      "Le patinage de vitesse",
+      "Le biathlon"
+    ],
+    "question": "Dans quel sport d'hiver les équipes descendent une piste glacée dans un traîneau ?"
+  },
+  {
+    "correctAnswer": "Le saut à la perche",
+    "id": 2234567890123462,
+    "options": [
+      "Le saut en longueur",
+      "Le triple saut",
+      "Le saut à la perche",
+      "Le saut en hauteur"
+    ],
+    "question": "Dans quelle épreuve d'athlétisme les athlètes utilisent-ils une longue perche pour sauter par-dessus une barre ?"
+  },
+  {
+    "correctAnswer": "Tir à l'arc",
+    "id": 2234567890123463,
+    "options": [
+      "Biathlon",
+      "Tir à l'arc",
+      "Tir sportif",
+      "Javelot"
+    ],
+    "question": "Quel sport a été pratiqué par des personnages historiques comme Guillaume Tell et Robin des Bois ?"
+  },
+  {
+    "correctAnswer": "Tiger Woods",
+    "id": 2234567890123464,
+    "options": [
+      "Jack Nicklaus",
+      "Rory McIlroy",
+      "Phil Mickelson",
+      "Tiger Woods"
+    ],
+    "question": "Quel golfeur a remporté 15 tournois du Grand Chelem au cours de sa carrière jusqu'en 2019 ?"
+  },
+  {
+    "correctAnswer": "Le skeleton",
+    "id": 2234567890123465,
+    "options": [
+      "Le bobsleigh",
+      "Le luge",
+      "Le skeleton",
+      "Le snowboard"
+    ],
+    "question": "Dans quel sport d'hiver les athlètes descendent une piste glacée tête la première sur un petit traîneau ?"
+  },
+  {
+    "correctAnswer": "La lutte",
+    "id": 2234567890123466,
+    "options": [
+      "La boxe",
+      "Le judo",
+      "La lutte",
+      "Le MMA"
+    ],
+    "question": "Quel sport a été pratiqué lors des premiers Jeux Olympiques antiques et consiste à faire tomber son adversaire au sol ?"
+  },
+  {
+    "correctAnswer": "Usain Bolt",
+    "id": 2234567890123467,
+    "options": [
+      "Carl Lewis",
+      "Jesse Owens",
+      "Michael Johnson",
+      "Usain Bolt"
+    ],
+    "question": "Qui détient le record du monde du 100m avec un temps de 9,58 secondes ?"
+  },
+  {
+    "correctAnswer": "Le patinage artistique",
+    "id": 2234567890123468,
+    "options": [
+      "Le patinage de vitesse",
+      "Le hockey sur glace",
+      "Le patinage artistique",
+      "Le curling"
+    ],
+    "question": "Quel sport d'hiver est jugé sur la base de routines chorégraphiées effectuées sur glace ?"
+  },
+  {
+    "correctAnswer": "Le baseball",
+    "id": 2234567890123469,
+    "options": [
+      "Le cricket",
+      "Le baseball",
+      "Le softball",
+      "Le rounders"
+    ],
+    "question": "Dans quel sport les joueurs peuvent-ils réaliser un 'grand chelem' en marquant quatre points sur un seul coup ?"
+  },
+  {
+    "correctAnswer": "Le water-polo",
+    "id": 2234567890123470,
+    "options": [
+      "Le plongeon",
+      "La natation synchronisée",
+      "Le water-polo",
+      "La natation"
+    ],
+    "question": "Dans quel sport aquatique deux équipes s'affrontent pour marquer des buts en lançant une balle dans le but adverse ?"
+  },
+  {
+    "correctAnswer": "Vincent Luis",
+    "id": 3234567890123451,
+    "options": [
+      "Alistair Brownlee",
+      "Javier Gómez Noya",
+      "Vincent Luis",
+      "Mario Mola"
+    ],
+    "question": "Quel triathlète français a remporté le titre de champion du monde ITU en 2019 ?"
+  },
+  {
+    "correctAnswer": "Le kayak",
+    "id": 3234567890123452,
+    "options": [
+      "Le canoë",
+      "Le kayak",
+      "Le rafting",
+      "L'aviron"
+    ],
+    "question": "Dans quel sport nautique les participants utilisent une pagaie double pour avancer ?"
+  },
+  {
+    "correctAnswer": "Le taekwondo",
+    "id": 8055662732265199,
+    "options": [
+      "Le karaté",
+      "Le judo",
+      "Le kung fu",
+      "Le taekwondo"
+    ],
+    "question": "Quel art martial d'origine coréenne se traduit littéralement par 'la voie du pied et du poing' ?"
+  },
+  {
+    "correctAnswer": "Le Real Madrid",
+    "id": 3234567890123454,
+    "options": [
+      "Le FC Barcelone",
+      "Le Real Madrid",
+      "L'Atletico Madrid",
+      "Le FC Séville"
+    ],
+    "question": "Quel club de football espagnol a remporté la Ligue des Champions de l'UEFA le plus de fois jusqu'en 2021 ?"
+  },
+  {
+    "correctAnswer": "Le pentathlon moderne",
+    "id": 3234567890123455,
+    "options": [
+      "Le triathlon",
+      "Le décathlon",
+      "L'heptathlon",
+      "Le pentathlon moderne"
+    ],
+    "question": "Quelle épreuve olympique combine la natation, l'escrime, l'équitation, la course à pied et le tir ?"
+  },
+  {
+    "correctAnswer": "La Corée du Sud",
+    "id": 3234567890123456,
+    "options": [
+      "La Chine",
+      "Le Japon",
+      "La Corée du Sud",
+      "L'Inde"
+    ],
+    "question": "Quel pays est traditionnellement dominant dans le sport du tir à l'arc aux Jeux Olympiques ?"
+  },
+  {
+    "correctAnswer": "Les Golden State Warriors",
+    "id": 3234567890123457,
+    "options": [
+      "Les Los Angeles Lakers",
+      "Les Chicago Bulls",
+      "Les Miami Heat",
+      "Les Golden State Warriors"
+    ],
+    "question": "Quelle équipe de NBA a remporté trois titres en quatre ans entre 2015 et 2018 ?"
+  },
+  {
+    "correctAnswer": "Les All Blacks",
+    "id": 3234567890123458,
+    "options": [
+      "Les Wallabies",
+      "Les Springboks",
+      "Les All Blacks",
+      "Les Pumas"
+    ],
+    "question": "Quelle équipe nationale de rugby a remporté la Coupe du Monde à trois reprises, en 1987, 2011 et 2015 ?"
+  },
+  {
+    "correctAnswer": "Le patinage de vitesse",
+    "id": 3234567890123459,
+    "options": [
+      "Le patinage artistique",
+      "Le hockey sur glace",
+      "Le patinage de vitesse",
+      "Le curling"
+    ],
+    "question": "Dans quel sport d'hiver les athlètes font des tours sur une piste ovale pour terminer le plus rapidement possible ?"
+  },
+  {
+    "correctAnswer": "L'Allemagne",
+    "id": 3234567890123460,
+    "options": [
+      "L'Italie",
+      "L'Angleterre",
+      "L'Argentine",
+      "L'Allemagne"
+    ],
+    "question": "Quel pays a remporté la Coupe du Monde de football féminin en 2003 et 2007 ?"
+  },
+  {
+    "correctAnswer": "Le skicross",
+    "id": 3234567890123461,
+    "options": [
+      "Le ski alpin",
+      "Le ski de fond",
+      "Le biathlon",
+      "Le skicross"
+    ],
+    "question": "Dans quelle discipline de ski les concurrents s'affrontent simultanément sur un parcours avec des sauts et des virages ?"
+  },
+  {
+    "correctAnswer": "La Suisse",
+    "id": 3234567890123462,
+    "options": [
+      "La Norvège",
+      "La Suède",
+      "La Finlande",
+      "La Suisse"
+    ],
+    "question": "De quel pays provient le champion de tennis Roger Federer ?"
+  },
+  {
+    "correctAnswer": "Le squash",
+    "id": 3234567890123463,
+    "options": [
+      "Le badminton",
+      "Le tennis",
+      "Le ping-pong",
+      "Le squash"
+    ],
+    "question": "Dans quel sport deux joueurs s'affrontent en frappant une balle contre un mur à l'aide de raquettes ?"
+  },
+  {
+    "correctAnswer": "La Formule E",
+    "id": 3234567890123464,
+    "options": [
+      "La Formule 1",
+      "La Formule 2",
+      "La Formule 3",
+      "La Formule E"
+    ],
+    "question": "Dans quelle série de course automobile les voitures sont-elles entièrement électriques ?"
+  },
+  {
+    "correctAnswer": "Le judo",
+    "id": 3234567890123465,
+    "options": [
+      "Le taekwondo",
+      "Le karaté",
+      "Le judo",
+      "Le jiu-jitsu"
+    ],
+    "question": "Quel art martial a été créé par Jigoro Kano au Japon à la fin du 19ème siècle ?"
+  },
+  {
+    "correctAnswer": "La Belgique",
+    "id": 3234567890123466,
+    "options": [
+      "La France",
+      "L'Espagne",
+      "L'Italie",
+      "La Belgique"
+    ],
+    "question": "De quel pays provient le cycliste Eddy Merckx, considéré comme l'un des plus grands coureurs de tous les temps ?"
+  },
+  {
+    "correctAnswer": "Le parkour",
+    "id": 3234567890123467,
+    "options": [
+      "La gymnastique",
+      "Le parkour",
+      "L'escalade",
+      "Le freerunning"
+    ],
+    "question": "Quelle discipline consiste à se déplacer efficacement dans l'environnement en utilisant principalement les capacités du corps humain ?"
+  },
+  {
+    "correctAnswer": "La France",
+    "id": 3234567890123468,
+    "options": [
+      "La France",
+      "L'Italie",
+      "La Belgique",
+      "L'Espagne"
+    ],
+    "question": "Quel pays a remporté la Coupe du Monde de football en 1998 et 2018 ?"
+  },
+  {
+    "correctAnswer": "Le volleyball",
+    "id": 3234567890123469,
+    "options": [
+      "Le handball",
+      "Le basketball",
+      "Le volleyball",
+      "Le water-polo"
+    ],
+    "question": "Dans quel sport les équipes s'affrontent en essayant de faire passer un ballon par-dessus un filet sans qu'il touche le sol ?"
+  },
+  {
+    "correctAnswer": "La Corée du Sud",
+    "id": 3234567890123470,
+    "options": [
+      "La Chine",
+      "Le Japon",
+      "La Corée du Sud",
+      "Les États-Unis"
+    ],
+    "question": "Quel pays est traditionnellement dominant dans le sport du taekwondo ?"
+  },
+  {
+    "correctAnswer": "Lance Armstrong",
+    "id": 4234567890123451,
+    "options": [
+      "Miguel Indurain",
+      "Chris Froome",
+      "Lance Armstrong",
+      "Eddy Merckx"
+    ],
+    "question": "Quel cycliste, bien que déchu de ses titres, avait initialement remporté le Tour de France sept fois consécutivement ?"
+  },
+  {
+    "correctAnswer": "24 secondes",
+    "id": 4234567890123452,
+    "options": [
+      "12 secondes",
+      "24 secondes",
+      "30 secondes",
+      "35 secondes"
+    ],
+    "question": "Combien de temps une équipe de basketball a-t-elle pour tenter de marquer après avoir obtenu la possession du ballon en NBA ?"
+  },
+  {
+    "correctAnswer": "Le snooker",
+    "id": 4234567890123453,
+    "options": [
+      "Le billard américain",
+      "Le pool",
+      "Le snooker",
+      "Le carom"
+    ],
+    "question": "Quel type de billard est principalement joué au Royaume-Uni et utilise 21 billes colorées ainsi qu'une bille blanche ?"
+  },
+  {
+    "correctAnswer": "La boxe thaïlandaise",
+    "id": 1294083192904621,
+    "options": [
+      "Le kickboxing",
+      "La boxe anglaise",
+      "La boxe thaïlandaise",
+      "Le karaté"
+    ],
+    "question": "Quel sport de combat est également connu sous le nom de Muay Thai ?"
+  },
+  {
+    "correctAnswer": "400m",
+    "id": 4234567890123455,
+    "options": [
+      "100m",
+      "200m",
+      "400m",
+      "800m"
+    ],
+    "question": "Quelle est la distance d'une piste d'athlétisme standard pour un tour complet ?"
+  },
+  {
+    "correctAnswer": "L'Inde",
+    "id": 4234567890123456,
+    "options": [
+      "L'Angleterre",
+      "L'Australie",
+      "Le Pakistan",
+      "L'Inde"
+    ],
+    "question": "Quel pays est considéré comme le berceau du cricket ?"
+  },
+  {
+    "correctAnswer": "La Formule 1",
+    "id": 4234567890123457,
+    "options": [
+      "La Nascar",
+      "La Formule E",
+      "La Formule 1",
+      "Le MotoGP"
+    ],
+    "question": "Dans quelle compétition automobile Ayrton Senna, Alain Prost et Michael Schumacher ont-ils été des figures emblématiques ?"
+  },
+  {
+    "correctAnswer": "Le curling",
+    "id": 4234567890123458,
+    "options": [
+      "Le hockey sur glace",
+      "Le bobsleigh",
+      "Le patinage artistique",
+      "Le curling"
+    ],
+    "question": "Dans quel sport d'hiver les joueurs glissent des pierres sur une piste de glace vers une cible circulaire ?"
+  },
+  {
+    "correctAnswer": "La luge",
+    "id": 4234567890123459,
+    "options": [
+      "Le skeleton",
+      "La luge",
+      "Le bobsleigh",
+      "Le snowboard"
+    ],
+    "question": "Dans quel sport d'hiver les athlètes se couchent sur le dos et descendent une piste glacée ?"
+  },
+  {
+    "correctAnswer": "Le football américain",
+    "id": 4234567890123460,
+    "options": [
+      "Le rugby",
+      "Le baseball",
+      "Le basket-ball",
+      "Le football américain"
+    ],
+    "question": "Quel sport est associé au Super Bowl ?"
+  },
+  {
+    "correctAnswer": "Brésil",
+    "id": 4234567890123461,
+    "options": [
+      "Allemagne",
+      "Argentine",
+      "Italie",
+      "Brésil"
+    ],
+    "question": "Quel pays a remporté le plus de Coupes du Monde de football masculin jusqu'en 2021 ?"
+  },
+  {
+    "correctAnswer": "Le volley-ball",
+    "id": 4234567890123462,
+    "options": [
+      "Le badminton",
+      "Le tennis",
+      "Le ping-pong",
+      "Le volley-ball"
+    ],
+    "question": "Dans quel sport une équipe marque-t-elle un point en faisant tomber le ballon dans la zone de l'adversaire ?"
+  },
+  {
+    "correctAnswer": "Le golf",
+    "id": 4234567890123463,
+    "options": [
+      "Le tennis",
+      "Le cricket",
+      "Le baseball",
+      "Le golf"
+    ],
+    "question": "Dans quel sport le terme 'Eagle' est-il utilisé pour indiquer deux coups sous le par ?"
+  },
+  {
+    "correctAnswer": "Les arts martiaux mixtes",
+    "id": 4234567890123464,
+    "options": [
+      "Le judo",
+      "La boxe",
+      "Le taekwondo",
+      "Les arts martiaux mixtes"
+    ],
+    "question": "Dans quel sport de combat les combattants peuvent-ils utiliser à la fois des techniques de frappe et de lutte ?"
+  },
+  {
+    "correctAnswer": "Le baseball",
+    "id": 4234567890123465,
+    "options": [
+      "Le cricket",
+      "Le rugby",
+      "Le baseball",
+      "Le football américain"
+    ],
+    "question": "Dans quel sport peut-on voir un joueur réaliser un 'Home Run' ?"
+  },
+  {
+    "correctAnswer": "Le beach-volley",
+    "id": 4234567890123466,
+    "options": [
+      "Le volley-ball",
+      "Le handball",
+      "Le beach-soccer",
+      "Le beach-volley"
+    ],
+    "question": "Quel sport se joue sur le sable et est généralement pratiqué en équipe de deux ?"
+  },
+  {
+    "correctAnswer": "Le badminton",
+    "id": 4234567890123467,
+    "options": [
+      "Le tennis",
+      "Le ping-pong",
+      "Le badminton",
+      "Le squash"
+    ],
+    "question": "Dans quel sport les joueurs utilisent-ils un volant plutôt qu'une balle ?"
+  },
+  {
+    "correctAnswer": "Le hockey sur glace",
+    "id": 4234567890123468,
+    "options": [
+      "Le curling",
+      "Le patinage artistique",
+      "Le bobsleigh",
+      "Le hockey sur glace"
+    ],
+    "question": "Quel sport est le plus populaire au Canada et est joué avec une crosse et un palet ?"
+  },
+  {
+    "correctAnswer": "Le triathlon",
+    "id": 4234567890123469,
+    "options": [
+      "Le marathon",
+      "Le pentathlon moderne",
+      "Le decathlon",
+      "Le triathlon"
+    ],
+    "question": "Quel sport combine la natation, le cyclisme et la course à pied dans un seul événement ?"
+  },
+  {
+    "correctAnswer": "Le sumo",
+    "id": 4234567890123470,
+    "options": [
+      "Le judo",
+      "Le karaté",
+      "Le kendo",
+      "Le sumo"
+    ],
+    "question": "Quel sport traditionnel japonais voit deux adversaires essayer de se pousser hors d'un cercle ou de toucher le sol avec une partie du corps autre que les pieds ?"
+  },
+  {
+    "correctAnswer": "Le peloton",
+    "id": 5234567890123451,
+    "options": [
+      "L'échappée",
+      "Le peloton",
+      "Le maillot jaune",
+      "Le contre-la-montre"
+    ],
+    "question": "Dans le cyclisme, comment appelle-t-on le groupe principal de coureurs ?"
+  },
+  {
+    "correctAnswer": "Les Spurs de San Antonio",
+    "id": 5234567890123452,
+    "options": [
+      "Les Lakers de Los Angeles",
+      "Les Bulls de Chicago",
+      "Les Celtics de Boston",
+      "Les Spurs de San Antonio"
+    ],
+    "question": "Quelle équipe de NBA a été coachée par Gregg Popovich pendant plus de deux décennies ?"
+  },
+  {
+    "correctAnswer": "La voile",
+    "id": 5234567890123453,
+    "options": [
+      "L'aviron",
+      "Le kayak",
+      "Le surf",
+      "La voile"
+    ],
+    "question": "Quel sport utilise le vent pour propulser un véhicule sur l'eau ?"
+  },
+  {
+    "correctAnswer": "Le rodéo",
+    "id": 5234567890123454,
+    "options": [
+      "Le polo",
+      "L'équitation",
+      "Le rodéo",
+      "La corrida"
+    ],
+    "question": "Quel sport consiste à monter un taureau ou un cheval sauvage dans le but de rester dessus le plus longtemps possible ?"
+  },
+  {
+    "correctAnswer": "Anfield",
+    "id": 4643518135032975,
+    "options": [
+      "Old Trafford",
+      "Stamford Bridge",
+      "Wembley",
+      "Anfield"
+    ],
+    "question": "Quel est le stade domicile du Liverpool FC ?"
+  },
+  {
+    "correctAnswer": "La Chine",
+    "id": 5234567890123456,
+    "options": [
+      "La Corée du Sud",
+      "Le Japon",
+      "La Chine",
+      "L'Indonésie"
+    ],
+    "question": "Quel pays est traditionnellement dominant dans le sport du tennis de table aux Jeux Olympiques ?"
+  },
+  {
+    "correctAnswer": "La plongée sous-marine",
+    "id": 5234567890123457,
+    "options": [
+      "La natation",
+      "Le water-polo",
+      "La plongée sous-marine",
+      "La voile"
+    ],
+    "question": "Quel sport aquatique consiste à explorer les profondeurs des océans et des mers avec une bouteille d'oxygène ?"
+  },
+  {
+    "correctAnswer": "Michael Phelps",
+    "id": 5234567890123458,
+    "options": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte",
+      "Michael Phelps"
+    ],
+    "question": "Quel nageur détient le record du nombre de médailles d'or olympiques gagnées ?"
+  },
+  {
+    "correctAnswer": "La pétanque",
+    "id": 5234567890123459,
+    "options": [
+      "Le bowling",
+      "Le billard",
+      "La pétanque",
+      "Le curling"
+    ],
+    "question": "Dans quel jeu français les joueurs essaient-ils de lancer leurs boules le plus près possible d'une petite balle appelée 'cochonnet' ?"
+  },
+  {
+    "correctAnswer": "La Coupe Stanley",
+    "id": 5234567890123460,
+    "options": [
+      "La Coupe du Monde",
+      "La Coupe Davis",
+      "La Coupe Ryder",
+      "La Coupe Stanley"
+    ],
+    "question": "Quel est le nom du trophée décerné à l'équipe gagnante des séries éliminatoires de la Ligue nationale de hockey (NHL) ?"
+  },
+  {
+    "correctAnswer": "Le cricket",
+    "id": 5234567890123461,
+    "options": [
+      "Le rugby",
+      "Le football",
+      "Le cricket",
+      "Le tennis"
+    ],
+    "question": "Quel sport utilise des termes comme 'wicket', 'batsman' et 'bowler' ?"
+  },
+  {
+    "correctAnswer": "Le biathlon",
+    "id": 5234567890123462,
+    "options": [
+      "Le triathlon",
+      "Le pentathlon",
+      "Le biathlon",
+      "Le decathlon"
+    ],
+    "question": "Quel sport d'hiver combine le ski de fond et le tir à la carabine ?"
+  },
+  {
+    "correctAnswer": "La France",
+    "id": 5234567890123463,
+    "options": [
+      "L'Italie",
+      "La Belgique",
+      "La Suisse",
+      "La France"
+    ],
+    "question": "Quel pays est le pays d'origine du Tour de France cycliste ?"
+  },
+  {
+    "correctAnswer": "La Formule 1",
+    "id": 5234567890123464,
+    "options": [
+      "La Nascar",
+      "La Formule 2",
+      "La Formule 1",
+      "Le MotoGP"
+    ],
+    "question": "Dans quelle catégorie de course automobile le Grand Prix de Monaco est-il une étape emblématique ?"
+  },
+  {
+    "correctAnswer": "Le golf",
+    "id": 5234567890123465,
+    "options": [
+      "Le tennis",
+      "Le cricket",
+      "Le rugby",
+      "Le golf"
+    ],
+    "question": "Dans quel sport le 'birdie' signifie un coup sous le par sur un trou ?"
+  },
+  {
+    "correctAnswer": "Le handball",
+    "id": 5234567890123466,
+    "options": [
+      "Le football",
+      "Le basket-ball",
+      "Le volleyball",
+      "Le handball"
+    ],
+    "question": "Quel sport d'équipe se joue avec sept joueurs de chaque côté, où l'objectif est de lancer un ballon dans le but de l'adversaire ?"
+  },
+  {
+    "correctAnswer": "La boxe",
+    "id": 5234567890123467,
+    "options": [
+      "Le judo",
+      "La lutte",
+      "La boxe",
+      "Le MMA"
+    ],
+    "question": "Dans quel sport les participants peuvent-ils gagner par K.O. ?"
+  },
+  {
+    "correctAnswer": "Le surf",
+    "id": 5234567890123468,
+    "options": [
+      "Le kayak",
+      "La plongée",
+      "Le surf",
+      "La voile"
+    ],
+    "question": "Quel sport consiste à chevaucher des vagues sur une planche ?"
+  },
+  {
+    "correctAnswer": "Le marathon",
+    "id": 5234567890123469,
+    "options": [
+      "Le 100m",
+      "Le 1500m",
+      "Le 10 000m",
+      "Le marathon"
+    ],
+    "question": "Quelle course d'athlétisme se déroule sur une distance de 42,195 km ?"
+  },
+  {
+    "correctAnswer": "Le badminton",
+    "id": 5234567890123470,
+    "options": [
+      "Le tennis",
+      "Le squash",
+      "Le badminton",
+      "Le tennis de table"
+    ],
+    "question": "Dans quel sport les joueurs frappent-ils un volant au-dessus d'un filet ?"
+  },
+  {
+    "correctAnswer": "Le saut à la perche",
+    "id": 6234567890123451,
+    "options": [
+      "Le saut en longueur",
+      "Le saut en hauteur",
+      "Le triple saut",
+      "Le saut à la perche"
+    ],
+    "question": "Dans quelle épreuve d'athlétisme les compétiteurs utilisent-ils une longue perche pour sauter par-dessus une barre ?"
+  },
+  {
+    "correctAnswer": "Novak Djokovic",
+    "id": 6234567890123452,
+    "options": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Andy Murray",
+      "Novak Djokovic"
+    ],
+    "question": "Quel joueur de tennis a remporté l'Open d'Australie à huit reprises jusqu'en 2021 ?"
+  },
+  {
+    "correctAnswer": "Les Houston Rockets",
+    "id": 6234567890123453,
+    "options": [
+      "Les Golden State Warriors",
+      "Les Boston Celtics",
+      "Les Houston Rockets",
+      "Les Chicago Bulls"
+    ],
+    "question": "Pour quelle équipe de NBA Yao Ming a-t-il principalement joué ?"
+  },
+  {
+    "correctAnswer": "La crosse",
+    "id": 6234567890123454,
+    "options": [
+      "Le hockey",
+      "La crosse",
+      "Le rugby",
+      "Le baseball"
+    ],
+    "question": "Quel sport est le sport national d'été du Canada ?"
+  },
+  {
+    "correctAnswer": "Le javelot",
+    "id": 6234567890123455,
+    "options": [
+      "Le disque",
+      "Le marteau",
+      "Le poids",
+      "Le javelot"
+    ],
+    "question": "Quelle épreuve d'athlétisme consiste à lancer une longue lance le plus loin possible ?"
+  },
+  {
+    "correctAnswer": "La Belgique",
+    "id": 2184322224896111,
+    "options": [
+      "La France",
+      "L'Espagne",
+      "L'Italie",
+      "La Belgique"
+    ],
+    "question": "Quel pays est souvent associé aux classiques de cyclisme sur route comme le Tour des Flandres et Paris-Roubaix ?"
+  },
+  {
+    "correctAnswer": "Le bobsleigh",
+    "id": 6234567890123457,
+    "options": [
+      "La luge",
+      "Le skeleton",
+      "Le bobsleigh",
+      "Le snowboard"
+    ],
+    "question": "Dans quel sport d'hiver une équipe de deux ou quatre personnes descend une piste glacée dans un engin sur rails ?"
+  },
+  {
+    "correctAnswer": "Le squash",
+    "id": 6234567890123458,
+    "options": [
+      "Le tennis",
+      "Le badminton",
+      "Le ping-pong",
+      "Le squash"
+    ],
+    "question": "Dans quel sport les joueurs frappent une balle contre un mur en utilisant des raquettes ?"
+  },
+  {
+    "correctAnswer": "Le rugby à sept",
+    "id": 6234567890123459,
+    "options": [
+      "Le rugby à XV",
+      "Le football",
+      "Le rugby à sept",
+      "Le handball"
+    ],
+    "question": "Quelle variante du rugby est jouée lors des Jeux Olympiques ?"
+  },
+  {
+    "correctAnswer": "La Nouvelle-Zélande",
+    "id": 6234567890123460,
+    "options": [
+      "L'Australie",
+      "L'Angleterre",
+      "L'Afrique du Sud",
+      "La Nouvelle-Zélande"
+    ],
+    "question": "Quelle équipe de rugby est surnommée les 'All Blacks' ?"
+  },
+  {
+    "correctAnswer": "Le curling",
+    "id": 6234567890123461,
+    "options": [
+      "Le hockey sur glace",
+      "Le patinage artistique",
+      "Le curling",
+      "Le bobsleigh"
+    ],
+    "question": "Dans quel sport d'hiver les joueurs glissent des pierres sur la glace tout en balayant pour diriger leur trajectoire ?"
+  },
+  {
+    "correctAnswer": "L'équitation",
+    "id": 6234567890123462,
+    "options": [
+      "Le biathlon",
+      "Le pentathlon moderne",
+      "L'équitation",
+      "Le triathlon"
+    ],
+    "question": "Dans quel sport les participants concourent-ils à dos de cheval ?"
+  },
+  {
+    "correctAnswer": "L'Espagne",
+    "id": 6234567890123463,
+    "options": [
+      "La France",
+      "L'Italie",
+      "L'Espagne",
+      "Le Portugal"
+    ],
+    "question": "Quel pays a remporté la Coupe du Monde de football en 2010 ?"
+  },
+  {
+    "correctAnswer": "Le sumo",
+    "id": 6234567890123464,
+    "options": [
+      "Le judo",
+      "Le karaté",
+      "Le sumo",
+      "Le jiu-jitsu"
+    ],
+    "question": "Quel sport traditionnel japonais voit deux adversaires essayer de se pousser hors d'un cercle ou de toucher le sol avec une partie du corps autre que les pieds ?"
+  },
+  {
+    "correctAnswer": "Le baseball",
+    "id": 6234567890123465,
+    "options": [
+      "Le cricket",
+      "Le football",
+      "Le rugby",
+      "Le baseball"
+    ],
+    "question": "Quel sport est considéré comme le 'passetemps national' des États-Unis ?"
+  },
+  {
+    "correctAnswer": "La Formule 1",
+    "id": 6234567890123466,
+    "options": [
+      "Le MotoGP",
+      "La Nascar",
+      "La Formule E",
+      "La Formule 1"
+    ],
+    "question": "Dans quelle compétition automobile le Grand Prix de Silverstone est-il une étape emblématique ?"
+  },
+  {
+    "correctAnswer": "Le tennis de table",
+    "id": 6234567890123467,
+    "options": [
+      "Le tennis",
+      "Le badminton",
+      "Le tennis de table",
+      "Le squash"
+    ],
+    "question": "Dans quel sport les joueurs utilisent-ils de petites raquettes pour frapper une balle légère en plastique au-dessus d'un filet ?"
+  },
+  {
+    "correctAnswer": "Le volley-ball",
+    "id": 6234567890123468,
+    "options": [
+      "Le handball",
+      "Le basket-ball",
+      "Le volley-ball",
+      "Le football"
+    ],
+    "question": "Dans quel sport les équipes s'affrontent en essayant de faire passer un ballon par-dessus un filet sans qu'il touche le sol ?"
+  },
+  {
+    "correctAnswer": "Le canoë-kayak",
+    "id": 6234567890123469,
+    "options": [
+      "L'aviron",
+      "La voile",
+      "Le canoë-kayak",
+      "La plongée"
+    ],
+    "question": "Dans quel sport les participants utilisent des pagaies pour se déplacer sur l'eau ?"
+  },
+  {
+    "correctAnswer": "Le pentathlon moderne",
+    "id": 6234567890123470,
+    "options": [
+      "Le triathlon",
+      "Le heptathlon",
+      "Le decathlon",
+      "Le pentathlon moderne"
+    ],
+    "question": "Quelle épreuve olympique combine l'escrime, la natation, l'équitation, la course à pied et le tir au pistolet ?"
+  },
+  {
+    "correctAnswer": "Le décathlon",
+    "id": 7234567890123451,
+    "options": [
+      "Le triathlon",
+      "Le pentathlon",
+      "Le heptathlon",
+      "Le décathlon"
+    ],
+    "question": "Quelle épreuve d'athlétisme combine dix disciplines sur deux jours ?"
+  },
+  {
+    "correctAnswer": "Cristiano Ronaldo",
+    "id": 7234567890123452,
+    "options": [
+      "Lionel Messi",
+      "Neymar Jr.",
+      "Kylian Mbappé",
+      "Cristiano Ronaldo"
+    ],
+    "question": "Quel footballeur a joué pour Manchester United, Real Madrid, Juventus et retour à Manchester United jusqu'en 2021 ?"
+  },
+  {
+    "correctAnswer": "Les All Blacks",
+    "id": 7234567890123453,
+    "options": [
+      "Les Springboks",
+      "Les Wallabies",
+      "Les Pumas",
+      "Les All Blacks"
+    ],
+    "question": "Quelle équipe de rugby effectue une danse traditionnelle appelée le 'Haka' avant chaque match ?"
+  },
+  {
+    "correctAnswer": "Le skeleton",
+    "id": 7234567890123454,
+    "options": [
+      "Le bobsleigh",
+      "La luge",
+      "Le skeleton",
+      "Le snowboard"
+    ],
+    "question": "Dans quel sport d'hiver les athlètes se couchent sur le ventre et descendent une piste glacée tête la première ?"
+  },
+  {
+    "correctAnswer": "Le Camp Nou",
+    "id": 7234567890123455,
+    "options": [
+      "Bernabeu",
+      "Old Trafford",
+      "Stamford Bridge",
+      "Le Camp Nou"
+    ],
+    "question": "Quel est le stade domicile du FC Barcelone ?"
+  },
+  {
+    "correctAnswer": "Les États-Unis",
+    "id": 7234567890123456,
+    "options": [
+      "La Chine",
+      "La Russie",
+      "L'Allemagne",
+      "Les États-Unis"
+    ],
+    "question": "Quel pays a remporté le plus de médailles d'or en basketball masculin aux Jeux Olympiques jusqu'en 2021 ?"
+  },
+  {
+    "correctAnswer": "Le water-polo",
+    "id": 8622952459196533,
+    "options": [
+      "Le handball",
+      "La natation",
+      "Le water-polo",
+      "La plongée"
+    ],
+    "question": "Dans quel sport aquatique les équipes s'affrontent pour marquer des buts en lançant un ballon dans le but de l'adversaire ?"
+  },
+  {
+    "correctAnswer": "La Formule E",
+    "id": 7234567890123458,
+    "options": [
+      "La Formule 1",
+      "La NASCAR",
+      "La Formule E",
+      "La IndyCar"
+    ],
+    "question": "Quelle catégorie de course automobile utilise exclusivement des voitures électriques ?"
+  },
+  {
+    "correctAnswer": "Le polo",
+    "id": 7234567890123459,
+    "options": [
+      "L'équitation",
+      "Le rodéo",
+      "Le polo",
+      "Le dressage"
+    ],
+    "question": "Dans quel sport équestre les joueurs essaient-ils de marquer des buts en frappant une petite balle avec une longue maillette ?"
+  },
+  {
+    "correctAnswer": "Le judo",
+    "id": 7234567890123460,
+    "options": [
+      "Le karaté",
+      "La boxe",
+      "Le judo",
+      "Le taekwondo"
+    ],
+    "question": "Quel art martial a été créé par Jigoro Kano au Japon au 19ème siècle ?"
+  },
+  {
+    "correctAnswer": "La Corée du Sud",
+    "id": 7234567890123461,
+    "options": [
+      "La Chine",
+      "Le Japon",
+      "La Corée du Nord",
+      "La Corée du Sud"
+    ],
+    "question": "Quel pays est traditionnellement dominant dans le sport de l'archerie aux Jeux Olympiques ?"
+  },
+  {
+    "correctAnswer": "La luge",
+    "id": 7234567890123462,
+    "options": [
+      "Le bobsleigh",
+      "La luge",
+      "Le skeleton",
+      "Le ski alpin"
+    ],
+    "question": "Dans quel sport d'hiver les athlètes se couchent sur le dos et descendent une piste glacée ?"
+  },
+  {
+    "correctAnswer": "La Belgique",
+    "id": 7234567890123463,
+    "options": [
+      "La France",
+      "L'Italie",
+      "La Belgique",
+      "La Suisse"
+    ],
+    "question": "Quel pays est souvent associé à la course cycliste Liège-Bastogne-Liège ?"
+  },
+  {
+    "correctAnswer": "Le patinage artistique",
+    "id": 7234567890123464,
+    "options": [
+      "Le curling",
+      "Le patinage de vitesse",
+      "Le patinage artistique",
+      "Le hockey sur glace"
+    ],
+    "question": "Dans quel sport d'hiver les participants effectuent des sauts, des pirouettes et des pas sur la glace au rythme de la musique ?"
+  },
+  {
+    "correctAnswer": "Le tennis",
+    "id": 7234567890123465,
+    "options": [
+      "Le ping-pong",
+      "Le badminton",
+      "Le squash",
+      "Le tennis"
+    ],
+    "question": "Dans quel sport peut-on entendre les termes 'avantage', 'deuce' et 'tie-break' ?"
+  },
+  {
+    "correctAnswer": "Le handball",
+    "id": 7234567890123466,
+    "options": [
+      "Le basketball",
+      "Le football",
+      "Le volley-ball",
+      "Le handball"
+    ],
+    "question": "Quel sport d'équipe se joue à sept contre sept et implique de lancer un ballon dans le but de l'adversaire ?"
+  },
+  {
+    "correctAnswer": "La plongée",
+    "id": 7234567890123467,
+    "options": [
+      "Le saut en hauteur",
+      "La natation",
+      "La plongée",
+      "Le water-polo"
+    ],
+    "question": "Dans quel sport les participants sautent dans l'eau depuis une plateforme ou un tremplin ?"
+  },
+  {
+    "correctAnswer": "La Formule 1",
+    "id": 7234567890123468,
+    "options": [
+      "La NASCAR",
+      "La IndyCar",
+      "La Formule 1",
+      "La Formule E"
+    ],
+    "question": "Dans quelle compétition automobile le Grand Prix de Monza est-il une étape emblématique ?"
+  },
+  {
+    "correctAnswer": "Le golf",
+    "id": 7234567890123469,
+    "options": [
+      "Le cricket",
+      "Le rugby",
+      "Le tennis",
+      "Le golf"
+    ],
+    "question": "Dans quel sport les participants essaient-ils de mettre une balle dans un trou en utilisant le moins de coups possible ?"
+  },
+  {
+    "correctAnswer": "Le taekwondo",
+    "id": 7234567890123470,
+    "options": [
+      "Le karaté",
+      "Le judo",
+      "Le kung fu",
+      "Le taekwondo"
+    ],
+    "question": "Quel art martial d'origine coréenne est caractérisé par ses coups de pied élevés et ses sauts ?"
+  },
+  {
+    "correctAnswer": "Freestyle",
+    "id": 8234567890123451,
+    "options": [
+      "Freestyle",
+      "Backstroke",
+      "Breaststroke",
+      "Butterfly"
+    ],
+    "question": "Dans quel style de nage les nageurs peuvent-ils choisir leur technique de nage lors des compétitions de nage en eau libre ?"
+  },
+  {
+    "correctAnswer": "Overgrip",
+    "id": 8234567890123452,
+    "options": [
+      "Underwrap",
+      "Overgrip",
+      "Main grip",
+      "Base grip"
+    ],
+    "question": "Comment appelle-t-on le ruban supplémentaire que les joueurs de tennis enroulent autour du manche de leur raquette pour améliorer la prise en main ?"
+  },
+  {
+    "correctAnswer": "Le drafting",
+    "id": 8234567890123453,
+    "options": [
+      "Le sprinting",
+      "L'échappée",
+      "Le contre-la-montre",
+      "Le drafting"
+    ],
+    "question": "Dans le cyclisme, quel terme est utilisé pour décrire la technique consistant à suivre de près un autre coureur pour réduire la résistance de l'air ?"
+  },
+  {
+    "correctAnswer": "Fosbury Flop",
+    "id": 8234567890123454,
+    "options": [
+      "Scissor kick",
+      "Roll-over",
+      "High arch",
+      "Fosbury Flop"
+    ],
+    "question": "Quelle technique révolutionnaire de saut en hauteur a été popularisée par Dick Fosbury dans les années 1960 ?"
+  },
+  {
+    "correctAnswer": "Le flip flap",
+    "id": 8234567890123455,
+    "options": [
+      "Le rainbow",
+      "Le nutmeg",
+      "Le step-over",
+      "Le flip flap"
+    ],
+    "question": "Quelle technique de dribble, également appelée 'elastico', consiste à utiliser un pied pour pousser le ballon sur un côté puis rapidement le ramener dans la direction opposée ?"
+  },
+  {
+    "correctAnswer": "Le V-Run",
+    "id": 8234567890123456,
+    "options": [
+      "Le double push",
+      "Le crossover",
+      "Le V-Run",
+      "Le T-Stop"
+    ],
+    "question": "Quelle technique de base en patinage à roulettes consiste à pousser les patins vers l'extérieur puis à les ramener parallèlement ?"
+  },
+  {
+    "correctAnswer": "Le carve",
+    "id": 8234567890123457,
+    "options": [
+      "Le grind",
+      "Le ollie",
+      "Le slide",
+      "Le carve"
+    ],
+    "question": "Dans le snowboard, quelle technique consiste à tourner en inclinant la planche de façon à ce que les bords coupent la neige comme un couteau ?"
+  },
+  {
+    "correctAnswer": "Le guard-pass",
+    "id": 7161059104370693,
+    "options": [
+      "Le choke",
+      "Le guard-pass",
+      "Le mount",
+      "Le armbar"
+    ],
+    "question": "Dans le jiu-jitsu brésilien, comment appelle-t-on la technique visant à dépasser les jambes de l'adversaire pour atteindre une position dominante ?"
+  },
+  {
+    "correctAnswer": "Le putt",
+    "id": 8234567890123459,
+    "options": [
+      "Le drive",
+      "Le chip",
+      "Le pitch",
+      "Le putt"
+    ],
+    "question": "Au golf, quelle technique consiste à rouler la balle sur le green en direction du trou ?"
+  },
+  {
+    "correctAnswer": "La prise marteau",
+    "id": 8234567890123460,
+    "options": [
+      "La prise chopper",
+      "La prise marteau",
+      "La prise continentale",
+      "La prise western"
+    ],
+    "question": "Au tennis, quelle prise est couramment utilisée pour les coups droits et ressemble à la manière dont on tient un marteau ?"
+  },
+  {
+    "correctAnswer": "La brasse",
+    "id": 8234567890123461,
+    "options": [
+      "Le crawl",
+      "Le papillon",
+      "La brasse",
+      "Le dos crawlé"
+    ],
+    "question": "Quelle nage est la seule où les bras et les jambes doivent se déplacer simultanément et sur le même plan horizontal ?"
+  },
+  {
+    "correctAnswer": "Le hook",
+    "id": 8234567890123462,
+    "options": [
+      "Le jab",
+      "Le uppercut",
+      "Le cross",
+      "Le hook"
+    ],
+    "question": "En boxe, quel coup est un coup de poing latéral donné avec un mouvement de rotation du corps ?"
+  },
+  {
+    "correctAnswer": "La chandelle",
+    "id": 8234567890123463,
+    "options": [
+      "Le drop",
+      "La mêlée",
+      "Le ruck",
+      "La chandelle"
+    ],
+    "question": "Au rugby, comment appelle-t-on un coup de pied haut et court, généralement utilisé pour mettre la pression sur la défense adverse ?"
+  },
+  {
+    "correctAnswer": "Le dribble",
+    "id": 8234567890123464,
+    "options": [
+      "Le shoot",
+      "Le passe",
+      "Le dribble",
+      "Le lay-up"
+    ],
+    "question": "Au basket-ball, quelle technique consiste à faire rebondir le ballon sur le sol tout en se déplaçant ?"
+  },
+  {
+    "correctAnswer": "Le wall ride",
+    "id": 8234567890123465,
+    "options": [
+      "Le grind",
+      "Le kickflip",
+      "Le ollie",
+      "Le wall ride"
+    ],
+    "question": "Dans le skateboard, quelle manœuvre consiste à rouler perpendiculairement sur un mur ou une autre surface verticale ?"
+  },
+  {
+    "correctAnswer": "Le split step",
+    "id": 8234567890123466,
+    "options": [
+      "Le volley",
+      "Le smash",
+      "Le service",
+      "Le split step"
+    ],
+    "question": "Au tennis, quelle technique permet au joueur de se préparer à réagir rapidement en effectuant un petit saut juste avant que l'adversaire ne frappe la balle ?"
+  },
+  {
+    "correctAnswer": "La prise de carre",
+    "id": 9234567890123452,
+    "options": [
+      "Le chasse-neige",
+      "Le dérapage",
+      "La prise de carre",
+      "Le virage coupé"
+    ],
+    "question": "Au ski, quelle technique consiste à incliner le ski de manière à ce que les carres mordent la neige pour tourner ?"
+  },
+  {
+    "correctAnswer": "Le topspin",
+    "id": 6673473929799987,
+    "options": [
+      "Le slice",
+      "Le flat",
+      "Le topspin",
+      "Le drop shot"
+    ],
+    "question": "Au tennis, quelle technique consiste à frapper la balle avec un mouvement ascendant pour lui donner un effet de rotation avant ?"
+  },
+  {
+    "correctAnswer": "Le blocage",
+    "id": 5721123070316849,
+    "options": [
+      "La passe",
+      "Le service",
+      "L'attaque",
+      "Le blocage"
+    ],
+    "question": "Au volley-ball, quelle action défensive consiste à sauter près du filet pour empêcher le ballon d'entrer sur son propre terrain ?"
+  },
+  {
+    "correctAnswer": "La sortie de balle",
+    "id": 9234567890123454,
+    "options": [
+      "La touche",
+      "Le plaquage",
+      "La mêlée",
+      "La sortie de balle"
+    ],
+    "question": "Au rugby, quelle technique le demi de mêlée utilise-t-il pour extraire le ballon d'une mêlée ou d'un ruck ?"
+  },
+  {
+    "correctAnswer": "La prise en T",
+    "id": 9234567890123456,
+    "options": [
+      "La prise en V",
+      "La prise en X",
+      "La prise en O",
+      "La prise en T"
+    ],
+    "question": "Dans l'escalade, comment appelle-t-on la technique de prise où les doigts sont disposés à la verticale et le pouce à l'horizontale pour saisir une prise ?"
+  },
+  {
+    "correctAnswer": "Le tir en suspension",
+    "id": 220472589244829,
+    "options": [
+      "Le tir en lay-up",
+      "Le tir à trois points",
+      "Le tir en crochet",
+      "Le tir en suspension"
+    ],
+    "question": "Au basketball, quelle technique de tir consiste à sauter et à lancer la balle au sommet de son saut ?"
+  },
+  {
+    "correctAnswer": "Le repli défensif",
+    "id": 4061791204929139,
+    "options": [
+      "La contre-attaque",
+      "Le pressing",
+      "Le marquage individuel",
+      "Le repli défensif"
+    ],
+    "question": "Au football, comment appelle-t-on la phase où les joueurs reviennent rapidement dans leur moitié de terrain pour défendre après avoir perdu le ballon ?"
+  },
+  {
+    "correctAnswer": "La chasse",
+    "id": 9234567890123458,
+    "options": [
+      "La feinte",
+      "La passe",
+      "La chasse",
+      "Le dribble"
+    ],
+    "question": "Au handball, quelle technique consiste à déplacer rapidement le ballon d'un joueur à l'autre pour déstabiliser la défense ?"
+  },
+  {
+    "correctAnswer": "Le verrouillage des bras",
+    "id": 2907707271936587,
+    "options": [
+      "La respiration",
+      "L'extension des jambes",
+      "Le verrouillage des bras",
+      "Le roulement des épaules"
+    ],
+    "question": "En haltérophilie, quelle technique est essentielle pour stabiliser la barre lors de l'épaulé-jeté ?"
+  },
+  {
+    "correctAnswer": "Le contre-pied",
+    "id": 8328767938276617,
+    "options": [
+      "Le lob",
+      "La volée",
+      "Le passing-shot",
+      "Le contre-pied"
+    ],
+    "question": "Au tennis, comment appelle-t-on le coup joué dans la direction opposée à celle où se déplace l'adversaire ?"
+  },
+  {
+    "correctAnswer": "La rotation",
+    "id": 4045448944752933,
+    "options": [
+      "L'équilibre",
+      "La puissance",
+      "La flexibilité",
+      "La rotation"
+    ],
+    "question": "En gymnastique, sur quel principe repose la technique du saut périlleux ?"
+  },
+  {
+    "correctAnswer": "Le flip",
+    "id": 9234567890123462,
+    "options": [
+      "Le grind",
+      "Le manual",
+      "Le flip",
+      "Le ollie"
+    ],
+    "question": "En skateboarding, quelle manœuvre consiste à faire tourner la planche sous ses pieds en l'air ?"
+  },
+  {
+    "correctAnswer": "Le shuffle",
+    "id": 9234567890123464,
+    "options": [
+      "Le crossover",
+      "Le shuffle",
+      "Le sprint",
+      "Le moonwalk"
+    ],
+    "question": "En boxe, quelle technique de déplacement consiste à avancer ou reculer en glissant un pied après l'autre sans jamais croiser les jambes ?"
+  },
+  {
+    "correctAnswer": "La prise d'appui",
+    "id": 4274933319552261,
+    "options": [
+      "L'impulsion",
+      "La prise d'appui",
+      "La rotation",
+      "L'atterrissage"
+    ],
+    "question": "En saut en hauteur, quelle phase précède directement la phase d'envol ?"
+  },
+  {
+    "correctAnswer": "Le grip",
+    "id": 8662300484570769,
+    "options": [
+      "Le loft",
+      "Le bounce",
+      "Le shaft",
+      "Le grip"
+    ],
+    "question": "Au golf, quelle partie du club est directement en contact avec les mains du joueur ?"
+  },
+  {
+    "correctAnswer": "Le stance",
+    "id": 9234567890123466,
+    "options": [
+      "Le swing",
+      "Le follow-through",
+      "Le stance",
+      "Le backswing"
+    ],
+    "question": "Au golf, comment appelle-t-on la position initiale et l'alignement des pieds du joueur par rapport à la balle ?"
+  },
+  {
+    "correctAnswer": "Le coupé",
+    "id": 10234567890123452,
+    "options": [
+      "Le lob",
+      "Le coupé",
+      "Le smash",
+      "Le drive"
+    ],
+    "question": "Au tennis, quel coup est joué avec un mouvement descendant pour donner un effet de rotation arrière à la balle ?"
+  },
+  {
+    "correctAnswer": "Le biathlon",
+    "id": 554918903405235,
+    "options": [
+      "Le ski alpin",
+      "Le snowboard",
+      "Le ski de fond",
+      "Le biathlon"
+    ],
+    "question": "Dans quel sport d'hiver les athlètes combinent le ski de fond et le tir à la carabine ?"
+  },
+  {
+    "correctAnswer": "L'aérodynamisme",
+    "id": 7918755862149259,
+    "options": [
+      "La puissance",
+      "L'endurance",
+      "L'aérodynamisme",
+      "La flexibilité"
+    ],
+    "question": "En cyclisme, quel facteur est crucial lors de la descente ou lors de la conduite à grande vitesse pour réduire la résistance de l'air ?"
+  },
+  {
+    "correctAnswer": "Le bloc",
+    "id": 10234567890123454,
+    "options": [
+      "La fissure",
+      "L'arête",
+      "Le surplomb",
+      "Le bloc"
+    ],
+    "question": "En escalade, quel terme désigne une formation rocheuse détachée, généralement de taille modeste, que l'on peut grimper sans cordes ?"
+  },
+  {
+    "correctAnswer": "Le mawashi geri",
+    "id": 10234567890123456,
+    "options": [
+      "Le kizami zuki",
+      "Le gyaku zuki",
+      "Le mawashi geri",
+      "Le ura mawashi geri"
+    ],
+    "question": "Dans le karaté, comment est nommé le coup de pied circulaire ?"
+  },
+  {
+    "correctAnswer": "La course en zigzag",
+    "id": 3063333589708867,
+    "options": [
+      "La course d'endurance",
+      "La course en ligne droite",
+      "La course en zigzag",
+      "La course d'obstacles"
+    ],
+    "question": "Dans les exercices de football, quelle technique est souvent utilisée pour améliorer l'agilité et la coordination des joueurs ?"
+  },
+  {
+    "correctAnswer": "Le salchow",
+    "id": 456486014568647,
+    "options": [
+      "Le axel",
+      "Le flip",
+      "Le salchow",
+      "Le lutz"
+    ],
+    "question": "Au patinage artistique, quel saut est généralement réalisé en prenant appui sur une carre arrière intérieure ?"
+  },
+  {
+    "correctAnswer": "Le poomse",
+    "id": 10234567890123458,
+    "options": [
+      "Le kihap",
+      "Le poomse",
+      "Le sparring",
+      "Le dan"
+    ],
+    "question": "Au taekwondo, comment appelle-t-on les séquences de mouvements codifiés qui simulent un combat contre plusieurs adversaires ?"
+  },
+  {
+    "correctAnswer": "Le guard",
+    "id": 10234567890123460,
+    "options": [
+      "Le mount",
+      "Le guard",
+      "Le side control",
+      "Le back mount"
+    ],
+    "question": "En jiu-jitsu brésilien, quelle position permet à celui qui est au sol sur le dos de contrôler son adversaire grâce à ses jambes ?"
+  },
+  {
+    "correctAnswer": "La suspension",
+    "id": 4231732642123115,
+    "options": [
+      "L'impulsion",
+      "La traction",
+      "La suspension",
+      "La levée"
+    ],
+    "question": "Dans le CrossFit, quel terme désigne un exercice où l'athlète se suspend à deux anneaux et doit élever son corps à la force des bras ?"
+  },
+  {
+    "correctAnswer": "Le hook",
+    "id": 3248607133830599,
+    "options": [
+      "Le jab",
+      "Le cross",
+      "Le uppercut",
+      "Le hook"
+    ],
+    "question": "En boxe, quel type de coup est donné avec un mouvement circulaire du bras ?"
+  },
+  {
+    "correctAnswer": "Le coup droit",
+    "id": 10234567890123462,
+    "options": [
+      "Le revers",
+      "Le coup droit",
+      "Le smash",
+      "Le service"
+    ],
+    "question": "Au tennis de table, quel coup est réalisé du côté de la raquette où se trouve le pouce ?"
+  },
+  {
+    "correctAnswer": "Le départ en faux",
+    "id": 10234567890123464,
+    "options": [
+      "Le départ en flèche",
+      "Le départ en faux",
+      "Le départ en bloc",
+      "Le départ en plongeon"
+    ],
+    "question": "En athlétisme, comment appelle-t-on une erreur commise par un coureur qui démarre avant le coup de feu ?"
+  },
+  {
+    "correctAnswer": "La voie",
+    "id": 8192645607327203,
+    "options": [
+      "Le bloc",
+      "La fissure",
+      "La voie",
+      "L'arête"
+    ],
+    "question": "En escalade, quel terme désigne un itinéraire vertical ou incliné qui nécessite généralement l'utilisation de cordes pour la sécurité ?"
+  },
+  {
+    "correctAnswer": "Le drible bas",
+    "id": 7713598523415001,
+    "options": [
+      "Le drible haut",
+      "Le drible en croisé",
+      "Le drible de protection",
+      "Le drible bas"
+    ],
+    "question": "Au basketball, quelle technique de dribble est utilisée pour éviter le vol de ballon par un défenseur ?"
+  },
+  {
+    "correctAnswer": "La respiration bilatérale",
+    "id": 10234567890123466,
+    "options": [
+      "La respiration apnée",
+      "La respiration unilatérale",
+      "La respiration bilatérale",
+      "La respiration alternée"
+    ],
+    "question": "En natation, quel terme désigne la technique consistant à respirer alternativement des deux côtés lors de la nage crawl ?"
   }
 ]

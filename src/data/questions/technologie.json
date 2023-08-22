@@ -438,5 +438,1710 @@
       "Intelligent Online Tracking"
     ],
     "question": "Qu'est-ce que le terme 'IoT' signifie en informatique ?"
+  },
+  {
+    "correctAnswer": "Tim Berners-Lee",
+    "id": 1234567890001,
+    "options": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Mark Zuckerberg",
+      "Tim Berners-Lee"
+    ],
+    "question": "Qui est crédité de l'invention du World Wide Web?"
+  },
+  {
+    "correctAnswer": "ARPANET",
+    "id": 1234567890002,
+    "options": [
+      "Internet",
+      "ARPANET",
+      "BITNET",
+      "NSFNET"
+    ],
+    "question": "Quel est le nom du réseau qui est considéré comme le précurseur direct de l'Internet moderne?"
+  },
+  {
+    "correctAnswer": "Mosaic",
+    "id": 1234567890003,
+    "options": [
+      "Firefox",
+      "Chrome",
+      "Mosaic",
+      "Safari"
+    ],
+    "question": "Quel est le nom du premier navigateur Web largement adopté qui a été développé au NCSA?"
+  },
+  {
+    "correctAnswer": "Larry Page et Sergey Brin",
+    "id": 1234567890004,
+    "options": [
+      "Larry Ellison et Bob Miner",
+      "Bill Gates et Paul Allen",
+      "Steve Jobs et Steve Wozniak",
+      "Larry Page et Sergey Brin"
+    ],
+    "question": "Qui sont les fondateurs de Google?"
+  },
+  {
+    "correctAnswer": "Langage de balisage d'hypertexte",
+    "id": 1234567890005,
+    "options": [
+      "Haut niveau de langage de programmation",
+      "Langage de balisage d'hypertexte",
+      "Langage d'hébergement hypertexte",
+      "Langage de haut niveau d'hypertexte"
+    ],
+    "question": "Que signifie l'acronyme HTML?"
+  },
+  {
+    "correctAnswer": "Moore",
+    "id": 1234567890006,
+    "options": [
+      "Musk",
+      "Jobs",
+      "Gates",
+      "Moore"
+    ],
+    "question": "Quelle loi stipule que le nombre de transistors sur un microprocesseur doublerait environ tous les deux ans?"
+  },
+  {
+    "correctAnswer": "TCP/IP",
+    "id": 1234567890007,
+    "options": [
+      "HTTP/HTTPS",
+      "FTP",
+      "TCP/IP",
+      "SMTP"
+    ],
+    "question": "Quel protocole est à la base d'Internet et permet la transmission de données entre des ordinateurs?"
+  },
+  {
+    "correctAnswer": "Alan Turing",
+    "id": 1234567890008,
+    "options": [
+      "Alan Turing",
+      "John von Neumann",
+      "Claude Shannon",
+      "Richard Feynman"
+    ],
+    "question": "Qui est considéré comme le père de l'informatique théorique et de l'intelligence artificielle?"
+  },
+  {
+    "correctAnswer": "Ray Tomlinson",
+    "id": 1234567890009,
+    "options": [
+      "Ray Tomlinson",
+      "Vint Cerf",
+      "Bob Kahn",
+      "Marc Andreessen"
+    ],
+    "question": "Qui est crédité de l'invention de l'e-mail?"
+  },
+  {
+    "correctAnswer": "Silicon Valley",
+    "id": 1234567890010,
+    "options": [
+      "Golden Corridor",
+      "Tech Coast",
+      "Silicon Alley",
+      "Silicon Valley"
+    ],
+    "question": "Quelle région est connue comme le principal hub technologique et d'innovation des États-Unis?"
+  },
+  {
+    "correctAnswer": "TOR (The Onion Router)",
+    "id": 1234567890011,
+    "options": [
+      "VPN (Virtual Private Network)",
+      "TOR (The Onion Router)",
+      "ISP (Internet Service Provider)",
+      "ICANN (Internet Corporation for Assigned Names and Numbers)"
+    ],
+    "question": "Quel outil est principalement utilisé pour naviguer sur le Dark Web tout en préservant l'anonymat?"
+  },
+  {
+    "correctAnswer": "Blockchain",
+    "id": 1234567890012,
+    "options": [
+      "Cloud Computing",
+      "Neural Network",
+      "Quantum Computing",
+      "Blockchain"
+    ],
+    "question": "Quelle technologie est à la base des cryptomonnaies comme Bitcoin?"
+  },
+  {
+    "correctAnswer": "128 bits",
+    "id": 1234567890013,
+    "options": [
+      "32 bits",
+      "64 bits",
+      "128 bits",
+      "256 bits"
+    ],
+    "question": "Quelle est la taille d'une adresse IPv6 standard?"
+  },
+  {
+    "correctAnswer": "Mark Zuckerberg",
+    "id": 1234567890014,
+    "options": [
+      "Jack Dorsey",
+      "Evan Spiegel",
+      "Mark Zuckerberg",
+      "Kevin Systrom"
+    ],
+    "question": "Qui a fondé Facebook en 2004?"
+  },
+  {
+    "correctAnswer": "RSS (Really Simple Syndication)",
+    "id": 1234567890015,
+    "options": [
+      "CSS (Cascading Style Sheets)",
+      "RSS (Really Simple Syndication)",
+      "SASS (Syntactically Awesome StyleSheets)",
+      "P2P (Peer to Peer)"
+    ],
+    "question": "Quel format est souvent utilisé pour diffuser régulièrement des mises à jour de contenu, comme les articles de blog ou les nouvelles?"
+  },
+  {
+    "correctAnswer": "Quantum Computing",
+    "id": 1234567890016,
+    "options": [
+      "Parallel Computing",
+      "Distributed Computing",
+      "Neural Computing",
+      "Quantum Computing"
+    ],
+    "question": "Quelle technologie utilise les principes de la mécanique quantique pour effectuer des calculs à des vitesses bien supérieures à celles des ordinateurs traditionnels?"
+  },
+  {
+    "correctAnswer": "Metcalfe",
+    "id": 1234567890017,
+    "options": [
+      "Newton",
+      "Ohm",
+      "Metcalfe",
+      "Joule"
+    ],
+    "question": "Selon quelle loi la valeur d'un réseau augmente proportionnellement au carré du nombre de ses utilisateurs?"
+  },
+  {
+    "correctAnswer": "Netscape Navigator",
+    "id": 1234567890018,
+    "options": [
+      "Internet Explorer",
+      "Safari",
+      "Opera",
+      "Netscape Navigator"
+    ],
+    "question": "Quel navigateur Web, populaire dans les années 1990, a été le principal concurrent d'Internet Explorer?"
+  },
+  {
+    "correctAnswer": "Blue Screen of Death (BSOD)",
+    "id": 1234567890019,
+    "options": [
+      "Red Ring of Death",
+      "Kernel Panic",
+      "Black Screen of Despair",
+      "Blue Screen of Death (BSOD)"
+    ],
+    "question": "Comment est généralement appelé l'écran d'erreur qui apparaît dans les versions antérieures de Windows lorsqu'un arrêt critique du système se produit?"
+  },
+  {
+    "correctAnswer": "Fibre optique",
+    "id": 1234567890020,
+    "options": [
+      "Câble coaxial",
+      "Fibre optique",
+      "Ligne téléphonique",
+      "Ligne électrique"
+    ],
+    "question": "Quel type de câble utilise la réfraction de la lumière pour transmettre des données à des vitesses très élevées sur de longues distances?"
+  },
+  {
+    "correctAnswer": "Vint Cerf et Bob Kahn",
+    "id": 2234567890001,
+    "options": [
+      "Steve Jobs et Steve Wozniak",
+      "Larry Page et Sergey Brin",
+      "Bill Gates et Paul Allen",
+      "Vint Cerf et Bob Kahn"
+    ],
+    "question": "Qui sont considérés comme les 'pères de l'Internet' pour leur travail sur le protocole TCP/IP?"
+  },
+  {
+    "correctAnswer": "Silicon",
+    "id": 2234567890002,
+    "options": [
+      "Plastique",
+      "Cuivre",
+      "Or",
+      "Silicon"
+    ],
+    "question": "De quel matériau sont principalement fabriqués les microprocesseurs?"
+  },
+  {
+    "correctAnswer": "JPEG",
+    "id": 2234567890003,
+    "options": [
+      "MP3",
+      "JPEG",
+      "PDF",
+      "ZIP"
+    ],
+    "question": "Quel format de fichier est principalement utilisé pour compresser des images photographiques?"
+  },
+  {
+    "correctAnswer": "Python",
+    "id": 2234567890004,
+    "options": [
+      "Cobra",
+      "Python",
+      "Anaconda",
+      "Viper"
+    ],
+    "question": "Quel est le nom d'un langage de programmation populaire qui est également le nom d'un serpent?"
+  },
+  {
+    "correctAnswer": "Elon Musk",
+    "id": 2234567890005,
+    "options": [
+      "Jeff Bezos",
+      "Elon Musk",
+      "Richard Branson",
+      "Bill Gates"
+    ],
+    "question": "Qui est le fondateur de SpaceX et Tesla?"
+  },
+  {
+    "correctAnswer": "Router",
+    "id": 2234567890006,
+    "options": [
+      "Modem",
+      "Switch",
+      "Router",
+      "Firewall"
+    ],
+    "question": "Quel dispositif est utilisé pour connecter différents réseaux et diriger le trafic entre eux?"
+  },
+  {
+    "correctAnswer": "GNU/GPL",
+    "id": 2234567890007,
+    "options": [
+      "MIT",
+      "Apache",
+      "BSD",
+      "GNU/GPL"
+    ],
+    "question": "Quelle licence est souvent associée au logiciel libre et permet la redistribution et la modification du code source?"
+  },
+  {
+    "correctAnswer": "Jack Dorsey",
+    "id": 2234567890008,
+    "options": [
+      "Jack Ma",
+      "Jack Dorsey",
+      "Jack Welch",
+      "Jack Black"
+    ],
+    "question": "Qui est le co-fondateur de Twitter?"
+  },
+  {
+    "correctAnswer": "Linux",
+    "id": 2234567890009,
+    "options": [
+      "Windows",
+      "OS X",
+      "Android",
+      "Linux"
+    ],
+    "question": "Quel système d'exploitation a été créé par Linus Torvalds?"
+  },
+  {
+    "correctAnswer": "Bits",
+    "id": 2234567890010,
+    "options": [
+      "Bytes",
+      "Bits",
+      "Hertz",
+      "Volts"
+    ],
+    "question": "La vitesse d'Internet est généralement mesurée en quoi?"
+  },
+  {
+    "correctAnswer": "Steve Wozniak",
+    "id": 2234567890011,
+    "options": [
+      "Steve Ballmer",
+      "Steve Wozniak",
+      "Steve Case",
+      "Steve Martin"
+    ],
+    "question": "Quel 'Steve' est le co-fondateur d'Apple et est souvent surnommé 'Woz'?"
+  },
+  {
+    "correctAnswer": "Virtual Reality (VR)",
+    "id": 2234567890012,
+    "options": [
+      "Virtual Vectoring (VV)",
+      "Very Real (VR)",
+      "Virtual Reality (VR)",
+      "Variable Resonance (VR)"
+    ],
+    "question": "Quelle technologie permet aux utilisateurs de s'immerger dans un environnement généré par ordinateur?"
+  },
+  {
+    "correctAnswer": "Solid-State Drive (SSD)",
+    "id": 2234567890013,
+    "options": [
+      "Hard Disk Drive (HDD)",
+      "Compact Disc Drive (CDD)",
+      "Digital Video Drive (DVD)",
+      "Solid-State Drive (SSD)"
+    ],
+    "question": "Quel type de stockage utilise la mémoire flash et est généralement plus rapide et plus résistant aux chocs qu'un disque dur traditionnel?"
+  },
+  {
+    "correctAnswer": "USB-C",
+    "id": 2234567890014,
+    "options": [
+      "USB-A",
+      "USB-B",
+      "Micro-USB",
+      "USB-C"
+    ],
+    "question": "Quel type de connecteur USB est réversible et peut être inséré de n'importe quelle façon?"
+  },
+  {
+    "correctAnswer": "DDoS (Distributed Denial of Service)",
+    "id": 2234567890015,
+    "options": [
+      "DOS (Disk Operating System)",
+      "DOC (Document Object Control)",
+      "DOA (Dead On Arrival)",
+      "DDoS (Distributed Denial of Service)"
+    ],
+    "question": "Quelle attaque vise à rendre un service en ligne indisponible en le submergeant de trafic depuis de multiples sources?"
+  },
+  {
+    "correctAnswer": "Augmented Reality (AR)",
+    "id": 2234567890016,
+    "options": [
+      "Absolute Reality (AR)",
+      "Alternate Reality (AR)",
+      "Augmented Reality (AR)",
+      "Altered Reality (AR)"
+    ],
+    "question": "Quelle technologie superpose des informations numériques sur le monde réel à travers une caméra ou un écran?"
+  },
+  {
+    "correctAnswer": "Spam",
+    "id": 2234567890018,
+    "options": [
+      "Virus",
+      "Trojan",
+      "Worm",
+      "Spam"
+    ],
+    "question": "Comment appelle-t-on généralement les e-mails non sollicités envoyés en masse?"
+  },
+  {
+    "correctAnswer": "Cache",
+    "id": 2234567890019,
+    "options": [
+      "RAM",
+      "ROM",
+      "Cache",
+      "Flash"
+    ],
+    "question": "Quelle mémoire est utilisée pour stocker temporairement des données fréquemment utilisées pour accélérer l'accès?"
+  },
+  {
+    "correctAnswer": "Turing Complete",
+    "id": 2234567890020,
+    "options": [
+      "Quantum Ready",
+      "Kernel Compliant",
+      "Bytecode Finished",
+      "Turing Complete"
+    ],
+    "question": "Comment appelle-t-on un système de calcul qui peut simuler une machine universelle de Turing?"
+  },
+  {
+    "correctAnswer": "Pascal",
+    "id": 3234567890001,
+    "options": [
+      "Cobol",
+      "Perl",
+      "Pascal",
+      "Python"
+    ],
+    "question": "Quel langage de programmation a été nommé d'après le mathématicien et physicien Blaise Pascal?"
+  },
+  {
+    "correctAnswer": "Edge",
+    "id": 3234567890002,
+    "options": [
+      "Safari",
+      "Edge",
+      "Chrome",
+      "Opera"
+    ],
+    "question": "Quel navigateur a été développé par Microsoft pour remplacer Internet Explorer?"
+  },
+  {
+    "correctAnswer": "RISC",
+    "id": 3234567890003,
+    "options": [
+      "MIPS",
+      "RISC",
+      "CISC",
+      "ASIC"
+    ],
+    "question": "Quel type d'architecture de processeur se concentre sur des instructions simples exécutées en un seul cycle d'horloge?"
+  },
+  {
+    "correctAnswer": "Blockchain",
+    "id": 3234567890004,
+    "options": [
+      "Database",
+      "Hashgraph",
+      "Cloud",
+      "Blockchain"
+    ],
+    "question": "Quelle technologie utilise des chaînes de blocs pour enregistrer des transactions de manière sécurisée et transparente?"
+  },
+  {
+    "correctAnswer": "CUDA",
+    "id": 3234567890005,
+    "options": [
+      "Vulkan",
+      "OpenGL",
+      "DirectX",
+      "CUDA"
+    ],
+    "question": "Quelle plateforme de programmation parallèle a été développée par NVIDIA pour les GPU?"
+  },
+  {
+    "correctAnswer": "Kernel",
+    "id": 3234567890006,
+    "options": [
+      "Shell",
+      "Kernel",
+      "API",
+      "Driver"
+    ],
+    "question": "Quel est le cœur du système d'exploitation qui interagit directement avec le matériel de l'ordinateur?"
+  },
+  {
+    "correctAnswer": "Brute Force",
+    "id": 3234567890007,
+    "options": [
+      "Phishing",
+      "Brute Force",
+      "Trojan Horse",
+      "Man-in-the-Middle"
+    ],
+    "question": "Quelle technique d'attaque consiste à essayer toutes les combinaisons possibles pour deviner un mot de passe?"
+  },
+  {
+    "correctAnswer": "Sandboxing",
+    "id": 3234567890008,
+    "options": [
+      "Virtualization",
+      "Encryption",
+      "Tokenization",
+      "Sandboxing"
+    ],
+    "question": "Quelle technique est utilisée pour exécuter des applications dans un environnement isolé pour éviter qu'elles n'affectent d'autres parties du système?"
+  },
+  {
+    "correctAnswer": "5G",
+    "id": 3234567890009,
+    "options": [
+      "3G",
+      "4G LTE",
+      "WiMAX",
+      "5G"
+    ],
+    "question": "Quelle est la dernière norme de communication cellulaire qui promet des vitesses de téléchargement et d'upload plus rapides ainsi qu'une latence réduite?"
+  },
+  {
+    "correctAnswer": "Cookies",
+    "id": 3234567890010,
+    "options": [
+      "Caches",
+      "Tokens",
+      "Cookies",
+      "Sessions"
+    ],
+    "question": "Quel mécanisme les sites Web utilisent-ils pour stocker des informations sur le navigateur de l'utilisateur afin de se souvenir de lui lors de visites ultérieures?"
+  },
+  {
+    "correctAnswer": "Virtual Machine (VM)",
+    "id": 3234567890011,
+    "options": [
+      "Docker Container",
+      "Virtual Machine (VM)",
+      "Runtime Environment",
+      "Thread"
+    ],
+    "question": "Quel outil permet d'exécuter un ou plusieurs systèmes d'exploitation comme applications au sein d'un autre système d'exploitation?"
+  },
+  {
+    "correctAnswer": "DDoS",
+    "id": 3234567890012,
+    "options": [
+      "RAT",
+      "Malware",
+      "Spyware",
+      "DDoS"
+    ],
+    "question": "Quelle attaque consiste à inonder un serveur ou un réseau avec un trafic inutile pour le rendre indisponible aux utilisateurs?"
+  },
+  {
+    "correctAnswer": "Transistor",
+    "id": 3234567890013,
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Diode",
+      "Transistor"
+    ],
+    "question": "Quel composant électronique est utilisé comme amplificateur, commutateur, ou signal modulateur dans un circuit intégré?"
+  },
+  {
+    "correctAnswer": "Bitcoin",
+    "id": 3234567890014,
+    "options": [
+      "Litecoin",
+      "Ethereum",
+      "Ripple",
+      "Bitcoin"
+    ],
+    "question": "Quelle est la première et la plus célèbre des cryptomonnaies?"
+  },
+  {
+    "correctAnswer": "Machine Learning",
+    "id": 3234567890015,
+    "options": [
+      "Deep Web",
+      "Quantum Computing",
+      "Machine Learning",
+      "Augmented Reality"
+    ],
+    "question": "Quelle branche de l'intelligence artificielle se concentre sur le développement d'algorithmes permettant aux machines d'apprendre à partir de données?"
+  },
+  {
+    "correctAnswer": "API (Application Programming Interface)",
+    "id": 3234567890016,
+    "options": [
+      "IDE (Integrated Development Environment)",
+      "SDK (Software Development Kit)",
+      "API (Application Programming Interface)",
+      "UI (User Interface)"
+    ],
+    "question": "Quel terme désigne un ensemble de définitions et de protocoles qui permet à un logiciel de communiquer avec un autre logiciel?"
+  },
+  {
+    "correctAnswer": "Biometrics",
+    "id": 3234567890017,
+    "options": [
+      "Cryptography",
+      "Firewall",
+      "Antivirus",
+      "Biometrics"
+    ],
+    "question": "Quelle technologie de sécurité utilise des caractéristiques physiques ou comportementales uniques d'un individu pour l'authentifier?"
+  },
+  {
+    "correctAnswer": "RAID (Redundant Array of Independent Disks)",
+    "id": 3234567890018,
+    "options": [
+      "BIOS (Basic Input/Output System)",
+      "ROM (Read-Only Memory)",
+      "RAM (Random Access Memory)",
+      "RAID (Redundant Array of Independent Disks)"
+    ],
+    "question": "Quelle technologie utilise plusieurs disques durs pour améliorer les performances ou pour fournir une tolérance aux pannes?"
+  },
+  {
+    "correctAnswer": "Botnet",
+    "id": 3234567890019,
+    "options": [
+      "Darknet",
+      "Intranet",
+      "Botnet",
+      "VPN (Virtual Private Network)"
+    ],
+    "question": "Quel terme désigne un groupe de dispositifs connectés à Internet, contrôlés sans le consentement de leurs propriétaires, et utilisés pour mener des attaques coordonnées?"
+  },
+  {
+    "correctAnswer": "Open Source",
+    "id": 3234567890020,
+    "options": [
+      "Proprietary",
+      "Freeware",
+      "Shareware",
+      "Open Source"
+    ],
+    "question": "Comment appelle-t-on un logiciel dont le code source est rendu public et peut être modifié ou distribué par n'importe qui?"
+  },
+  {
+    "correctAnswer": "Digital Ocean",
+    "id": 4234567890002,
+    "options": [
+      "Amazon Web Services",
+      "Microsoft Azure",
+      "Google Cloud Platform",
+      "Digital Ocean"
+    ],
+    "question": "Lequel de ces fournisseurs de cloud n'est pas l'un des trois plus grands en termes de part de marché?"
+  },
+  {
+    "correctAnswer": "Streaming",
+    "id": 4234567890003,
+    "options": [
+      "Downloading",
+      "Uploading",
+      "P2P",
+      "Streaming"
+    ],
+    "question": "Quel terme désigne la diffusion en continu de contenus audio ou vidéo sur Internet?"
+  },
+  {
+    "correctAnswer": "UNIX",
+    "id": 4234567890004,
+    "options": [
+      "DOS",
+      "UNIX",
+      "Windows NT",
+      "OS/2"
+    ],
+    "question": "Sur quel système d'exploitation le système Linux est-il basé?"
+  },
+  {
+    "correctAnswer": "C",
+    "id": 4234567890005,
+    "options": [
+      "Java",
+      "Python",
+      "Ruby",
+      "C"
+    ],
+    "question": "Quel langage de programmation a été développé dans les années 1970 chez Bell Labs?"
+  },
+  {
+    "correctAnswer": "Mega",
+    "id": 4234567890006,
+    "options": [
+      "Google Drive",
+      "Dropbox",
+      "iCloud",
+      "Mega"
+    ],
+    "question": "Quel service de stockage en nuage a été créé par Kim Dotcom après la fermeture de Megaupload?"
+  },
+  {
+    "correctAnswer": "CAPTCHA",
+    "id": 4234567890007,
+    "options": [
+      "QR Code",
+      "Barcode",
+      "CAPTCHA",
+      "Token"
+    ],
+    "question": "Quel système est souvent utilisé sur les sites Web pour vérifier que l'utilisateur est un humain et non un robot?"
+  },
+  {
+    "correctAnswer": "Bluetooth",
+    "id": 4234567890008,
+    "options": [
+      "Wi-Fi",
+      "NFC",
+      "Infrared",
+      "Bluetooth"
+    ],
+    "question": "Quelle technologie sans fil est couramment utilisée pour connecter des écouteurs, des claviers et d'autres périphériques à courte distance?"
+  },
+  {
+    "correctAnswer": "Wearables",
+    "id": 4234567890009,
+    "options": [
+      "Smartphones",
+      "Tablets",
+      "Laptops",
+      "Wearables"
+    ],
+    "question": "Comment appelle-t-on les appareils technologiques que l'on peut porter sur soi, comme les montres intelligentes et les trackers de fitness?"
+  },
+  {
+    "correctAnswer": "SSD",
+    "id": 4234567890010,
+    "options": [
+      "HDD",
+      "DVD",
+      "CD",
+      "SSD"
+    ],
+    "question": "Quel type de disque de stockage est basé sur la mémoire flash et offre des vitesses de lecture/écriture plus rapides que les disques traditionnels?"
+  },
+  {
+    "correctAnswer": "Fintech",
+    "id": 4234567890011,
+    "options": [
+      "Proptech",
+      "Healthtech",
+      "Edtech",
+      "Fintech"
+    ],
+    "question": "Quel terme décrit les entreprises technologiques qui innovent dans le secteur des services financiers?"
+  },
+  {
+    "correctAnswer": "Quantum Computing",
+    "id": 4234567890012,
+    "options": [
+      "Neural Networks",
+      "Blockchain",
+      "Cloud Computing",
+      "Quantum Computing"
+    ],
+    "question": "Quelle technologie promet de révolutionner le traitement de l'information en utilisant les principes de la mécanique quantique?"
+  },
+  {
+    "correctAnswer": "Spotify",
+    "id": 4234567890013,
+    "options": [
+      "Netflix",
+      "Amazon Prime",
+      "Spotify",
+      "Hulu"
+    ],
+    "question": "Quel service est principalement associé à la diffusion en continu de musique?"
+  },
+  {
+    "correctAnswer": "Chatbot",
+    "id": 4234567890014,
+    "options": [
+      "Smart Speaker",
+      "Virtual Reality Headset",
+      "Drone",
+      "Chatbot"
+    ],
+    "question": "Quel outil technologique est souvent utilisé sur les sites Web pour répondre automatiquement aux questions des clients?"
+  },
+  {
+    "correctAnswer": "E-Ink",
+    "id": 4234567890015,
+    "options": [
+      "LED",
+      "LCD",
+      "OLED",
+      "E-Ink"
+    ],
+    "question": "Quelle technologie d'affichage est couramment utilisée dans les liseuses électroniques pour sa faible consommation d'énergie et sa lisibilité à la lumière du jour?"
+  },
+  {
+    "correctAnswer": "VPN",
+    "id": 4234567890016,
+    "options": [
+      "ISP",
+      "DNS",
+      "LAN",
+      "VPN"
+    ],
+    "question": "Quel outil permet de créer une connexion sécurisée et privée sur un réseau public, comme Internet?"
+  },
+  {
+    "correctAnswer": "Silicon Valley",
+    "id": 4234567890017,
+    "options": [
+      "Hollywood",
+      "Wall Street",
+      "Madison Avenue",
+      "Silicon Valley"
+    ],
+    "question": "Quelle région des États-Unis est considérée comme le centre mondial de l'innovation technologique?"
+  },
+  {
+    "correctAnswer": "Zero-day",
+    "id": 4234567890018,
+    "options": [
+      "Ransomware",
+      "Malware",
+      "Trojan",
+      "Zero-day"
+    ],
+    "question": "Quel terme décrit une vulnérabilité logicielle qui est inconnue du fabricant et qui est exploitée par les pirates avant qu'elle ne soit corrigée?"
+  },
+  {
+    "correctAnswer": "WebRTC",
+    "id": 4234567890019,
+    "options": [
+      "HTTP/2",
+      "WebSockets",
+      "WebRTC",
+      "FTP"
+    ],
+    "question": "Quelle technologie permet la communication en temps réel entre navigateurs sans nécessiter de plugins ou d'applications tierces?"
+  },
+  {
+    "correctAnswer": "Scrum",
+    "id": 4234567890020,
+    "options": [
+      "Waterfall",
+      "Agile",
+      "Kanban",
+      "Scrum"
+    ],
+    "question": "Quelle méthodologie de développement logiciel est centrée sur des itérations courtes et des réunions quotidiennes de l'équipe?"
+  },
+  {
+    "correctAnswer": "RSS",
+    "id": 5234567890001,
+    "options": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "RSS"
+    ],
+    "question": "Quel protocole est souvent utilisé pour s'abonner à des mises à jour de sites Web, comme les blogs?"
+  },
+  {
+    "correctAnswer": "Kilobyte",
+    "id": 5234567890002,
+    "options": [
+      "Bit",
+      "Megabyte",
+      "Gigabyte",
+      "Kilobyte"
+    ],
+    "question": "Quelle unité de stockage est plus grande qu'un byte mais plus petite qu'un megabyte?"
+  },
+  {
+    "correctAnswer": "Deep Learning",
+    "id": 5234567890003,
+    "options": [
+      "Cloud Computing",
+      "Blockchain",
+      "Quantum Computing",
+      "Deep Learning"
+    ],
+    "question": "Quelle sous-catégorie de l'intelligence artificielle se base principalement sur des réseaux de neurones artificiels?"
+  },
+  {
+    "correctAnswer": "Silicon Valley",
+    "id": 5234567890004,
+    "options": [
+      "Bollywood",
+      "Napa Valley",
+      "The Big Apple",
+      "Silicon Valley"
+    ],
+    "question": "Quelle région en Californie est connue comme le berceau de nombreuses startups technologiques?"
+  },
+  {
+    "correctAnswer": "Augmented Reality",
+    "id": 5234567890005,
+    "options": [
+      "Virtual Reality",
+      "Mixed Reality",
+      "Augmented Reality",
+      "Hyper Reality"
+    ],
+    "question": "Quelle technologie superpose des éléments numériques sur le monde réel à l'aide d'un dispositif?"
+  },
+  {
+    "correctAnswer": "USB Type-C",
+    "id": 5234567890006,
+    "options": [
+      "USB Type-A",
+      "USB Type-B",
+      "USB Type-C",
+      "USB Mini"
+    ],
+    "question": "Quel connecteur USB est réversible et peut être branché dans n'importe quelle orientation?"
+  },
+  {
+    "correctAnswer": "Phishing",
+    "id": 5234567890007,
+    "options": [
+      "Spoofing",
+      "Sniffing",
+      "Phishing",
+      "Farming"
+    ],
+    "question": "Quelle technique d'attaque consiste à tromper une personne pour qu'elle donne des informations sensibles en prétendant être une entité de confiance?"
+  },
+  {
+    "correctAnswer": "Tails",
+    "id": 5234567890008,
+    "options": [
+      "Windows",
+      "macOS",
+      "Tails",
+      "Ubuntu"
+    ],
+    "question": "Quel système d'exploitation est conçu pour préserver la vie privée et l'anonymat de l'utilisateur et ne laisse aucune trace une fois éteint?"
+  },
+  {
+    "correctAnswer": "Rust",
+    "id": 5234567890009,
+    "options": [
+      "Ruby",
+      "Perl",
+      "Java",
+      "Rust"
+    ],
+    "question": "Quel langage de programmation est connu pour sa gestion sûre de la mémoire et sa prévention contre les bugs liés à la concurrence?"
+  },
+  {
+    "correctAnswer": "Minecraft",
+    "id": 5234567890010,
+    "options": [
+      "World of Warcraft",
+      "Counter-Strike",
+      "Minecraft",
+      "The Sims"
+    ],
+    "question": "Quel jeu vidéo populaire permet aux joueurs de construire et de détruire des blocs dans un monde généré de manière procédurale?"
+  },
+  {
+    "correctAnswer": "Two-factor authentication",
+    "id": 5234567890011,
+    "options": [
+      "Password reset",
+      "Single sign-on",
+      "Biometric authentication",
+      "Two-factor authentication"
+    ],
+    "question": "Quelle méthode de sécurité nécessite deux formes différentes de vérification avant qu'un utilisateur puisse se connecter?"
+  },
+  {
+    "correctAnswer": "Siri",
+    "id": 5234567890012,
+    "options": [
+      "Cortana",
+      "Alexa",
+      "Google Assistant",
+      "Siri"
+    ],
+    "question": "Quel assistant virtuel est développé par Apple?"
+  },
+  {
+    "correctAnswer": "Quantum Bits (Qubits)",
+    "id": 5234567890013,
+    "options": [
+      "Binary Digits (Bits)",
+      "Bytes",
+      "Registers",
+      "Quantum Bits (Qubits)"
+    ],
+    "question": "Dans l'informatique quantique, comment s'appellent les unités de données fondamentales?"
+  },
+  {
+    "correctAnswer": "Net Neutrality",
+    "id": 5234567890014,
+    "options": [
+      "Open Source",
+      "Net Neutrality",
+      "Cybersecurity",
+      "Data Privacy"
+    ],
+    "question": "Quel principe stipule que les fournisseurs de services Internet doivent traiter toutes les données sur Internet de la même manière, sans favoriser ou bloquer certains produits ou sites Web?"
+  },
+  {
+    "correctAnswer": "Virtual Private Network (VPN)",
+    "id": 5234567890015,
+    "options": [
+      "Content Delivery Network (CDN)",
+      "Virtual Local Area Network (VLAN)",
+      "Internet Service Provider (ISP)",
+      "Virtual Private Network (VPN)"
+    ],
+    "question": "Quelle technologie permet aux utilisateurs de créer une connexion sécurisée sur Internet, masquant leur adresse IP réelle?"
+  },
+  {
+    "correctAnswer": "Tor",
+    "id": 5234567890016,
+    "options": [
+      "Edge",
+      "Chrome",
+      "Safari",
+      "Tor"
+    ],
+    "question": "Quel navigateur est conçu pour protéger l'anonymat de ses utilisateurs en faisant rebondir leur trafic à travers plusieurs serveurs avant d'atteindre sa destination finale?"
+  },
+  {
+    "correctAnswer": "Dynamic Host Configuration Protocol (DHCP)",
+    "id": 5234567890017,
+    "options": [
+      "Domain Name System (DNS)",
+      "File Transfer Protocol (FTP)",
+      "Dynamic Host Configuration Protocol (DHCP)",
+      "HyperText Transfer Protocol (HTTP)"
+    ],
+    "question": "Quel protocole est utilisé pour assigner automatiquement des adresses IP aux dispositifs d'un réseau?"
+  },
+  {
+    "correctAnswer": "Light Emitting Diodes (LEDs)",
+    "id": 5234567890018,
+    "options": [
+      "Liquid Crystal Displays (LCDs)",
+      "Cathode Ray Tubes (CRTs)",
+      "Organic Light Emitting Diodes (OLEDs)",
+      "Light Emitting Diodes (LEDs)"
+    ],
+    "question": "Quelle technologie est couramment utilisée dans les écrans modernes pour son efficacité énergétique et sa capacité à produire des couleurs vives?"
+  },
+  {
+    "correctAnswer": "Server Message Block (SMB)",
+    "id": 5234567890019,
+    "options": [
+      "Post Office Protocol (POP)",
+      "Simple Mail Transfer Protocol (SMTP)",
+      "Server Message Block (SMB)",
+      "HyperText Transfer Protocol Secure (HTTPS)"
+    ],
+    "question": "Quel protocole est souvent utilisé pour le partage de fichiers et d'imprimantes dans les réseaux locaux Windows?"
+  },
+  {
+    "correctAnswer": "Solid State Drive (SSD)",
+    "id": 5234567890020,
+    "options": [
+      "Digital Versatile Disc (DVD)",
+      "Compact Disc (CD)",
+      "Hard Disk Drive (HDD)",
+      "Solid State Drive (SSD)"
+    ],
+    "question": "Quel type de dispositif de stockage n'a pas de pièces mobiles et est généralement plus rapide et plus durable que les disques traditionnels?"
+  },
+  {
+    "correctAnswer": "Larry Page",
+    "id": 6234567890001,
+    "options": [
+      "Mark Zuckerberg",
+      "Steve Jobs",
+      "Bill Gates",
+      "Larry Page"
+    ],
+    "question": "Qui est l'un des fondateurs de Google?"
+  },
+  {
+    "correctAnswer": "Firewall",
+    "id": 6234567890002,
+    "options": [
+      "Antivirus",
+      "Spyware",
+      "Ransomware",
+      "Firewall"
+    ],
+    "question": "Quelle technologie est utilisée pour filtrer le trafic entrant et sortant d'un réseau?"
+  },
+  {
+    "correctAnswer": "JPEG",
+    "id": 6234567890003,
+    "options": [
+      "PNG",
+      "GIF",
+      "BMP",
+      "JPEG"
+    ],
+    "question": "Quel format d'image est particulièrement adapté pour les photographies en raison de sa capacité de compression?"
+  },
+  {
+    "correctAnswer": "Python",
+    "id": 6234567890004,
+    "options": [
+      "Java",
+      "C++",
+      "Ruby",
+      "Python"
+    ],
+    "question": "Quel langage de programmation est particulièrement populaire pour le développement rapide d'applications et la science des données?"
+  },
+  {
+    "correctAnswer": "Li-Fi",
+    "id": 6234567890005,
+    "options": [
+      "Wi-Fi",
+      "Bluetooth",
+      "NFC",
+      "Li-Fi"
+    ],
+    "question": "Quelle technologie utilise la lumière pour fournir une communication à haut débit sans fil?"
+  },
+  {
+    "correctAnswer": "Raspberry Pi",
+    "id": 6234567890006,
+    "options": [
+      "Orange Pi",
+      "Banana Pi",
+      "Apple Pi",
+      "Raspberry Pi"
+    ],
+    "question": "Quel micro-ordinateur a été développé au Royaume-Uni pour promouvoir l'enseignement des sciences informatiques?"
+  },
+  {
+    "correctAnswer": "SaaS (Software as a Service)",
+    "id": 6234567890007,
+    "options": [
+      "PaaS (Platform as a Service)",
+      "IaaS (Infrastructure as a Service)",
+      "FaaS (Function as a Service)",
+      "SaaS (Software as a Service)"
+    ],
+    "question": "Quel modèle de cloud computing permet aux utilisateurs d'accéder à des applications via Internet?"
+  },
+  {
+    "correctAnswer": "Augmented Reality (AR)",
+    "id": 6234567890008,
+    "options": [
+      "Virtual Reality (VR)",
+      "Mixed Reality (MR)",
+      "Extended Reality (XR)",
+      "Augmented Reality (AR)"
+    ],
+    "question": "Quelle technologie superpose des éléments numériques sur le monde réel à l'aide de caméras et de capteurs?"
+  },
+  {
+    "correctAnswer": "Twitch",
+    "id": 6234567890009,
+    "options": [
+      "Netflix",
+      "YouTube",
+      "Twitch",
+      "Vimeo"
+    ],
+    "question": "Sur quelle plateforme les joueurs diffusent-ils en direct leurs sessions de jeux vidéo?"
+  },
+  {
+    "correctAnswer": "Metadata",
+    "id": 6234567890010,
+    "options": [
+      "Ciphertext",
+      "Plaintext",
+      "Dataware",
+      "Metadata"
+    ],
+    "question": "Comment appelle-t-on les données qui décrivent d'autres données, comme les informations sur la date de création d'un fichier?"
+  },
+  {
+    "correctAnswer": "Cookies",
+    "id": 6234567890011,
+    "options": [
+      "Applets",
+      "Widgets",
+      "Plug-ins",
+      "Cookies"
+    ],
+    "question": "Quel outil les sites Web utilisent-ils pour mémoriser des informations sur les préférences des visiteurs ou leur statut de connexion?"
+  },
+  {
+    "correctAnswer": "Quantum Computer",
+    "id": 6234567890012,
+    "options": [
+      "Supercomputer",
+      "Mainframe",
+      "Minicomputer",
+      "Quantum Computer"
+    ],
+    "question": "Quel type d'ordinateur utilise les principes de la mécanique quantique pour effectuer des calculs?"
+  },
+  {
+    "correctAnswer": "Blockchain",
+    "id": 6234567890013,
+    "options": [
+      "Database",
+      "Spreadsheet",
+      "Cloud",
+      "Blockchain"
+    ],
+    "question": "Quelle technologie est à la base de la plupart des cryptomonnaies et permet d'enregistrer des transactions de manière sécurisée et transparente?"
+  },
+  {
+    "correctAnswer": "iOS",
+    "id": 6234567890014,
+    "options": [
+      "Android",
+      "Windows",
+      "Linux",
+      "iOS"
+    ],
+    "question": "Quel système d'exploitation est développé par Apple pour ses iPhones?"
+  },
+  {
+    "correctAnswer": "Binary",
+    "id": 6234567890015,
+    "options": [
+      "Decimal",
+      "Octal",
+      "Hexadecimal",
+      "Binary"
+    ],
+    "question": "Quel système de numération est utilisé par les ordinateurs pour représenter toutes les données et les instructions?"
+  },
+  {
+    "correctAnswer": "Bot",
+    "id": 6234567890016,
+    "options": [
+      "Worm",
+      "Virus",
+      "Trojan",
+      "Bot"
+    ],
+    "question": "Quel type de logiciel malveillant est utilisé pour effectuer des tâches automatisées sur Internet, souvent sans que l'utilisateur le sache?"
+  },
+  {
+    "correctAnswer": "URL (Uniform Resource Locator)",
+    "id": 6234567890017,
+    "options": [
+      "HTML (HyperText Markup Language)",
+      "HTTP (HyperText Transfer Protocol)",
+      "FTP (File Transfer Protocol)",
+      "URL (Uniform Resource Locator)"
+    ],
+    "question": "Comment appelle-t-on l'adresse spécifique d'une ressource sur Internet?"
+  },
+  {
+    "correctAnswer": "3D Printing",
+    "id": 6234567890018,
+    "options": [
+      "Laser Engraving",
+      "CNC Machining",
+      "Injection Molding",
+      "3D Printing"
+    ],
+    "question": "Quelle technologie permet la création d'objets en superposant des couches successives de matériau?"
+  },
+  {
+    "correctAnswer": "Moore's Law",
+    "id": 6234567890019,
+    "options": [
+      "Newton's Third Law",
+      "Einstein's Theory of Relativity",
+      "Kepler's First Law",
+      "Moore's Law"
+    ],
+    "question": "Quelle loi prévoit que le nombre de transistors sur un microprocesseur doublera environ tous les deux ans?"
+  },
+  {
+    "correctAnswer": "Encryption",
+    "id": 6234567890020,
+    "options": [
+      "Compression",
+      "Fragmentation",
+      "Encryption",
+      "Replication"
+    ],
+    "question": "Quel processus transforme les données en un code pour empêcher tout accès non autorisé?"
+  },
+  {
+    "correctAnswer": "Ping",
+    "id": 7234567890001,
+    "options": [
+      "Pong",
+      "Ping",
+      "Ding",
+      "Ring"
+    ],
+    "question": "Quel outil réseau est couramment utilisé pour vérifier la connectivité entre deux machines?"
+  },
+  {
+    "correctAnswer": "Dark Web",
+    "id": 7234567890002,
+    "options": [
+      "Deep Web",
+      "Wide Web",
+      "Tiny Web",
+      "Dark Web"
+    ],
+    "question": "Quelle partie d'Internet est intentionnellement cachée et inaccessible via les navigateurs web traditionnels?"
+  },
+  {
+    "correctAnswer": "Heuristic Analysis",
+    "id": 7234567890003,
+    "options": [
+      "Syntax Analysis",
+      "Heuristic Analysis",
+      "Static Analysis",
+      "Dynamic Analysis"
+    ],
+    "question": "Quelle méthode les programmes antivirus utilisent-ils pour détecter les nouveaux virus ou les variantes de virus existants?"
+  },
+  {
+    "correctAnswer": "Wearable",
+    "id": 7234567890004,
+    "options": [
+      "Portable",
+      "Movable",
+      "Mobile",
+      "Wearable"
+    ],
+    "question": "Comment appelle-t-on un appareil électronique que l'on peut porter sur le corps, comme une montre connectée?"
+  },
+  {
+    "correctAnswer": "Router",
+    "id": 7234567890005,
+    "options": [
+      "Switch",
+      "Router",
+      "Modem",
+      "Hub"
+    ],
+    "question": "Quel équipement est utilisé pour diriger le trafic entre différents réseaux, par exemple entre votre réseau domestique et Internet?"
+  },
+  {
+    "correctAnswer": "Cookies",
+    "id": 7234567890006,
+    "options": [
+      "Biscuits",
+      "Crackers",
+      "Cakes",
+      "Cookies"
+    ],
+    "question": "Quels petits fichiers les sites web placent-ils souvent sur votre ordinateur pour stocker des informations sur vos préférences?"
+  },
+  {
+    "correctAnswer": "Fiber Optics",
+    "id": 7234567890007,
+    "options": [
+      "Copper Cables",
+      "Coaxial Cables",
+      "Fiber Optics",
+      "Wireless"
+    ],
+    "question": "Quelle technologie utilise la lumière pour transmettre des données à des vitesses très élevées?"
+  },
+  {
+    "correctAnswer": "DPI (Dots Per Inch)",
+    "id": 7234567890008,
+    "options": [
+      "RPM (Revolutions Per Minute)",
+      "MPG (Miles Per Gallon)",
+      "BPM (Beats Per Minute)",
+      "DPI (Dots Per Inch)"
+    ],
+    "question": "Quelle mesure est couramment utilisée pour indiquer la résolution d'une imprimante ou d'un scanner?"
+  },
+  {
+    "correctAnswer": "Cache",
+    "id": 7234567890009,
+    "options": [
+      "RAM",
+      "ROM",
+      "SSD",
+      "Cache"
+    ],
+    "question": "Quel type de mémoire est utilisé pour stocker temporairement des données fréquemment utilisées pour accélérer les processeurs?"
+  },
+  {
+    "correctAnswer": "DDoS (Distributed Denial of Service)",
+    "id": 7234567890010,
+    "options": [
+      "DOS (Disk Operating System)",
+      "POS (Point Of Sale)",
+      "DoS (Denial of Service)",
+      "DDoS (Distributed Denial of Service)"
+    ],
+    "question": "Quelle attaque vise à rendre un service ou un site web indisponible en le submergeant de trafic?"
+  },
+  {
+    "correctAnswer": "Open Source",
+    "id": 7234567890011,
+    "options": [
+      "Freeware",
+      "Shareware",
+      "Closed Source",
+      "Open Source"
+    ],
+    "question": "Quel type de logiciel peut être librement modifié et redistribué par quiconque?"
+  },
+  {
+    "correctAnswer": "Kernel",
+    "id": 7234567890012,
+    "options": [
+      "Shell",
+      "Kernel",
+      "GUI",
+      "API"
+    ],
+    "question": "Quel élément central du système d'exploitation gère les ressources matérielles et fournit des services aux logiciels?"
+  },
+  {
+    "correctAnswer": "Machine Learning",
+    "id": 7234567890013,
+    "options": [
+      "Deep Web Learning",
+      "Machine Code",
+      "Machine Learning",
+      "Deep Sea Learning"
+    ],
+    "question": "Quelle branche de l'intelligence artificielle se concentre sur le développement de systèmes qui peuvent apprendre à partir de données?"
+  },
+  {
+    "correctAnswer": "BIOS (Basic Input/Output System)",
+    "id": 7234567890014,
+    "options": [
+      "OS (Operating System)",
+      "BIOS (Basic Input/Output System)",
+      "RAM (Random Access Memory)",
+      "USB (Universal Serial Bus)"
+    ],
+    "question": "Quel système intégré initialise le matériel d'ordinateur lors de son démarrage?"
+  },
+  {
+    "correctAnswer": "Pixel",
+    "id": 7234567890015,
+    "options": [
+      "Vector",
+      "Voxel",
+      "Pixel",
+      "Texel"
+    ],
+    "question": "Quelle est la plus petite unité d'une image numérique qui peut être affichée sur un écran?"
+  },
+  {
+    "correctAnswer": "Domain Name System (DNS)",
+    "id": 7234567890016,
+    "options": [
+      "Dynamic Host Configuration Protocol (DHCP)",
+      "HyperText Transfer Protocol (HTTP)",
+      "Domain Name System (DNS)",
+      "File Transfer Protocol (FTP)"
+    ],
+    "question": "Quel service traduit les noms de domaine en adresses IP?"
+  },
+  {
+    "correctAnswer": "Firewall",
+    "id": 7234567890017,
+    "options": [
+      "Antivirus",
+      "Malware",
+      "Firewall",
+      "Adware"
+    ],
+    "question": "Quel dispositif ou logiciel est conçu pour bloquer l'accès non autorisé tout en permettant les communications autorisées?"
+  },
+  {
+    "correctAnswer": "CAPTCHA",
+    "id": 7234567890019,
+    "options": [
+      "CAPTURE",
+      "CAUGHT",
+      "CATCHER",
+      "CAPTCHA"
+    ],
+    "question": "Quel test est souvent utilisé pour déterminer si un utilisateur est humain ou un robot lors de la soumission d'un formulaire en ligne?"
+  },
+  {
+    "correctAnswer": "Spam",
+    "id": 7234567890020,
+    "options": [
+      "Ham",
+      "Bread",
+      "Egg",
+      "Spam"
+    ],
+    "question": "Comment appelle-t-on les courriels non sollicités, généralement envoyés en grandes quantités?"
+  },
+  {
+    "correctAnswer": "Edge Computing",
+    "id": 8234567890003,
+    "options": [
+      "Cloud Computing",
+      "Fog Computing",
+      "Dew Computing",
+      "Edge Computing"
+    ],
+    "question": "Quelle technologie traite les données plus près de la source de données, comme un appareil IoT, plutôt que dans un data center centralisé?"
+  },
+  {
+    "correctAnswer": "Solid State Drive (SSD)",
+    "id": 8234567890004,
+    "options": [
+      "Hard Disk Drive (HDD)",
+      "Compact Disc (CD)",
+      "Digital Versatile Disc (DVD)",
+      "Solid State Drive (SSD)"
+    ],
+    "question": "Quel type de stockage utilise des puces NAND pour stocker des données, offrant des vitesses d'accès plus rapides que les disques traditionnels?"
+  },
+  {
+    "correctAnswer": "Cryptography",
+    "id": 8234567890005,
+    "options": [
+      "Steganography",
+      "Cryptography",
+      "Topology",
+      "Cartography"
+    ],
+    "question": "Quelle science se concentre sur les techniques de sécurisation de la communication pour protéger les informations contre les adversaires?"
+  },
+  {
+    "correctAnswer": "Hacker",
+    "id": 8234567890006,
+    "options": [
+      "Coder",
+      "Programmer",
+      "Designer",
+      "Hacker"
+    ],
+    "question": "Quel terme est souvent utilisé pour décrire une personne qui cherche à exploiter les faiblesses d'un système ou d'un réseau pour des fins malveillantes?"
+  },
+  {
+    "correctAnswer": "Virtual Reality (VR)",
+    "id": 8234567890007,
+    "options": [
+      "Augmented Reality (AR)",
+      "Mixed Reality (MR)",
+      "Hyper Reality (HR)",
+      "Virtual Reality (VR)"
+    ],
+    "question": "Quelle technologie immersive permet aux utilisateurs de se sentir comme s'ils étaient dans un environnement généré par ordinateur?"
+  },
+  {
+    "correctAnswer": "Chatbot",
+    "id": 8234567890008,
+    "options": [
+      "Search Engine",
+      "Web Spider",
+      "Chatbot",
+      "Social Media Platform"
+    ],
+    "question": "Quel outil automatise les interactions avec les utilisateurs sur les sites web, souvent utilisé pour le service client?"
+  },
+  {
+    "correctAnswer": "Ray Tracing",
+    "id": 8234567890009,
+    "options": [
+      "Pixel Shading",
+      "Rasterization",
+      "Ray Tracing",
+      "Texture Mapping"
+    ],
+    "question": "Quelle technique graphique est utilisée pour simuler la manière dont la lumière interagit avec les objets pour créer des images réalistes?"
+  },
+  {
+    "correctAnswer": "Ethereum",
+    "id": 8234567890010,
+    "options": [
+      "Bitcoin",
+      "Litecoin",
+      "Ripple",
+      "Ethereum"
+    ],
+    "question": "Quelle cryptomonnaie a introduit le concept de 'smart contracts' sur sa plateforme?"
+  },
+  {
+    "correctAnswer": "USB-C",
+    "id": 8234567890011,
+    "options": [
+      "USB-A",
+      "USB-B",
+      "Micro-USB",
+      "USB-C"
+    ],
+    "question": "Quel type de connecteur USB est réversible et supporte la transmission de données, vidéo et chargement en même temps?"
+  },
+  {
+    "correctAnswer": "Drone",
+    "id": 8234567890012,
+    "options": [
+      "Robot",
+      "Satellite",
+      "Helicopter",
+      "Drone"
+    ],
+    "question": "Quel appareil volant sans pilote est souvent utilisé pour la photographie aérienne, la surveillance ou la livraison?"
+  },
+  {
+    "correctAnswer": "Neural Networks",
+    "id": 8234567890013,
+    "options": [
+      "Linear Regression",
+      "Decision Trees",
+      "Neural Networks",
+      "Support Vector Machines"
+    ],
+    "question": "Quelle technique d'apprentissage automatique est inspirée du fonctionnement du cerveau humain?"
+  },
+  {
+    "correctAnswer": "NVIDIA",
+    "id": 8234567890014,
+    "options": [
+      "AMD",
+      "Intel",
+      "Qualcomm",
+      "NVIDIA"
+    ],
+    "question": "Quelle entreprise est particulièrement connue pour ses cartes graphiques destinées aux jeux vidéo et à la modélisation 3D?"
+  },
+  {
+    "correctAnswer": "Blockchain",
+    "id": 8234567890015,
+    "options": [
+      "Spreadsheet",
+      "Database",
+      "LinkedList",
+      "Blockchain"
+    ],
+    "question": "Quelle structure de données consiste en une série de blocs liés et sécurisés par cryptographie?"
+  },
+  {
+    "correctAnswer": "Biometrics",
+    "id": 8234567890016,
+    "options": [
+      "Passwords",
+      "Smart Cards",
+      "RFID Tags",
+      "Biometrics"
+    ],
+    "question": "Quelle méthode d'authentification utilise des caractéristiques physiques ou comportementales uniques, comme les empreintes digitales ou la reconnaissance faciale?"
+  },
+  {
+    "correctAnswer": "Net Neutrality",
+    "id": 8234567890017,
+    "options": [
+      "Open Source",
+      "Digital Rights",
+      "Data Privacy",
+      "Net Neutrality"
+    ],
+    "question": "Quel principe stipule que les fournisseurs de services Internet doivent traiter tout le trafic de données de manière égale?"
+  },
+  {
+    "correctAnswer": "Zero-Day Vulnerability",
+    "id": 8234567890018,
+    "options": [
+      "Buffer Overflow",
+      "SQL Injection",
+      "Cross-Site Scripting",
+      "Zero-Day Vulnerability"
+    ],
+    "question": "Comment appelle-t-on une faille de sécurité dans un logiciel qui est inconnue du vendeur et qui peut être exploitée par des pirates avant qu'une correction ne soit disponible?"
+  },
+  {
+    "correctAnswer": "Phishing",
+    "id": 8234567890019,
+    "options": [
+      "Hacking",
+      "Spoofing",
+      "Phishing",
+      "Ransomware"
+    ],
+    "question": "Quelle technique les cybercriminels utilisent-ils pour tromper les utilisateurs en leur faisant révéler des informations personnelles, généralement par le biais de courriels trompeurs?"
+  },
+  {
+    "correctAnswer": "Data Mining",
+    "id": 8234567890020,
+    "options": [
+      "Web Crawling",
+      "Data Warehousing",
+      "Data Mining",
+      "Web Hosting"
+    ],
+    "question": "Quel processus consiste à analyser de grands ensembles de données pour découvrir des modèles et des tendances?"
   }
 ]

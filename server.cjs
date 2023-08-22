@@ -136,7 +136,7 @@ function logProcessMemoryUsage() {
   fs.appendFileSync('memory_log.txt', logMessage + '\n');
 }
 
-setInterval(logProcessMemoryUsage, 1000 * 60 * 10); // logs process memory usage every 10 minutes
+setInterval(logProcessMemoryUsage, 1000 * 60 * 60); // logs process memory usage every 10 minutes
 
 // Log memory usage when the server is about to close
 process.on('beforeExit', () => {
@@ -168,6 +168,9 @@ function ensureUniqueIds() {
           let questionData = JSON.parse(fs.readFileSync(questionDataFilePath, 'utf8'));
 
           for (let question of questionData) {
+            if (question.id === undefined) {
+                console.log('Question has undefined ID:', question);
+            } else {
               if (idSet.has(question.id)) {
                   console.log('Duplicate id found:', question.id);
                   // If you find a duplicate id, generate a new one
@@ -181,7 +184,7 @@ function ensureUniqueIds() {
 
               idSet.add(question.id);
           }
-
+        }
           allQuestions.push({ category: category.id, data: questionData });
       } catch (error) {
           console.log('Error reading question data:', error);

@@ -471,5 +471,1721 @@
       "Combustion"
     ],
     "question": "Quel est le processus par lequel les organismes vivants décomposent les molécules organiques pour libérer de l'énergie ?"
+  },
+  {
+    "correctAnswer": "Marie Curie",
+    "id": 1011002057471726,
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Barbara McClintock",
+      "Jane Goodall"
+    ],
+    "question": "Qui est la première femme à avoir remporté deux prix Nobel dans deux domaines scientifiques distincts?"
+  },
+  {
+    "correctAnswer": "Schrödinger",
+    "id": 2033002057371737,
+    "options": [
+      "Bohr",
+      "Einstein",
+      "Planck",
+      "Schrödinger"
+    ],
+    "question": "Qui est associé à une célèbre expérience de pensée impliquant un chat?"
+  },
+  {
+    "correctAnswer": "Chromatographie",
+    "id": 3045002057371748,
+    "options": [
+      "Spectroscopie",
+      "Chromatographie",
+      "Centrifugation",
+      "Microscopie"
+    ],
+    "question": "Quelle technique est couramment utilisée pour séparer et analyser les composants d'un mélange?"
+  },
+  {
+    "correctAnswer": "Théorie des cordes",
+    "id": 4055002057371759,
+    "options": [
+      "Théorie des ondes",
+      "Théorie des relais",
+      "Théorie des cordes",
+      "Théorie du chaos"
+    ],
+    "question": "Quelle théorie propose que l'univers est constitué de minuscules cordes vibrantes plutôt que de particules ponctuelles?"
+  },
+  {
+    "correctAnswer": "Virus de la grippe",
+    "id": 5067002057371760,
+    "options": [
+      "Virus de la grippe",
+      "Virus du VIH",
+      "Virus de la variole",
+      "Virus de la rougeole"
+    ],
+    "question": "Quel virus est connu pour sa capacité à muter rapidement, nécessitant de nouveaux vaccins chaque année?"
+  },
+  {
+    "correctAnswer": "Alan Turing",
+    "id": 6089002057371771,
+    "options": [
+      "John von Neumann",
+      "Ada Lovelace",
+      "Grace Hopper",
+      "Alan Turing"
+    ],
+    "question": "Qui est considéré comme le père de l'informatique théorique et de l'intelligence artificielle?"
+  },
+  {
+    "correctAnswer": "Bronze",
+    "id": 7091002057371782,
+    "options": [
+      "Laiton",
+      "Bronze",
+      "Acier",
+      "Titane"
+    ],
+    "question": "Quel alliage est principalement composé de cuivre et d'étain?"
+  },
+  {
+    "correctAnswer": "Homo neanderthalensis",
+    "id": 8103002057371793,
+    "options": [
+      "Homo erectus",
+      "Homo habilis",
+      "Homo sapiens",
+      "Homo neanderthalensis"
+    ],
+    "question": "Quelle espèce humaine a coexisté avec Homo sapiens en Europe et en Asie?"
+  },
+  {
+    "correctAnswer": "Mendéléïev",
+    "id": 9115002057371804,
+    "options": [
+      "Curie",
+      "Newton",
+      "Mendéléïev",
+      "Bohr"
+    ],
+    "question": "Qui est le principal créateur du tableau périodique des éléments?"
+  },
+  {
+    "correctAnswer": "Erosion",
+    "id": 10127002057371816,
+    "options": [
+      "Erosion",
+      "Sédimentation",
+      "Subduction",
+      "Convection"
+    ],
+    "question": "Quel processus géologique est principalement responsable de la formation des canyons?"
+  },
+  {
+    "correctAnswer": "Transistor",
+    "id": 11139002057371826,
+    "options": [
+      "Résistor",
+      "Transistor",
+      "Diode",
+      "Capaciteur"
+    ],
+    "question": "Quel composant électronique est essentiel pour l'amplification et la commutation des signaux électroniques?"
+  },
+  {
+    "correctAnswer": "Isaac Newton",
+    "id": 12151002057371836,
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galilée",
+      "James Clerk Maxwell"
+    ],
+    "question": "Qui a formulé les lois du mouvement et la loi universelle de la gravitation?"
+  },
+  {
+    "correctAnswer": "Proton",
+    "id": 13163002057371848,
+    "options": [
+      "Neutron",
+      "Proton",
+      "Électron",
+      "Photon"
+    ],
+    "question": "Quelle particule subatomique a une charge positive?"
+  },
+  {
+    "correctAnswer": "Les protéines",
+    "id": 14175002057371860,
+    "options": [
+      "Les glucides",
+      "Les lipides",
+      "Les protéines",
+      "Les acides nucléiques"
+    ],
+    "question": "Quelles molécules sont formées d'acides aminés?"
+  },
+  {
+    "correctAnswer": "James Watson et Francis Crick",
+    "id": 15187002057371860,
+    "options": [
+      "Linus Pauling et Robert Corey",
+      "Rosalind Franklin et Maurice Wilkins",
+      "James Watson et Francis Crick",
+      "Gregor Mendel et Thomas Hunt Morgan"
+    ],
+    "question": "Quels scientifiques sont célèbres pour avoir élucidé la structure en double hélice de l'ADN?"
+  },
+  {
+    "correctAnswer": "Rayons gamma",
+    "id": 16209002057371872,
+    "options": [
+      "Rayons X",
+      "Rayons gamma",
+      "Rayons ultraviolets",
+      "Rayons infrarouges"
+    ],
+    "question": "Quel type de rayonnement est le plus énergétique et peut pénétrer la plupart des matériaux?"
+  },
+  {
+    "correctAnswer": "Photosynthèse",
+    "id": 17221002057371882,
+    "options": [
+      "Fermentation",
+      "Photosynthèse",
+      "Respiration cellulaire",
+      "Digestion"
+    ],
+    "question": "Quel processus permet aux plantes de convertir l'énergie lumineuse en énergie chimique?"
+  },
+  {
+    "correctAnswer": "Cerveau",
+    "id": 18233002057371892,
+    "options": [
+      "Foie",
+      "Cœur",
+      "Cerveau",
+      "Poumons"
+    ],
+    "question": "Quel organe contient le corps calleux, une structure qui relie les deux hémisphères?"
+  },
+  {
+    "correctAnswer": "L'algèbre",
+    "id": 19245002057371904,
+    "options": [
+      "La trigonométrie",
+      "La géométrie",
+      "Le calcul",
+      "L'algèbre"
+    ],
+    "question": "Quelle branche des mathématiques se concentre principalement sur l'étude des structures, des relations et des quantités?"
+  },
+  {
+    "correctAnswer": "Quarks",
+    "id": 20257002057371916,
+    "options": [
+      "Bosons",
+      "Leptons",
+      "Mesons",
+      "Quarks"
+    ],
+    "question": "Quelles particules élémentaires sont les constituants des protons et des neutrons?"
+  },
+  {
+    "correctAnswer": "Paul Dirac",
+    "id": 3011002099876726,
+    "options": [
+      "Richard Feynman",
+      "Werner Heisenberg",
+      "Niels Bohr",
+      "Paul Dirac"
+    ],
+    "question": "Quel physicien est connu pour avoir prédit l'existence de l'antimatière avant sa découverte expérimentale?"
+  },
+  {
+    "correctAnswer": "Eugène Wigner",
+    "id": 4022002099876837,
+    "options": [
+      "Enrico Fermi",
+      "Eugène Wigner",
+      "Edward Teller",
+      "J. Robert Oppenheimer"
+    ],
+    "question": "Quel scientifique est associé au 'paradoxe de Wigner' concernant la mesure en mécanique quantique?"
+  },
+  {
+    "correctAnswer": "Phénotype",
+    "id": 5033002099876948,
+    "options": [
+      "Génotype",
+      "Haplotypage",
+      "Allotype",
+      "Phénotype"
+    ],
+    "question": "Comment appelle-t-on l'ensemble des caractéristiques observables d'un individu résultant de l'interaction de son génotype avec l'environnement?"
+  },
+  {
+    "correctAnswer": "Entropie",
+    "id": 6044002099877059,
+    "options": [
+      "Enthalpie",
+      "Energie libre",
+      "Entropie",
+      "Energie interne"
+    ],
+    "question": "Quel concept en thermodynamique est souvent associé au désordre ou à l'information manquante d'un système?"
+  },
+  {
+    "correctAnswer": "Équations de Navier-Stokes",
+    "id": 7055002099877160,
+    "options": [
+      "Équations de Schrödinger",
+      "Équations de Maxwell",
+      "Équations de Navier-Stokes",
+      "Équations de Newton"
+    ],
+    "question": "Quelles équations décrivent le mouvement des fluides et sont célèbres pour leur complexité mathématique?"
+  },
+  {
+    "correctAnswer": "Glycolyse",
+    "id": 8066002099877271,
+    "options": [
+      "Cycle de Krebs",
+      "Glycolyse",
+      "Oxydation des acides gras",
+      "Cycle de Calvin"
+    ],
+    "question": "Quel est le processus métabolique qui convertit le glucose en pyruvate en produisant de l'ATP?"
+  },
+  {
+    "correctAnswer": "Fermions",
+    "id": 9077002099877382,
+    "options": [
+      "Bosons",
+      "Leptons",
+      "Hadrons",
+      "Fermions"
+    ],
+    "question": "Quel type de particules est soumis au principe d'exclusion de Pauli, qui stipule que deux particules identiques ne peuvent occuper le même état quantique simultanément?"
+  },
+  {
+    "correctAnswer": "Équation de Drake",
+    "id": 10088002099877492,
+    "options": [
+      "Équation de Boltzmann",
+      "Équation de Hubble",
+      "Équation de Drake",
+      "Équation de Hardy-Weinberg"
+    ],
+    "question": "Quelle équation est utilisée pour estimer le nombre de civilisations extraterrestres communicantes dans notre galaxie?"
+  },
+  {
+    "correctAnswer": "Kurt Gödel",
+    "id": 11099002099877604,
+    "options": [
+      "Bertrand Russell",
+      "Alfred North Whitehead",
+      "Kurt Gödel",
+      "John von Neumann"
+    ],
+    "question": "Quel mathématicien est célèbre pour ses théorèmes d'incomplétude, qui établissent des limites fondamentales à la vérifiabilité de toute théorie mathématique?"
+  },
+  {
+    "correctAnswer": "Isomères",
+    "id": 12110002099877716,
+    "options": [
+      "Isotopes",
+      "Isobares",
+      "Isomères",
+      "Isochores"
+    ],
+    "question": "Comment appelle-t-on des molécules ayant la même formule brute mais des structures différentes?"
+  },
+  {
+    "correctAnswer": "Pulsar",
+    "id": 13121002099877826,
+    "options": [
+      "Quasar",
+      "Pulsar",
+      "Blazar",
+      "Nébuleuse"
+    ],
+    "question": "Quel type d'étoile est un résidu stellaire qui émet des impulsions de radiations à des intervalles réguliers?"
+  },
+  {
+    "correctAnswer": "Phosphore",
+    "id": 14132002099877936,
+    "options": [
+      "Potassium",
+      "Sodium",
+      "Chlore",
+      "Phosphore"
+    ],
+    "question": "Quel élément est essentiel pour la formation de l'ATP, la molécule énergétique de la cellule?"
+  },
+  {
+    "correctAnswer": "Robert H. Grubbs",
+    "id": 15143002099878048,
+    "options": [
+      "Gilbert N. Lewis",
+      "Linus Pauling",
+      "Ahmed Zewail",
+      "Robert H. Grubbs"
+    ],
+    "question": "Quel chimiste est célèbre pour son travail sur la métathèse des oléfines et a reçu le prix Nobel pour cela?"
+  },
+  {
+    "correctAnswer": "L'hyperparasitisme",
+    "id": 16154002099878160,
+    "options": [
+      "Le mutualisme",
+      "L'hyperparasitisme",
+      "La commensalité",
+      "La prédation"
+    ],
+    "question": "Comment appelle-t-on le phénomène où un parasite est lui-même parasité par un autre organisme?"
+  },
+  {
+    "correctAnswer": "Carl Woese",
+    "id": 17165002099878260,
+    "options": [
+      "Carl Linnaeus",
+      "Robert Whittaker",
+      "Ernst Haeckel",
+      "Carl Woese"
+    ],
+    "question": "Quel scientifique est célèbre pour avoir introduit le domaine des Archaea, une troisième branche distincte de la vie?"
+  },
+  {
+    "correctAnswer": "Le paradoxe des jumeaux",
+    "id": 18176002099878372,
+    "options": [
+      "Le paradoxe du chat de Schrödinger",
+      "Le paradoxe EPR",
+      "Le paradoxe des jumeaux",
+      "Le paradoxe de l'information des trous noirs"
+    ],
+    "question": "Quel paradoxe est lié aux effets relativistes du temps lorsqu'un jumeau voyage dans l'espace à une vitesse proche de celle de la lumière et l'autre reste sur Terre?"
+  },
+  {
+    "correctAnswer": "Peptide",
+    "id": 19187002099878480,
+    "options": [
+      "Lipide",
+      "Polysaccharide",
+      "Peptide",
+      "Nucléotide"
+    ],
+    "question": "Comment appelle-t-on une chaîne courte d'acides aminés liés entre eux?"
+  },
+  {
+    "correctAnswer": "L'effet Zeeman",
+    "id": 20298002099878590,
+    "options": [
+      "L'effet Doppler",
+      "L'effet Stark",
+      "L'effet Compton",
+      "L'effet Zeeman"
+    ],
+    "question": "Quel effet décrit la division des raies spectrales d'un atome en présence d'un champ magnétique?"
+  },
+  {
+    "correctAnswer": "Équations de Lotka-Volterra",
+    "id": 21309002099878704,
+    "options": [
+      "Équations de Bernoulli",
+      "Équations de Van der Waals",
+      "Équations de Lotka-Volterra",
+      "Équations de Poisson"
+    ],
+    "question": "Quelles équations décrivent la dynamique des interactions prédateur-proie dans les écosystèmes?"
+  },
+  {
+    "correctAnswer": "L'oscillation de Neutrino",
+    "id": 22320002099878816,
+    "options": [
+      "L'oscillation de Neutrino",
+      "L'annihilation positron-électron",
+      "La désintégration beta",
+      "La fusion nucléaire"
+    ],
+    "question": "Quel phénomène implique la transformation d'un type de neutrino en un autre au cours de leur propagation dans l'espace?"
+  },
+  {
+    "correctAnswer": "Georges Lemaître",
+    "id": 3012500256578726,
+    "options": [
+      "Stephen Hawking",
+      "Edwin Hubble",
+      "Albert Einstein",
+      "Georges Lemaître"
+    ],
+    "question": "Qui a proposé pour la première fois l'idée d'un univers en expansion, conduisant à la théorie du Big Bang?"
+  },
+  {
+    "correctAnswer": "Prion",
+    "id": 4023600256578837,
+    "options": [
+      "Virus",
+      "Bactérie",
+      "Fongus",
+      "Prion"
+    ],
+    "question": "Quelle particule infectieuse est impliquée dans la maladie de Creutzfeldt-Jakob et la tremblante du mouton?"
+  },
+  {
+    "correctAnswer": "Boson de Higgs",
+    "id": 5034700256578948,
+    "options": [
+      "Boson Z",
+      "Boson W",
+      "Gluon",
+      "Boson de Higgs"
+    ],
+    "question": "Quelle particule élémentaire, parfois appelée 'particule de Dieu', est associée à la mécanique qui donne de la masse à d'autres particules?"
+  },
+  {
+    "correctAnswer": "ARN messager",
+    "id": 6045800256579059,
+    "options": [
+      "ARN ribosomique",
+      "ARN de transfert",
+      "ADN mitochondrial",
+      "ARN messager"
+    ],
+    "question": "Quel type d'ARN transporte le code génétique du noyau de la cellule vers le ribosome pour la synthèse des protéines?"
+  },
+  {
+    "correctAnswer": "L'effet tunnel",
+    "id": 7056900256579160,
+    "options": [
+      "L'effet Doppler",
+      "L'effet photoélectrique",
+      "L'effet Hall",
+      "L'effet tunnel"
+    ],
+    "question": "Quel phénomène quantique permet à une particule de passer à travers une barrière énergétique qu'elle ne devrait normalement pas pouvoir franchir selon la mécanique classique?"
+  },
+  {
+    "correctAnswer": "Turing",
+    "id": 8068000256579271,
+    "options": [
+      "Erdős",
+      "Gödel",
+      "Riemann",
+      "Turing"
+    ],
+    "question": "Quel mathématicien est associé à un type particulier de machine qui est fondamental pour la théorie de la calculabilité?"
+  },
+  {
+    "correctAnswer": "La force faible",
+    "id": 9079100256579382,
+    "options": [
+      "La force gravitationnelle",
+      "La force électromagnétique",
+      "La force forte",
+      "La force faible"
+    ],
+    "question": "Quelle force fondamentale est responsable de la désintégration bêta des noyaux atomiques?"
+  },
+  {
+    "correctAnswer": "Syllogisme",
+    "id": 10090200256579492,
+    "options": [
+      "Antithèse",
+      "Dialectique",
+      "Syllogisme",
+      "Axiome"
+    ],
+    "question": "Quel terme désigne une forme d'argumentation qui, à partir de deux propositions, en déduit une troisième?"
+  },
+  {
+    "correctAnswer": "Pascal",
+    "id": 11091300256579604,
+    "options": [
+      "Newton",
+      "Pascal",
+      "Joule",
+      "Hertz"
+    ],
+    "question": "Quelle unité de mesure est utilisée pour mesurer la pression?"
+  },
+  {
+    "correctAnswer": "Pierre de Rosette",
+    "id": 12092400256579716,
+    "options": [
+      "Pierre d'Elgin",
+      "Pierre de Coubertin",
+      "Pierre de Rosette",
+      "Pierre d'Alun"
+    ],
+    "question": "Quelle pierre a permis de déchiffrer les hiéroglyphes égyptiens grâce à sa triple inscription?"
+  },
+  {
+    "correctAnswer": "Antiparticule",
+    "id": 13093500256579826,
+    "options": [
+      "Sous-particule",
+      "Méta-particule",
+      "Hyperparticule",
+      "Antiparticule"
+    ],
+    "question": "Comment appelle-t-on une particule élémentaire qui est une contrepartie d'une autre particule, avec la même masse mais une charge opposée?"
+  },
+  {
+    "correctAnswer": "Axone",
+    "id": 14094600256579936,
+    "options": [
+      "Dendrite",
+      "Axone",
+      "Synapse",
+      "Myéline"
+    ],
+    "question": "Quelle structure neuronale transmet les signaux électriques d'une cellule nerveuse à une autre?"
+  },
+  {
+    "correctAnswer": "Phospholipides",
+    "id": 15095700256580048,
+    "options": [
+      "Polysaccharides",
+      "Nucléotides",
+      "Protéines",
+      "Phospholipides"
+    ],
+    "question": "Quels composés sont les constituants principaux des membranes cellulaires, formant une bicouche?"
+  },
+  {
+    "correctAnswer": "Géométrie non-euclidienne",
+    "id": 16096800256580160,
+    "options": [
+      "Géométrie analytique",
+      "Géométrie projective",
+      "Géométrie affine",
+      "Géométrie non-euclidienne"
+    ],
+    "question": "Quel type de géométrie rejette le postulat des parallèles d'Euclide et est utilisé dans la théorie de la relativité générale?"
+  },
+  {
+    "correctAnswer": "Les télomères",
+    "id": 17097900256580260,
+    "options": [
+      "Les centromères",
+      "Les ribosomes",
+      "Les mitochondries",
+      "Les télomères"
+    ],
+    "question": "Quelles structures à l'extrémité des chromosomes protègent l'ADN et sont souvent associées au vieillissement cellulaire?"
+  },
+  {
+    "correctAnswer": "Fécondation in vitro",
+    "id": 18099000256580372,
+    "options": [
+      "Clonage thérapeutique",
+      "Transgénèse",
+      "Fécondation in vitro",
+      "Génomique fonctionnelle"
+    ],
+    "question": "Quelle technique médicale consiste à combiner les gamètes en dehors du corps pour traiter l'infertilité?"
+  },
+  {
+    "correctAnswer": "Planck",
+    "id": 19100100256580480,
+    "options": [
+      "Bohr",
+      "Planck",
+      "Heisenberg",
+      "Schrodinger"
+    ],
+    "question": "Quel scientifique est associé à la quantification de l'énergie, suggérant que l'énergie est émise en unités discrètes ou 'quanta'?"
+  },
+  {
+    "correctAnswer": "L'épigénétique",
+    "id": 20101200256580590,
+    "options": [
+      "La génomique",
+      "La protéomique",
+      "L'épigénétique",
+      "La transcriptomique"
+    ],
+    "question": "Quel domaine étudie les modifications de l'expression des gènes qui ne sont pas dues à des modifications de la séquence d'ADN elle-même?"
+  },
+  {
+    "correctAnswer": "Les enzymes de restriction",
+    "id": 21102300256580704,
+    "options": [
+      "Les ligases",
+      "Les transcriptases inverses",
+      "Les polymérases",
+      "Les enzymes de restriction"
+    ],
+    "question": "Quelles enzymes sont utilisées pour couper l'ADN à des sites spécifiques, facilitant la manipulation génétique?"
+  },
+  {
+    "correctAnswer": "L'effet Doppler-Fizeau",
+    "id": 22103400256580816,
+    "options": [
+      "L'effet Compton",
+      "L'effet Zeeman",
+      "L'effet Doppler-Fizeau",
+      "L'effet Mössbauer"
+    ],
+    "question": "Quel effet décrit le changement de fréquence ou de longueur d'onde d'une onde en relation avec l'observateur?"
+  },
+  {
+    "correctAnswer": "Erwin Chargaff",
+    "id": 3312450284378726,
+    "options": [
+      "Francis Crick",
+      "Maurice Wilkins",
+      "Erwin Chargaff",
+      "Frederick Griffith"
+    ],
+    "question": "Quel chercheur a découvert que dans l'ADN, la quantité d'adénine est toujours égale à celle de thymine, et la quantité de cytosine à celle de guanine?"
+  },
+  {
+    "correctAnswer": "Hypothèse de Gaïa",
+    "id": 4423560284378837,
+    "options": [
+      "Hypothèse de Panspermie",
+      "Hypothèse de Gaïa",
+      "Hypothèse de l'État stationnaire",
+      "Hypothèse de Goldilocks"
+    ],
+    "question": "Quelle théorie propose que les êtres vivants interagissent avec la Terre pour former un système autorégulateur complexe?"
+  },
+  {
+    "correctAnswer": "Ruthenium",
+    "id": 5534670284378948,
+    "options": [
+      "Ruthenium",
+      "Rhodium",
+      "Rutherfordium",
+      "Radon"
+    ],
+    "question": "Quel élément chimique est souvent utilisé comme catalyseur dans des réactions d'hydrogénation?"
+  },
+  {
+    "correctAnswer": "Les baryons",
+    "id": 6645780284379059,
+    "options": [
+      "Les leptons",
+      "Les mésons",
+      "Les baryons",
+      "Les fermions"
+    ],
+    "question": "Quels types de particules sont constitués de trois quarks?"
+  },
+  {
+    "correctAnswer": "L'interférométrie",
+    "id": 7756890284379160,
+    "options": [
+      "La spectroscopie",
+      "L'interférométrie",
+      "La chromatographie",
+      "La calorimétrie"
+    ],
+    "question": "Quelle technique utilise l'interférence des ondes, en particulier des ondes lumineuses, pour extraire des informations sur un objet ou un phénomène?"
+  },
+  {
+    "correctAnswer": "Photons",
+    "id": 8867900284379271,
+    "options": [
+      "Neutrinos",
+      "Photons",
+      "Pions",
+      "Electrons"
+    ],
+    "question": "Quelles particules élémentaires sont les quanta du champ électromagnétique?"
+  },
+  {
+    "correctAnswer": "L'invariance de jauge",
+    "id": 9978010284379382,
+    "options": [
+      "Le principe d'exclusion",
+      "L'invariance de jauge",
+      "Le principe d'incertitude",
+      "La dualité onde-particule"
+    ],
+    "question": "Quel principe fondamental est au cœur des théories de jauge en physique des particules?"
+  },
+  {
+    "correctAnswer": "Le barycentre",
+    "id": 11088120284379492,
+    "options": [
+      "L'apogée",
+      "Le périhélie",
+      "Le barycentre",
+      "L'aphélie"
+    ],
+    "question": "Comment appelle-t-on le point autour duquel deux objets célestes, comme une étoile et une planète, orbitent en raison de leur attraction gravitationnelle mutuelle?"
+  },
+  {
+    "correctAnswer": "Le paradoxe EPR",
+    "id": 12189130284379604,
+    "options": [
+      "Le paradoxe des jumeaux",
+      "Le paradoxe EPR",
+      "Le paradoxe de Zénon",
+      "Le paradoxe du chat de Schrödinger"
+    ],
+    "question": "Quel paradoxe est associé à la non-localité et aux corrélations quantiques entre particules éloignées?"
+  },
+  {
+    "correctAnswer": "La superfluidité",
+    "id": 13290140284379716,
+    "options": [
+      "La supraconductivité",
+      "La superfluidité",
+      "La condensation de Bose-Einstein",
+      "La transition de phase"
+    ],
+    "question": "Quel état exotique de la matière se produit à de très basses températures, où un fluide se déplace sans viscosité ni friction?"
+  },
+  {
+    "correctAnswer": "Le boson W",
+    "id": 14391150284379826,
+    "options": [
+      "Le boson Z",
+      "Le boson W",
+      "Le boson Higgs",
+      "Le gluon"
+    ],
+    "question": "Quelle particule médiatrice est associée à la désintégration bêta des noyaux atomiques dans la force faible?"
+  },
+  {
+    "correctAnswer": "Les spicules",
+    "id": 15492160284379936,
+    "options": [
+      "Les protubérances",
+      "Les granules",
+      "Les spicules",
+      "Les taches solaires"
+    ],
+    "question": "Comment appelle-t-on les petites éjections de matière provenant de la surface du Soleil et atteignant sa couronne externe?"
+  },
+  {
+    "correctAnswer": "Le modèle d'Ising",
+    "id": 16593170284380048,
+    "options": [
+      "Le modèle de Drude",
+      "Le modèle d'Ising",
+      "Le modèle de Bohr",
+      "Le modèle de Hubbard"
+    ],
+    "question": "Quel modèle théorique est couramment utilisé pour étudier les transitions de phase dans les systèmes magnétiques?"
+  },
+  {
+    "correctAnswer": "La diffraction",
+    "id": 17694180284380160,
+    "options": [
+      "La réfraction",
+      "La diffraction",
+      "La dispersion",
+      "La polarisation"
+    ],
+    "question": "Quel phénomène ondulatoire décrit la déviation des ondes lorsqu'elles rencontrent un obstacle ou une ouverture?"
+  },
+  {
+    "correctAnswer": "Les liaisons hydrogène",
+    "id": 18795190284380260,
+    "options": [
+      "Les liaisons covalentes",
+      "Les liaisons ioniques",
+      "Les liaisons van der Waals",
+      "Les liaisons hydrogène"
+    ],
+    "question": "Quel type de liaison est essentiel pour la structure secondaire des protéines et la double hélice de l'ADN?"
+  },
+  {
+    "correctAnswer": "La spectroscopie Raman",
+    "id": 19896200284380372,
+    "options": [
+      "La spectroscopie UV-visible",
+      "La spectroscopie infrarouge",
+      "La spectroscopie Raman",
+      "La spectroscopie de masse"
+    ],
+    "question": "Quelle technique optique est basée sur l'effet inélastique de diffusion de la lumière, généralement utilisée pour étudier les vibrations moléculaires?"
+  },
+  {
+    "correctAnswer": "L'osmose",
+    "id": 20997210284380480,
+    "options": [
+      "La diffusion",
+      "L'osmose",
+      "La filtration",
+      "L'évaporation"
+    ],
+    "question": "Comment appelle-t-on le mouvement net des molécules de solvant à travers une membrane semi-perméable d'une région de faible concentration de soluté vers une région de haute concentration de soluté?"
+  },
+  {
+    "correctAnswer": "Les pycnoclines",
+    "id": 22098220284380590,
+    "options": [
+      "Les thermoclines",
+      "Les haloclines",
+      "Les mésozones",
+      "Les pycnoclines"
+    ],
+    "question": "Comment appelle-t-on les couches d'eau dans les océans où la densité augmente rapidement avec la profondeur?"
+  },
+  {
+    "correctAnswer": "L'effet Hall",
+    "id": 23199230284380704,
+    "options": [
+      "L'effet Seebeck",
+      "L'effet Peltier",
+      "L'effet Hall",
+      "L'effet Joule"
+    ],
+    "question": "Quel phénomène électromagnétique est observé lorsqu'un courant passe à travers un conducteur placé dans un champ magnétique perpendiculaire, générant une tension transversale?"
+  },
+  {
+    "correctAnswer": "Les synchrotrons",
+    "id": 242100234284380800,
+    "options": [
+      "Les accélérateurs linéaires",
+      "Les cyclotrons",
+      "Les synchrotrons",
+      "Les colliders"
+    ],
+    "question": "Quels accélérateurs de particules utilisent des champs électriques oscillants et des champs magnétiques pour augmenter l'énergie des particules à des vitesses proches de celle de la lumière?"
+  },
+  {
+    "correctAnswer": "Henrietta Swan Leavitt",
+    "id": 3500350392978726,
+    "options": [
+      "Cecilia Payne-Gaposchkin",
+      "Vera Rubin",
+      "Jocelyn Bell Burnell",
+      "Henrietta Swan Leavitt"
+    ],
+    "question": "Quelle astronome a découvert la relation entre la luminosité et la période des céphéides, permettant ainsi de mesurer les distances interstellaires?"
+  },
+  {
+    "correctAnswer": "Les bactériophages",
+    "id": 4610460392978837,
+    "options": [
+      "Les plasmides",
+      "Les bactériophages",
+      "Les protistes",
+      "Les prions"
+    ],
+    "question": "Quels sont les virus qui infectent spécifiquement les bactéries?"
+  },
+  {
+    "correctAnswer": "La thermohaline",
+    "id": 5720570392978948,
+    "options": [
+      "L'upwelling",
+      "La thermohaline",
+      "La marée noire",
+      "L'El Niño"
+    ],
+    "question": "Quelle circulation océanique globale est entraînée par les variations de température et de salinité?"
+  },
+  {
+    "correctAnswer": "Lysosomes",
+    "id": 6830680392979059,
+    "options": [
+      "Mitochondries",
+      "Peroxisomes",
+      "Golgi",
+      "Lysosomes"
+    ],
+    "question": "Quels organites cellulaires sont principalement responsables de la dégradation des déchets à l'intérieur de la cellule?"
+  },
+  {
+    "correctAnswer": "La dendrochronologie",
+    "id": 7940790392979160,
+    "options": [
+      "La palynologie",
+      "La dendrochronologie",
+      "La radiométrie",
+      "La stratigraphie"
+    ],
+    "question": "Quelle méthode scientifique utilise les anneaux de croissance des arbres pour dater les événements et les variations climatiques?"
+  },
+  {
+    "correctAnswer": "Pascal",
+    "id": 8050900392979271,
+    "options": [
+      "Newton",
+      "Euler",
+      "Fermat",
+      "Pascal"
+    ],
+    "question": "Quel mathématicien et physicien est connu pour avoir développé un triangle célèbre utilisé en probabilités et en combinatoire?"
+  },
+  {
+    "correctAnswer": "La paramécie",
+    "id": 9161010392979382,
+    "options": [
+      "L'amibe",
+      "La paramécie",
+      "Le rotifère",
+      "La drosophile"
+    ],
+    "question": "Quel organisme unicellulaire est connu pour ses cils et est souvent utilisé dans les études biologiques?"
+  },
+  {
+    "correctAnswer": "Les tectites",
+    "id": 10271120392979492,
+    "options": [
+      "Les fulgurites",
+      "Les pallasites",
+      "Les tectites",
+      "Les tektosilicates"
+    ],
+    "question": "Comment appelle-t-on les fragments de verre formés lors de l'impact d'une météorite avec la Terre?"
+  },
+  {
+    "correctAnswer": "Le myrmécologie",
+    "id": 11372130392979604,
+    "options": [
+      "Le lepidoptérologie",
+      "Le myrmécologie",
+      "Le malacologie",
+      "Le ornithologie"
+    ],
+    "question": "Quel domaine scientifique se consacre à l'étude des fourmis?"
+  },
+  {
+    "correctAnswer": "La piezoelectricité",
+    "id": 12473140392979716,
+    "options": [
+      "La ferroelectricité",
+      "La piezoelectricité",
+      "La thermoelectricité",
+      "La photoelectricité"
+    ],
+    "question": "Quel phénomène décrit la capacité de certains matériaux à générer une tension électrique en réponse à une contrainte mécanique?"
+  },
+  {
+    "correctAnswer": "Les protéines G",
+    "id": 13574150392979826,
+    "options": [
+      "Les protéines kinase",
+      "Les protéines G",
+      "Les protéines chaperonnes",
+      "Les protéines de fusion"
+    ],
+    "question": "Quel type de protéines est souvent impliqué dans la transduction des signaux à l'intérieur des cellules après la liaison d'un ligand à un récepteur?"
+  },
+  {
+    "correctAnswer": "Les stalagmites",
+    "id": 14675160392979936,
+    "options": [
+      "Les stalactites",
+      "Les stalagmites",
+      "Les draperies",
+      "Les colonnes"
+    ],
+    "question": "Quelles formations calcaires se développent du sol vers le plafond dans les grottes?"
+  },
+  {
+    "correctAnswer": "La cavitation",
+    "id": 15776170392980048,
+    "options": [
+      "La résorption",
+      "La cavitation",
+      "La sublimation",
+      "La condensation"
+    ],
+    "question": "Quel phénomène décrit la formation et l'implosion de bulles de vapeur dans un liquide soumis à une chute rapide de pression?"
+  },
+  {
+    "correctAnswer": "Les plasmodes",
+    "id": 16877180392980160,
+    "options": [
+      "Les spores",
+      "Les hyphes",
+      "Les plasmodes",
+      "Les mycéliums"
+    ],
+    "question": "Comment appelle-t-on les structures mobiles et amiboïdes des myxomycètes, qui sont des organismes ressemblant à des champignons?"
+  },
+  {
+    "correctAnswer": "La synesthésie",
+    "id": 17978190392980260,
+    "options": [
+      "La prosopagnosie",
+      "La synesthésie",
+      "L'agnosie",
+      "La dyspraxie"
+    ],
+    "question": "Quel terme décrit un phénomène où la stimulation d'un sens entraîne automatiquement une expérience dans un autre sens?"
+  },
+  {
+    "correctAnswer": "La chromatophorie",
+    "id": 19079190392980372,
+    "options": [
+      "La bioluminescence",
+      "La fluorescence",
+      "La chromatophorie",
+      "La phosphorescence"
+    ],
+    "question": "Quel mécanisme permet à certains animaux, comme les céphalopodes, de changer rapidement de couleur?"
+  },
+  {
+    "correctAnswer": "L'effet Meissner",
+    "id": 20180200392980480,
+    "options": [
+      "L'effet Hall",
+      "L'effet Joule-Thomson",
+      "L'effet Seebeck",
+      "L'effet Meissner"
+    ],
+    "question": "Quel effet décrit l'expulsion du champ magnétique d'un matériau lorsqu'il devient supraconducteur?"
+  },
+  {
+    "correctAnswer": "Le chiasma",
+    "id": 21281210392980590,
+    "options": [
+      "Le centromère",
+      "Le kinétochore",
+      "Le chiasma",
+      "Le télosome"
+    ],
+    "question": "Pendant la méiose, où se produit l'échange de matériel génétique entre chromatides non-sœurs?"
+  },
+  {
+    "correctAnswer": "La biogéographie",
+    "id": 22382220392980704,
+    "options": [
+      "La paléontologie",
+      "La biogéographie",
+      "La phylogénie",
+      "La taxonomie"
+    ],
+    "question": "Quelle science étudie la distribution des espèces et des écosystèmes dans l'espace géographique et à travers le temps géologique?"
+  },
+  {
+    "correctAnswer": "Le foie",
+    "id": 3459433092878837,
+    "options": [
+      "Le cœur",
+      "Le foie",
+      "Le poumon",
+      "Le pancréas"
+    ],
+    "question": "Quel organe est responsable de la détoxification du corps?"
+  },
+  {
+    "correctAnswer": "Le neutron",
+    "id": 4570543092878948,
+    "options": [
+      "Le proton",
+      "L'électron",
+      "Le neutron",
+      "Le photon"
+    ],
+    "question": "Quelle particule subatomique est électriquement neutre?"
+  },
+  {
+    "correctAnswer": "Le Newton",
+    "id": 5681653092879059,
+    "options": [
+      "Le Joule",
+      "Le Newton",
+      "L'Ampère",
+      "Le Watt"
+    ],
+    "question": "Quelle est l'unité de mesure de la force dans le système international?"
+  },
+  {
+    "correctAnswer": "La lumière visible",
+    "id": 6792763092879160,
+    "options": [
+      "Les rayons X",
+      "Les micro-ondes",
+      "Les ondes radio",
+      "La lumière visible"
+    ],
+    "question": "Quelle partie du spectre électromagnétique est perceptible par l'œil humain?"
+  },
+  {
+    "correctAnswer": "La cellule",
+    "id": 7903873092879271,
+    "options": [
+      "L'atome",
+      "La molécule",
+      "Le tissu",
+      "La cellule"
+    ],
+    "question": "Quelle est l'unité de base de la vie?"
+  },
+  {
+    "correctAnswer": "Mars",
+    "id": 8014983092879382,
+    "options": [
+      "Vénus",
+      "Mars",
+      "Jupiter",
+      "Saturne"
+    ],
+    "question": "Quelle planète est souvent appelée la 'planète rouge'?"
+  },
+  {
+    "correctAnswer": "L'ADN",
+    "id": 9125093092879492,
+    "options": [
+      "L'ARN",
+      "L'ATP",
+      "L'ADN",
+      "L'ACh"
+    ],
+    "question": "Quelle molécule est responsable de la transmission des caractéristiques génétiques?"
+  },
+  {
+    "correctAnswer": "L'évaporation",
+    "id": 10235203192879604,
+    "options": [
+      "La condensation",
+      "L'évaporation",
+      "La sublimation",
+      "La cristallisation"
+    ],
+    "question": "Quel processus décrit la transformation d'un liquide en gaz à une température inférieure à son point d'ébullition?"
+  },
+  {
+    "correctAnswer": "Le calcium",
+    "id": 11336213192879716,
+    "options": [
+      "Le fer",
+      "Le sodium",
+      "Le calcium",
+      "Le magnésium"
+    ],
+    "question": "Quel élément est essentiel pour la formation des os et des dents?"
+  },
+  {
+    "correctAnswer": "Le sarcome",
+    "id": 12437223192879826,
+    "options": [
+      "Le lymphome",
+      "Le sarcome",
+      "Le mélanome",
+      "Le carcinome"
+    ],
+    "question": "Quel type de cancer est associé aux tissus conjonctifs, comme les os et les muscles?"
+  },
+  {
+    "correctAnswer": "L'oxydation",
+    "id": 13538233192879936,
+    "options": [
+      "La fermentation",
+      "L'hydrolyse",
+      "L'oxydation",
+      "La réduction"
+    ],
+    "question": "Quel processus chimique implique la perte d'électrons ou l'augmentation de l'état d'oxydation d'une molécule, un atome ou un ion?"
+  },
+  {
+    "correctAnswer": "L'azote",
+    "id": 14639243192880048,
+    "options": [
+      "L'oxygène",
+      "Le dioxyde de carbone",
+      "L'argon",
+      "L'azote"
+    ],
+    "question": "Quel gaz est le plus abondant dans l'atmosphère terrestre?"
+  },
+  {
+    "correctAnswer": "Les ondes sismiques",
+    "id": 15740253192880160,
+    "options": [
+      "Les ondes radio",
+      "Les ondes sonores",
+      "Les ondes lumineuses",
+      "Les ondes sismiques"
+    ],
+    "question": "Quel type d'ondes est généré par un tremblement de terre?"
+  },
+  {
+    "correctAnswer": "La photosynthèse",
+    "id": 16841263192880260,
+    "options": [
+      "La respiration cellulaire",
+      "La digestion",
+      "La photosynthèse",
+      "La fermentation"
+    ],
+    "question": "Quel processus permet aux plantes de convertir l'énergie lumineuse en énergie chimique sous forme de glucose?"
+  },
+  {
+    "correctAnswer": "Le Big Bang",
+    "id": 17942273192880372,
+    "options": [
+      "La théorie des cordes",
+      "La relativité générale",
+      "Le modèle standard",
+      "Le Big Bang"
+    ],
+    "question": "Quelle théorie décrit l'origine de l'univers comme une explosion massive il y a environ 13,8 milliards d'années?"
+  },
+  {
+    "correctAnswer": "Hippocampe",
+    "id": 2014439402878726,
+    "options": [
+      "Amygdale",
+      "Hippocampe",
+      "Thalamus",
+      "Hypothalamus"
+    ],
+    "question": "Quelle structure du cerveau est principalement associée à la mémoire et à l'apprentissage spatial?"
+  },
+  {
+    "correctAnswer": "Un isotope",
+    "id": 3124549402878837,
+    "options": [
+      "Un ion",
+      "Un allotrope",
+      "Un isomère",
+      "Un isotope"
+    ],
+    "question": "Comment appelle-t-on des atomes du même élément qui ont le même nombre de protons mais un nombre différent de neutrons?"
+  },
+  {
+    "correctAnswer": "Le silicate",
+    "id": 4234659402878948,
+    "options": [
+      "Le carbonate",
+      "Le sulfate",
+      "Le phosphinate",
+      "Le silicate"
+    ],
+    "question": "Quel type de minéral est le constituant principal de la croûte terrestre?"
+  },
+  {
+    "correctAnswer": "Le rayonnement ultraviolet",
+    "id": 5344769402879059,
+    "options": [
+      "Le rayonnement infrarouge",
+      "Le rayonnement gamma",
+      "Le rayonnement ultraviolet",
+      "Le rayonnement X"
+    ],
+    "question": "Quel type de rayonnement est principalement responsable des coups de soleil?"
+  },
+  {
+    "correctAnswer": "Le sang",
+    "id": 6454879402879160,
+    "options": [
+      "La lymphe",
+      "Le plasma",
+      "Le sérum",
+      "Le sang"
+    ],
+    "question": "Quel fluide corporel transporte les nutriments, les déchets, les gaz et les cellules immunitaires à travers le corps?"
+  },
+  {
+    "correctAnswer": "Les ondes P",
+    "id": 7564989402879271,
+    "options": [
+      "Les ondes S",
+      "Les ondes P",
+      "Les ondes L",
+      "Les ondes R"
+    ],
+    "question": "Quelles sont les premières ondes sismiques à être détectées lors d'un tremblement de terre?"
+  },
+  {
+    "correctAnswer": "Le rhizome",
+    "id": 8675099402879382,
+    "options": [
+      "Le stolon",
+      "Le tubercule",
+      "La racine",
+      "Le rhizome"
+    ],
+    "question": "Quelle structure végétale souterraine est à la fois un organe de stockage et de reproduction, comme on le voit chez le gingembre?"
+  },
+  {
+    "correctAnswer": "Le principe d'exclusion de Pauli",
+    "id": 9785209402879492,
+    "options": [
+      "La loi de Boyle-Mariotte",
+      "Le principe de Le Chatelier",
+      "La loi de Charles",
+      "Le principe d'exclusion de Pauli"
+    ],
+    "question": "Quel principe stipule que deux électrons dans un atome ne peuvent avoir le même ensemble de nombres quantiques?"
+  },
+  {
+    "correctAnswer": "Les protostomiens",
+    "id": 10895310402879604,
+    "options": [
+      "Les deutérostomiens",
+      "Les protostomiens",
+      "Les cnidaires",
+      "Les porifères"
+    ],
+    "question": "Dans quel embranchement animal la bouche se développe-t-elle à partir du blastopore?"
+  },
+  {
+    "correctAnswer": "Les métaux alcalino-terreux",
+    "id": 11996320402879716,
+    "options": [
+      "Les métaux de transition",
+      "Les lanthanides",
+      "Les métaux alcalins",
+      "Les métaux alcalino-terreux"
+    ],
+    "question": "Dans quelle famille d'éléments trouve-t-on le calcium et le magnésium?"
+  },
+  {
+    "correctAnswer": "L'équateur",
+    "id": 13097330402879826,
+    "options": [
+      "Le méridien de Greenwich",
+      "Le tropique du Cancer",
+      "L'équateur",
+      "Le cercle polaire arctique"
+    ],
+    "question": "Sur quelle ligne imaginaire la durée du jour et de la nuit est-elle égale toute l'année?"
+  },
+  {
+    "correctAnswer": "Le boson",
+    "id": 14198340402879936,
+    "options": [
+      "Le fermion",
+      "Le hadron",
+      "Le lepton",
+      "Le boson"
+    ],
+    "question": "Quelle particule est associée aux forces dans la nature, comme le photon pour la force électromagnétique?"
+  },
+  {
+    "correctAnswer": "Le mutualisme",
+    "id": 15299350402880048,
+    "options": [
+      "Le parasitisme",
+      "La prédation",
+      "La compétition",
+      "Le mutualisme"
+    ],
+    "question": "Quelle relation écologique est bénéfique pour les deux espèces impliquées?"
+  },
+  {
+    "correctAnswer": "L'auxine",
+    "id": 16310034102880160,
+    "options": [
+      "L'éthylène",
+      "La gibbérelline",
+      "L'auxine",
+      "L'abscisique"
+    ],
+    "question": "Quelle hormone végétale est principalement responsable de la croissance des tiges vers la lumière?"
+  },
+  {
+    "correctAnswer": "Le vortex",
+    "id": 17411044102880260,
+    "options": [
+      "L'anticyclone",
+      "Le cyclone",
+      "Le vortex",
+      "Le front"
+    ],
+    "question": "Quel terme désigne un mouvement rotatif rapide de l'eau, souvent causé par des courants de marée?"
+  },
+  {
+    "correctAnswer": "Le plateau continental",
+    "id": 18512054102880372,
+    "options": [
+      "La dorsale océanique",
+      "La fosse océanique",
+      "Le plateau continental",
+      "La plaine abyssale"
+    ],
+    "question": "Quelle partie de la croûte terrestre sous-marine est située entre la côte et le talus continental?"
+  },
+  {
+    "correctAnswer": "La myéline",
+    "id": 1961306520388726,
+    "options": [
+      "Les dendrites",
+      "L'axone",
+      "Le corps cellulaire",
+      "La myéline"
+    ],
+    "question": "Quelle structure entoure certaines parties des neurones et accélère la transmission des signaux électriques?"
+  },
+  {
+    "correctAnswer": "Les rayons gamma",
+    "id": 2071407520388837,
+    "options": [
+      "Les rayons X",
+      "Les rayons gamma",
+      "Les rayons ultraviolets",
+      "Les rayons infrarouges"
+    ],
+    "question": "Quels rayons sont émis par certains isotopes radioactifs et ont une grande capacité de pénétration?"
+  },
+  {
+    "correctAnswer": "Le pétrole",
+    "id": 2181508520388948,
+    "options": [
+      "Le charbon",
+      "Le gaz naturel",
+      "Le pétrole",
+      "L'uranium"
+    ],
+    "question": "Quelle source d'énergie fossile est principalement utilisée pour produire de l'essence?"
+  },
+  {
+    "correctAnswer": "La convection",
+    "id": 2291609520389059,
+    "options": [
+      "La conduction",
+      "La radiation",
+      "La sublimation",
+      "La convection"
+    ],
+    "question": "Quel type de transfert de chaleur est responsable de la circulation des courants océaniques?"
+  },
+  {
+    "correctAnswer": "Les hydrocarbures",
+    "id": 2401710520389160,
+    "options": [
+      "Les protéines",
+      "Les glucides",
+      "Les hydrocarbures",
+      "Les lipides"
+    ],
+    "question": "Quels composés organiques sont principalement constitués de carbone et d'hydrogène et sont utilisés comme combustibles?"
+  },
+  {
+    "correctAnswer": "La métamorphose",
+    "id": 2511811520389271,
+    "options": [
+      "La mitose",
+      "La méiose",
+      "La métastase",
+      "La métamorphose"
+    ],
+    "question": "Quel processus décrit la transformation d'un organisme de son état juvénile à son état adulte, comme on le voit chez les papillons?"
+  },
+  {
+    "correctAnswer": "L'hélium",
+    "id": 2621912520389382,
+    "options": [
+      "L'hydrogène",
+      "L'oxygène",
+      "Le néon",
+      "L'hélium"
+    ],
+    "question": "Quel gaz est le deuxième élément le plus abondant dans l'univers après l'hydrogène?"
+  },
+  {
+    "correctAnswer": "La gravité",
+    "id": 2732013520389493,
+    "options": [
+      "La tension superficielle",
+      "La capillarité",
+      "La pression osmotique",
+      "La gravité"
+    ],
+    "question": "Quelle force attire les objets les uns vers les autres en fonction de leur masse et de la distance qui les sépare?"
+  },
+  {
+    "correctAnswer": "Les pléiades",
+    "id": 2842114520389604,
+    "options": [
+      "La Grande Ourse",
+      "Orion",
+      "Les Hyades",
+      "Les pléiades"
+    ],
+    "question": "Quel amas d'étoiles est également connu sous le nom de 'Sept sœurs'?"
+  },
+  {
+    "correctAnswer": "Les amphibiens",
+    "id": 2952215520389715,
+    "options": [
+      "Les reptiles",
+      "Les oiseaux",
+      "Les mammifères",
+      "Les amphibiens"
+    ],
+    "question": "Quels animaux passent généralement une partie de leur vie dans l'eau et une partie sur terre et respirent à la fois par des branchies et des poumons?"
+  },
+  {
+    "correctAnswer": "La résistance",
+    "id": 3062316520389826,
+    "options": [
+      "La capacité",
+      "L'inductance",
+      "La résistance",
+      "La conductance"
+    ],
+    "question": "Dans un circuit électrique, quel composant s'oppose au flux de courant et dissipe l'énergie sous forme de chaleur?"
+  },
+  {
+    "correctAnswer": "Les protéoglycanes",
+    "id": 3172417520389937,
+    "options": [
+      "Les glycoprotéines",
+      "Les lipoprotéines",
+      "Les protéases",
+      "Les protéoglycanes"
+    ],
+    "question": "Quelles molécules sont essentielles pour la formation de la matrice extracellulaire dans les tissus conjonctifs?"
+  },
+  {
+    "correctAnswer": "L'inertie",
+    "id": 3282518650488726,
+    "options": [
+      "La friction",
+      "La gravité",
+      "L'inertie",
+      "La centripète"
+    ],
+    "question": "Quelle propriété d'un objet décrit sa résistance à un changement de mouvement?"
+  },
+  {
+    "correctAnswer": "Les neutrons",
+    "id": 3392619650488837,
+    "options": [
+      "Les protons",
+      "Les électrons",
+      "Les neutrons",
+      "Les mesons"
+    ],
+    "question": "Quelles particules subatomiques sont présentes dans le noyau d'un atome mais n'ont pas de charge électrique?"
+  },
+  {
+    "correctAnswer": "La catalyse",
+    "id": 3402720650488948,
+    "options": [
+      "La polymérisation",
+      "La dénaturation",
+      "La catalyse",
+      "La précipitation"
+    ],
+    "question": "Quel processus décrit l'accélération d'une réaction chimique par l'ajout d'une substance qui n'est pas consommée lors de la réaction?"
+  },
+  {
+    "correctAnswer": "Le permafrost",
+    "id": 3512821650489059,
+    "options": [
+      "Le pergélisol",
+      "Le permafrost",
+      "Le lithosol",
+      "Le calcaire"
+    ],
+    "question": "Comment appelle-t-on le sol qui reste gelé pendant au moins deux années consécutives?"
+  },
+  {
+    "correctAnswer": "L'osmose",
+    "id": 3622922650489160,
+    "options": [
+      "La diffusion",
+      "La filtration",
+      "L'osmose",
+      "La perméation"
+    ],
+    "question": "Quel processus décrit le mouvement de l'eau à travers une membrane semi-perméable en réponse à des différences de concentration?"
+  },
+  {
+    "correctAnswer": "Le cycle de Krebs",
+    "id": 3733023650489271,
+    "options": [
+      "La glycolyse",
+      "Le cycle de Calvin",
+      "Le cycle de Krebs",
+      "La chaîne de transport d'électrons"
+    ],
+    "question": "Dans quelle étape de la respiration cellulaire le pyruvate est-il décomposé en dioxyde de carbone?"
+  },
+  {
+    "correctAnswer": "Le fer",
+    "id": 3843124650489382,
+    "options": [
+      "Le zinc",
+      "Le cuivre",
+      "Le calcium",
+      "Le fer"
+    ],
+    "question": "Quel élément est essentiel pour le transport de l'oxygène dans le sang grâce à l'hémoglobine?"
+  },
+  {
+    "correctAnswer": "La parallaxe",
+    "id": 3953225650489493,
+    "options": [
+      "La réfraction",
+      "La dispersion",
+      "La diffraction",
+      "La parallaxe"
+    ],
+    "question": "Quelle méthode est couramment utilisée pour mesurer la distance des étoiles proches en observant leur position apparente à six mois d'intervalle?"
+  },
+  {
+    "correctAnswer": "L'ultraviolet",
+    "id": 4063326650489604,
+    "options": [
+      "L'infrarouge",
+      "L'ultraviolet",
+      "Le micro-ondes",
+      "La radio"
+    ],
+    "question": "Quel type de rayonnement est principalement responsable de la dégradation des colorants et des pigments dans les matériaux exposés au soleil?"
+  },
+  {
+    "correctAnswer": "Les protistes",
+    "id": 4173427650489715,
+    "options": [
+      "Les bactéries",
+      "Les archées",
+      "Les protistes",
+      "Les champignons"
+    ],
+    "question": "Quel groupe d'organismes eucaryotes est très diversifié et comprend des algues unicellulaires, des amibes et des protozoaires?"
+  },
+  {
+    "correctAnswer": "La réfraction",
+    "id": 4283528650489826,
+    "options": [
+      "La réflexion",
+      "La réfraction",
+      "La dispersion",
+      "La diffraction"
+    ],
+    "question": "Quel phénomène optique décrit la déviation de la lumière lorsqu'elle passe d'un milieu à un autre?"
+  },
+  {
+    "correctAnswer": "Les chromosomes",
+    "id": 4393629650489937,
+    "options": [
+      "Les ribosomes",
+      "Les lysosomes",
+      "Les mitochondries",
+      "Les chromosomes"
+    ],
+    "question": "Où se trouve l'ADN dans une cellule eucaryote?"
+  },
+  {
+    "correctAnswer": "Le dioxyde de soufre",
+    "id": 4403730650490048,
+    "options": [
+      "Le monoxyde de carbone",
+      "Le dioxyde de carbone",
+      "Le dioxyde de soufre",
+      "L'ozone"
+    ],
+    "question": "Quel gaz est un polluant majeur libéré lors de la combustion du charbon et peut conduire à la formation de pluies acides?"
+  },
+  {
+    "correctAnswer": "Les Gymnospermes",
+    "id": 4513831650490159,
+    "options": [
+      "Les Angiospermes",
+      "Les Bryophytes",
+      "Les Ptéridophytes",
+      "Les Gymnospermes"
+    ],
+    "question": "À quel groupe de plantes appartient le pin, qui produit des graines mais pas de fruits?"
   }
 ]

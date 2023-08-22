@@ -1,0 +1,2037 @@
+[
+  {
+    "correctAnswer": "Auguste Escoffier",
+    "id": 1012384829192837,
+    "options": [
+      "Julia Child",
+      "Gordon Ramsay",
+      "Auguste Escoffier",
+      "Joël Robuchon"
+    ],
+    "question": "Qui est considéré comme le 'roi des chefs et le chef des rois' et a grandement influencé la cuisine française moderne?"
+  },
+  {
+    "correctAnswer": "Sous-vide",
+    "id": 2938492837192384,
+    "options": [
+      "Braiser",
+      "Rôtir",
+      "Frire",
+      "Sous-vide"
+    ],
+    "question": "Quelle technique culinaire implique la cuisson d'aliments dans des sacs scellés sous vide à des températures précises et basses pendant de longues périodes?"
+  },
+  {
+    "correctAnswer": "Renaissance",
+    "id": 3847291837192739,
+    "options": [
+      "Moyen Âge",
+      "Renaissance",
+      "Baroque",
+      "Moderne"
+    ],
+    "question": "À quelle époque la fourchette est-elle devenue un ustensile courant dans la cuisine européenne?"
+  },
+  {
+    "correctAnswer": "Molecular",
+    "id": 4748102938109381,
+    "options": [
+      "Méditerranéenne",
+      "Molecular",
+      "Bistronomie",
+      "Fusion"
+    ],
+    "question": "Quel style de cuisine utilise des techniques scientifiques pour créer des textures et saveurs nouvelles?"
+  },
+  {
+    "correctAnswer": "Paul Bocuse",
+    "id": 5658102938109345,
+    "options": [
+      "Paul Bocuse",
+      "Anthony Bourdain",
+      "Marco Pierre White",
+      "Jamie Oliver"
+    ],
+    "question": "Quel chef est associé à la fondation du mouvement culinaire 'Nouvelle Cuisine'?"
+  },
+  {
+    "correctAnswer": "Maillard",
+    "id": 6569102938109352,
+    "options": [
+      "Pasteurisation",
+      "Caramelisation",
+      "Maillard",
+      "Fermentation"
+    ],
+    "question": "Quelle réaction chimique est responsable de la coloration brune et de la saveur lors de la cuisson de la viande?"
+  },
+  {
+    "correctAnswer": "Temperer",
+    "id": 7471102938109369,
+    "options": [
+      "Concher",
+      "Mouler",
+      "Temperer",
+      "Affiner"
+    ],
+    "question": "Quelle technique est utilisée pour stabiliser le chocolat en le chauffant et en le refroidissant?"
+  },
+  {
+    "correctAnswer": "Umami",
+    "id": 8382102938109376,
+    "options": [
+      "Salé",
+      "Sucré",
+      "Amer",
+      "Umami"
+    ],
+    "question": "Quel goût est associé à la saveur de la glutamate présente dans des aliments comme le soja, les tomates et le fromage parmesan?"
+  },
+  {
+    "correctAnswer": "Sashimi",
+    "id": 9293102938109384,
+    "options": [
+      "Tempura",
+      "Sushi",
+      "Sashimi",
+      "Teriyaki"
+    ],
+    "question": "Quel plat japonais est principalement composé de poisson cru tranché finement?"
+  },
+  {
+    "correctAnswer": "Fermentation",
+    "id": 10204102938109390,
+    "options": [
+      "Distillation",
+      "Fermentation",
+      "Pasteurisation",
+      "Congélation"
+    ],
+    "question": "Quelle méthode est principalement utilisée pour transformer le raisin en vin?"
+  },
+  {
+    "correctAnswer": "Bouillabaisse",
+    "id": 11215102938109396,
+    "options": [
+      "Coq au vin",
+      "Tarte Tatin",
+      "Bouillabaisse",
+      "Ratatouille"
+    ],
+    "question": "Quelle est la soupe de poisson traditionnelle de Marseille?"
+  },
+  {
+    "correctAnswer": "Béarnaise",
+    "id": 12226102938109404,
+    "options": [
+      "Hollandaise",
+      "Béchamel",
+      "Velouté",
+      "Béarnaise"
+    ],
+    "question": "Quelle sauce est dérivée de la sauce hollandaise avec de l'estragon et de la ciboulette ajoutés?"
+  },
+  {
+    "correctAnswer": "Amuse-bouche",
+    "id": 13237102938109412,
+    "options": [
+      "Hors d'œuvre",
+      "Entrée",
+      "Dessert",
+      "Amuse-bouche"
+    ],
+    "question": "Comment appelle-t-on une petite préparation culinaire offerte avant le repas pour stimuler l'appétit?"
+  },
+  {
+    "correctAnswer": "Pétrir",
+    "id": 14248102938109418,
+    "options": [
+      "Blanchir",
+      "Pétrir",
+      "Monter",
+      "Sabler"
+    ],
+    "question": "Quelle technique est utilisée pour travailler la pâte à pain afin de développer le gluten?"
+  },
+  {
+    "correctAnswer": "Espagnole",
+    "id": 15259102938109424,
+    "options": [
+      "Demi-glace",
+      "Espagnole",
+      "Aigre-douce",
+      "Mornay"
+    ],
+    "question": "Laquelle des sauces suivantes est considérée comme l'une des cinq sauces mères de la cuisine française?"
+  },
+  {
+    "correctAnswer": "Julia Child",
+    "id": 1626102938109423,
+    "options": [
+      "Nigella Lawson",
+      "Julia Child",
+      "Ina Garten",
+      "Martha Stewart"
+    ],
+    "question": "Quelle personnalité a popularisé la cuisine française aux États-Unis avec son livre 'Mastering the Art of French Cooking'?"
+  },
+  {
+    "correctAnswer": "Tagine",
+    "id": 17272102938109430,
+    "options": [
+      "Couscous",
+      "Briouat",
+      "Tagine",
+      "Hummus"
+    ],
+    "question": "Quel plat marocain est cuit dans un récipient en argile conique du même nom?"
+  },
+  {
+    "correctAnswer": "Confit",
+    "id": 18283102938109436,
+    "options": [
+      "Confit",
+      "Rôti",
+      "Braisé",
+      "Grillé"
+    ],
+    "question": "Quelle technique culinaire implique la cuisson lente d'une viande dans sa propre graisse?"
+  },
+  {
+    "correctAnswer": "Papillote",
+    "id": 19294102938109444,
+    "options": [
+      "En croûte",
+      "Au gratin",
+      "Papillote",
+      "Mariné"
+    ],
+    "question": "Quelle technique de cuisson consiste à cuire des aliments enveloppés dans une feuille, souvent du papier aluminium ou du papier sulfurisé?"
+  },
+  {
+    "correctAnswer": "Boulanger",
+    "id": 20305102938109452,
+    "options": [
+      "Pâtissier",
+      "Boucher",
+      "Boulanger",
+      "Sommelier"
+    ],
+    "question": "Quel artisan est spécialisé dans la fabrication de pain?"
+  },
+  {
+    "correctAnswer": "Bento",
+    "id": 40507102938109590,
+    "options": [
+      "Dim sum",
+      "Bento",
+      "Tapas",
+      "Antipasto"
+    ],
+    "question": "Comment appelle-t-on la boîte à repas japonaise traditionnelle composée de plusieurs compartiments contenant différents mets?"
+  },
+  {
+    "correctAnswer": "Mise en place",
+    "id": 21316102938109456,
+    "options": [
+      "Flambage",
+      "Mise en place",
+      "Emulsion",
+      "Bain-marie"
+    ],
+    "question": "Quelle expression française désigne la préparation et la mise en ordre des ingrédients et des outils avant de cuisiner?"
+  },
+  {
+    "correctAnswer": "Dashi",
+    "id": 22327102938109464,
+    "options": [
+      "Soyu",
+      "Miso",
+      "Sake",
+      "Dashi"
+    ],
+    "question": "Quel bouillon japonais est principalement à base d'algues kombu et de bonite séchée?"
+  },
+  {
+    "correctAnswer": "Pesto",
+    "id": 23338102938109470,
+    "options": [
+      "Marinara",
+      "Alfredo",
+      "Carbonara",
+      "Pesto"
+    ],
+    "question": "Quelle sauce italienne est traditionnellement préparée avec du basilic, de l'ail, des pignons de pin, du fromage et de l'huile d'olive?"
+  },
+  {
+    "correctAnswer": "Chiffonade",
+    "id": 24349102938109480,
+    "options": [
+      "Julienne",
+      "Brunoise",
+      "Mirepoix",
+      "Chiffonade"
+    ],
+    "question": "Quelle technique de découpe est utilisée pour trancher des feuilles vertes, comme les épinards ou la basilique, en fines lanières?"
+  },
+  {
+    "correctAnswer": "Roux",
+    "id": 2535102938109486,
+    "options": [
+      "Velouté",
+      "Roux",
+      "Fumet",
+      "Demi-glace"
+    ],
+    "question": "Quel mélange de beurre et de farine est utilisé comme épaississant pour les soupes et les sauces?"
+  },
+  {
+    "correctAnswer": "Terrine",
+    "id": 26362102938109492,
+    "options": [
+      "Consommé",
+      "Bisque",
+      "Terrine",
+      "Blanquette"
+    ],
+    "question": "Quel plat est généralement composé de viandes, de poissons ou de légumes pressés ensemble dans une forme rectangulaire?"
+  },
+  {
+    "correctAnswer": "Gazpacho",
+    "id": 27373102938109500,
+    "options": [
+      "Paella",
+      "Tortilla",
+      "Churros",
+      "Gazpacho"
+    ],
+    "question": "Quelle soupe froide espagnole est principalement à base de tomates, de poivrons, de concombres et d'ail?"
+  },
+  {
+    "correctAnswer": "Risotto",
+    "id": 28384102938109508,
+    "options": [
+      "Polenta",
+      "Risotto",
+      "Gnocchi",
+      "Frittata"
+    ],
+    "question": "Quel plat italien est préparé en cuisant lentement du riz dans un bouillon jusqu'à obtenir une consistance crémeuse?"
+  },
+  {
+    "correctAnswer": "Simmer",
+    "id": 29395102938109510,
+    "options": [
+      "Sear",
+      "Blanch",
+      "Roast",
+      "Simmer"
+    ],
+    "question": "Quel terme anglais désigne le fait de cuire un liquide juste en dessous du point d'ébullition?"
+  },
+  {
+    "correctAnswer": "Ghee",
+    "id": 30406102938109520,
+    "options": [
+      "Tahini",
+      "Harissa",
+      "Ghee",
+      "Chutney"
+    ],
+    "question": "Comment appelle-t-on le beurre clarifié largement utilisé dans la cuisine indienne?"
+  },
+  {
+    "correctAnswer": "Baba au rhum",
+    "id": 31417102938109530,
+    "options": [
+      "Tarte Tatin",
+      "Macaron",
+      "Eclair",
+      "Baba au rhum"
+    ],
+    "question": "Quel dessert est imbibé de sirop parfumé au rhum après cuisson?"
+  },
+  {
+    "correctAnswer": "Fermenter",
+    "id": 32428102938109536,
+    "options": [
+      "Curer",
+      "Fermenter",
+      "Fumer",
+      "Mariner"
+    ],
+    "question": "Quelle technique est utilisée pour produire du kimchi, un plat traditionnel coréen?"
+  },
+  {
+    "correctAnswer": "Tandoor",
+    "id": 33439102938109544,
+    "options": [
+      "Wok",
+      "Saj",
+      "Tajine",
+      "Tandoor"
+    ],
+    "question": "Quel four en argile est utilisé pour cuisiner le pain naan et diverses viandes dans la cuisine indienne?"
+  },
+  {
+    "correctAnswer": "Brûlée",
+    "id": 3444102938109549,
+    "options": [
+      "Caramelisée",
+      "Brûlée",
+      "Gelée",
+      "Glacée"
+    ],
+    "question": "Quel terme décrit la fine couche de sucre caramélisé sur le dessus d'une crème?"
+  },
+  {
+    "correctAnswer": "Durian",
+    "id": 35452102938109556,
+    "options": [
+      "Mangoustan",
+      "Rambutan",
+      "Litchi",
+      "Durian"
+    ],
+    "question": "Quel fruit est surnommé 'le roi des fruits' en Asie du Sud-Est et est connu pour son odeur forte et distinctive?"
+  },
+  {
+    "correctAnswer": "Chinois",
+    "id": 36463102938109560,
+    "options": [
+      "Mandoline",
+      "Chinois",
+      "Tamis",
+      "Moulin"
+    ],
+    "question": "Quel ustensile de cuisine conique est utilisé pour filtrer les sauces ou les purées pour obtenir une texture fine?"
+  },
+  {
+    "correctAnswer": "Galanga",
+    "id": 37474102938109570,
+    "options": [
+      "Cardamome",
+      "Galanga",
+      "Cumin",
+      "Fenugrec"
+    ],
+    "question": "Quelle racine, semblable au gingembre, est couramment utilisée dans la cuisine thaïlandaise et indonésienne?"
+  },
+  {
+    "correctAnswer": "Moléculaire",
+    "id": 38485102938109576,
+    "options": [
+      "Vegetarienne",
+      "Organique",
+      "Moléculaire",
+      "Paleo"
+    ],
+    "question": "Quel style de cuisine utilise des gélifiants, des émulsifiants et d'autres additifs pour créer des textures et des saveurs surprenantes?"
+  },
+  {
+    "correctAnswer": "Caviar",
+    "id": 42529102938109704,
+    "options": [
+      "Foie gras",
+      "Truffe",
+      "Caviar",
+      "Escargot"
+    ],
+    "question": "Quel mets de luxe est fait d'œufs d'esturgeon non fécondés et salés?"
+  },
+  {
+    "correctAnswer": "Poutine",
+    "id": 4353102938109712,
+    "options": [
+      "Tourtière",
+      "Poutine",
+      "Beavertail",
+      "Butter tart"
+    ],
+    "question": "Quel plat canadien est composé de frites, de sauce brune et de fromage en grains?"
+  },
+  {
+    "correctAnswer": "Mezzaluna",
+    "id": 44542102938109720,
+    "options": [
+      "Mortier",
+      "Mezzaluna",
+      "Mandoline",
+      "Passoire"
+    ],
+    "question": "Quel outil de cuisine, dont le nom signifie 'demi-lune' en italien, est utilisé pour hacher les herbes?"
+  },
+  {
+    "correctAnswer": "Sashimi",
+    "id": 45553102938109730,
+    "options": [
+      "Sushi",
+      "Tempura",
+      "Sashimi",
+      "Udon"
+    ],
+    "question": "Quel plat japonais est composé uniquement de tranches de poisson cru, sans riz?"
+  },
+  {
+    "correctAnswer": "Tzatziki",
+    "id": 46564102938109736,
+    "options": [
+      "Hummus",
+      "Baba ganoush",
+      "Falafel",
+      "Tzatziki"
+    ],
+    "question": "Quelle sauce grecque est faite de yaourt, de concombre, d'ail et de menthe?"
+  },
+  {
+    "correctAnswer": "Prosciutto",
+    "id": 47575102938109740,
+    "options": [
+      "Chorizo",
+      "Prosciutto",
+      "Andouille",
+      "Salami"
+    ],
+    "question": "Quel jambon cru italien est souvent servi en tranches fines?"
+  },
+  {
+    "correctAnswer": "Sauerkraut",
+    "id": 48586102938109740,
+    "options": [
+      "Kimchi",
+      "Pickles",
+      "Sauerkraut",
+      "Miso"
+    ],
+    "question": "Comment appelle-t-on le chou fermenté, populaire en Allemagne?"
+  },
+  {
+    "correctAnswer": "Macaron",
+    "id": 49597102938109750,
+    "options": [
+      "Madeleine",
+      "Croissant",
+      "Macaron",
+      "Éclair"
+    ],
+    "question": "Quel petit gâteau français est composé de deux biscuits à base d'amande, reliés par une garniture crémeuse?"
+  },
+  {
+    "correctAnswer": "Ceviche",
+    "id": 50608102938109760,
+    "options": [
+      "Gazpacho",
+      "Paella",
+      "Empanada",
+      "Ceviche"
+    ],
+    "question": "Quel plat est composé de poisson cru mariné dans du jus de citron ou de lime et épicé?"
+  },
+  {
+    "correctAnswer": "Chimichurri",
+    "id": 51619102938109770,
+    "options": [
+      "Salsa",
+      "Guacamole",
+      "Chimichurri",
+      "Pesto"
+    ],
+    "question": "Quelle sauce verte à base d'herbes, d'ail, de vinaigre et d'huile d'olive est originaire d'Argentine?"
+  },
+  {
+    "correctAnswer": "Harissa",
+    "id": 5262102938109767,
+    "options": [
+      "Tahini",
+      "Harissa",
+      "Za'atar",
+      "Ras el hanout"
+    ],
+    "question": "Quelle pâte épicée, originaire de Tunisie, est à base de piments rouges, d'ail et d'autres épices?"
+  },
+  {
+    "correctAnswer": "Rambutan",
+    "id": 53632102938109780,
+    "options": [
+      "Durian",
+      "Jackfruit",
+      "Rambutan",
+      "Mangoustan"
+    ],
+    "question": "Quel fruit d'Asie du Sud-Est ressemble à une petite balle hérissée de poils doux?"
+  },
+  {
+    "correctAnswer": "Agar-agar",
+    "id": 54643102938109784,
+    "options": [
+      "Pectine",
+      "Gélatine",
+      "Agar-agar",
+      "Cornstarch"
+    ],
+    "question": "Quel gélifiant végétal est extrait des algues rouges et est populaire dans la cuisine asiatique?"
+  },
+  {
+    "correctAnswer": "Moussaka",
+    "id": 55654102938109790,
+    "options": [
+      "Spanakopita",
+      "Moussaka",
+      "Tzatziki",
+      "Baklava"
+    ],
+    "question": "Quel plat grec est composé de couches d'aubergines, de viande hachée et de sauce béchamel?"
+  },
+  {
+    "correctAnswer": "Kombucha",
+    "id": 56665102938109790,
+    "options": [
+      "Kimchi",
+      "Sake",
+      "Kombucha",
+      "Miso"
+    ],
+    "question": "Quelle boisson fermentée est produite à partir de thé sucré et d'une culture de bactéries et de levures?"
+  },
+  {
+    "correctAnswer": "Marsala",
+    "id": 57676102938109800,
+    "options": [
+      "Limoncello",
+      "Grappa",
+      "Amaro",
+      "Marsala"
+    ],
+    "question": "Quel vin fortifié italien est souvent utilisé dans la cuisine pour préparer des plats comme le poulet à la Marsala?"
+  },
+  {
+    "correctAnswer": "Borscht",
+    "id": 58687102938109810,
+    "options": [
+      "Goulash",
+      "Pierogi",
+      "Borscht",
+      "Kielbasa"
+    ],
+    "question": "Quelle soupe à base de betteraves est populaire en Russie et en Ukraine?"
+  },
+  {
+    "correctAnswer": "Katsu",
+    "id": 59698102938109816,
+    "options": [
+      "Tempura",
+      "Soba",
+      "Katsu",
+      "Teriyaki"
+    ],
+    "question": "Quel plat japonais est composé de viande panée et frite, généralement servie avec du chou râpé?"
+  },
+  {
+    "correctAnswer": "Crêpe Suzette",
+    "id": 60709102938109820,
+    "options": [
+      "Tarte Tatin",
+      "Crêpe Suzette",
+      "Clafoutis",
+      "Mille-feuille"
+    ],
+    "question": "Quelle crêpe française est servie avec une sauce à l'orange et flambée au Grand Marnier ou au Cointreau?"
+  },
+  {
+    "correctAnswer": "Mortier et pilon",
+    "id": 61720102938109830,
+    "options": [
+      "Fouet",
+      "Mortier et pilon",
+      "Tamis",
+      "Rouleau à pâtisserie"
+    ],
+    "question": "Quel outil est traditionnellement utilisé pour broyer et mélanger des épices?"
+  },
+  {
+    "correctAnswer": "Wok",
+    "id": 62731102938109840,
+    "options": [
+      "Poêle",
+      "Casserole",
+      "Wok",
+      "Mijoteuse"
+    ],
+    "question": "Quel ustensile de cuisson est traditionnellement utilisé dans la cuisine asiatique pour sauter à feu vif?"
+  },
+  {
+    "correctAnswer": "Bain-marie",
+    "id": 63742102938109840,
+    "options": [
+      "Friteuse",
+      "Bain-marie",
+      "Rôtissoire",
+      "Gril"
+    ],
+    "question": "Quelle technique utilise l'eau chaude pour cuire ou réchauffer doucement un aliment, souvent du chocolat ou des sauces délicates?"
+  },
+  {
+    "correctAnswer": "Zesteur",
+    "id": 64753102938109850,
+    "options": [
+      "Econome",
+      "Zesteur",
+      "Hachoir",
+      "Entonnoir"
+    ],
+    "question": "Quel outil est spécifiquement conçu pour retirer la partie colorée de la peau des agrumes?"
+  },
+  {
+    "correctAnswer": "Sous-vide",
+    "id": 65764102938109860,
+    "options": [
+      "Griller",
+      "Braiser",
+      "Sous-vide",
+      "Confiture"
+    ],
+    "question": "Quelle technique moderne de cuisson implique l'utilisation d'un bain d'eau à température contrôlée pour cuire des aliments scellés dans des sacs en plastique?"
+  },
+  {
+    "correctAnswer": "Chinois",
+    "id": 66775102938109864,
+    "options": [
+      "Tamis",
+      "Chinois",
+      "Passoire",
+      "Entonnoir"
+    ],
+    "question": "Quel ustensile conique perforé est utilisé pour filtrer les liquides afin d'obtenir une texture lisse?"
+  },
+  {
+    "correctAnswer": "Mandoline",
+    "id": 67786102938109870,
+    "options": [
+      "Râpe",
+      "Mandoline",
+      "Moulinette",
+      "Robot culinaire"
+    ],
+    "question": "Quel outil est utilisé pour trancher finement les légumes en lamelles uniformes?"
+  },
+  {
+    "correctAnswer": "Vinaigre balsamique",
+    "id": 68797102938109880,
+    "options": [
+      "Vinaigre de riz",
+      "Vinaigre blanc",
+      "Vinaigre de cidre",
+      "Vinaigre balsamique"
+    ],
+    "question": "Quel type de vinaigre est vieilli en fûts de bois et a une saveur douce et riche?"
+  },
+  {
+    "correctAnswer": "Fonte",
+    "id": 69808102938109890,
+    "options": [
+      "Acier inoxydable",
+      "Fonte",
+      "Téflon",
+      "Céramique"
+    ],
+    "question": "Quel matériau, lorsqu'il est utilisé pour les poêles, est connu pour sa capacité à retenir la chaleur et à la distribuer uniformément?"
+  },
+  {
+    "correctAnswer": "Spatule",
+    "id": 70819102938109896,
+    "options": [
+      "Louche",
+      "Spatule",
+      "Cuillère en bois",
+      "Fouet"
+    ],
+    "question": "Quel outil est souvent utilisé pour racler les restes de pâte ou de mélange d'un bol?"
+  },
+  {
+    "correctAnswer": "Mijoter",
+    "id": 7182102938109900,
+    "options": [
+      "Frire",
+      "Griller",
+      "Rôtir",
+      "Mijoter"
+    ],
+    "question": "Quelle technique de cuisson consiste à faire cuire lentement des aliments dans un liquide à une température juste en dessous du point d'ébullition?"
+  },
+  {
+    "correctAnswer": "Gyoza",
+    "id": 72832102938109900,
+    "options": [
+      "Tempura",
+      "Sashimi",
+      "Gyoza",
+      "Katsu"
+    ],
+    "question": "Comment s'appellent les raviolis japonais souvent cuits à la vapeur ou frits?"
+  },
+  {
+    "correctAnswer": "Paellera",
+    "id": 73843102938109920,
+    "options": [
+      "Cocotte",
+      "Cazuela",
+      "Paellera",
+      "Wok"
+    ],
+    "question": "Quel ustensile de cuisson est spécifiquement utilisé pour préparer la paella espagnole?"
+  },
+  {
+    "correctAnswer": "Pilon",
+    "id": 74854102938109920,
+    "options": [
+      "Fouet",
+      "Pilon",
+      "Mortier",
+      "Rouleau à pâtisserie"
+    ],
+    "question": "Quelle partie d'un ensemble de mortier et pilon est utilisée pour écraser et mélanger les ingrédients dans le mortier?"
+  },
+  {
+    "correctAnswer": "Couteau Santoku",
+    "id": 75865102938109920,
+    "options": [
+      "Couteau d'office",
+      "Couteau à désosser",
+      "Couteau à pain",
+      "Couteau Santoku"
+    ],
+    "question": "Quel couteau japonais est souvent utilisé pour trancher, découper et hacher, et possède des alvéoles sur la lame pour éviter que les aliments n'y adhèrent?"
+  },
+  {
+    "correctAnswer": "Bouilloire",
+    "id": 76876102938109940,
+    "options": [
+      "Cafetière",
+      "Bouilloire",
+      "Théière",
+      "Mijoteuse"
+    ],
+    "question": "Quel appareil est spécifiquement conçu pour chauffer rapidement l'eau, généralement pour préparer du thé ou du café?"
+  },
+  {
+    "correctAnswer": "Terracotta",
+    "id": 77887102938109940,
+    "options": [
+      "Acier inoxydable",
+      "Fonte",
+      "Téflon",
+      "Terracotta"
+    ],
+    "question": "De quel matériau sont traditionnellement fabriqués les tajines marocains pour la cuisson?"
+  },
+  {
+    "correctAnswer": "Chalumeau",
+    "id": 78898102938109950,
+    "options": [
+      "Fouet",
+      "Spatule",
+      "Chalumeau",
+      "Pince"
+    ],
+    "question": "Quel outil est couramment utilisé pour caraméliser le sucre sur une crème brûlée?"
+  },
+  {
+    "correctAnswer": "Couteau à fileter",
+    "id": 79909102938109950,
+    "options": [
+      "Couteau à pain",
+      "Couteau d'office",
+      "Couteau Santoku",
+      "Couteau à fileter"
+    ],
+    "question": "Quel type de couteau est spécialement conçu pour enlever la peau et les arêtes des poissons?"
+  },
+  {
+    "correctAnswer": "Mortier",
+    "id": 80920102938109970,
+    "options": [
+      "Pilon",
+      "Mortier",
+      "Chinois",
+      "Tamis"
+    ],
+    "question": "Dans quel outil les épices sont-elles traditionnellement broyées avec un pilon?"
+  },
+  {
+    "correctAnswer": "Planche à découper",
+    "id": 81931102938109970,
+    "options": [
+      "Râpe",
+      "Mandoline",
+      "Planche à découper",
+      "Bol mélangeur"
+    ],
+    "question": "Sur quel outil de cuisine pose-t-on généralement les aliments pour les trancher ou les hacher?"
+  },
+  {
+    "correctAnswer": "Four hollandais",
+    "id": 82942102938109980,
+    "options": [
+      "Wok",
+      "Poêle",
+      "Mijoteuse",
+      "Four hollandais"
+    ],
+    "question": "Quel type de récipient de cuisson, généralement en fonte, est utilisé pour la cuisson lente sur le feu ou au four?"
+  },
+  {
+    "correctAnswer": "Batteur électrique",
+    "id": 83953102938109980,
+    "options": [
+      "Mélangeur",
+      "Presse-agrumes",
+      "Batteur électrique",
+      "Robot culinaire"
+    ],
+    "question": "Quel appareil est couramment utilisé pour fouetter rapidement la crème ou les blancs d'œufs?"
+  },
+  {
+    "correctAnswer": "Presse-purée",
+    "id": 84964102938109980,
+    "options": [
+      "Passoire",
+      "Tamis",
+      "Presse-purée",
+      "Râpe"
+    ],
+    "question": "Quel outil est utilisé pour écraser les pommes de terre en une purée lisse?"
+  },
+  {
+    "correctAnswer": "Entonnoir",
+    "id": 85975102938110000,
+    "options": [
+      "Louche",
+      "Entonnoir",
+      "Spatule",
+      "Pelle"
+    ],
+    "question": "Quel outil est utilisé pour transférer des liquides d'un récipient à un autre sans renverser?"
+  },
+  {
+    "correctAnswer": "Thermomètre de cuisine",
+    "id": 86986102938110000,
+    "options": [
+      "Minuteur",
+      "Balance",
+      "Thermomètre de cuisine",
+      "Rouleau à pâtisserie"
+    ],
+    "question": "Quel instrument est utilisé pour vérifier la température interne des viandes pendant la cuisson?"
+  },
+  {
+    "correctAnswer": "Passoire",
+    "id": 87997102938110020,
+    "options": [
+      "Tamis",
+      "Moulin",
+      "Passoire",
+      "Chinois"
+    ],
+    "question": "Quel ustensile de cuisine est couramment utilisé pour égoutter les pâtes après leur cuisson?"
+  },
+  {
+    "correctAnswer": "Bol mélangeur",
+    "id": 89008102938110020,
+    "options": [
+      "Casserole",
+      "Moule à tarte",
+      "Poêle",
+      "Bol mélangeur"
+    ],
+    "question": "Dans quel récipient mélange-t-on généralement les ingrédients pour une recette?"
+  },
+  {
+    "correctAnswer": "Pelle à tarte",
+    "id": 90019102938110030,
+    "options": [
+      "Couteau à beurre",
+      "Pelle à tarte",
+      "Fouet",
+      "Spatule"
+    ],
+    "question": "Quel ustensile est spécifiquement conçu pour servir des tranches de gâteau ou de tarte?"
+  },
+  {
+    "correctAnswer": "Pince de cuisine",
+    "id": 9102102938109832,
+    "options": [
+      "Ciseaux de cuisine",
+      "Pince de cuisine",
+      "Louche",
+      "Fourchette"
+    ],
+    "question": "Quel outil est souvent utilisé pour retourner de petits aliments dans une poêle ou pour les servir?"
+  },
+  {
+    "correctAnswer": "Papier sulfurisé",
+    "id": 92032102938110050,
+    "options": [
+      "Film plastique",
+      "Papier aluminium",
+      "Papier sulfurisé",
+      "Papier ciré"
+    ],
+    "question": "Quel type de papier est souvent utilisé pour recouvrir les plaques de cuisson afin d'éviter que les aliments n'y collent?"
+  },
+  {
+    "correctAnswer": "Cercle à pâtisserie",
+    "id": 93043102938110050,
+    "options": [
+      "Moule à muffins",
+      "Cercle à pâtisserie",
+      "Tapis de cuisson",
+      "Plat à gratin"
+    ],
+    "question": "Quel ustensile est utilisé pour donner une forme ronde et uniforme aux desserts ou aux entrées lors de leur montage?"
+  },
+  {
+    "correctAnswer": "Tagine",
+    "id": 95065102938110060,
+    "options": [
+      "Paella",
+      "Couscous",
+      "Tagine",
+      "Falafel"
+    ],
+    "question": "Quel plat traditionnel marocain est aussi le nom du récipient en terre cuite dans lequel il est cuit?"
+  },
+  {
+    "correctAnswer": "Mis en place",
+    "id": 96076102938110060,
+    "options": [
+      "Sous-vide",
+      "Confit",
+      "Fermentation",
+      "Mis en place"
+    ],
+    "question": "Quelle expression française fait référence à l'organisation et à la préparation des ingrédients avant de commencer à cuisiner?"
+  },
+  {
+    "correctAnswer": "Durian",
+    "id": 97087102938110080,
+    "options": [
+      "Mangoustan",
+      "Durian",
+      "Litchi",
+      "Rambutan"
+    ],
+    "question": "Quel fruit d'Asie du Sud-Est est connu pour son odeur puissante et souvent désagréable pour ceux qui ne sont pas habitués?"
+  },
+  {
+    "correctAnswer": "Chocolat",
+    "id": 98098102938110080,
+    "options": [
+      "Café",
+      "Chocolat",
+      "Caramel",
+      "Vanille"
+    ],
+    "question": "Quel ingrédient nécessite une technique appelée 'tempérage' pour garantir une texture lisse lors de sa solidification?"
+  },
+  {
+    "correctAnswer": "Vadouvan",
+    "id": 99109102938110100,
+    "options": [
+      "Za'atar",
+      "Ras el hanout",
+      "Vadouvan",
+      "Garam masala"
+    ],
+    "question": "Quel mélange d'épices est une version française d'un mélange d'épices indien, souvent composé d'ail, d'échalotes et de moutarde?"
+  },
+  {
+    "correctAnswer": "Bain-marie inversé",
+    "id": 100120102938110100,
+    "options": [
+      "Bain-marie",
+      "Bain-marie inversé",
+      "Cuisson à la vapeur",
+      "Cuisson sous-vide"
+    ],
+    "question": "Quelle technique utilise de l'eau froide ou de la glace pour refroidir rapidement un aliment ou un mélange?"
+  },
+  {
+    "correctAnswer": "Mariner",
+    "id": 101131102938110100,
+    "options": [
+      "Infuser",
+      "Fermenter",
+      "Caraméliser",
+      "Mariner"
+    ],
+    "question": "Quelle technique consiste à laisser les aliments dans un mélange d'épices, d'herbes, et souvent d'acides comme le vinaigre ou le citron, pour améliorer leur saveur?"
+  },
+  {
+    "correctAnswer": "Maïs",
+    "id": 102142102938110110,
+    "options": [
+      "Blé",
+      "Orge",
+      "Riz",
+      "Maïs"
+    ],
+    "question": "La polenta est principalement faite à partir de quelle céréale?"
+  },
+  {
+    "correctAnswer": "Microplane",
+    "id": 103153102938110110,
+    "options": [
+      "Mandoline",
+      "Zesteur",
+      "Microplane",
+      "Râpe à fromage"
+    ],
+    "question": "Quel outil est spécifiquement conçu pour râper finement les ingrédients, comme le zeste d'agrumes ou le fromage à pâte dure?"
+  },
+  {
+    "correctAnswer": "Pois chiches",
+    "id": 104164102938110130,
+    "options": [
+      "Lentilles",
+      "Fèves",
+      "Pois chiches",
+      "Haricots rouges"
+    ],
+    "question": "Quel est l'ingrédient principal du houmous?"
+  },
+  {
+    "correctAnswer": "Café",
+    "id": 105175102938110130,
+    "options": [
+      "Café",
+      "Chocolat",
+      "Thé noir",
+      "Cacao"
+    ],
+    "question": "Quel ingrédient est la base du tiramisu, un dessert italien populaire?"
+  },
+  {
+    "correctAnswer": "Dashi",
+    "id": 106186102938110140,
+    "options": [
+      "Miso",
+      "Dashi",
+      "Kimchi",
+      "Soyu"
+    ],
+    "question": "Quel bouillon à base d'algues et de bonite séchée est un élément fondamental de la cuisine japonaise?"
+  },
+  {
+    "correctAnswer": "Noix de muscade",
+    "id": 107197102938110140,
+    "options": [
+      "Cumin",
+      "Curcuma",
+      "Cardamome",
+      "Noix de muscade"
+    ],
+    "question": "Quelle épice est souvent râpée fraîche et utilisée dans les plats comme la béchamel ou le gratin dauphinois?"
+  },
+  {
+    "correctAnswer": "Mélangeur",
+    "id": 108208102938110140,
+    "options": [
+      "Presse-agrumes",
+      "Mélangeur",
+      "Hachoir",
+      "Pétrin"
+    ],
+    "question": "Quel appareil électrique est particulièrement utile pour réaliser des smoothies ou des soupes mixées?"
+  },
+  {
+    "correctAnswer": "Faire revenir",
+    "id": 109219102938110160,
+    "options": [
+      "Braiser",
+      "Faire revenir",
+      "Rôtir",
+      "Mijoter"
+    ],
+    "question": "Quelle technique de cuisson implique de cuire rapidement des aliments dans un peu de matière grasse à feu vif?"
+  },
+  {
+    "correctAnswer": "Poivre",
+    "id": 110230102938110160,
+    "options": [
+      "Curcuma",
+      "Cannelle",
+      "Poivre",
+      "Paprika"
+    ],
+    "question": "Quelle épice est obtenue à partir de baies séchées et est souvent utilisée avec le sel pour assaisonner de nombreux plats?"
+  },
+  {
+    "correctAnswer": "Bouquet garni",
+    "id": 111241102938110180,
+    "options": [
+      "Mirepoix",
+      "Roux",
+      "Bouquet garni",
+      "Marinade"
+    ],
+    "question": "Comment s'appelle le mélange d'herbes aromatiques généralement composé de thym, de laurier et de persil, souvent utilisé dans les soupes et les ragoûts?"
+  },
+  {
+    "correctAnswer": "Blanchir",
+    "id": 112252102938110180,
+    "options": [
+      "Rôtir",
+      "Blanchir",
+      "Caraméliser",
+      "Griller"
+    ],
+    "question": "Quelle technique de cuisson implique de plonger brièvement des aliments dans de l'eau bouillante puis dans de l'eau glacée?"
+  },
+  {
+    "correctAnswer": "Sorbetière",
+    "id": 113263102938110190,
+    "options": [
+      "Mijoteuse",
+      "Centrifugeuse",
+      "Sorbetière",
+      "Yaourtière"
+    ],
+    "question": "Quel appareil est spécifiquement utilisé pour fabriquer des glaces et des sorbets maison?"
+  },
+  {
+    "correctAnswer": "Brioche",
+    "id": 114274102938110190,
+    "options": [
+      "Baguette",
+      "Chapati",
+      "Tortilla",
+      "Brioche"
+    ],
+    "question": "Quel type de pain français est riche en beurre et en œufs, et est souvent sucré?"
+  },
+  {
+    "correctAnswer": "Levure",
+    "id": 115285102938110200,
+    "options": [
+      "Bicarbonate de soude",
+      "Poudre à pâte",
+      "Sel",
+      "Levure"
+    ],
+    "question": "Quel agent de levage est utilisé pour faire fermenter le pain et lui donner du volume?"
+  },
+  {
+    "correctAnswer": "Bain d'huile",
+    "id": 116296102938110200,
+    "options": [
+      "Bain-marie",
+      "Bain d'huile",
+      "Bain de vapeur",
+      "Bain d'eau"
+    ],
+    "question": "Dans quelle technique de cuisson les aliments sont-ils immergés pour être frits?"
+  },
+  {
+    "correctAnswer": "Cèpes",
+    "id": 117307102938110200,
+    "options": [
+      "Shiitake",
+      "Portobello",
+      "Cèpes",
+      "Champignons de Paris"
+    ],
+    "question": "Quel type de champignon sauvage est particulièrement prisé dans la cuisine française pour sa saveur riche?"
+  },
+  {
+    "correctAnswer": "Cardamome",
+    "id": 118318102938110220,
+    "options": [
+      "Coriandre",
+      "Cardamome",
+      "Cumin",
+      "Anis"
+    ],
+    "question": "Quelle épice est souvent utilisée dans les plats indiens et les desserts scandinaves, et est reconnaissable à ses petites graines noires contenues dans une gousse verte?"
+  },
+  {
+    "correctAnswer": "Clarifier",
+    "id": 119329102938110220,
+    "options": [
+      "Emulsionner",
+      "Filtrer",
+      "Clarifier",
+      "Mélanger"
+    ],
+    "question": "Quelle technique est utilisée pour rendre un liquide limpide, comme lors de la préparation d'un bouillon clair?"
+  },
+  {
+    "correctAnswer": "Champagne",
+    "id": 120340102938110240,
+    "options": [
+      "Bordeaux",
+      "Chardonnay",
+      "Champagne",
+      "Porto"
+    ],
+    "question": "Quelle boisson alcoolisée est traditionnellement associée à la région de la Champagne en France?"
+  },
+  {
+    "correctAnswer": "Pestle",
+    "id": 121351102938110240,
+    "options": [
+      "Louche",
+      "Pestle",
+      "Moulin",
+      "Mortier"
+    ],
+    "question": "Dans la cuisine anglaise, quel outil est utilisé avec un mortier pour écraser des ingrédients?"
+  },
+  {
+    "correctAnswer": "Tofu",
+    "id": 122362102938110260,
+    "options": [
+      "Tempeh",
+      "Seitan",
+      "Tofu",
+      "Miso"
+    ],
+    "question": "Quel ingrédient est fabriqué à partir de lait de soja caillé et est couramment utilisé dans la cuisine asiatique comme substitut de viande?"
+  },
+  {
+    "correctAnswer": "Ghee",
+    "id": 123373102938110260,
+    "options": [
+      "Huile d'olive",
+      "Saindoux",
+      "Ghee",
+      "Huile de coco"
+    ],
+    "question": "Quelle forme de beurre clarifié est couramment utilisée dans la cuisine indienne?"
+  },
+  {
+    "correctAnswer": "Coulis",
+    "id": 124384102938110270,
+    "options": [
+      "Gelée",
+      "Coulis",
+      "Compote",
+      "Sorbet"
+    ],
+    "question": "Comment appelle-t-on un sauce épaisse et lisse généralement faite à partir de fruits ou de légumes purs?"
+  },
+  {
+    "correctAnswer": "Moléculaire",
+    "id": 125395102938110270,
+    "options": [
+      "Végétarienne",
+      "Méditerranéenne",
+      "Moléculaire",
+      "Fusion"
+    ],
+    "question": "Quel style de cuisine utilise des techniques scientifiques pour créer des textures et des saveurs innovantes?"
+  },
+  {
+    "correctAnswer": "Risotto",
+    "id": 126406102938110270,
+    "options": [
+      "Polenta",
+      "Risotto",
+      "Paella",
+      "Couscous"
+    ],
+    "question": "Quel plat italien est fait en cuisinant lentement du riz dans un bouillon jusqu'à ce qu'il devienne crémeux?"
+  },
+  {
+    "correctAnswer": "Galette",
+    "id": 127417102938110290,
+    "options": [
+      "Madeleine",
+      "Éclair",
+      "Macaron",
+      "Galette"
+    ],
+    "question": "Quelle est la dénomination d'une crêpe épaisse traditionnellement faite avec du sarrasin en Bretagne?"
+  },
+  {
+    "correctAnswer": "Caviar",
+    "id": 128428102938110290,
+    "options": [
+      "Foie gras",
+      "Truffe",
+      "Caviar",
+      "Escargot"
+    ],
+    "question": "Quel mets de luxe est fabriqué à partir des œufs d'esturgeon?"
+  },
+  {
+    "correctAnswer": "Pousses de bambou",
+    "id": 129439102938110300,
+    "options": [
+      "Pousses de soja",
+      "Feuilles de nori",
+      "Seaweed salad",
+      "Pousses de bambou"
+    ],
+    "question": "Quel ingrédient, souvent utilisé dans les cuisines asiatiques, est récolté à partir de la jeune pousse de la plante de bambou?"
+  },
+  {
+    "correctAnswer": "Basilic",
+    "id": 130450102938110300,
+    "options": [
+      "Coriandre",
+      "Menthe",
+      "Basilic",
+      "Thym"
+    ],
+    "question": "Quelle herbe est un ingrédient clé dans le pesto italien?"
+  },
+  {
+    "correctAnswer": "Tandoor",
+    "id": 131461102938110320,
+    "options": [
+      "Sauté",
+      "Tandoor",
+      "Braise",
+      "Grill"
+    ],
+    "question": "Quel type de four est utilisé pour faire le pain naan et les kebabs dans la cuisine indienne?"
+  },
+  {
+    "correctAnswer": "Kimchi",
+    "id": 132472102938110320,
+    "options": [
+      "Sushi",
+      "Miso",
+      "Tempura",
+      "Kimchi"
+    ],
+    "question": "Quel aliment fermenté à base de chou est un élément de base de la cuisine coréenne?"
+  },
+  {
+    "correctAnswer": "Churros",
+    "id": 133483102938110320,
+    "options": [
+      "Cannoli",
+      "Éclair",
+      "Churros",
+      "Macaron"
+    ],
+    "question": "Quel dessert frit d'origine espagnole est souvent trempé dans du chocolat chaud?"
+  },
+  {
+    "correctAnswer": "Gingembre",
+    "id": 134494102938110340,
+    "options": [
+      "Cannelle",
+      "Gingembre",
+      "Cardamome",
+      "Nelken"
+    ],
+    "question": "Quelle racine est souvent utilisée dans les cuisines asiatiques et est également prisée pour ses propriétés médicinales?"
+  },
+  {
+    "correctAnswer": "Baba au rhum",
+    "id": 135505102938110340,
+    "options": [
+      "Tarte Tatin",
+      "Baba au rhum",
+      "Mille-feuille",
+      "Canelé"
+    ],
+    "question": "Quel gâteau français est imbibé de sirop au rhum après la cuisson?"
+  },
+  {
+    "correctAnswer": "Maïzena",
+    "id": 136516102938110350,
+    "options": [
+      "Farine de blé",
+      "Semoule",
+      "Maïzena",
+      "Grits"
+    ],
+    "question": "Quel type d'amidon est souvent utilisé pour épaissir les sauces et les soupes?"
+  },
+  {
+    "correctAnswer": "Crème fraîche",
+    "id": 137527102938110350,
+    "options": [
+      "Yaourt",
+      "Crème fouettée",
+      "Crème fraîche",
+      "Fromage blanc"
+    ],
+    "question": "Quel produit laitier épais et riche est souvent ajouté aux soupes et aux sauces pour leur donner une texture crémeuse?"
+  },
+  {
+    "correctAnswer": "Poutine",
+    "id": 138538102938110370,
+    "options": [
+      "Poutine",
+      "Ratatouille",
+      "Goulash",
+      "Bratwurst"
+    ],
+    "question": "Quel plat canadien est composé de frites, de sauce brune et de fromage en grains?"
+  },
+  {
+    "correctAnswer": "Sésame",
+    "id": 139549102938110370,
+    "options": [
+      "Tournesol",
+      "Sésame",
+      "Chia",
+      "Pavot"
+    ],
+    "question": "De quelle graine est fabriquée la tahini, un ingrédient clé du houmous?"
+  },
+  {
+    "correctAnswer": "Soufflé",
+    "id": 140560102938110370,
+    "options": [
+      "Quiche",
+      "Crêpe",
+      "Soufflé",
+      "Flan"
+    ],
+    "question": "Quel plat français est notoirement difficile à préparer car il peut retomber s'il n'est pas cuit correctement?"
+  },
+  {
+    "correctAnswer": "Tofu soyeux",
+    "id": 141571102938110380,
+    "options": [
+      "Tempeh",
+      "Seitan",
+      "Tofu ferme",
+      "Tofu soyeux"
+    ],
+    "question": "Quelle variante de tofu a une texture douce et crémeuse, souvent utilisée dans les soupes et les desserts?"
+  },
+  {
+    "correctAnswer": "Saké",
+    "id": 142582102938110380,
+    "options": [
+      "Whisky",
+      "Vodka",
+      "Tequila",
+      "Saké"
+    ],
+    "question": "Quelle boisson alcoolisée japonaise est fabriquée à partir de riz fermenté?"
+  },
+  {
+    "correctAnswer": "Roux",
+    "id": 143593102938110400,
+    "options": [
+      "Bouillon",
+      "Demi-glace",
+      "Roux",
+      "Jus"
+    ],
+    "question": "Comment appelle-t-on le mélange de beurre et de farine utilisé pour épaissir les sauces?"
+  },
+  {
+    "correctAnswer": "Galanga",
+    "id": 144604102938110400,
+    "options": [
+      "Gingembre",
+      "Curcuma",
+      "Galanga",
+      "Citronnelle"
+    ],
+    "question": "Quelle racine, semblable au gingembre, est couramment utilisée dans la cuisine thaïlandaise et indonésienne?"
+  },
+  {
+    "correctAnswer": "Nigiri",
+    "id": 145615102938110400,
+    "options": [
+      "Maki",
+      "Sashimi",
+      "Nigiri",
+      "Temaki"
+    ],
+    "question": "Quel type de sushi est généralement composé d'une tranche de poisson cru sur un petit monticule de riz?"
+  },
+  {
+    "correctAnswer": "Piment",
+    "id": 146626102938110430,
+    "options": [
+      "Tomate",
+      "Piment",
+      "Aubergine",
+      "Courgette"
+    ],
+    "question": "Quel légume est la base du condiment sriracha?"
+  },
+  {
+    "correctAnswer": "Sardines",
+    "id": 147637102938110430,
+    "options": [
+      "Moules",
+      "Anchois",
+      "Sardines",
+      "Calamars"
+    ],
+    "question": "Quel poisson est traditionnellement conservé dans des boîtes de conserve et est connu pour être riche en oméga-3?"
+  },
+  {
+    "correctAnswer": "Fumage à froid",
+    "id": 148648102938110430,
+    "options": [
+      "Fumage à chaud",
+      "Braisage",
+      "Fumage à froid",
+      "Gril"
+    ],
+    "question": "Quelle méthode de fumage est utilisée pour le saumon de type 'lox'?"
+  },
+  {
+    "correctAnswer": "Agar-agar",
+    "id": 149659102938110430,
+    "options": [
+      "Pectine",
+      "Gélatine",
+      "Agar-agar",
+      "Maïzena"
+    ],
+    "question": "Quel agent gélifiant végétarien est extrait des algues et est souvent utilisé dans la cuisine asiatique?"
+  },
+  {
+    "correctAnswer": "Paella",
+    "id": 150670102938110430,
+    "options": [
+      "Risotto",
+      "Biryani",
+      "Jambalaya",
+      "Paella"
+    ],
+    "question": "Quel plat à base de riz, originaire de la région de Valence en Espagne, est traditionnellement cuit dans une grande poêle plate?"
+  },
+  {
+    "correctAnswer": "Sauerkraut",
+    "id": 151681102938110460,
+    "options": [
+      "Kimchi",
+      "Kombucha",
+      "Sauerkraut",
+      "Misozuke"
+    ],
+    "question": "Comment appelle-t-on le chou fermenté, un aliment de base en Allemagne?"
+  },
+  {
+    "correctAnswer": "Cassoulet",
+    "id": 152692102938110460,
+    "options": [
+      "Ratatouille",
+      "Cassoulet",
+      "Bouillabaisse",
+      "Navarin"
+    ],
+    "question": "Quel ragoût français traditionnel est à base de haricots blancs, de saucisses et d'autres viandes?"
+  },
+  {
+    "correctAnswer": "Pesto",
+    "id": 153703102938110460,
+    "options": [
+      "Salsa",
+      "Tapenade",
+      "Guacamole",
+      "Pesto"
+    ],
+    "question": "Quelle sauce est principalement faite de basilic, d'ail, de pignons, de fromage parmesan et d'huile d'olive?"
+  },
+  {
+    "correctAnswer": "Ramen",
+    "id": 154714102938110460,
+    "options": [
+      "Pho",
+      "Ramen",
+      "Udon",
+      "Soba"
+    ],
+    "question": "Quel type de soupe japonaise est servi avec des nouilles de blé et diverses garnitures comme du porc, des œufs et des algues?"
+  },
+  {
+    "correctAnswer": "Béarnaise",
+    "id": 155725102938110500,
+    "options": [
+      "Hollandaise",
+      "Béchamel",
+      "Marinara",
+      "Béarnaise"
+    ],
+    "question": "Quelle sauce est traditionnellement servie avec du steak et contient de l'estragon et du cerfeuil?"
+  },
+  {
+    "correctAnswer": "Dim sum",
+    "id": 156736102938110500,
+    "options": [
+      "Sushi",
+      "Tapas",
+      "Mezze",
+      "Dim sum"
+    ],
+    "question": "Quel type de plat est traditionnellement servi dans les salons de thé chinois et se compose de petites bouchées servies avec du thé?"
+  },
+  {
+    "correctAnswer": "Fenouil",
+    "id": 157747102938110500,
+    "options": [
+      "Coriandre",
+      "Fenouil",
+      "Céleri",
+      "Piment"
+    ],
+    "question": "Quel légume a une saveur légèrement anisée et peut être consommé cru ou cuit?"
+  },
+  {
+    "correctAnswer": "Mille-feuille",
+    "id": 158758102938110500,
+    "options": [
+      "Macaron",
+      "Mille-feuille",
+      "Tarte Tatin",
+      "Baba au rhum"
+    ],
+    "question": "Quel dessert français est composé de couches alternées de pâte feuilletée et de crème pâtissière?"
+  },
+  {
+    "correctAnswer": "Choucroute",
+    "id": 159769102938110500,
+    "options": [
+      "Sauerkraut",
+      "Bratwurst",
+      "Choucroute",
+      "Rösti"
+    ],
+    "question": "Quel plat alsacien est fait de chou fermenté cuit avec des saucisses et d'autres viandes?"
+  },
+  {
+    "correctAnswer": "Mortier",
+    "id": 160780102938110530,
+    "options": [
+      "Pilon",
+      "Mandoline",
+      "Mortier",
+      "Hachoir"
+    ],
+    "question": "Dans quel ustensile écrase-t-on des épices ou des herbes pour en extraire les saveurs?"
+  },
+  {
+    "correctAnswer": "Umami",
+    "id": 161791102938110530,
+    "options": [
+      "Sucré",
+      "Salé",
+      "Amer",
+      "Umami"
+    ],
+    "question": "Quel goût, souvent décrit comme savoureux, est associé aux aliments tels que le soja, les tomates et le parmesan?"
+  },
+  {
+    "correctAnswer": "Miso",
+    "id": 162802102938110530,
+    "options": [
+      "Tofu",
+      "Seitan",
+      "Tempeh",
+      "Miso"
+    ],
+    "question": "Quelle pâte fermentée, faite à partir de soja et souvent mélangée avec du riz ou de l'orge, est un ingrédient clé de la soupe du même nom?"
+  },
+  {
+    "correctAnswer": "Sorbet",
+    "id": 163813102938110530,
+    "options": [
+      "Gelato",
+      "Sorbet",
+      "Frozen yogurt",
+      "Granita"
+    ],
+    "question": "Quel dessert glacé est fabriqué sans produits laitiers et est généralement composé de fruit, de sucre et d'eau?"
+  },
+  {
+    "correctAnswer": "Harissa",
+    "id": 164824102938110530,
+    "options": [
+      "Sriracha",
+      "Sambal",
+      "Harissa",
+      "Piri-piri"
+    ],
+    "question": "Quelle pâte de piment épicée est couramment utilisée dans la cuisine tunisienne?"
+  },
+  {
+    "correctAnswer": "Bouillabaisse",
+    "id": 165835102938110560,
+    "options": [
+      "Ratatouille",
+      "Bouillabaisse",
+      "Cassoulet",
+      "Coq au vin"
+    ],
+    "question": "Quelle soupe de poisson est originaire de la ville de Marseille en France?"
+  },
+  {
+    "correctAnswer": "Mandoline",
+    "id": 166846102938110560,
+    "options": [
+      "Râpe",
+      "Zesteur",
+      "Pilon",
+      "Mandoline"
+    ],
+    "question": "Quel ustensile de cuisine est utilisé pour trancher finement les légumes?"
+  },
+  {
+    "correctAnswer": "Pavlova",
+    "id": 167857102938110560,
+    "options": [
+      "Éclair",
+      "Meringue",
+      "Profiterole",
+      "Pavlova"
+    ],
+    "question": "Quel dessert, nommé d'après une ballerine, est fait de meringue, de crème fouettée et de fruits frais?"
+  },
+  {
+    "correctAnswer": "Daikon",
+    "id": 168868102938110560,
+    "options": [
+      "Bok choy",
+      "Daikon",
+      "Napa cabbage",
+      "Edamame"
+    ],
+    "question": "Quel radis blanc et long est couramment utilisé dans les cuisines asiatiques?"
+  },
+  {
+    "correctAnswer": "Ail noir",
+    "id": 169879102938110600,
+    "options": [
+      "Ail blanc",
+      "Ail rose",
+      "Ail vert",
+      "Ail noir"
+    ],
+    "question": "Quel type d'ail est fermenté à haute température et a une saveur douce et sirupeuse?"
+  },
+  {
+    "correctAnswer": "Pimenton",
+    "id": 170890102938110600,
+    "options": [
+      "Paprika",
+      "Cayenne",
+      "Pimenton",
+      "Curcuma"
+    ],
+    "question": "Comment est appelé le paprika fumé espagnol?"
+  },
+  {
+    "correctAnswer": "Chiffonade",
+    "id": 171901102938110600,
+    "options": [
+      "Découpage",
+      "Brunoise",
+      "Chiffonade",
+      "Julienned"
+    ],
+    "question": "Quelle technique de découpe consiste à rouler des feuilles de légumes ou d'herbes et à les émincer finement?"
+  },
+  {
+    "correctAnswer": "Lardo",
+    "id": 172912102938110600,
+    "options": [
+      "Salami",
+      "Prosciutto",
+      "Lardo",
+      "Chorizo"
+    ],
+    "question": "Quel type de charcuterie italienne est essentiellement fait de graisse de dos de porc assaisonnée et vieillie?"
+  },
+  {
+    "correctAnswer": "Tempura",
+    "id": 173923102938110600,
+    "options": [
+      "Sashimi",
+      "Sukiyaki",
+      "Teriyaki",
+      "Tempura"
+    ],
+    "question": "Quelle technique japonaise consiste à frire des aliments après les avoir enrobés d'une pâte légère?"
+  },
+  {
+    "correctAnswer": "Mortadelle",
+    "id": 174934102938110620,
+    "options": [
+      "Salami",
+      "Mortadelle",
+      "Bresaola",
+      "Capicola"
+    ],
+    "question": "Quelle charcuterie italienne est souvent parsemée de petits morceaux de graisse et parfois d'olives ou de pistaches?"
+  },
+  {
+    "correctAnswer": "Tahini",
+    "id": 175945102938110620,
+    "options": [
+      "Hummus",
+      "Baba ganoush",
+      "Tzatziki",
+      "Tahini"
+    ],
+    "question": "Quelle pâte est faite de graines de sésame broyées et est un ingrédient clé dans de nombreux plats du Moyen-Orient?"
+  },
+  {
+    "correctAnswer": "Durian",
+    "id": 176956102938110620,
+    "options": [
+      "Lychee",
+      "Rambutan",
+      "Mangoustan",
+      "Durian"
+    ],
+    "question": "Quel fruit est connu comme le 'roi des fruits' en Asie du Sud-Est et a une odeur si forte qu'il est interdit dans de nombreux hôtels et transports en commun?"
+  },
+  {
+    "correctAnswer": "Lapsang souchong",
+    "id": 177967102938110620,
+    "options": [
+      "Matcha",
+      "Oolong",
+      "Lapsang souchong",
+      "Chai"
+    ],
+    "question": "Quel type de thé est fumé sur du bois de pin, lui donnant une saveur distincte de fumée?"
+  },
+  {
+    "correctAnswer": "Baklava",
+    "id": 178978102938110660,
+    "options": [
+      "Kanafeh",
+      "Baklava",
+      "Tiramisu",
+      "Panna cotta"
+    ],
+    "question": "Quel dessert est fait de couches de pâte filo, de noix hachées et est arrosé de sirop ou de miel?"
+  },
+  {
+    "correctAnswer": "Za'atar",
+    "id": 179989102938110660,
+    "options": [
+      "Sumac",
+      "Ras el hanout",
+      "Garam masala",
+      "Za'atar"
+    ],
+    "question": "Quel mélange d'épices du Moyen-Orient contient généralement du thym séché, du sumac, des graines de sésame et du sel?"
+  },
+  {
+    "correctAnswer": "Gnocchi",
+    "id": 180100102938110660,
+    "options": [
+      "Pappardelle",
+      "Gnocchi",
+      "Tagliatelle",
+      "Orecchiette"
+    ],
+    "question": "Quel type de pâtes est fait à base de pommes de terre et a souvent une forme de petit coussin?"
+  },
+  {
+    "correctAnswer": "Pisco",
+    "id": 181111102938110660,
+    "options": [
+      "Mezcal",
+      "Cachaça",
+      "Pisco",
+      "Grappa"
+    ],
+    "question": "Quelle eau-de-vie est originaire du Pérou et du Chili et est la base du cocktail Pisco Sour?"
+  },
+  {
+    "correctAnswer": "Arepa",
+    "id": 182122102938110660,
+    "options": [
+      "Tostada",
+      "Taco",
+      "Empanada",
+      "Arepa"
+    ],
+    "question": "Quel mets traditionnel vénézuélien et colombien est fait de galettes de maïs grillées ou frites?"
+  },
+  {
+    "correctAnswer": "Poulpe",
+    "id": 183133102938110700,
+    "options": [
+      "Anchois",
+      "Poulpe",
+      "Sardine",
+      "Moule"
+    ],
+    "question": "Quel mollusque est la vedette du plat méditerranéen appelé 'polpo alla griglia'?"
+  },
+  {
+    "correctAnswer": "Fondue",
+    "id": 184144102938110700,
+    "options": [
+      "Raclette",
+      "Tartiflette",
+      "Fondue",
+      "Chateaubriand"
+    ],
+    "question": "Quel plat suisse traditionnel consiste à tremper du pain dans du fromage fondu?"
+  },
+  {
+    "correctAnswer": "Bouillon",
+    "id": 185155102938110700,
+    "options": [
+      "Dashi",
+      "Bouillon",
+      "Consommé",
+      "Velouté"
+    ],
+    "question": "Quelle base de soupe est faite en mijotant lentement des os et/ou des légumes?"
+  },
+  {
+    "correctAnswer": "Chapati",
+    "id": 186166102938110700,
+    "options": [
+      "Naan",
+      "Paratha",
+      "Puri",
+      "Chapati"
+    ],
+    "question": "Quel pain indien plat est fait sans levure et est souvent utilisé pour accompagner les repas?"
+  },
+  {
+    "correctAnswer": "Edam",
+    "id": 187177102938110720,
+    "options": [
+      "Brie",
+      "Roquefort",
+      "Mozzarella",
+      "Edam"
+    ],
+    "question": "Quel fromage hollandais traditionnel est souvent en forme de boule et a une croûte de cire rouge?"
+  },
+  {
+    "correctAnswer": "Moussaka",
+    "id": 188188102938110720,
+    "options": [
+      "Paella",
+      "Moussaka",
+      "Ratatouille",
+      "Lasagne"
+    ],
+    "question": "Quel plat traditionnel grec est fait de couches d'aubergines, de viande hachée et de sauce béchamel?"
+  },
+  {
+    "correctAnswer": "Escargots de Bourgogne",
+    "id": 189199102938110720,
+    "options": [
+      "Cuisses de grenouille",
+      "Bouillabaisse",
+      "Rillettes",
+      "Escargots de Bourgogne"
+    ],
+    "question": "Quel plat français est préparé avec des escargots cuits au beurre, à l'ail et au persil?"
+  }
+]

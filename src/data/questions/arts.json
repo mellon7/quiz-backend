@@ -636,5 +636,2095 @@
       "Rem Koolhaas"
     ],
     "question": "Quel architecte a conçu le Guggenheim Museum à Bilbao, Espagne?"
+  },
+  {
+    "correctAnswer": "Leonardo da Vinci",
+    "id": 1013002057371725,
+    "options": [
+      "Raphael",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Caravaggio"
+    ],
+    "question": "Qui est l'artiste derrière le manuscrit connu sous le nom de 'Codex Atlanticus'?"
+  },
+  {
+    "correctAnswer": "Edward Hopper",
+    "id": 1215002057371726,
+    "options": [
+      "Jackson Pollock",
+      "Edward Hopper",
+      "Grant Wood",
+      "Andrew Wyeth"
+    ],
+    "question": "Quel artiste est célèbre pour son tableau 'Nighthawks', dépeignant des personnes dans un diner la nuit?"
+  },
+  {
+    "correctAnswer": "Hieronymus Bosch",
+    "id": 1317002057371727,
+    "options": [
+      "Albrecht Dürer",
+      "Pieter Bruegel l'Ancien",
+      "Jan van Eyck",
+      "Hieronymus Bosch"
+    ],
+    "question": "Qui a peint 'Le Jardin des délices', une triptyque représentant le paradis, la Terre et l'enfer?"
+  },
+  {
+    "correctAnswer": "Katsushika Hokusai",
+    "id": 1419002057371728,
+    "options": [
+      "Utagawa Hiroshige",
+      "Katsushika Hokusai",
+      "Tawaraya Sotatsu",
+      "Kitagawa Utamaro"
+    ],
+    "question": "Qui est l'auteur de la célèbre série d'estampes 'Trente-six vues du mont Fuji'?"
+  },
+  {
+    "correctAnswer": "Yves Klein",
+    "id": 1521002057371729,
+    "options": [
+      "Pierre Soulages",
+      "Yves Klein",
+      "Jean Dubuffet",
+      "Arman"
+    ],
+    "question": "Quel artiste est associé à la couleur 'Bleu Klein'?"
+  },
+  {
+    "correctAnswer": "Gustave Courbet",
+    "id": 1623002057371730,
+    "options": [
+      "Jean-François Millet",
+      "Édouard Manet",
+      "Gustave Courbet",
+      "Jean-Baptiste Camille Corot"
+    ],
+    "question": "Qui a peint 'L'Origine du monde', une œuvre audacieuse et controversée du XIXe siècle?"
+  },
+  {
+    "correctAnswer": "Frida Kahlo",
+    "id": 1725002057371731,
+    "options": [
+      "Frida Kahlo",
+      "Diego Rivera",
+      "David Alfaro Siqueiros",
+      "Jose Clemente Orozco"
+    ],
+    "question": "Quelle artiste est connue pour ses autoportraits symboliques et ses références à la culture mexicaine?"
+  },
+  {
+    "correctAnswer": "Amedeo Modigliani",
+    "id": 1827002057371732,
+    "options": [
+      "Giacomo Balla",
+      "Umberto Boccioni",
+      "Amedeo Modigliani",
+      "Carlo Carrà"
+    ],
+    "question": "Quel artiste est célèbre pour ses portraits allongés et ses nus stylisés?"
+  },
+  {
+    "correctAnswer": "Alfred Sisley",
+    "id": 1929002057371733,
+    "options": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Édouard Manet",
+      "Alfred Sisley"
+    ],
+    "question": "Parmi les peintres impressionnistes, lequel était particulièrement connu pour ses paysages?"
+  },
+  {
+    "correctAnswer": "Henry Moore",
+    "id": 2031002057371734,
+    "options": [
+      "Barbara Hepworth",
+      "Anthony Caro",
+      "Henry Moore",
+      "Richard Long"
+    ],
+    "question": "Quel sculpteur britannique est connu pour ses formes abstraites et organiques souvent inspirées de la figure humaine?"
+  },
+  {
+    "correctAnswer": "Marc Chagall",
+    "id": 2133002057371735,
+    "options": [
+      "Wassily Kandinsky",
+      "Pablo Picasso",
+      "Joan Miró",
+      "Marc Chagall"
+    ],
+    "question": "Quel artiste est connu pour ses peintures oniriques intégrant des éléments de folklore juif?"
+  },
+  {
+    "correctAnswer": "Lucio Fontana",
+    "id": 2235002057371736,
+    "options": [
+      "Piero Manzoni",
+      "Lucio Fontana",
+      "Enrico Castellani",
+      "Alberto Burri"
+    ],
+    "question": "Quel artiste est associé au mouvement 'Spatialisme' et est connu pour ses toiles trouées ou fendues?"
+  },
+  {
+    "correctAnswer": "Egon Schiele",
+    "id": 2337002057371737,
+    "options": [
+      "Gustav Klimt",
+      "Oskar Kokoschka",
+      "Egon Schiele",
+      "Koloman Moser"
+    ],
+    "question": "Quel artiste autrichien est célèbre pour ses autoportraits et ses nus expressifs, souvent marqués par une torsion et une tension?"
+  },
+  {
+    "correctAnswer": "Georges Braque",
+    "id": 2439002057371738,
+    "options": [
+      "Pablo Picasso",
+      "Juan Gris",
+      "Georges Braque",
+      "Fernand Léger"
+    ],
+    "question": "Avec Picasso, quel artiste est considéré comme le co-fondateur du cubisme?"
+  },
+  {
+    "correctAnswer": "James Whistler",
+    "id": 2541002057371739,
+    "options": [
+      "John Singer Sargent",
+      "James Whistler",
+      "Edgar Degas",
+      "Édouard Manet"
+    ],
+    "question": "Quel artiste a peint 'Arrangement en gris et noir n°1', mieux connu sous le nom de 'La Mère de l'artiste'?"
+  },
+  {
+    "correctAnswer": "Giorgio de Chirico",
+    "id": 2643002057371740,
+    "options": [
+      "Giorgio de Chirico",
+      "Salvador Dalí",
+      "Max Ernst",
+      "René Magritte"
+    ],
+    "question": "Quel artiste est associé au mouvement 'Métaphysique' et est connu pour ses paysages urbains énigmatiques?"
+  },
+  {
+    "correctAnswer": "Mary Cassatt",
+    "id": 2745002057371741,
+    "options": [
+      "Mary Cassatt",
+      "Berthe Morisot",
+      "Camille Claudel",
+      "Louise Élisabeth Vigée Le Brun"
+    ],
+    "question": "Quelle artiste américaine est associée au mouvement impressionniste et est connue pour ses représentations de la maternité?"
+  },
+  {
+    "correctAnswer": "Mark Rothko",
+    "id": 2847002057371742,
+    "options": [
+      "Jackson Pollock",
+      "Willem de Kooning",
+      "Mark Rothko",
+      "Clyfford Still"
+    ],
+    "question": "Quel artiste est associé au mouvement 'Color Field' et est connu pour ses grandes toiles avec des blocs de couleur?"
+  },
+  {
+    "correctAnswer": "Artemisia Gentileschi",
+    "id": 2949002057371743,
+    "options": [
+      "Caravaggio",
+      "Annibale Carracci",
+      "Artemisia Gentileschi",
+      "Guido Reni"
+    ],
+    "question": "Quelle artiste du XVIIe siècle est célèbre pour ses représentations puissantes de figures féminines bibliques?"
+  },
+  {
+    "correctAnswer": "El Greco",
+    "id": 3051002057371744,
+    "options": [
+      "Tintoretto",
+      "Titien",
+      "El Greco",
+      "Diego Velázquez"
+    ],
+    "question": "Quel artiste est connu pour ses œuvres religieuses avec des figures allongées et un usage intense de la couleur, notamment à Tolède?"
+  },
+  {
+    "correctAnswer": "La perspective linéaire",
+    "id": 3153002057371745,
+    "options": [
+      "La technique de l'empâtement",
+      "La perspective atmosphérique",
+      "La technique du glacis",
+      "La perspective linéaire"
+    ],
+    "question": "Quelle technique artistique utilise des lignes de fuite et un point de fuite pour représenter la profondeur dans une peinture?"
+  },
+  {
+    "correctAnswer": "La Renaissance",
+    "id": 3255002057371746,
+    "options": [
+      "Le Baroque",
+      "Le Rococo",
+      "La Renaissance",
+      "Le Romantisme"
+    ],
+    "question": "Durant quelle période artistique la 'Chapelle Sixtine' de Michel-Ange a-t-elle été peinte?"
+  },
+  {
+    "correctAnswer": "Le pointillisme",
+    "id": 3357002057371747,
+    "options": [
+      "Le fauvisme",
+      "Le pointillisme",
+      "L'expressionnisme",
+      "Le surréalisme"
+    ],
+    "question": "Quel mouvement artistique utilise des points de couleur distincts qui, vus de loin, se mélangent pour former une image?"
+  },
+  {
+    "correctAnswer": "Le bleu",
+    "id": 3459002057371748,
+    "options": [
+      "Le rouge",
+      "Le vert",
+      "Le jaune",
+      "Le bleu"
+    ],
+    "question": "Quelle couleur est souvent associée à la mélancolie et à la tristesse dans l'art occidental?"
+  },
+  {
+    "correctAnswer": "Fusain",
+    "id": 3561002057371749,
+    "options": [
+      "Aquarelle",
+      "Gouache",
+      "Huile",
+      "Fusain"
+    ],
+    "question": "Quel médium est souvent utilisé pour les esquisses en raison de sa capacité à être facilement estompé et modifié?"
+  },
+  {
+    "correctAnswer": "Le dadaïsme",
+    "id": 3663002057371750,
+    "options": [
+      "Le dadaïsme",
+      "Le cubisme",
+      "L'art déco",
+      "L'art nouveau"
+    ],
+    "question": "Quel mouvement artistique du début du XXe siècle a remis en question les conventions artistiques et a souvent utilisé l'absurde et le hasard?"
+  },
+  {
+    "correctAnswer": "Le clair-obscur",
+    "id": 3765002057371751,
+    "options": [
+      "La grisaille",
+      "Le sfumato",
+      "Le tachisme",
+      "Le clair-obscur"
+    ],
+    "question": "Quelle technique utilise des contrastes nets entre lumière et ombre pour donner du volume et de la profondeur à un sujet?"
+  },
+  {
+    "correctAnswer": "Le maniérisme",
+    "id": 3867002057371752,
+    "options": [
+      "Le maniérisme",
+      "Le néoclassicisme",
+      "Le gothique",
+      "L'art brut"
+    ],
+    "question": "Quel style artistique, qui a suivi la Renaissance, est caractérisé par des proportions exagérées et des poses complexes?"
+  },
+  {
+    "correctAnswer": "Le marbre",
+    "id": 3969002057371753,
+    "options": [
+      "Le bronze",
+      "Le granit",
+      "Le marbre",
+      "La terre cuite"
+    ],
+    "question": "Quel matériau a été privilégié par les sculpteurs de la Renaissance pour ses qualités de finesse et de luminosité?"
+  },
+  {
+    "correctAnswer": "Le triptyque",
+    "id": 4071002057371754,
+    "options": [
+      "Le diptyque",
+      "Le polyptyque",
+      "Le monotype",
+      "Le triptyque"
+    ],
+    "question": "Comment appelle-t-on une œuvre d'art divisée en trois panneaux, souvent utilisée pour les autels d'églises?"
+  },
+  {
+    "correctAnswer": "L'impressionnisme",
+    "id": 4173002057371755,
+    "options": [
+      "Le symbolisme",
+      "L'impressionnisme",
+      "Le réalisme",
+      "Le post-impressionnisme"
+    ],
+    "question": "Quel mouvement artistique tire son nom d'une peinture de Claude Monet intitulée 'Impression, soleil levant'?"
+  },
+  {
+    "correctAnswer": "La fresque",
+    "id": 4275002057371756,
+    "options": [
+      "La tempera",
+      "L'encaustique",
+      "La fresque",
+      "L'acrylique"
+    ],
+    "question": "Quelle technique de peinture implique l'application de pigments sur un enduit humide de chaux, faisant ainsi partie intégrante du mur une fois sèche?"
+  },
+  {
+    "correctAnswer": "L'or",
+    "id": 4377002057371757,
+    "options": [
+      "L'argent",
+      "L'or",
+      "Le cuivre",
+      "Le plomb"
+    ],
+    "question": "Quel matériau était souvent utilisé pour les fonds des icônes byzantines pour symboliser la lumière divine?"
+  },
+  {
+    "correctAnswer": "Art abstrait",
+    "id": 4479002057371758,
+    "options": [
+      "Art figuratif",
+      "Art naïf",
+      "Art abstrait",
+      "Art minimaliste"
+    ],
+    "question": "Quel type d'art ne représente pas les objets dans le monde naturel, mais utilise les couleurs et les formes de manière non représentative?"
+  },
+  {
+    "correctAnswer": "Le couteau à palette",
+    "id": 4581002057371759,
+    "options": [
+      "La brosse éventail",
+      "Le couteau à palette",
+      "La spatule",
+      "Le pinceau rond"
+    ],
+    "question": "Quel outil est souvent utilisé par les artistes pour appliquer la peinture de manière épaisse et créer des textures sur la toile?"
+  },
+  {
+    "correctAnswer": "Le fauvisme",
+    "id": 4683002057371760,
+    "options": [
+      "Le cubisme",
+      "L'expressionnisme",
+      "Le futurisme",
+      "Le fauvisme"
+    ],
+    "question": "Quel mouvement artistique du début du XXe siècle est caractérisé par l'utilisation de couleurs vives et non naturelles?"
+  },
+  {
+    "correctAnswer": "La perspective atmosphérique",
+    "id": 4785002057371761,
+    "options": [
+      "La perspective linéaire",
+      "La perspective aérienne",
+      "La perspective atmosphérique",
+      "La perspective isométrique"
+    ],
+    "question": "Quelle technique de représentation de la profondeur utilise des variations de couleur et de clarté pour suggérer la distance?"
+  },
+  {
+    "correctAnswer": "Le Pop Art",
+    "id": 4887002057371762,
+    "options": [
+      "L'art brut",
+      "L'op art",
+      "L'art conceptuel",
+      "Le Pop Art"
+    ],
+    "question": "Quel mouvement artistique s'inspire de la culture de masse, notamment de la publicité, des célébrités et des produits de consommation?"
+  },
+  {
+    "correctAnswer": "Le Chiaroscuro",
+    "id": 4989002057371763,
+    "options": [
+      "L'Impasto",
+      "Le Grisaille",
+      "Le Tenebrism",
+      "Le Chiaroscuro"
+    ],
+    "question": "Quel terme italien est utilisé pour décrire un fort contraste entre lumière et obscurité dans une œuvre d'art?"
+  },
+  {
+    "correctAnswer": "Mosaïque",
+    "id": 5091002057371764,
+    "options": [
+      "Fresque",
+      "Mosaïque",
+      "Vitrail",
+      "Bas-relief"
+    ],
+    "question": "Quelle technique artistique utilise des petits morceaux de verre, de pierre ou d'autres matériaux pour créer une image ou un motif?"
+  },
+  {
+    "correctAnswer": "Les avant-gardes",
+    "id": 5193002057371765,
+    "options": [
+      "Les post-impressionnistes",
+      "Les avant-gardes",
+      "Les préraphaélites",
+      "Les symbolistes"
+    ],
+    "question": "Comment appelle-t-on les mouvements artistiques du début du XXe siècle qui cherchaient à innover et à rompre avec les conventions académiques?"
+  },
+  {
+    "correctAnswer": "Le pastel",
+    "id": 5295002057371766,
+    "options": [
+      "L'aquarelle",
+      "La gouache",
+      "Le pastel",
+      "Le fusain"
+    ],
+    "question": "Quel médium artistique utilise des bâtonnets de pigment pur mélangés à un minimum de liant, donnant une couleur intense?"
+  },
+  {
+    "correctAnswer": "Art déco",
+    "id": 5397002057371767,
+    "options": [
+      "Art nouveau",
+      "Art déco",
+      "Bauhaus",
+      "Futurisme"
+    ],
+    "question": "Quel style artistique et architectural, populaire dans les années 1920 et 1930, est caractérisé par des formes géométriques, des motifs symétriques et une opulence?"
+  },
+  {
+    "correctAnswer": "Le tachisme",
+    "id": 5499002057371768,
+    "options": [
+      "Le pointillisme",
+      "Le fauvisme",
+      "Le tachisme",
+      "Le cubisme"
+    ],
+    "question": "Quel mouvement artistique est lié à l'abstraction lyrique et est caractérisé par des taches ou des marques spontanées de couleur?"
+  },
+  {
+    "correctAnswer": "Le Baroque",
+    "id": 5601002057371769,
+    "options": [
+      "Le Rococo",
+      "Le Baroque",
+      "La Renaissance",
+      "Le Néoclassicisme"
+    ],
+    "question": "Quelle période artistique est connue pour son extravagance, ses courbes dynamiques et son utilisation dramatique de la lumière et de l'ombre?"
+  },
+  {
+    "correctAnswer": "Le ready-made",
+    "id": 5703002057371770,
+    "options": [
+      "L'assemblage",
+      "Le collage",
+      "Le ready-made",
+      "La performance"
+    ],
+    "question": "Comment appelle-t-on une œuvre d'art constituée d'objets manufacturés présentés hors de leur contexte d'origine, comme 'La Fontaine' de Marcel Duchamp?"
+  },
+  {
+    "correctAnswer": "Le sfumato",
+    "id": 5805002057371771,
+    "options": [
+      "Le chiaroscuro",
+      "L'impasto",
+      "Le sfumato",
+      "La tempera"
+    ],
+    "question": "Quelle technique, popularisée par Léonard de Vinci, utilise des transitions graduelles entre les tons pour créer des formes douces et des contours flous?"
+  },
+  {
+    "correctAnswer": "Le vitrail",
+    "id": 5907002057371772,
+    "options": [
+      "La mosaïque",
+      "La fresque",
+      "La tapisserie",
+      "Le vitrail"
+    ],
+    "question": "Quelle technique artistique utilise des pièces de verre coloré assemblées pour former des images, souvent utilisées dans les églises?"
+  },
+  {
+    "correctAnswer": "Le maniérisme",
+    "id": 6009002057371773,
+    "options": [
+      "Le romantisme",
+      "Le maniérisme",
+      "Le baroque",
+      "Le rococo"
+    ],
+    "question": "Quel mouvement artistique est connu pour ses représentations exagérées et ses formes étirées, souvent en réaction aux idéaux classiques de la Renaissance?"
+  },
+  {
+    "correctAnswer": "Les vanités",
+    "id": 6111002057371774,
+    "options": [
+      "Les pastorales",
+      "Les natures mortes",
+      "Les scènes de genre",
+      "Les vanités"
+    ],
+    "question": "Quel type de peinture symbolise la fragilité de la vie humaine, souvent à travers des objets tels que des crânes, des horloges ou des fleurs fanées?"
+  },
+  {
+    "correctAnswer": "Académisme",
+    "id": 6213002057371775,
+    "options": [
+      "Impressionnisme",
+      "Académisme",
+      "Surréalisme",
+      "Art brut"
+    ],
+    "question": "Quel terme désigne un style artistique basé sur les enseignements et les normes des académies d'art, souvent en opposition aux mouvements avant-gardistes?"
+  },
+  {
+    "correctAnswer": "Bas-relief",
+    "id": 6315002057371776,
+    "options": [
+      "Sculpture en ronde-bosse",
+      "Bas-relief",
+      "Fresque",
+      "Moulage"
+    ],
+    "question": "Comment appelle-t-on une sculpture où les formes se détachent légèrement du fond, sans être complètement détachées?"
+  },
+  {
+    "correctAnswer": "Le grisaille",
+    "id": 6417002057371777,
+    "options": [
+      "Le camaïeu",
+      "Le glacis",
+      "Le sfumato",
+      "Le grisaille"
+    ],
+    "question": "Quelle technique de peinture utilise uniquement des nuances de gris pour créer une image monochrome?"
+  },
+  {
+    "correctAnswer": "Performance",
+    "id": 6519002057371778,
+    "options": [
+      "Installation",
+      "Collage",
+      "Performance",
+      "Assemblage"
+    ],
+    "question": "Quel type d'art implique des actions réalisées par l'artiste lui-même ou par des participants, souvent en direct devant un public?"
+  },
+  {
+    "correctAnswer": "Le dadaïsme",
+    "id": 6621002057371779,
+    "options": [
+      "Le cubisme",
+      "Le fauvisme",
+      "L'expressionnisme",
+      "Le dadaïsme"
+    ],
+    "question": "Quel mouvement artistique a été fondé à Zurich pendant la Première Guerre mondiale et s'est moqué des valeurs bourgeoises et des conventions artistiques?"
+  },
+  {
+    "correctAnswer": "Le carnet de croquis",
+    "id": 6723002057371780,
+    "options": [
+      "Le carnet de voyage",
+      "Le carnet de croquis",
+      "Le portefeuille d'art",
+      "Le journal d'artiste"
+    ],
+    "question": "Quel outil est souvent utilisé par les artistes pour dessiner ou peindre des études rapides et des idées pour des œuvres futures?"
+  },
+  {
+    "correctAnswer": "Le bois",
+    "id": 6825002057371781,
+    "options": [
+      "Le toile",
+      "Le carton",
+      "Le papier",
+      "Le bois"
+    ],
+    "question": "Sur quel support les artistes de la Renaissance du Nord, comme Jan van Eyck, peignaient-ils fréquemment avant que la toile ne devienne plus populaire?"
+  },
+  {
+    "correctAnswer": "La lithographie",
+    "id": 6927002057371782,
+    "options": [
+      "La gravure",
+      "La sérigraphie",
+      "La lithographie",
+      "L'eau-forte"
+    ],
+    "question": "Quelle technique d'impression utilise une pierre ou une plaque métallique avec une surface lisse?"
+  },
+  {
+    "correctAnswer": "Le trompe-l'œil",
+    "id": 7029002057371783,
+    "options": [
+      "Le collage",
+      "Le pastiche",
+      "Le trompe-l'œil",
+      "Le montage"
+    ],
+    "question": "Quelle technique artistique cherche à créer une illusion réaliste, donnant l'impression que les objets représentés existent en trois dimensions?"
+  },
+  {
+    "correctAnswer": "Art cinétique",
+    "id": 7131002057371784,
+    "options": [
+      "Art abstrait",
+      "Art cinétique",
+      "Art conceptuel",
+      "Art minimaliste"
+    ],
+    "question": "Quel type d'art contient des mouvements ou donne l'illusion de mouvement?"
+  },
+  {
+    "correctAnswer": "Supports-Surfaces",
+    "id": 7233002057371785,
+    "options": [
+      "Nouveau réalisme",
+      "Supports-Surfaces",
+      "Art informel",
+      "Figuration narrative"
+    ],
+    "question": "Quel mouvement artistique français des années 1960-1970 mettait l'accent sur l'acte de peindre, les matériaux et les supports, tout en rejetant l'illusionnisme et la représentation?"
+  },
+  {
+    "correctAnswer": "École de Barbizon",
+    "id": 7335002057371786,
+    "options": [
+      "École de Paris",
+      "École de Pont-Aven",
+      "École de Barbizon",
+      "École des Beaux-Arts"
+    ],
+    "question": "Quel groupe de peintres du XIXe siècle, précurseur de l'impressionnisme, était connu pour ses paysages peints en plein air près d'un village en forêt de Fontainebleau?"
+  },
+  {
+    "correctAnswer": "Tenebrism",
+    "id": 7437002057371787,
+    "options": [
+      "Chiaroscuro",
+      "Sfumato",
+      "Cangiante",
+      "Tenebrism"
+    ],
+    "question": "Quelle technique picturale, souvent associée à Caravage, est caractérisée par des contrastes violents entre les zones sombres et les zones éclairées, avec peu de passages intermédiaires?"
+  },
+  {
+    "correctAnswer": "Les Nazaréens",
+    "id": 7539002057371788,
+    "options": [
+      "Les Préraphaélites",
+      "Les Symbolistes",
+      "Les Nazaréens",
+      "Les Nabis"
+    ],
+    "question": "Quel groupe de peintres allemands du XIXe siècle cherchait à revenir à la simplicité et à la spiritualité de l'art médiéval et renaissant?"
+  },
+  {
+    "correctAnswer": "Automatisme",
+    "id": 7641002057371789,
+    "options": [
+      "Frottage",
+      "Grattage",
+      "Collage",
+      "Automatisme"
+    ],
+    "question": "Quelle technique surréaliste implique une création sans intervention consciente, similaire à l'écriture automatique?"
+  },
+  {
+    "correctAnswer": "Sublime",
+    "id": 7743002057371790,
+    "options": [
+      "Pittoresque",
+      "Idyllique",
+      "Sublime",
+      "Gothique"
+    ],
+    "question": "Quel concept esthétique, populaire parmi les romantiques, se réfère à une beauté qui inspire un sentiment d'admiration mêlé de terreur, souvent en présence de la nature dans sa forme la plus sauvage?"
+  },
+  {
+    "correctAnswer": "Wabi-sabi",
+    "id": 7845002057371791,
+    "options": [
+      "Ma",
+      "Kintsugi",
+      "Ikebana",
+      "Wabi-sabi"
+    ],
+    "question": "Quel concept esthétique japonais valorise la simplicité, la tranquillité et l'imperfection, souvent en rapport avec le passage du temps?"
+  },
+  {
+    "correctAnswer": "Cabinet de curiosités",
+    "id": 7947002057371792,
+    "options": [
+      "Atelier d'artiste",
+      "Salon académique",
+      "Cabinet de curiosités",
+      "Galerie d'art"
+    ],
+    "question": "Comment s'appelait la pièce ou le meuble où les collectionneurs de la Renaissance et du Baroque conservaient des objets d'art, des spécimens naturels et d'autres merveilles?"
+  },
+  {
+    "correctAnswer": "Le Bauhaus",
+    "id": 8049002057371793,
+    "options": [
+      "Le Futurisme",
+      "Le Constructivisme",
+      "Le Bauhaus",
+      "L'Art concret"
+    ],
+    "question": "Quelle école d'art et de design, fondée en Allemagne en 1919, visait à combiner l'art, l'artisanat et la technologie, et a eu une influence majeure sur l'architecture moderne et le design industriel?"
+  },
+  {
+    "correctAnswer": "La caméra obscura",
+    "id": 8151002057371794,
+    "options": [
+      "Le sténopé",
+      "Le daguerréotype",
+      "La caméra obscura",
+      "L'héliographe"
+    ],
+    "question": "Quel dispositif optique, utilisé depuis l'Antiquité, projette une image d'une scène extérieure à travers un petit trou dans une pièce sombre, et a été un précurseur de la photographie moderne?"
+  },
+  {
+    "correctAnswer": "Japonisme",
+    "id": 8253002057371795,
+    "options": [
+      "Orientalisme",
+      "Primitivisme",
+      "Japonisme",
+      "Classicisme"
+    ],
+    "question": "Quel terme désigne l'influence de l'art et du design japonais sur les artistes occidentaux, en particulier au 19ème siècle?"
+  },
+  {
+    "correctAnswer": "Intaglio",
+    "id": 8355002057371796,
+    "options": [
+      "Linogravure",
+      "Sérigraphie",
+      "Intaglio",
+      "Lithographie"
+    ],
+    "question": "Quelle technique de gravure consiste à inciser une image dans une surface, généralement une plaque de cuivre, où les zones creusées retiennent l'encre?"
+  },
+  {
+    "correctAnswer": "Écorché",
+    "id": 8457002057371797,
+    "options": [
+      "Chiaroscuro",
+      "Trompe-l'œil",
+      "Écorché",
+      "Impasto"
+    ],
+    "question": "Quel terme est utilisé pour désigner une représentation d'une figure humaine ou animale montrant les muscles sans la peau?"
+  },
+  {
+    "correctAnswer": "Le Salon des Refusés",
+    "id": 8559002057371798,
+    "options": [
+      "Le Salon officiel",
+      "Le Salon d'Automne",
+      "Le Salon des Refusés",
+      "Le Salon des Indépendants"
+    ],
+    "question": "Quelle exposition a été organisée en 1863 pour présenter les œuvres rejetées par le jury du Salon officiel parisien?"
+  },
+  {
+    "correctAnswer": "Action Painting",
+    "id": 8661002057371799,
+    "options": [
+      "Color Field Painting",
+      "Hard-edge Painting",
+      "Abstract Expressionism",
+      "Action Painting"
+    ],
+    "question": "Quel terme est associé à l'œuvre de Jackson Pollock et fait référence à la peinture gestuelle où l'acte de peindre est aussi important que le résultat final?"
+  },
+  {
+    "correctAnswer": "Quattrocento",
+    "id": 8763002057371800,
+    "options": [
+      "Rinascimento",
+      "Maniérisme",
+      "Quattrocento",
+      "Cinquecento"
+    ],
+    "question": "Comment appelle-t-on la période de l'art de la Renaissance italienne qui s'étend sur le 15ème siècle?"
+  },
+  {
+    "correctAnswer": "La Section d'Or",
+    "id": 8865002057371801,
+    "options": [
+      "Le Bateau-Lavoir",
+      "La Ruche",
+      "La Section d'Or",
+      "L'Académie Julian"
+    ],
+    "question": "Quel groupe d'artistes, actif au début du 20ème siècle, était particulièrement intéressé par les proportions mathématiques et la géométrie dans l'art?"
+  },
+  {
+    "correctAnswer": "Carborundum",
+    "id": 8967002057371802,
+    "options": [
+      "Aquatinte",
+      "Pointe sèche",
+      "Mezzotinte",
+      "Carborundum"
+    ],
+    "question": "Quelle technique moderne de gravure utilise un abrasif pour créer des marques sur la matrice, produisant des impressions texturées?"
+  },
+  {
+    "correctAnswer": "Orphisme",
+    "id": 9492307278383902,
+    "options": [
+      "Suprématisme",
+      "Constructivisme",
+      "Orphisme",
+      "Purisme"
+    ],
+    "question": "Quel mouvement artistique, associé à Robert Delaunay et Sonia Delaunay, met l'accent sur les couleurs vives et la sensation de mouvement dans l'art abstrait?"
+  },
+  {
+    "correctAnswer": "Brâncuși",
+    "id": 9171002057371804,
+    "options": [
+      "Rodin",
+      "Giacometti",
+      "Brâncuși",
+      "Moore"
+    ],
+    "question": "Quel sculpteur est célèbre pour ses formes simplifiées et épurées, comme 'L'Oiseau dans l'espace'?"
+  },
+  {
+    "correctAnswer": "Yves Klein",
+    "id": 9273002057371804,
+    "options": [
+      "Pierre Soulages",
+      "Kazimir Malevitch",
+      "Barnett Newman",
+      "Yves Klein"
+    ],
+    "question": "Quel artiste est célèbre pour avoir développé un bleu unique, connu sous le nom de 'Bleu International Klein'?"
+  },
+  {
+    "correctAnswer": "L'art Pariétal",
+    "id": 9375002057371806,
+    "options": [
+      "L'art Paléolithique",
+      "L'art Mégalithique",
+      "L'art Néolithique",
+      "L'art Pariétal"
+    ],
+    "question": "Comment appelle-t-on l'art des peintures et gravures trouvées sur les parois des grottes préhistoriques?"
+  },
+  {
+    "correctAnswer": "Biomorphisme",
+    "id": 9477002057371808,
+    "options": [
+      "Cubisme",
+      "Futurisme",
+      "Biomorphisme",
+      "Constructivisme"
+    ],
+    "question": "Quel terme désigne un style artistique qui s'inspire des formes et motifs naturels, et qui privilégie les courbes et les formes organiques?"
+  },
+  {
+    "correctAnswer": "Hans Arp",
+    "id": 9579002057371808,
+    "options": [
+      "Marcel Duchamp",
+      "Hans Arp",
+      "Max Ernst",
+      "Man Ray"
+    ],
+    "question": "Quel artiste dadaïste et surréaliste est notamment connu pour ses sculptures et reliefs abstraits évoquant des formes organiques?"
+  },
+  {
+    "correctAnswer": "Net Art",
+    "id": 9681002057371808,
+    "options": [
+      "Op Art",
+      "Pop Art",
+      "Land Art",
+      "Net Art"
+    ],
+    "question": "Quel mouvement artistique émergeant dans les années 1990 s'appuie sur Internet comme principal moyen d'expression et de distribution?"
+  },
+  {
+    "correctAnswer": "Arte Povera",
+    "id": 9783002057371810,
+    "options": [
+      "Arte Povera",
+      "Nouveau Réalisme",
+      "Minimalisme",
+      "Conceptualisme"
+    ],
+    "question": "Quel mouvement artistique italien des années 1960 et 1970 mettait l'accent sur l'utilisation de matériaux simples et 'pauvres' dans ses œuvres?"
+  },
+  {
+    "correctAnswer": "Vanitas",
+    "id": 9885002057371812,
+    "options": [
+      "Still Leben",
+      "Memento Mori",
+      "Vanitas",
+      "Natura Morta"
+    ],
+    "question": "Dans la peinture baroque, quel type de nature morte rappelle la transience de la vie, la vanité des plaisirs terrestres et la fuite inéluctable du temps?"
+  },
+  {
+    "correctAnswer": "Eustache Le Sueur",
+    "id": 9987002057371812,
+    "options": [
+      "Nicolas Poussin",
+      "Jacques-Louis David",
+      "Eustache Le Sueur",
+      "Jean-Honoré Fragonard"
+    ],
+    "question": "Quel peintre français du XVIIe siècle, moins connu que certains de ses contemporains, est associé à l'école classique et est souvent comparé à Raphaël pour sa douceur de style?"
+  },
+  {
+    "correctAnswer": "Les Fauves",
+    "id": 10089002057371812,
+    "options": [
+      "Les Cubistes",
+      "Les Nabis",
+      "Les Fauves",
+      "Les Pointillistes"
+    ],
+    "question": "Quel groupe d'artistes a été ainsi nommé en raison de l'utilisation audacieuse et non naturaliste de la couleur, le nom étant donné par un critique d'art pour désigner leur travail 'sauvage'?"
+  },
+  {
+    "correctAnswer": "Apollinaire",
+    "id": 10191002057371814,
+    "options": [
+      "Baudelaire",
+      "Mallarmé",
+      "Rimbaud",
+      "Apollinaire"
+    ],
+    "question": "Quel poète et critique d'art français du début du XXe siècle a joué un rôle crucial dans la défense et la promotion des avant-gardes, et a notamment popularisé le terme 'surréalisme'?"
+  },
+  {
+    "correctAnswer": "La Transavanguardia",
+    "id": 10293002057371816,
+    "options": [
+      "La Nouvelle Objectivité",
+      "Le Néo-expressionnisme",
+      "La Transavanguardia",
+      "L'Art Brut"
+    ],
+    "question": "Quel mouvement artistique italien des années 1980, mené par des artistes comme Sandro Chia et Francesco Clemente, cherchait à revenir à une peinture émotionnelle et figurative après l'abstraction dominante des décennies précédentes?"
+  },
+  {
+    "correctAnswer": "L'École de Nice",
+    "id": 10315002057371816,
+    "options": [
+      "L'École de Lyon",
+      "L'École de Paris",
+      "L'École de Nice",
+      "L'École de Montparnasse"
+    ],
+    "question": "Quel mouvement artistique des années 1960, associé à des artistes comme Yves Klein et Arman, est né dans une ville de la Côte d'Azur française?"
+  },
+  {
+    "correctAnswer": "Jheronimus Bosch",
+    "id": 10337002057371816,
+    "options": [
+      "Pieter Bruegel l'Ancien",
+      "Albrecht Dürer",
+      "Lucas Cranach l'Ancien",
+      "Jheronimus Bosch"
+    ],
+    "question": "Quel peintre de la Renaissance du Nord est célèbre pour ses représentations détaillées et souvent troublantes du paradis, de l'enfer et du péché humain?"
+  },
+  {
+    "correctAnswer": "Neo-Geo",
+    "id": 10359002057371818,
+    "options": [
+      "Op Art",
+      "Neo-Geo",
+      "Art Concret",
+      "Hard-edge Painting"
+    ],
+    "question": "Quel mouvement artistique des années 1980, associé à des artistes comme Peter Halley et Jeff Koons, mêlait abstraction géométrique et commentaires sur la société de consommation?"
+  },
+  {
+    "correctAnswer": "Le Supports/Surfaces",
+    "id": 10381002057371820,
+    "options": [
+      "Le Nouveau Réalisme",
+      "Le Supports/Surfaces",
+      "L'Art Informel",
+      "Le Figuration Narrative"
+    ],
+    "question": "Quel mouvement artistique français, actif à la fin des années 1960 et au début des années 1970, déconstruisait la peinture en explorant ses composants fondamentaux: toile, châssis, couleur et geste?"
+  },
+  {
+    "correctAnswer": "Biedermeier",
+    "id": 10403002057371820,
+    "options": [
+      "Art Nouveau",
+      "Jugendstil",
+      "Biedermeier",
+      "Bauhaus"
+    ],
+    "question": "Quel style artistique et design, populaire dans les pays germanophones entre 1815 et 1848, mettait l'accent sur le mobilier domestique, les intérieurs confortables et la vie bourgeoise?"
+  },
+  {
+    "correctAnswer": "Les Gutai",
+    "id": 10425002057371820,
+    "options": [
+      "Les Mono-ha",
+      "Les Nabis",
+      "Les Gutai",
+      "Les Dansaekhwa"
+    ],
+    "question": "Quel groupe d'artistes japonais d'après-guerre est célèbre pour ses performances avant-gardistes, ses interventions dans la nature et son intérêt pour la matière et la physicalité de l'art?"
+  },
+  {
+    "correctAnswer": "Divisionnisme",
+    "id": 10447002057371822,
+    "options": [
+      "Fauvisme",
+      "Expressionnisme",
+      "Divisionnisme",
+      "Cubisme"
+    ],
+    "question": "Quelle technique picturale, associée à des artistes comme Georges Seurat, implique l'application de petites touches de couleur pure qui se mélangent optiquement à distance?"
+  },
+  {
+    "correctAnswer": "L'École de St Ives",
+    "id": 10469002057371824,
+    "options": [
+      "L'École de Glasgow",
+      "L'École de St Ives",
+      "L'École de Bloomsbury",
+      "L'École de Norwich"
+    ],
+    "question": "Quel groupe d'artistes modernistes britanniques, actif au milieu du XXe siècle, était basé dans une ville de pêcheurs de Cornouailles et comprenait des membres tels que Barbara Hepworth et Ben Nicholson?"
+  },
+  {
+    "correctAnswer": "Tenebrism",
+    "id": 10491002057371824,
+    "options": [
+      "Chiaroscuro",
+      "Gravure",
+      "Sfumato",
+      "Tenebrism"
+    ],
+    "question": "Quel terme décrit une technique de peinture où l'obscurité devient une caractéristique dominante de l'image, souvent utilisée par Caravage et ses adeptes?"
+  },
+  {
+    "correctAnswer": "Fluxus",
+    "id": 10513002057371824,
+    "options": [
+      "Arte Povera",
+      "Dada",
+      "Fluxus",
+      "Minimalisme"
+    ],
+    "question": "Quel mouvement interdisciplinaire des années 1960 a mis l'accent sur le processus artistique, les performances et les 'événements', et comptait Yoko Ono parmi ses membres?"
+  },
+  {
+    "correctAnswer": "Benjamin West",
+    "id": 10535002057371826,
+    "options": [
+      "John Singleton Copley",
+      "Gilbert Stuart",
+      "Benjamin West",
+      "Thomas Gainsborough"
+    ],
+    "question": "Quel peintre américain, actif principalement en Grande-Bretagne, est connu pour son tableau 'The Death of General Wolfe' qui représente une scène de la guerre de Sept Ans?"
+  },
+  {
+    "correctAnswer": "La Camera degli Sposi",
+    "id": 10557002057371828,
+    "options": [
+      "La Chapelle Sixtine",
+      "La Camera degli Sposi",
+      "La Stanza della Segnatura",
+      "La Cappella Brancacci"
+    ],
+    "question": "Quel espace du Palazzo Ducale à Mantoue est célèbre pour ses fresques réalisées par Andrea Mantegna?"
+  },
+  {
+    "correctAnswer": "Odilon Redon",
+    "id": 10579002057371828,
+    "options": [
+      "Henri Rousseau",
+      "Odilon Redon",
+      "Gustave Moreau",
+      "Félix Vallotton"
+    ],
+    "question": "Quel artiste symboliste français est réputé pour ses 'noirs' - des lithographies en monochrome - et ses représentations oniriques de la nature?"
+  },
+  {
+    "correctAnswer": "Retable",
+    "id": 10601002057371828,
+    "options": [
+      "Fresque",
+      "Tryptique",
+      "Retable",
+      "Cartone"
+    ],
+    "question": "Comment appelle-t-on une œuvre d'art, souvent sculptée ou peinte, placée derrière ou au-dessus d'un autel dans une église?"
+  },
+  {
+    "correctAnswer": "Les Ambulants",
+    "id": 10623002057371830,
+    "options": [
+      "Les Rayonnants",
+      "Les Ambulants",
+      "Les Vorticistes",
+      "Les Secessionnistes"
+    ],
+    "question": "Quel mouvement artistique russe du XIXe siècle, opposé à l'académisme, a voyagé à travers le pays pour montrer des scènes de la vie quotidienne russe?"
+  },
+  {
+    "correctAnswer": "Fête galante",
+    "id": 10645002057371832,
+    "options": [
+      "Vanité",
+      "Scène de genre",
+      "Natura morta",
+      "Fête galante"
+    ],
+    "question": "Comment appelle-t-on un type de scène de genre populaire au XVIIIe siècle, représentant des groupes élégamment vêtus dans des parcs ou des jardins, souvent associé à Watteau?"
+  },
+  {
+    "correctAnswer": "Chromoluminarisme",
+    "id": 10667002057371832,
+    "options": [
+      "Pointillisme",
+      "Divisionnisme",
+      "Chromoluminarisme",
+      "Cloisonnisme"
+    ],
+    "question": "Quel terme scientifique, souvent associé à Georges Seurat, désigne la méthode d'utilisation de points de couleur pure pour créer une lumière et une couleur plus vibrantes dans les peintures?"
+  },
+  {
+    "correctAnswer": "Marcel Broodthaers",
+    "id": 10689002057371832,
+    "options": [
+      "René Magritte",
+      "Marcel Duchamp",
+      "Joseph Beuys",
+      "Marcel Broodthaers"
+    ],
+    "question": "Quel artiste belge, actif dans les années 1960 et 1970, est connu pour ses installations conceptuelles, ses films et ses œuvres critiques sur les institutions artistiques?"
+  },
+  {
+    "correctAnswer": "Automatistes",
+    "id": 10711002057371834,
+    "options": [
+      "Refus Global",
+      "Automatistes",
+      "Surralistes",
+      "Pluralistes"
+    ],
+    "question": "Quel groupe d'artistes québécois, actif dans les années 1940 et dirigé par Paul-Émile Borduas, a préconisé la liberté d'expression et l'innovation artistique à travers une approche non structurée et spontanée de la création?"
+  },
+  {
+    "correctAnswer": "Mimesis",
+    "id": 10733002057371836,
+    "options": [
+      "Kairos",
+      "Ethos",
+      "Mimesis",
+      "Pathos"
+    ],
+    "question": "Quel terme d'origine grecque désigne la représentation ou l'imitation de la nature réelle dans l'art?"
+  },
+  {
+    "correctAnswer": "Art vidéo",
+    "id": 10755002057371836,
+    "options": [
+      "Photographie",
+      "Art vidéo",
+      "Cinéma expérimental",
+      "Luminothérapie"
+    ],
+    "question": "Nam June Paik est considéré comme un pionnier de quel médium artistique au XXe siècle?"
+  },
+  {
+    "correctAnswer": "Les Dziga Vertov Group",
+    "id": 10777002057371836,
+    "options": [
+      "Les Situationnistes",
+      "Les Nouveaux Réalistes",
+      "Les Dziga Vertov Group",
+      "Les Futuristes"
+    ],
+    "question": "Quel collectif de cinéma, associé à Jean-Luc Godard dans les années 1960 et 1970, était nommé d'après un célèbre cinéaste soviétique?"
+  },
+  {
+    "correctAnswer": "Ephemeral art",
+    "id": 10799002057371838,
+    "options": [
+      "Arte Povera",
+      "Ephemeral art",
+      "Ready-made",
+      "Kinetic art"
+    ],
+    "question": "Quel type d'art est spécifiquement conçu pour être temporaire, souvent vu dans des installations ou des performances qui existent pendant une courte période?"
+  },
+  {
+    "correctAnswer": "Encaustic",
+    "id": 10821002057371840,
+    "options": [
+      "Gouache",
+      "Tempera",
+      "Encaustic",
+      "Fresco"
+    ],
+    "question": "Quelle technique de peinture antique utilise de la cire chaude comme liant pour les pigments?"
+  },
+  {
+    "correctAnswer": "Antoni Tàpies",
+    "id": 10843002057371840,
+    "options": [
+      "Joan Miró",
+      "Salvador Dalí",
+      "Antoni Gaudí",
+      "Antoni Tàpies"
+    ],
+    "question": "Quel artiste catalan est connu pour ses œuvres abstraites et texturées, souvent incorporant des matériaux tels que le sable et la paille?"
+  },
+  {
+    "correctAnswer": "Caput Mortuum",
+    "id": 10865002057371840,
+    "options": [
+      "Ultramarine",
+      "Sap Green",
+      "Burnt Sienna",
+      "Caput Mortuum"
+    ],
+    "question": "Quel pigment historique, dont le nom est d'origine latine, est associé à une couleur brun-rouge sombre?"
+  },
+  {
+    "correctAnswer": "Isidore Isou",
+    "id": 10887002057371842,
+    "options": [
+      "Tristan Tzara",
+      "Isidore Isou",
+      "Guy Debord",
+      "Umberto Eco"
+    ],
+    "question": "Quel penseur est à l'origine du Lettrisme, un mouvement d'avant-garde qui a cherché à créer un nouveau langage et une nouvelle forme d'expression dans les arts visuels et la littérature?"
+  },
+  {
+    "correctAnswer": "Yves Gaucher",
+    "id": 10909002057371844,
+    "options": [
+      "Jean-Paul Riopelle",
+      "Paul-Émile Borduas",
+      "Alex Colville",
+      "Yves Gaucher"
+    ],
+    "question": "Quel artiste canadien est reconnu pour ses explorations abstraites de la couleur, de la forme et du rythme, en particulier dans les années 1960 et 1970?"
+  },
+  {
+    "correctAnswer": "The Sublime",
+    "id": 10931002057371844,
+    "options": [
+      "The Picturesque",
+      "The Rococo",
+      "The Idyllic",
+      "The Sublime"
+    ],
+    "question": "Quel concept esthétique, exploré par des artistes romantiques comme Caspar David Friedrich, fait référence à une grandeur ou une beauté qui inspire un sentiment d'admiration ou d'émerveillement, souvent face à la nature ou l'immensité?"
+  },
+  {
+    "correctAnswer": "Kouros",
+    "id": 10953002057371844,
+    "options": [
+      "Sphinx",
+      "Kouros",
+      "Caryatid",
+      "Stele"
+    ],
+    "question": "Comment appelle-t-on les statues de jeunes hommes debout produites en Grèce antique, généralement représentées nues et souvent utilisées comme offrandes votives ou pierres tombales?"
+  },
+  {
+    "correctAnswer": "Cunéiforme",
+    "id": 10975002057371846,
+    "options": [
+      "Hiéroglyphes",
+      "Alphabet phénicien",
+      "Script Linear B",
+      "Cunéiforme"
+    ],
+    "question": "Quel type d'écriture, développé par les Sumériens, est gravé sur des tablettes d'argile à l'aide d'un stylet en forme de roseau?"
+  },
+  {
+    "correctAnswer": "Chinois Han",
+    "id": 10997002057371848,
+    "options": [
+      "Chinois Tang",
+      "Chinois Ming",
+      "Chinois Han",
+      "Chinois Song"
+    ],
+    "question": "Les soldats en terre cuite de l'empereur Qin Shi Huang, découverts à Xi'an, appartiennent à quelle dynastie?"
+  },
+  {
+    "correctAnswer": "Tessellations",
+    "id": 11019002057371848,
+    "options": [
+      "Frises",
+      "Rosaces",
+      "Tessellations",
+      "Triglyphes"
+    ],
+    "question": "Quel terme décrit un motif géométrique où les formes se répètent sans chevauchement ni espaces, souvent vu dans les mosaïques islamiques?"
+  },
+  {
+    "correctAnswer": "Mudéjar",
+    "id": 11041002057371848,
+    "options": [
+      "Mozarabe",
+      "Mudéjar",
+      "Morisque",
+      "Gothique"
+    ],
+    "question": "Quel style artistique et architectural en Espagne résulte de la fusion des traditions chrétiennes et islamiques, en particulier du XIIe au XVIe siècle?"
+  },
+  {
+    "correctAnswer": "Iconoclasme",
+    "id": 11063002057371850,
+    "options": [
+      "Maniérisme",
+      "Iconoclasme",
+      "Anachorétisme",
+      "Baroquisme"
+    ],
+    "question": "Comment appelle-t-on le mouvement religieux qui a rejeté et souvent détruit des images religieuses dans l'Empire byzantin au 8ème et 9ème siècles?"
+  },
+  {
+    "correctAnswer": "Le Codex Mendoza",
+    "id": 11085002057371852,
+    "options": [
+      "Le Codex Gigas",
+      "Le Codex Mendoza",
+      "Le Livre de Kells",
+      "Le Codex Sinaiticus"
+    ],
+    "question": "Quel manuscrit, créé pour les autorités espagnoles au Mexique après la conquête, offre des détails sur la vie, les coutumes et les tributs des Aztèques?"
+  },
+  {
+    "correctAnswer": "Les Jardins suspendus de Babylone",
+    "id": 11107002057371852,
+    "options": [
+      "Le Colosse de Rhodes",
+      "Le Temple d'Artémis à Éphèse",
+      "Les Jardins suspendus de Babylone",
+      "Le Phare d'Alexandrie"
+    ],
+    "question": "Parmi les sept merveilles du monde antique, laquelle était une prouesse d'ingénierie et d'horticulture située en Mésopotamie?"
+  },
+  {
+    "correctAnswer": "Krater",
+    "id": 11129002057371852,
+    "options": [
+      "Kylix",
+      "Oinochoe",
+      "Hydria",
+      "Krater"
+    ],
+    "question": "Quel type de vase grec antique était principalement utilisé pour mélanger le vin et l'eau lors des symposiums?"
+  },
+  {
+    "correctAnswer": "Bestiaire",
+    "id": 11151002057371854,
+    "options": [
+      "Psalter",
+      "Exégèse",
+      "Bestiaire",
+      "Chansonnier"
+    ],
+    "question": "Comment appelle-t-on un type de manuscrit médiéval illustré qui dépeint des animaux réels et imaginaires, souvent accompagnés de moralités ou de leçons religieuses?"
+  },
+  {
+    "correctAnswer": "Période Hellénistique",
+    "id": 11173002057371856,
+    "options": [
+      "Période Archaïque",
+      "Période Hellénistique",
+      "Période Classique",
+      "Période Géométrique"
+    ],
+    "question": "Durant quelle période de l'art grec l'artiste a-t-il commencé à représenter des sujets de manière plus émotionnelle, dramatique et même parfois théâtrale?"
+  },
+  {
+    "correctAnswer": "Le Maniérisme",
+    "id": 11195002057371856,
+    "options": [
+      "Le Baroque",
+      "Le Rococo",
+      "Le Maniérisme",
+      "Le Néoclassicisme"
+    ],
+    "question": "Quel mouvement artistique, situé entre la Haute Renaissance et l'avènement du Baroque, est caractérisé par des figures élancées, des poses contorsionnées et un usage souvent capricieux de la couleur?"
+  },
+  {
+    "correctAnswer": "Venus de Willendorf",
+    "id": 11217002057371856,
+    "options": [
+      "Venus de Milo",
+      "Venus de Willendorf",
+      "Venus de Laussel",
+      "Venus d'Urbino"
+    ],
+    "question": "Quelle statuette préhistorique, datant d'environ 30 000 ans, est célèbre pour ses formes féminines exagérées?"
+  },
+  {
+    "correctAnswer": "Cloisonné",
+    "id": 11239002057371858,
+    "options": [
+      "Champlevé",
+      "Cloisonné",
+      "Ronde-bosse",
+      "Basse-taille"
+    ],
+    "question": "Quelle technique de travail du métal utilise de fines cloisons pour séparer différentes zones de remplissage d'émail ou de pierres précieuses?"
+  },
+  {
+    "correctAnswer": "Panthéon",
+    "id": 11261002057371860,
+    "options": [
+      "Colisée",
+      "Panthéon",
+      "Forum",
+      "Aqueduc"
+    ],
+    "question": "Quel bâtiment romain est particulièrement célèbre pour sa grande coupole et son oculus ouvert?"
+  },
+  {
+    "correctAnswer": "Intaille",
+    "id": 11283002057371860,
+    "options": [
+      "Camée",
+      "Glyptique",
+      "Intaille",
+      "Reliquaire"
+    ],
+    "question": "Comment appelle-t-on une petite œuvre sculptée où le design est gravé ou incisé en creux, souvent réalisée sur des pierres précieuses?"
+  },
+  {
+    "correctAnswer": "La Dynastie Tang",
+    "id": 11305002057371860,
+    "options": [
+      "La Dynastie Han",
+      "La Dynastie Ming",
+      "La Dynastie Tang",
+      "La Dynastie Song"
+    ],
+    "question": "Sous quelle dynastie chinoise les statues de chevaux en céramique étaient-elles particulièrement populaires comme objets funéraires?"
+  },
+  {
+    "correctAnswer": "Stucco",
+    "id": 11327002057371862,
+    "options": [
+      "Fresco",
+      "Tempera",
+      "Stucco",
+      "Grisaille"
+    ],
+    "question": "Quel matériau, à base de plâtre, de sable et de chaux, était fréquemment utilisé pour les reliefs sculptés dans l'art islamique?"
+  },
+  {
+    "correctAnswer": "Relief",
+    "id": 11349002057371864,
+    "options": [
+      "Bas-relief",
+      "Haut-relief",
+      "Relief",
+      "Ronde-bosse"
+    ],
+    "question": "Quel terme général décrit une sculpture où les formes sont élevées par rapport à un fond plat?"
+  },
+  {
+    "correctAnswer": "Pergamon",
+    "id": 11371002057371864,
+    "options": [
+      "Delphi",
+      "Knossos",
+      "Ephesus",
+      "Pergamon"
+    ],
+    "question": "De quel ancien site archéologique provient l'autel célèbre avec un frise représentant la bataille des dieux et des géants?"
+  },
+  {
+    "correctAnswer": "Akhenaton",
+    "id": 11393002057371864,
+    "options": [
+      "Ramsès II",
+      "Toutânkhamon",
+      "Cléopâtre",
+      "Akhenaton"
+    ],
+    "question": "Quel pharaon égyptien est associé à une période de l'art égyptien où les représentations artistiques sont devenues plus naturalistes et moins formalisées, reflétant une réforme religieuse?"
+  },
+  {
+    "correctAnswer": "Mosaïque",
+    "id": 11415002057371866,
+    "options": [
+      "Fresco",
+      "Tapisserie",
+      "Mosaïque",
+      "Vitrail"
+    ],
+    "question": "Quelle technique artistique utilise de petits morceaux de pierre, de verre ou d'autres matériaux pour créer des images ou des motifs sur les murs et les sols?"
+  },
+  {
+    "correctAnswer": "Hansei",
+    "id": 11437002057371868,
+    "options": [
+      "Meiji",
+      "Edo",
+      "Hansei",
+      "Taisho"
+    ],
+    "question": "Au cours de quelle période de l'histoire japonaise les ukiyo-e, des estampes sur bois représentant souvent des scènes de la vie quotidienne et des acteurs du théâtre kabuki, sont-elles devenues particulièrement populaires?"
+  },
+  {
+    "correctAnswer": "Cycladique",
+    "id": 11459002057371868,
+    "options": [
+      "Mycénienne",
+      "Minoenne",
+      "Hellénistique",
+      "Cycladique"
+    ],
+    "question": "De quelle civilisation ancienne proviennent les célèbres statues minimalistes, souvent représentant des figures féminines, découvertes sur des îles de la mer Égée?"
+  },
+  {
+    "correctAnswer": "Churrigueresque",
+    "id": 11481002057371868,
+    "options": [
+      "Plateresque",
+      "Isabelline",
+      "Herrerian",
+      "Churrigueresque"
+    ],
+    "question": "Quel style architectural baroque espagnol est connu pour son ornementation exubérante, en particulier dans les autels d'église?"
+  },
+  {
+    "correctAnswer": "Ajanta",
+    "id": 11503002057371870,
+    "options": [
+      "Ellora",
+      "Khajuraho",
+      "Ajanta",
+      "Mahabalipuram"
+    ],
+    "question": "Dans quelles grottes en Inde peut-on trouver des peintures murales bouddhistes exquises datant du 2ème siècle avant J.-C. au 7ème siècle après J.-C.?"
+  },
+  {
+    "correctAnswer": "Codex",
+    "id": 11525002057371872,
+    "options": [
+      "Scroll",
+      "Papyrus",
+      "Palimpsest",
+      "Codex"
+    ],
+    "question": "Quel terme désigne un ancien manuscrit sous forme de livre moderne, avec des pages individuelles reliées, remplaçant progressivement les rouleaux?"
+  },
+  {
+    "correctAnswer": "Cavea",
+    "id": 11547002057371872,
+    "options": [
+      "Orchestra",
+      "Scenae frons",
+      "Cavea",
+      "Vomitorium"
+    ],
+    "question": "Dans un théâtre romain, comment est appelée la zone de sièges où le public s'assoit?"
+  },
+  {
+    "correctAnswer": "Ziggourat",
+    "id": 11569002057371872,
+    "options": [
+      "Pyramide",
+      "Mastaba",
+      "Stupa",
+      "Ziggourat"
+    ],
+    "question": "Quel type de structure architecturale, souvent associé à l'ancienne Mésopotamie, est une tour à étages terrassés, généralement surmontée d'un sanctuaire ou d'un temple?"
+  },
+  {
+    "correctAnswer": "Rosace",
+    "id": 11591002057371874,
+    "options": [
+      "Nef",
+      "Transept",
+      "Chœur",
+      "Rosace"
+    ],
+    "question": "Comment appelle-t-on le grand vitrail circulaire, souvent orné de motifs rayonnants, typique des façades des cathédrales gothiques?"
+  },
+  {
+    "correctAnswer": "Tholos",
+    "id": 11613002057371876,
+    "options": [
+      "Mastaba",
+      "Tholos",
+      "Hypostyle",
+      "Stoa"
+    ],
+    "question": "Comment appelle-t-on un temple rond de l'antiquité grecque, souvent associé à des sanctuaires comme celui de Delphes?"
+  },
+  {
+    "correctAnswer": "Bodhisattva",
+    "id": 11635002057371876,
+    "options": [
+      "Arhat",
+      "Bodhisattva",
+      "Deva",
+      "Yaksha"
+    ],
+    "question": "Dans l'art bouddhiste, comment désigne-t-on une figure qui, ayant atteint l'illumination, choisit de rester sur terre pour aider les autres à atteindre l'éveil?"
+  },
+  {
+    "correctAnswer": "Cartouche",
+    "id": 11657002057371876,
+    "options": [
+      "Hiéroglyphe",
+      "Cuneiforme",
+      "Rosette",
+      "Cartouche"
+    ],
+    "question": "Dans l'art égyptien, comment appelle-t-on une forme ovale entourant un ensemble de hiéroglyphes représentant le nom d'un pharaon?"
+  },
+  {
+    "correctAnswer": "Tracery",
+    "id": 11679002057371878,
+    "options": [
+      "Boss",
+      "Buttress",
+      "Tracery",
+      "Spandrel"
+    ],
+    "question": "Dans l'architecture gothique, quel terme désigne les motifs ornementaux en pierre qui soutiennent le vitrail d'une fenêtre?"
+  },
+  {
+    "correctAnswer": "Kilim",
+    "id": 11701002057371880,
+    "options": [
+      "Ikat",
+      "Brocade",
+      "Tapestry",
+      "Kilim"
+    ],
+    "question": "Quel type de tapis est tissé en utilisant une technique qui produit des motifs géométriques visibles des deux côtés, typique des régions d'Anatolie et des Balkans?"
+  },
+  {
+    "correctAnswer": "Brise-soleil",
+    "id": 11723002057371880,
+    "options": [
+      "Cantilever",
+      "Corniche",
+      "Brise-soleil",
+      "Pergola"
+    ],
+    "question": "Quel terme architectural désigne une structure ou une caractéristique qui réduit la chaleur du soleil sur un bâtiment, en particulier dans les régions tropicales?"
+  },
+  {
+    "correctAnswer": "Horror vacui",
+    "id": 11745002057371880,
+    "options": [
+      "Memento mori",
+      "Sfumato",
+      "Horror vacui",
+      "Vanitas"
+    ],
+    "question": "Quelle expression latine désigne la peur ou la réticence à laisser des espaces vides, souvent visible dans l'art islamique ou médiéval où chaque surface est richement ornée?"
+  },
+  {
+    "correctAnswer": "Trompe-l'œil",
+    "id": 11767002057371882,
+    "options": [
+      "Rococo",
+      "Trompe-l'œil",
+      "Chiaroscuro",
+      "Impasto"
+    ],
+    "question": "Quelle technique artistique cherche à créer une illusion d'optique où les objets représentés apparaissent en trois dimensions?"
+  },
+  {
+    "correctAnswer": "Corinthian",
+    "id": 11789002057371884,
+    "options": [
+      "Doric",
+      "Ionic",
+      "Corinthian",
+      "Composite"
+    ],
+    "question": "Quel ordre architectural grec est connu pour ses chapiteaux ornés de feuilles d'acanthe?"
+  },
+  {
+    "correctAnswer": "Lamassu",
+    "id": 11811002057371884,
+    "options": [
+      "Sphinx",
+      "Chimera",
+      "Gorgon",
+      "Lamassu"
+    ],
+    "question": "Comment appelle-t-on la créature assyrienne protectrice représentée avec le corps d'un taureau, les ailes d'un oiseau et la tête d'un homme?"
+  },
+  {
+    "correctAnswer": "Ambulatory",
+    "id": 11833002057371884,
+    "options": [
+      "Nave",
+      "Transept",
+      "Apse",
+      "Ambulatory"
+    ],
+    "question": "Dans une église, comment appelle-t-on le passage couvert qui entoure le chœur, permettant la circulation des fidèles sans perturber la liturgie?"
+  },
+  {
+    "correctAnswer": "Moai",
+    "id": 11855002057371886,
+    "options": [
+      "Cairn",
+      "Menhir",
+      "Moai",
+      "Dolmen"
+    ],
+    "question": "Comment sont appelées les grandes statues de pierre de l'île de Pâques?"
+  },
+  {
+    "correctAnswer": "Haniwa",
+    "id": 11877002057371888,
+    "options": [
+      "Terracotta Army",
+      "Haniwa",
+      "Kachina",
+      "Totem"
+    ],
+    "question": "Quel terme désigne les figurines en terre cuite placées autour des tombes pendant la période Kofun au Japon?"
+  },
+  {
+    "correctAnswer": "Opus tessellatum",
+    "id": 11899002057371888,
+    "options": [
+      "Opus sectile",
+      "Opus vermiculatum",
+      "Opus reticulatum",
+      "Opus tessellatum"
+    ],
+    "question": "Quel terme désigne la technique de mosaïque romaine standard utilisant des cubes de pierre ou de verre de taille relativement grande?"
+  },
+  {
+    "correctAnswer": "Ex-voto",
+    "id": 11921002057371888,
+    "options": [
+      "Altarpiece",
+      "Fresco",
+      "Ex-voto",
+      "Icon"
+    ],
+    "question": "Comment appelle-t-on une offrande donnée en remerciement ou en accomplissement d'un vœu, souvent placée dans une église ou un sanctuaire?"
+  },
+  {
+    "correctAnswer": "Bhakti",
+    "id": 11943002057371890,
+    "options": [
+      "Mandala",
+      "Dharma",
+      "Karma",
+      "Bhakti"
+    ],
+    "question": "Quel terme désigne un mouvement dévotionnel hindou axé sur l'amour personnel pour la divinité, souvent exprimé à travers la musique, la danse et les arts visuels?"
+  },
+  {
+    "correctAnswer": "Catacombs",
+    "id": 11965002057371892,
+    "options": [
+      "Ziggurat",
+      "Catacombs",
+      "Pyramid",
+      "Mausoleum"
+    ],
+    "question": "Quels réseaux souterrains de tombes, particulièrement associés à Rome, servaient de lieu d'inhumation pour les premiers chrétiens?"
+  },
+  {
+    "correctAnswer": "Sgraffito",
+    "id": 11987002057371892,
+    "options": [
+      "Battuto",
+      "Intarsia",
+      "Murrine",
+      "Sgraffito"
+    ],
+    "question": "Quelle technique artistique implique de gratter une surface pour révéler une couche inférieure, souvent utilisée en céramique ou en peinture murale?"
+  },
+  {
+    "correctAnswer": "Pietra dura",
+    "id": 12009002057371892,
+    "options": [
+      "Millefiori",
+      "Pietra dura",
+      "Basse-taille",
+      "Cloisonné"
+    ],
+    "question": "Quelle technique utilise des incrustations de pierres précieuses ou semi-précieuses pour créer des images ou des motifs, particulièrement populaires dans la Renaissance italienne?"
+  },
+  {
+    "correctAnswer": "Veristic",
+    "id": 12031002057371894,
+    "options": [
+      "Idealized",
+      "Veristic",
+      "Abstract",
+      "Stylized"
+    ],
+    "question": "Quel terme décrit le style réaliste des portraits romains qui représentent souvent des traits vieillissants et des détails individuels?"
+  },
+  {
+    "correctAnswer": "Grotesque",
+    "id": 12053002057371896,
+    "options": [
+      "Pastoral",
+      "Grotesque",
+      "Arcadian",
+      "Picaresque"
+    ],
+    "question": "Quel terme décrit les motifs ornementaux fantastiques, souvent trouvés dans les peintures murales de la Renaissance, inspirés par des découvertes archéologiques à Rome?"
+  },
+  {
+    "correctAnswer": "Bauhaus",
+    "id": 12075002057371896,
+    "options": [
+      "Arts and Crafts",
+      "Art Nouveau",
+      "De Stijl",
+      "Bauhaus"
+    ],
+    "question": "Quelle école d'art et de design du 20ème siècle en Allemagne a prôné la fusion de l'art, de l'artisanat et de la technologie?"
+  },
+  {
+    "correctAnswer": "Mudejar",
+    "id": 12097002057371896,
+    "options": [
+      "Romanesque",
+      "Gothic",
+      "Baroque",
+      "Mudejar"
+    ],
+    "question": "Quel style architectural en Espagne mélange les influences chrétiennes et musulmanes, particulièrement après la Reconquista?"
+  },
+  {
+    "correctAnswer": "Ka",
+    "id": 12119002057371898,
+    "options": [
+      "Atman",
+      "Mana",
+      "Ka",
+      "Qi"
+    ],
+    "question": "Dans l'art funéraire égyptien, les statues étaient souvent placées dans les tombes comme substituts pour le défunt, représentant quelle force vitale ou âme?"
+  },
+  {
+    "correctAnswer": "Tenebrism",
+    "id": 12141002057371900,
+    "options": [
+      "Impressionism",
+      "Pointillism",
+      "Fauvism",
+      "Tenebrism"
+    ],
+    "question": "Quelle technique artistique, souvent associée à Caravaggio, utilise des contrastes dramatiques de lumière et d'obscurité pour améliorer les éléments tridimensionnels?"
+  },
+  {
+    "correctAnswer": "Cycladic",
+    "id": 12163002057371900,
+    "options": [
+      "Mycenaean",
+      "Cycladic",
+      "Hellenistic",
+      "Minoan"
+    ],
+    "question": "Quelle culture ancienne est célèbre pour ses idoles en marbre aux formes simples et abstraites trouvées dans les îles de la mer Égée?"
+  },
+  {
+    "correctAnswer": "Contrapposto",
+    "id": 12185002057371900,
+    "options": [
+      "Fresco",
+      "Sfumato",
+      "Contrapposto",
+      "Chiaroscuro"
+    ],
+    "question": "Quel terme décrit une pose dans la sculpture où le poids du corps est porté sur une jambe, donnant un effet plus naturel et dynamique à la figure?"
+  },
+  {
+    "correctAnswer": "Mesopotamia",
+    "id": 12207002057371902,
+    "options": [
+      "Egypt",
+      "Mesopotamia",
+      "Indus Valley",
+      "Ancient China"
+    ],
+    "question": "De quelle civilisation proviennent les cylindres-sceaux, souvent gravés avec des scènes rituelles ou mythologiques, utilisés pour rouler une image sur l'argile fraîche?"
+  },
+  {
+    "correctAnswer": "Nimbus",
+    "id": 12229002057371904,
+    "options": [
+      "Halo",
+      "Aura",
+      "Glow",
+      "Nimbus"
+    ],
+    "question": "Quel terme désigne un cercle lumineux représenté autour de la tête d'une figure sacrée dans l'art, indiquant sa sainteté ou sa divinité?"
+  },
+  {
+    "correctAnswer": "Mandorla",
+    "id": 12251002057371904,
+    "options": [
+      "Vesica Piscis",
+      "Mandala",
+      "Mandorla",
+      "Rosette"
+    ],
+    "question": "Comment appelle-t-on l'aura en forme d'amande souvent représentée autour de figures sacrées, en particulier dans l'art médiéval?"
+  },
+  {
+    "correctAnswer": "Benin",
+    "id": 12273002057371904,
+    "options": [
+      "Mali",
+      "Ashanti",
+      "Benin",
+      "Songhai"
+    ],
+    "question": "De quel royaume africain proviennent les célèbres bronzes, qui sont en réalité des alliages de laiton, représentant des rois, des dignitaires et des scènes rituelles?"
+  },
+  {
+    "correctAnswer": "Fauvism",
+    "id": 12295002057371906,
+    "options": [
+      "Cubism",
+      "Expressionism",
+      "Surrealism",
+      "Fauvism"
+    ],
+    "question": "Quel mouvement artistique du début du 20ème siècle, associé à des artistes comme Matisse, est connu pour l'utilisation audacieuse de la couleur pure et des formes simplifiées?"
+  },
+  {
+    "correctAnswer": "Reliquary",
+    "id": 12317002057371908,
+    "options": [
+      "Chalice",
+      "Paten",
+      "Ciborium",
+      "Reliquary"
+    ],
+    "question": "Comment appelle-t-on un récipient ou une boîte conçue pour contenir et afficher des reliques sacrées?"
+  },
+  {
+    "correctAnswer": "Acanthus",
+    "id": 12339002057371908,
+    "options": [
+      "Papyrus",
+      "Lotus",
+      "Palm",
+      "Acanthus"
+    ],
+    "question": "Quelle plante a inspiré de nombreux motifs ornementaux dans l'art grec et romain, en particulier sur les chapiteaux des colonnes?"
+  },
+  {
+    "correctAnswer": "Vanitas",
+    "id": 12361002057371908,
+    "options": [
+      "Memento Mori",
+      "Vanitas",
+      "Still Life",
+      "Nature Morte"
+    ],
+    "question": "Quel genre de peinture symbolise la nature éphémère de la vie et la futilité des plaisirs terrestres, souvent représenté par des crânes, des bougies éteintes et des horloges?"
+  },
+  {
+    "correctAnswer": "Mihrab",
+    "id": 12383002057371910,
+    "options": [
+      "Qibla",
+      "Minaret",
+      "Madrasa",
+      "Mihrab"
+    ],
+    "question": "Dans une mosquée, comment appelle-t-on la niche indiquant la direction de la Mecque vers laquelle les fidèles doivent se tourner pour prier?"
+  },
+  {
+    "correctAnswer": "Triptych",
+    "id": 12405002057371912,
+    "options": [
+      "Diptych",
+      "Polyptych",
+      "Triptych",
+      "Tetraptych"
+    ],
+    "question": "Quel terme désigne une œuvre d'art (souvent un panneau peint) qui est divisée en trois sections, ou trois panneaux articulés?"
+  },
+  {
+    "correctAnswer": "Pendentive",
+    "id": 12427002057371912,
+    "options": [
+      "Squinch",
+      "Lintel",
+      "Spandrel",
+      "Pendentive"
+    ],
+    "question": "Quelle structure architecturale en forme de triangle sphérique permet de placer une coupole sur un espace carré?"
+  },
+  {
+    "correctAnswer": "Rocaille",
+    "id": 12449002057371912,
+    "options": [
+      "Pilaster",
+      "Balustrade",
+      "Rocaille",
+      "Cartouche"
+    ],
+    "question": "Quel élément décoratif du style Rococo est caractérisé par des formes asymétriques, des courbes sinueuses et des motifs inspirés de la nature?"
+  },
+  {
+    "correctAnswer": "Tympanum",
+    "id": 12471002057371914,
+    "options": [
+      "Apse",
+      "Nave",
+      "Transept",
+      "Tympanum"
+    ],
+    "question": "Dans l'architecture médiévale, comment appelle-t-on l'espace semi-circulaire ou triangulaire au-dessus de la porte d'une église, souvent orné de sculptures ou de bas-reliefs?"
   }
 ]

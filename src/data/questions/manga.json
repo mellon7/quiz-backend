@@ -328,5 +328,1974 @@
       "Japon"
     ],
     "question": "Dans quel pays le manga a-t-il été inventé ?"
+  },
+  {
+    "correctAnswer": "Akira Toriyama",
+    "id": 1112003057371785,
+    "options": [
+      "Eiichiro Oda",
+      "Akira Toriyama",
+      "Masashi Kishimoto",
+      "Tite Kubo"
+    ],
+    "question": "Quel mangaka est le créateur de 'Dragon Ball' ?"
+  },
+  {
+    "correctAnswer": "Sword Art Online",
+    "id": 2223004057389793,
+    "options": [
+      "Log Horizon",
+      "No Game No Life",
+      "Sword Art Online",
+      "Overlord"
+    ],
+    "question": "Dans quelle série anime les joueurs sont-ils piégés dans un jeu vidéo en réalité virtuelle ?"
+  },
+  {
+    "correctAnswer": "Vinland Saga",
+    "id": 3334005057391693,
+    "options": [
+      "Berserk",
+      "Vagabond",
+      "Vinland Saga",
+      "Kingdom"
+    ],
+    "question": "Quel manga raconte l'histoire des Vikings et la recherche d'une terre promise ?"
+  },
+  {
+    "correctAnswer": "Rurouni Kenshin",
+    "id": 4445006057401725,
+    "options": [
+      "Samurai Champloo",
+      "Samurai Deeper Kyo",
+      "Rurouni Kenshin",
+      "Basilisk"
+    ],
+    "question": "Quel manga raconte l'histoire d'un ancien assassin pendant l'ère Meiji au Japon qui a juré de ne plus jamais tuer ?"
+  },
+  {
+    "correctAnswer": "Makoto Shinkai",
+    "id": 5556007057411632,
+    "options": [
+      "Hayao Miyazaki",
+      "Mamoru Hosoda",
+      "Makoto Shinkai",
+      "Satoshi Kon"
+    ],
+    "question": "Quel réalisateur a créé le film 'Your Name' (Kimi no Na wa) ?"
+  },
+  {
+    "correctAnswer": "Hikaru no Go",
+    "id": 6667008057421742,
+    "options": [
+      "Hikaru no Go",
+      "Shion no Ou",
+      "March Comes In Like A Lion",
+      "Chihayafuru"
+    ],
+    "question": "Quel manga se concentre sur le jeu traditionnel japonais appelé 'Go' ?"
+  },
+  {
+    "correctAnswer": "Mushi-shi",
+    "id": 7778009057431852,
+    "options": [
+      "Natsume's Book of Friends",
+      "Mushi-shi",
+      "Mononoke",
+      "GeGeGe no Kitaro"
+    ],
+    "question": "Quelle série explore le monde mystique des 'mushi', des créatures éthérées qui existent dans la nature ?"
+  },
+  {
+    "correctAnswer": "Redline",
+    "id": 8889000057441962,
+    "options": [
+      "Speed Racer",
+      "Initial D",
+      "Redline",
+      "Wangan Midnight"
+    ],
+    "question": "Quel film d'animation est centré sur une course automobile intergalactique extrême ?"
+  },
+  {
+    "correctAnswer": "Hirohiko Araki",
+    "id": 9990011057452072,
+    "options": [
+      "Kazuki Takahashi",
+      "Hirohiko Araki",
+      "Yoshihiro Togashi",
+      "Kentaro Miura"
+    ],
+    "question": "Qui est le créateur de 'JoJo's Bizarre Adventure' ?"
+  },
+  {
+    "correctAnswer": "Neuro",
+    "id": 1001102057462182,
+    "options": [
+      "L",
+      "Neuro",
+      "Ciel Phantomhive",
+      "Victorique"
+    ],
+    "question": "Quel personnage est un démon qui aime résoudre des énigmes dans 'Majin Tantei Nougami Neuro' ?"
+  },
+  {
+    "correctAnswer": "Shoujo",
+    "id": 1111213057472292,
+    "options": [
+      "Seinen",
+      "Shounen",
+      "Shoujo",
+      "Josei"
+    ],
+    "question": "Quel terme désigne les mangas ciblant principalement les jeunes filles adolescentes ?"
+  },
+  {
+    "correctAnswer": "Tokyo Ghoul",
+    "id": 1221314057482392,
+    "options": [
+      "Attack on Titan",
+      "Parasyte",
+      "Tokyo Ghoul",
+      "Deadman Wonderland"
+    ],
+    "question": "Dans quel manga/anime les protagonistes doivent-ils manger de la chair humaine pour survivre ?"
+  },
+  {
+    "correctAnswer": "Black Clover",
+    "id": 1331415057492413,
+    "options": [
+      "Blue Exorcist",
+      "Black Clover",
+      "Magi",
+      "The Seven Deadly Sins"
+    ],
+    "question": "Dans quel manga un jeune garçon nommé Asta rêve de devenir le 'Wizard King' ?"
+  },
+  {
+    "correctAnswer": "Tetsuo Shima",
+    "id": 1441516057502523,
+    "options": [
+      "Light Yagami",
+      "Kaneda",
+      "Lelouch Lamperouge",
+      "Tetsuo Shima"
+    ],
+    "question": "Quel personnage est un protagoniste central du manga et du film 'Akira' ?"
+  },
+  {
+    "correctAnswer": "Nausicaä of the Valley of the Wind",
+    "id": 1551617057512633,
+    "options": [
+      "Castle in the Sky",
+      "Princess Mononoke",
+      "Nausicaä of the Valley of the Wind",
+      "Howl's Moving Castle"
+    ],
+    "question": "Quel est le film qui a conduit à la création du Studio Ghibli ?"
+  },
+  {
+    "correctAnswer": "Junji Ito",
+    "id": 1661718057522743,
+    "options": [
+      "Kazuo Umezu",
+      "Hideaki Anno",
+      "Junji Ito",
+      "Gen Urobuchi"
+    ],
+    "question": "Quel artiste est célèbre pour ses mangas d'horreur comme 'Uzumaki' et 'Tomie' ?"
+  },
+  {
+    "correctAnswer": "Kizumonogatari",
+    "id": 1771819057532853,
+    "options": [
+      "Bakemonogatari",
+      "Nekomonogatari",
+      "Kizumonogatari",
+      "Owarimonogatari"
+    ],
+    "question": "Quelle partie de la série 'Monogatari' se concentre sur l'histoire de Koyomi Araragi et de la vampire Kiss-shot ?"
+  },
+  {
+    "correctAnswer": "Shou Tucker",
+    "id": 1881910057542963,
+    "options": [
+      "Roy Mustang",
+      "Shou Tucker",
+      "Maes Hughes",
+      "Alex Louis Armstrong"
+    ],
+    "question": "Dans 'Fullmetal Alchemist', quel alchimiste est tristement célèbre pour avoir transformé sa fille et son chien en une chimère parlante ?"
+  },
+  {
+    "correctAnswer": "One Punch Man",
+    "id": 1992011057553073,
+    "options": [
+      "My Hero Academia",
+      "Mob Psycho 100",
+      "One Punch Man",
+      "Black Clover"
+    ],
+    "question": "Dans quel anime le protagoniste principal peut vaincre n'importe quel adversaire avec un seul coup de poing ?"
+  },
+  {
+    "correctAnswer": "Yoshiyuki Tomino",
+    "id": 2102112057563183,
+    "options": [
+      "Shinichiro Watanabe",
+      "Yoshiyuki Tomino",
+      "Kunihiko Ikuhara",
+      "Goro Taniguchi"
+    ],
+    "question": "Qui est le créateur original de la franchise 'Mobile Suit Gundam' ?"
+  },
+  {
+    "correctAnswer": "Haki",
+    "id": 3102203057573285,
+    "options": [
+      "Nen",
+      "Chakra",
+      "Reiatsu",
+      "Haki"
+    ],
+    "question": "Quelle est la force mystique que les pirates utilisent dans 'One Piece' pour résister aux pouvoirs des fruits du démon et augmenter leur puissance physique ?"
+  },
+  {
+    "correctAnswer": "Vinland",
+    "id": 3202304057584293,
+    "options": [
+      "Elbaf",
+      "Vinland",
+      "Wano",
+      "Mariejois"
+    ],
+    "question": "Quelle est la terre promise que Thorfinn souhaite trouver dans 'Vinland Saga' ?"
+  },
+  {
+    "correctAnswer": "The 100-Type Guanyin Bodhisattva",
+    "id": 3302405057595193,
+    "options": [
+      "Bungee Gum",
+      "Dragon Dive",
+      "The 100-Type Guanyin Bodhisattva",
+      "Rising Sun"
+    ],
+    "question": "Quelle est la technique signature de Netero dans 'Hunter x Hunter' lors de son combat contre Meruem ?"
+  },
+  {
+    "correctAnswer": "Clow Cards",
+    "id": 3402506057605225,
+    "options": [
+      "Exodia Cards",
+      "Clow Cards",
+      "Duel Monsters",
+      "Star Cards"
+    ],
+    "question": "Dans 'Cardcaptor Sakura', quel ensemble de cartes magiques Sakura doit-elle recueillir ?"
+  },
+  {
+    "correctAnswer": "D",
+    "id": 3502607057615132,
+    "options": [
+      "Alucard",
+      "Seraph",
+      "Blade",
+      "D"
+    ],
+    "question": "Quel est le personnage principal de 'Vampire Hunter D', un dhampir (mi-humain, mi-vampire) chasseur de vampires ?"
+  },
+  {
+    "correctAnswer": "Rose of Versailles",
+    "id": 3602708057625242,
+    "options": [
+      "Nana",
+      "Rose of Versailles",
+      "Paradise Kiss",
+      "Honey and Clover"
+    ],
+    "question": "Quel manga historique suit la vie de Lady Oscar, une femme élevée comme un homme pour servir la famille royale pendant la Révolution française ?"
+  },
+  {
+    "correctAnswer": "El Psy Congroo",
+    "id": 3702809057635352,
+    "options": [
+      "Tuturu",
+      "El Psy Congroo",
+      "Future Gadget",
+      "Reading Steiner"
+    ],
+    "question": "Quelle est la phrase emblématique de Rintarou Okabe, le personnage principal de 'Steins;Gate' ?"
+  },
+  {
+    "correctAnswer": "Noh",
+    "id": 3802900057645462,
+    "options": [
+      "Kabuki",
+      "Bunraku",
+      "Noh",
+      "Kyogen"
+    ],
+    "question": "Sur quel art traditionnel japonais est basé le style de combat et l'esthétique des Mononoke dans la série 'Mononoke' (spin-off d'Ayakashi) ?"
+  },
+  {
+    "correctAnswer": "Casca",
+    "id": 3903001057655572,
+    "options": [
+      "Farnese",
+      "Casca",
+      "Schierke",
+      "Charlotte"
+    ],
+    "question": "Quel personnage féminin dans 'Berserk' est une épéiste talentueuse et un ancien membre de la Band of the Hawk ?"
+  },
+  {
+    "correctAnswer": "Tomoe",
+    "id": 4003102057665682,
+    "options": [
+      "Himura Kenshin",
+      "Saito Hajime",
+      "Aoshi Shinomori",
+      "Tomoe"
+    ],
+    "question": "Dans 'Rurouni Kenshin', qui était la première épouse de Kenshin pendant son temps en tant que Battousai ?"
+  },
+  {
+    "correctAnswer": "Behelit",
+    "id": 4103203057675792,
+    "options": [
+      "Zod",
+      "Brand of Sacrifice",
+      "Behelit",
+      "Eclipse"
+    ],
+    "question": "Comment s'appelle l'objet mystique dans 'Berserk' qui peut être utilisé pour invoquer les God Hand et réaliser un rite de sacrifice ?"
+  },
+  {
+    "correctAnswer": "Migi",
+    "id": 4203304057685892,
+    "options": [
+      "Tamiya Ryouko",
+      "Migi",
+      "Gotou",
+      "Shinichi"
+    ],
+    "question": "Dans 'Parasyte', quel est le nom du parasite qui prend possession de la main droite du protagoniste ?"
+  },
+  {
+    "correctAnswer": "Black Swordsman",
+    "id": 4303405057695913,
+    "options": [
+      "White Hawk",
+      "Red Dragon",
+      "Black Swordsman",
+      "Golden Age"
+    ],
+    "question": "Quel est le surnom de Guts dans 'Berserk' après les événements de l'Eclipse ?"
+  },
+  {
+    "correctAnswer": "Pacifism",
+    "id": 4403506057706023,
+    "options": [
+      "Revenge",
+      "Pacifism",
+      "Loyalty",
+      "Betrayal"
+    ],
+    "question": "Quel est le thème principal de 'Vagabond', qui raconte l'histoire de Miyamoto Musashi ?"
+  },
+  {
+    "correctAnswer": "Holo",
+    "id": 4503607057716133,
+    "options": [
+      "Asuna",
+      "Mikasa",
+      "Holo",
+      "C.C."
+    ],
+    "question": "Quelle déesse louve apparaît dans le manga 'Spice and Wolf' ?"
+  },
+  {
+    "correctAnswer": "Phantom Troupe",
+    "id": 4603708057726243,
+    "options": [
+      "Genei Ryodan",
+      "Zodiacs",
+      "Phantom Troupe",
+      "Hunter Association"
+    ],
+    "question": "Quel est le nom anglais du groupe d'élite de voleurs et tueurs dans 'Hunter x Hunter', dirigé par Chrollo Lucilfer ?"
+  },
+  {
+    "correctAnswer": "Alabasta",
+    "id": 4703809057736353,
+    "options": [
+      "Skypiea",
+      "Dressrosa",
+      "Alabasta",
+      "Fishman Island"
+    ],
+    "question": "Dans 'One Piece', sur quelle île se déroule un conflit majeur impliquant Sir Crocodile et une tentative de coup d'État ?"
+  },
+  {
+    "correctAnswer": "Kurta Clan",
+    "id": 4803900057746463,
+    "options": [
+      "Zoldyck Family",
+      "Kurta Clan",
+      "Freecss Family",
+      "Kakin Empire"
+    ],
+    "question": "À quel clan appartient Kurapika dans 'Hunter x Hunter', connu pour ses yeux écarlates lorsqu'il est émotionnellement agité ?"
+  },
+  {
+    "correctAnswer": "Sannin",
+    "id": 4904001057756573,
+    "options": [
+      "Akatsuki",
+      "Sannin",
+      "Kage",
+      "Uchiha"
+    ],
+    "question": "Comment sont appelés les trois ninjas légendaires de Konoha dans 'Naruto', composés de Jiraiya, Tsunade et Orochimaru ?"
+  },
+  {
+    "correctAnswer": "Dio Brando",
+    "id": 5004102057766683,
+    "options": [
+      "Yoshikage Kira",
+      "Diavolo",
+      "Dio Brando",
+      "Enrico Pucci"
+    ],
+    "question": "Quel antagoniste emblématique de 'JoJo's Bizarre Adventure' utilise le cri 'ZA WARUDO' pour activer son pouvoir temporel ?"
+  },
+  {
+    "correctAnswer": "Behemoth's 34 Pillar Division",
+    "id": 5104203057776793,
+    "options": [
+      "Vongola Famiglia",
+      "Varia",
+      "Behemoth's 34 Pillar Division",
+      "Quincy"
+    ],
+    "question": "Dans 'Beelzebub', quel groupe est dirigé par Behemoth et représente une menace majeure pour Oga et Baby Beel ?"
+  },
+  {
+    "correctAnswer": "Kanda",
+    "id": 5204304057786893,
+    "options": [
+      "Lavi",
+      "Kanda",
+      "Allen",
+      "Lenalee"
+    ],
+    "question": "Dans 'D.Gray-Man', quel exorciste utilise l'Innocence appelée 'Mugen' sous forme d'une épée ?"
+  },
+  {
+    "correctAnswer": "Dolls",
+    "id": 5304405057796913,
+    "options": [
+      "Cursed Tools",
+      "Quinques",
+      "Dolls",
+      "Stands"
+    ],
+    "question": "Dans 'Karneval', comment sont appelées les créatures créées par Kafka, l'organisation antagoniste ?"
+  },
+  {
+    "correctAnswer": "Rak Wraithraiser",
+    "id": 5404506057807023,
+    "options": [
+      "Khun Aguero Agnis",
+      "Yuri Jahad",
+      "Rak Wraithraiser",
+      "Baam"
+    ],
+    "question": "Dans 'Tower of God', quel personnage est souvent représenté comme un crocodile et utilise fréquemment le terme 'turtle' pour désigner les autres ?"
+  },
+  {
+    "correctAnswer": "Kagome",
+    "id": 5504607057817133,
+    "options": [
+      "Kikyo",
+      "Sango",
+      "Kagome",
+      "Rin"
+    ],
+    "question": "Dans 'Inuyasha', quel personnage est une lycéenne moderne qui est transportée dans le Japon féodal par un puits sacré ?"
+  },
+  {
+    "correctAnswer": "Teigu",
+    "id": 5604708057827243,
+    "options": [
+      "Nen",
+      "Zanpakuto",
+      "Devil Fruits",
+      "Teigu"
+    ],
+    "question": "Dans 'Akame ga Kill', comment sont appelées les armes impériales légendaires dotées d'aptitudes uniques ?"
+  },
+  {
+    "correctAnswer": "Auto Memories Doll",
+    "id": 5704809057837353,
+    "options": [
+      "Mecha",
+      "Auto Memories Doll",
+      "Demi-Human",
+      "Magus"
+    ],
+    "question": "Dans 'Violet Evergarden', comment sont appelées les personnes qui aident les autres à écrire des lettres et à exprimer leurs sentiments ?"
+  },
+  {
+    "correctAnswer": "Scissor Blade",
+    "id": 5804900057847463,
+    "options": [
+      "Banshou Fan",
+      "Three-Sword Style",
+      "Scissor Blade",
+      "Gae Bolg"
+    ],
+    "question": "Dans 'Kill la Kill', quelle est l'arme principale de Ryuko Matoi ?"
+  },
+  {
+    "correctAnswer": "Dr. Franxx",
+    "id": 5905001057857573,
+    "options": [
+      "Dr. Stein",
+      "Dr. Franxx",
+      "Dr. Hell",
+      "Dr. Kureha"
+    ],
+    "question": "Dans 'Darling in the Franxx', quel scientifique est responsable de la création des mechas et de la découverte des klaxosaures ?"
+  },
+  {
+    "correctAnswer": "Kabane",
+    "id": 6005102057867683,
+    "options": [
+      "Ghoul",
+      "Titan",
+      "Yoma",
+      "Kabane"
+    ],
+    "question": "Dans 'Kabaneri of the Iron Fortress', comment sont appelées les créatures zombiesque que les humains doivent combattre pour survivre ?"
+  },
+  {
+    "correctAnswer": "Nia",
+    "id": 6105203057877793,
+    "options": [
+      "Yoko",
+      "Leeron",
+      "Nia",
+      "Kamina"
+    ],
+    "question": "Dans 'Gurren Lagann', quel personnage est découvert endormi dans une boîte et finit par devenir un élément clé de l'histoire ?"
+  },
+  {
+    "correctAnswer": "King Bradley",
+    "id": 6205304057887893,
+    "options": [
+      "Father",
+      "King Bradley",
+      "Greed",
+      "Lust"
+    ],
+    "question": "Dans 'Fullmetal Alchemist', quel Homonculus détient le titre de 'Führer' ?"
+  },
+  {
+    "correctAnswer": "The Red Whales",
+    "id": 6305405057897913,
+    "options": [
+      "The Band of the Hawk",
+      "The Night's Watch",
+      "The Red Whales",
+      "The Blue Rogues"
+    ],
+    "question": "Dans 'Berserk', quelle unité était dirigée par Gaston et faisait partie de la Band of the Hawk ?"
+  },
+  {
+    "correctAnswer": "Paras",
+    "id": 6405506057908023,
+    "options": [
+      "Klaxosaur",
+      "Arachnophobia",
+      "Paras",
+      "NOVA"
+    ],
+    "question": "Dans 'Darling in the Franxx', comment sont appelés les pilotes d'adolescents ?"
+  },
+  {
+    "correctAnswer": "Satella",
+    "id": 6505607057918133,
+    "options": [
+      "Emilia",
+      "Rem",
+      "Beatrice",
+      "Satella"
+    ],
+    "question": "Dans 'Re:Zero', quel est le nom de la Sorcière de l'Envie, qui est étroitement liée à l'histoire de Subaru ?"
+  },
+  {
+    "correctAnswer": "Moonlit Black Cats",
+    "id": 6605708057928243,
+    "options": [
+      "Laughing Coffin",
+      "Knights of the Blood Oath",
+      "Moonlit Black Cats",
+      "Aincrad Liberation Force"
+    ],
+    "question": "Dans 'Sword Art Online', quel était le nom de la première guilde à laquelle Kirito a appartenu ?"
+  },
+  {
+    "correctAnswer": "Crimson Alchemist",
+    "id": 6705809057938353,
+    "options": [
+      "Armored Alchemist",
+      "Crimson Alchemist",
+      "Silver Alchemist",
+      "Iron Blood Alchemist"
+    ],
+    "question": "Dans 'Fullmetal Alchemist', comment est surnommé Solf J. Kimblee ?"
+  },
+  {
+    "correctAnswer": "Black Bulls",
+    "id": 6805900057948463,
+    "options": [
+      "Golden Dawn",
+      "Silver Eagles",
+      "Green Praying Mantises",
+      "Black Bulls"
+    ],
+    "question": "Dans 'Black Clover', à quelle brigade magique appartient Asta ?"
+  },
+  {
+    "correctAnswer": "Shogi",
+    "id": 6906001057958573,
+    "options": [
+      "Go",
+      "Chess",
+      "Mahjong",
+      "Shogi"
+    ],
+    "question": "Dans 'March Comes In Like A Lion', quel est le jeu de plateau sur lequel Rei Kiriyama est un prodige professionnel ?"
+  },
+  {
+    "correctAnswer": "The Earl of Millennium",
+    "id": 7006102057968683,
+    "options": [
+      "Cross Marian",
+      "The Earl of Millennium",
+      "Lavi",
+      "Komui Lee"
+    ],
+    "question": "Dans 'D.Gray-Man', quel antagoniste principal tente de détruire l'humanité à l'aide des Akuma ?"
+  },
+  {
+    "correctAnswer": "Ushio",
+    "id": 7106203057978793,
+    "options": [
+      "Nagisa",
+      "Kyou",
+      "Tomoyo",
+      "Ushio"
+    ],
+    "question": "Dans 'Clannad: After Story', comment s'appelle la fille de Tomoya et Nagisa ?"
+  },
+  {
+    "correctAnswer": "Kira",
+    "id": 7206304057988893,
+    "options": [
+      "Ryuk",
+      "Kira",
+      "L",
+      "Misa"
+    ],
+    "question": "Dans 'Death Note', quel est le pseudonyme adopté par Light Yagami lorsqu'il utilise le cahier ?"
+  },
+  {
+    "correctAnswer": "Fuwa Aika",
+    "id": 7306405057998913,
+    "options": [
+      "Aria",
+      "Fuwa Aika",
+      "Yoshino Takigawa",
+      "Mahiro Fuwa"
+    ],
+    "question": "Dans 'Blast of Tempest', la mort de quel personnage est le catalyseur des événements de l'histoire ?"
+  },
+  {
+    "correctAnswer": "Rikka Takanashi",
+    "id": 7406506058009023,
+    "options": [
+      "Satone Shichimiya",
+      "Sanae Dekomori",
+      "Shinka Nibutani",
+      "Rikka Takanashi"
+    ],
+    "question": "Dans 'Love, Chunibyo & Other Delusions', quel personnage porte un cache-œil médical et se croit possédé par le 'Tyrant's Eye' ?"
+  },
+  {
+    "correctAnswer": "Licht",
+    "id": 7506607058019133,
+    "options": [
+      "Pele",
+      "Lynn",
+      "Licht",
+      "Hina"
+    ],
+    "question": "Dans 'Plunderer', quel personnage porte un masque et est surnommé le 'Baron éclairé' ?"
+  },
+  {
+    "correctAnswer": "Kaiji",
+    "id": 7606708058029243,
+    "options": [
+      "Akagi",
+      "Saki",
+      "Kaiji",
+      "Tonegawa"
+    ],
+    "question": "Dans quelle série un homme est-il forcé de participer à des jeux de hasard de haute intensité pour rembourser sa dette ?"
+  },
+  {
+    "correctAnswer": "Metropolis",
+    "id": 7706809058039353,
+    "options": [
+      "Akira",
+      "Ghost in the Shell",
+      "Metropolis",
+      "Steamboy"
+    ],
+    "question": "Quel film d'animation, inspiré d'une œuvre d'Osamu Tezuka, se déroule dans une ville futuriste où les humains et les robots coexistent ?"
+  },
+  {
+    "correctAnswer": "Spirit Gun",
+    "id": 7806900058049463,
+    "options": [
+      "Destructo Disc",
+      "Rasengan",
+      "Spirit Gun",
+      "Bankai"
+    ],
+    "question": "Dans 'Yu Yu Hakusho', quelle est la technique signature de Yusuke Urameshi, qui implique de tirer une balle d'énergie de son doigt ?"
+  },
+  {
+    "correctAnswer": "Shizuo Heiwajima",
+    "id": 7907001058059573,
+    "options": [
+      "Izaya Orihara",
+      "Shinra Kishitani",
+      "Shizuo Heiwajima",
+      "Celty Sturluson"
+    ],
+    "question": "Dans 'Durarara!!', quel personnage est connu pour sa force surhumaine et sa tendance à lancer des objets lourds lorsqu'il est en colère ?"
+  },
+  {
+    "correctAnswer": "The Abyss",
+    "id": 8007102058069683,
+    "options": [
+      "The Tower",
+      "The Dungeon",
+      "The Labyrinth",
+      "The Abyss"
+    ],
+    "question": "Dans 'Made in Abyss', où se trouve la grande fosse mystérieuse que les aventuriers explorent pour découvrir ses secrets ?"
+  },
+  {
+    "correctAnswer": "Kagari",
+    "id": 8107203058079793,
+    "options": [
+      "Akane Tsunemori",
+      "Shinya Kogami",
+      "Nobuchika Ginoza",
+      "Kagari"
+    ],
+    "question": "Dans 'Psycho-Pass', quel inspecteur au teint roux est souvent taquin et ne peut pas être jugé par le système Sybil à cause de son coefficient de criminalité élevé dès son enfance ?"
+  },
+  {
+    "correctAnswer": "Ban",
+    "id": 8207304058089893,
+    "options": [
+      "Meliodas",
+      "Escanor",
+      "Ban",
+      "King"
+    ],
+    "question": "Dans 'The Seven Deadly Sins', quel membre est surnommé le 'Péché de la cupidité du renard' ?"
+  },
+  {
+    "correctAnswer": "The Count of Monte Cristo",
+    "id": 8307405058099913,
+    "options": [
+      "The Marquis of Carabas",
+      "The Baron of Munchausen",
+      "The Duke of Buckingham",
+      "The Count of Monte Cristo"
+    ],
+    "question": "Dans 'Gankutsuou', quelle figure noble cherche à se venger de ceux qui l'ont trahi il y a des années ?"
+  },
+  {
+    "correctAnswer": "Haruhi Suzumiya",
+    "id": 8407506058100023,
+    "options": [
+      "Mikuru Asahina",
+      "Yuki Nagato",
+      "Haruhi Suzumiya",
+      "Kyon"
+    ],
+    "question": "Dans 'The Melancholy of Haruhi Suzumiya', quel personnage est le leader excentrique du club SOS Brigade ?"
+  },
+  {
+    "correctAnswer": "Yato",
+    "id": 8507607058110133,
+    "options": [
+      "Bishamon",
+      "Kazuma",
+      "Yato",
+      "Yukine"
+    ],
+    "question": "Dans 'Noragami', quel dieu mineur souhaite avoir un sanctuaire et être adoré par des millions de personnes ?"
+  },
+  {
+    "correctAnswer": "Satoru Fujinuma",
+    "id": 8607708058120243,
+    "options": [
+      "Kenya Kobayashi",
+      "Sachiko Fujinuma",
+      "Kayo Hinazuki",
+      "Satoru Fujinuma"
+    ],
+    "question": "Dans 'ERASED', quel personnage possède une capacité unique lui permettant de revenir dans le temps pour éviter des tragédies ?"
+  },
+  {
+    "correctAnswer": "Holo",
+    "id": 8707809058130353,
+    "options": [
+      "Chise Hatori",
+      "Holo",
+      "Zero Two",
+      "Raphtalia"
+    ],
+    "question": "Dans 'Spice and Wolf', quel personnage est la déesse-louve de la moisson ?"
+  },
+  {
+    "correctAnswer": "Ikoma",
+    "id": 8807900058140463,
+    "options": [
+      "Ayame",
+      "Mumei",
+      "Ikoma",
+      "Kurusu"
+    ],
+    "question": "Dans 'Kabaneri of the Iron Fortress', quel personnage est un inventeur qui devient un hybride humain-kabane ?"
+  },
+  {
+    "correctAnswer": "Koro-sensei",
+    "id": 8908001058150573,
+    "options": [
+      "All Might",
+      "Jiraiya",
+      "Koro-sensei",
+      "Reigen"
+    ],
+    "question": "Dans 'Assassination Classroom', quel enseignant extraterrestre a promis de détruire la Terre à moins d'être tué par ses élèves avant la fin de l'année scolaire ?"
+  },
+  {
+    "correctAnswer": "Black March",
+    "id": 9008102058160684,
+    "options": [
+      "Green April",
+      "Black March",
+      "Yellow May",
+      "Blue August"
+    ],
+    "question": "Dans 'Tower of God', quelle épée est donnée à Bam par Yuri Jahad au début de son voyage dans la tour ?"
+  },
+  {
+    "correctAnswer": "Gon's father",
+    "id": 9108203058170792,
+    "options": [
+      "Kurapika's mentor",
+      "Killua's brother",
+      "Gon's father",
+      "Leorio's rival"
+    ],
+    "question": "Dans 'Hunter x Hunter', qui est Ging Freecss ?"
+  },
+  {
+    "correctAnswer": "Puck",
+    "id": 9208304058180892,
+    "options": [
+      "Isidro",
+      "Casca",
+      "Puck",
+      "Serpico"
+    ],
+    "question": "Dans 'Berserk', quel esprit de l'air accompagne Guts dans ses voyages après l'Éclipse ?"
+  },
+  {
+    "correctAnswer": "Nezuko Kamado",
+    "id": 9308405058190912,
+    "options": [
+      "Shinobu Kochou",
+      "Kanao Tsuyuri",
+      "Nezuko Kamado",
+      "Mitsuri Kanroji"
+    ],
+    "question": "Dans 'Demon Slayer', quelle sœur du protagoniste est transformée en démon mais conserve une certaine humanité ?"
+  },
+  {
+    "correctAnswer": "Legoshi",
+    "id": 9408506058201024,
+    "options": [
+      "Louis",
+      "Legoshi",
+      "Bill",
+      "Haru"
+    ],
+    "question": "Dans 'Beastars', quel loup gris lutte contre ses instincts carnivores tout en tombant amoureux d'un lapin ?"
+  },
+  {
+    "correctAnswer": "Oshino Meme",
+    "id": 9508607058211132,
+    "options": [
+      "Oshino Ougi",
+      "Oshino Shinobu",
+      "Araragi Koyomi",
+      "Oshino Meme"
+    ],
+    "question": "Dans 'Monogatari Series', quel personnage excentrique aide souvent Araragi à résoudre des problèmes liés aux aberrations ?"
+  },
+  {
+    "correctAnswer": "Aqua",
+    "id": 9608708058221244,
+    "options": [
+      "Megumin",
+      "Aqua",
+      "Darkness",
+      "Wiz"
+    ],
+    "question": "Dans 'Konosuba', quel déesse incompétente accompagne Kazuma après sa mort dans un monde parallèle ?"
+  },
+  {
+    "correctAnswer": "C.C.",
+    "id": 9708809058231352,
+    "options": [
+      "Kallen Stadtfeld",
+      "C.C.",
+      "Nunnally Lamperouge",
+      "Shirley Fenette"
+    ],
+    "question": "Dans 'Code Geass', quel personnage donne à Lelouch le pouvoir du Geass ?"
+  },
+  {
+    "correctAnswer": "The Royal Knights",
+    "id": 9808900058241464,
+    "options": [
+      "The Magic Council",
+      "The Blue Pegasus Guild",
+      "The Royal Knights",
+      "The Oración Seis"
+    ],
+    "question": "Dans 'Fairy Tail', quel groupe d'élite est formé pour arrêter les guildes noires et récupérer Nirvana ?"
+  },
+  {
+    "correctAnswer": "Haise Sasaki",
+    "id": 9909001058251572,
+    "options": [
+      "Kaneki Ken",
+      "Haise Sasaki",
+      "Amon Koutarou",
+      "Urie Kuki"
+    ],
+    "question": "Dans 'Tokyo Ghoul:re', sous quel nom Kaneki travaille-t-il pour le CCG après avoir perdu la mémoire ?"
+  },
+  {
+    "correctAnswer": "Yona",
+    "id": 10009102058261684,
+    "options": [
+      "Hak",
+      "Soo-Won",
+      "Yoon",
+      "Yona"
+    ],
+    "question": "Dans 'Yona of the Dawn', quelle princesse est forcée de fuir son royaume après le meurtre de son père ?"
+  },
+  {
+    "correctAnswer": "Victorique de Blois",
+    "id": 10109203058271792,
+    "options": [
+      "Cordelia Gallo",
+      "Kazuya Kujo",
+      "Avril Bradley",
+      "Victorique de Blois"
+    ],
+    "question": "Dans 'Gosick', quel personnage possède une 'fontaine de sagesse' lui permettant de résoudre des mystères complexes ?"
+  },
+  {
+    "correctAnswer": "Dazai Osamu",
+    "id": 10209304058281892,
+    "options": [
+      "Atsushi Nakajima",
+      "Dazai Osamu",
+      "Ranpo Edogawa",
+      "Akiko Yosano"
+    ],
+    "question": "Dans 'Bungo Stray Dogs', quel membre de l'Agence de Détectives Armés est obsédé par l'idée de suicide et a un passé lié à la mafia ?"
+  },
+  {
+    "correctAnswer": "Decim",
+    "id": 10309405058291992,
+    "options": [
+      "Nona",
+      "Quin",
+      "Ginti",
+      "Decim"
+    ],
+    "question": "Dans 'Death Parade', quel arbitre est responsable du bar Quindecim où les âmes sont jugées après la mort ?"
+  },
+  {
+    "correctAnswer": "Bell Cranel",
+    "id": 10409506058302092,
+    "options": [
+      "Ais Wallenstein",
+      "Hestia",
+      "Liliruca Arde",
+      "Bell Cranel"
+    ],
+    "question": "Dans 'Is It Wrong to Try to Pick Up Girls in a Dungeon?', quel aventurier rêve de devenir le plus grand héros ?"
+  },
+  {
+    "correctAnswer": "Chariot du Nord",
+    "id": 10509607058312192,
+    "options": [
+      "Diana Cavendish",
+      "Chariot du Nord",
+      "Sucy Manbavaran",
+      "Lotte Yanson"
+    ],
+    "question": "Dans 'Little Witch Academia', quel est le nom de scène de l'idole magique d'Atsuko Kagari ?"
+  },
+  {
+    "correctAnswer": "Vash the Stampede",
+    "id": 10609708058322292,
+    "options": [
+      "Knives Millions",
+      "Nicholas D. Wolfwood",
+      "Meryl Stryfe",
+      "Vash the Stampede"
+    ],
+    "question": "Dans 'Trigun', quel personnage principal est surnommé le 'Typhon Humanitaire' ?"
+  },
+  {
+    "correctAnswer": "Arima Kishou",
+    "id": 10709809058332392,
+    "options": [
+      "Kaneki Ken",
+      "Arima Kishou",
+      "Tsukiyama Shuu",
+      "Hideyoshi Nagachika"
+    ],
+    "question": "Dans 'Tokyo Ghoul', quel inspecteur est considéré comme le meilleur chasseur de goules du CCG ?"
+  },
+  {
+    "correctAnswer": "Elias Ainsworth",
+    "id": 10809910058342492,
+    "options": [
+      "Ruth",
+      "Elias Ainsworth",
+      "Chise Hatori",
+      "Silky"
+    ],
+    "question": "Dans 'The Ancient Magus' Bride', quel mage aux traits non humains achète Chise lors d'une vente aux enchères ?"
+  },
+  {
+    "correctAnswer": "Yakumo Yuurakutei",
+    "id": 10910011058352592,
+    "options": [
+      "Yakumo Yuurakutei",
+      "Sukeroku",
+      "Konatsu",
+      "Miyokichi"
+    ],
+    "question": "Dans 'Showa Genroku Rakugo Shinju', quel narrateur principal se bat pour préserver l'art traditionnel du Rakugo ?"
+  },
+  {
+    "correctAnswer": "Reg",
+    "id": 11010112058362692,
+    "options": [
+      "Nanachi",
+      "Reg",
+      "Riko",
+      "Lyza"
+    ],
+    "question": "Dans 'Made in Abyss', quel robot accompagne Riko dans son voyage vers l'abysse ?"
+  },
+  {
+    "correctAnswer": "Mitty",
+    "id": 11110213058372792,
+    "options": [
+      "Bondrewd",
+      "Mitty",
+      "Prushka",
+      "Ozen"
+    ],
+    "question": "Dans 'Made in Abyss', quelle amie de Nanachi est transformée en une créature déformée après une expérience dans l'abysse ?"
+  },
+  {
+    "correctAnswer": "Claude Faustus",
+    "id": 11210314058382892,
+    "options": [
+      "Sebastian Michaelis",
+      "Grell Sutcliff",
+      "Claude Faustus",
+      "William T. Spears"
+    ],
+    "question": "Dans 'Black Butler', quel démon sert Alois Trancy dans la deuxième saison ?"
+  },
+  {
+    "correctAnswer": "Rukia Kuchiki",
+    "id": 11310415058392992,
+    "options": [
+      "Ichigo Kurosaki",
+      "Rukia Kuchiki",
+      "Orihime Inoue",
+      "Uryu Ishida"
+    ],
+    "question": "Dans 'Bleach', quel Shinigami donne accidentellement ses pouvoirs à Ichigo ?"
+  },
+  {
+    "correctAnswer": "Kotarou Azumi",
+    "id": 11410516058403092,
+    "options": [
+      "Kotarou Azumi",
+      "Akane Mizuno",
+      "Chinatsu Nishio",
+      "Takumi Hira"
+    ],
+    "question": "Dans 'Tsuki ga Kirei', quel étudiant de troisième année tombe amoureux de sa camarade de classe Akane ?"
+  },
+  {
+    "correctAnswer": "Kumiko Oumae",
+    "id": 11510617058413192,
+    "options": [
+      "Asuka Tanaka",
+      "Reina Kousaka",
+      "Kumiko Oumae",
+      "Natsuki Nakagawa"
+    ],
+    "question": "Dans 'Sound! Euphonium', quelle musicienne joue de l'euphonium dans le club de musique de son lycée ?"
+  },
+  {
+    "correctAnswer": "Kusuo Saiki",
+    "id": 11610718058423292,
+    "options": [
+      "Aren Kuboyasu",
+      "Riki Nendou",
+      "Shun Kaidou",
+      "Kusuo Saiki"
+    ],
+    "question": "Dans 'The Disastrous Life of Saiki K.', quel étudiant possède toutes sortes de pouvoirs psychiques ?"
+  },
+  {
+    "correctAnswer": "Kyoko Mogami",
+    "id": 11710819058433392,
+    "options": [
+      "Kyoko Mogami",
+      "Ren Tsuruga",
+      "Sho Fuwa",
+      "Kanae Kotonami"
+    ],
+    "question": "Dans 'Skip Beat!', quelle jeune fille cherche à se venger de son ami d'enfance devenu une pop star ?"
+  },
+  {
+    "correctAnswer": "Retsuko",
+    "id": 11810920058443492,
+    "options": [
+      "Fenneko",
+      "Haida",
+      "Retsuko",
+      "Tsunoda"
+    ],
+    "question": "Dans 'Aggretsuko', quel personnage est une jeune panda roux qui évacue son stress en chantant du death metal ?"
+  },
+  {
+    "correctAnswer": "Geass",
+    "id": 13612738058615192,
+    "options": [
+      "Alchemy",
+      "Nen",
+      "Geass",
+      "Demonic Power"
+    ],
+    "question": "Dans 'Code Geass', quel pouvoir est accordé à Lelouch par C.C., lui permettant de donner un ordre incontestable à quiconque ?"
+  },
+  {
+    "correctAnswer": "Armament Haki",
+    "id": 13712839058625292,
+    "options": [
+      "Observation Haki",
+      "Conqueror's Haki",
+      "Armament Haki",
+      "Devil Fruit Power"
+    ],
+    "question": "Dans 'One Piece', quelle technique permet à un utilisateur de revêtir leur corps ou leurs armes d'une armure invisible ?"
+  },
+  {
+    "correctAnswer": "Ghouls",
+    "id": 13812940058635392,
+    "options": [
+      "Espers",
+      "Ghouls",
+      "Vampires",
+      "Titans"
+    ],
+    "question": "Dans 'Tokyo Ghoul', quelles créatures se nourrissent de chair humaine pour survivre ?"
+  },
+  {
+    "correctAnswer": "Emerald Splash",
+    "id": 13913041058645492,
+    "options": [
+      "Star Finger",
+      "Emerald Splash",
+      "Road Roller",
+      "Ora Ora Ora"
+    ],
+    "question": "Dans 'JoJo's Bizarre Adventure', quelle est l'attaque signature du Stand 'Hierophant Green' ?"
+  },
+  {
+    "correctAnswer": "Domain Expansion",
+    "id": 14013142058655592,
+    "options": [
+      "Curse Energy",
+      "Black Flash",
+      "Domain Expansion",
+      "Reverse Cursed Technique"
+    ],
+    "question": "Dans 'Jujutsu Kaisen', quelle technique permet à un sorcier de créer un territoire où leur technique est garantie de toucher leur cible ?"
+  },
+  {
+    "correctAnswer": "Teigu",
+    "id": 14113243058665692,
+    "options": [
+      "Quirk",
+      "Nen",
+      "Imperial Arms",
+      "Teigu"
+    ],
+    "question": "Dans 'Akame ga Kill!', comment sont appelées les armes légendaires créées à partir de créatures dangereuses ?"
+  },
+  {
+    "correctAnswer": "Afterimage Technique",
+    "id": 14213344058675792,
+    "options": [
+      "Solar Flare",
+      "Afterimage Technique",
+      "Kienzan",
+      "Kaioken"
+    ],
+    "question": "Dans 'Dragon Ball', quelle technique permet à un combattant de se déplacer si rapidement qu'une image résiduelle d'eux-mêmes reste derrière ?"
+  },
+  {
+    "correctAnswer": "Spirit Gun",
+    "id": 14313445058685892,
+    "options": [
+      "Spirit Wave",
+      "Spirit Sword",
+      "Spirit Gun",
+      "Demon Energy"
+    ],
+    "question": "Dans 'Yu Yu Hakusho', quelle est la technique signature de Yusuke Urameshi, où il tire un rayon d'énergie de son doigt ?"
+  },
+  {
+    "correctAnswer": "Soul Resonance",
+    "id": 14413546058695992,
+    "options": [
+      "Witch Hunter",
+      "Kishin",
+      "Soul Resonance",
+      "Black Blood"
+    ],
+    "question": "Dans 'Soul Eater', quelle technique permet à une arme et à son meister de synchroniser leurs âmes pour augmenter leur puissance ?"
+  },
+  {
+    "correctAnswer": "Blood Demon Art",
+    "id": 14513647058706092,
+    "options": [
+      "Breath Techniques",
+      "Blood Demon Art",
+      "Total Concentration",
+      "Nichirin Blade"
+    ],
+    "question": "Dans 'Demon Slayer', quel type de techniques est exclusif aux démons, leur permettant d'utiliser des pouvoirs uniques basés sur leur sang ?"
+  },
+  {
+    "correctAnswer": "Almighty Push",
+    "id": 14613748058716192,
+    "options": [
+      "Shinra Tensei (Almighty Push)",
+      "Universal Pull",
+      "Chibaku Tensei",
+      "Rinnegan"
+    ],
+    "question": "Dans 'Naruto', quelle technique Pain utilise-t-il pour détruire Konoha en repoussant tout ce qui l'entoure ?"
+  },
+  {
+    "correctAnswer": "Doppelganger",
+    "id": 14713849058726292,
+    "options": [
+      "Binding Chain",
+      "Bungee Gum",
+      "Doppelganger",
+      "Texture Surprise"
+    ],
+    "question": "Dans 'Hunter x Hunter', quelle technique Chrollo Lucilfer utilise-t-il pour copier les capacités des autres utilisateurs de Nen ?"
+  },
+  {
+    "correctAnswer": "Moonlit Black Cats",
+    "id": 14813950058736392,
+    "options": [
+      "Knights of the Blood Oath",
+      "Moonlit Black Cats",
+      "Fairy Dance",
+      "Aincrad Liberation Force"
+    ],
+    "question": "Dans 'Sword Art Online', quelle est la première guilde à laquelle Kirito s'est joint, qui a eu une fin tragique ?"
+  },
+  {
+    "correctAnswer": "Hammer of Dawn",
+    "id": 14914051058746492,
+    "options": [
+      "End of the World",
+      "Hammer of Dawn",
+      "Starlight Breaker",
+      "Divine Buster"
+    ],
+    "question": "Dans 'Magical Girl Lyrical Nanoha', quelle est la technique emblématique de Fate Testarossa qui utilise une grande épée lumineuse ?"
+  },
+  {
+    "correctAnswer": "Blast of Wind",
+    "id": 15014152058756592,
+    "options": [
+      "Fireball",
+      "Blast of Wind",
+      "Ice Make",
+      "Heavenly Body Magic"
+    ],
+    "question": "Dans 'Fairy Tail', quelle est la technique signature d'Erza Scarlett lorsqu'elle utilise son armure de la fée des vents ?"
+  },
+  {
+    "correctAnswer": "Innocence",
+    "id": 15114253058766692,
+    "options": [
+      "Akuma",
+      "Exorcist",
+      "Innocence",
+      "Dark Matter"
+    ],
+    "question": "Dans 'D.Gray-man', quelle substance sacrée est utilisée par les exorcistes pour combattre les Akuma ?"
+  },
+  {
+    "correctAnswer": "Mushi",
+    "id": 15214354058776792,
+    "options": [
+      "Shinigami",
+      "Youkai",
+      "Mushi",
+      "Akuma"
+    ],
+    "question": "Dans 'Mushishi', quel terme est utilisé pour désigner les créatures primordiales qui existent sans but ou objectif clair ?"
+  },
+  {
+    "correctAnswer": "Sahara",
+    "id": 15314455058786892,
+    "options": [
+      "Himalaya",
+      "Alpes",
+      "Rocky Mountains",
+      "Sahara"
+    ],
+    "question": "Dans 'Children of the Whales', sur quel type de terrain le 'Mud Whale' dérive-t-il ?"
+  },
+  {
+    "correctAnswer": "Anteiku",
+    "id": 15414556058796992,
+    "options": [
+      "Aogiri Tree",
+      "Anteiku",
+      "Clowns",
+      "V"
+    ],
+    "question": "Dans 'Tokyo Ghoul', quel café sert de refuge et de couverture pour les ghouls amicaux de Tokyo ?"
+  },
+  {
+    "correctAnswer": "Parasites",
+    "id": 15514657058807092,
+    "options": [
+      "Aliens",
+      "Zombies",
+      "Vampires",
+      "Parasites"
+    ],
+    "question": "Dans 'Parasyte', quels êtres prennent le contrôle des hôtes humains en se fondant dans leurs cerveaux ?"
+  },
+  {
+    "correctAnswer": "Holo",
+    "id": 15614758058817192,
+    "options": [
+      "Chise",
+      "Holo",
+      "Raphtalia",
+      "Rimuru"
+    ],
+    "question": "Quel personnage est surnommé la 'Louve sage de Yoitsu' dans 'Spice and Wolf' ?"
+  },
+  {
+    "correctAnswer": "Music",
+    "id": 15714859058827292,
+    "options": [
+      "Food",
+      "Sports",
+      "Music",
+      "Magic"
+    ],
+    "question": "De quoi traite principalement l'anime 'Your Lie in April' ?"
+  },
+  {
+    "correctAnswer": "Cavendish",
+    "id": 15814960058837392,
+    "options": [
+      "Bartolomeo",
+      "Cavendish",
+      "Rebecca",
+      "Diamante"
+    ],
+    "question": "Dans 'One Piece', quel concurrent du tournoi du Colisée Corrida est également connu sous le nom de 'Prince Pirate' ?"
+  },
+  {
+    "correctAnswer": "Auto Memories Doll",
+    "id": 15915061058847492,
+    "options": [
+      "Mecha Pilot",
+      "Magic Knight",
+      "Auto Memories Doll",
+      "Spirited Away"
+    ],
+    "question": "Dans 'Violet Evergarden', quel est le métier de Violet, où elle écrit des lettres pour les autres ?"
+  },
+  {
+    "correctAnswer": "Neo Venezia",
+    "id": 16015162058857592,
+    "options": [
+      "Neo Tokyo",
+      "New Kyoto",
+      "Neo Yokio",
+      "Neo Venezia"
+    ],
+    "question": "Dans 'Aria', quelle est la principale ville située sur la planète Mars, inspirée de Venise ?"
+  },
+  {
+    "correctAnswer": "Pandora's Actor",
+    "id": 16115263058867692,
+    "options": [
+      "Demiurge",
+      "Albedo",
+      "Shalltear Bloodfallen",
+      "Pandora's Actor"
+    ],
+    "question": "Dans 'Overlord', quel NPC de la Grande Tombe de Nazarick a été personnellement créé par Ainz Ooal Gown ?"
+  },
+  {
+    "correctAnswer": "Letter Bees",
+    "id": 16215364058877792,
+    "options": [
+      "Magic Knights",
+      "Letter Bees",
+      "AutoReivs",
+      "Dolls"
+    ],
+    "question": "Dans 'Tegami Bachi', quel est le nom des messagers qui livrent des lettres dans un monde nocturne ?"
+  },
+  {
+    "correctAnswer": "Iwatobi",
+    "id": 16315465058887892,
+    "options": [
+      "Samezuka",
+      "Iwatobi",
+      "Karasuno",
+      "Nekoma"
+    ],
+    "question": "Dans 'Free!', de quelle équipe de natation Haruka, Makoto, Nagisa et Rin étaient-ils membres pendant leurs années d'école primaire ?"
+  },
+  {
+    "correctAnswer": "Comet Lucifer",
+    "id": 16415566058897992,
+    "options": [
+      "Angel Beats!",
+      "Star Driver",
+      "Comet Lucifer",
+      "Eureka Seven"
+    ],
+    "question": "Dans quel anime un jeune garçon découvre une mystérieuse fille avec des cheveux bleus dans une mine souterraine ?"
+  },
+  {
+    "correctAnswer": "Cinnabar",
+    "id": 16515667058908092,
+    "options": [
+      "Phosphophyllite",
+      "Diamond",
+      "Bort",
+      "Cinnabar"
+    ],
+    "question": "Dans 'Land of the Lustrous', quel personnage est chargé de patrouiller la nuit en raison de sa toxicité ?"
+  },
+  {
+    "correctAnswer": "Magical Circles",
+    "id": 16615768058918192,
+    "options": [
+      "Jutsu Signs",
+      "Haki",
+      "Nen Circles",
+      "Magical Circles"
+    ],
+    "question": "Dans 'Cardcaptor Sakura', quel symbole Sakura utilise-t-elle souvent pour invoquer ses pouvoirs ?"
+  },
+  {
+    "correctAnswer": "Shogi",
+    "id": 16715869058928292,
+    "options": [
+      "Chess",
+      "Go",
+      "Shogi",
+      "Mahjong"
+    ],
+    "question": "Quel jeu est au cœur de l'anime 'March Comes in Like a Lion' ?"
+  },
+  {
+    "correctAnswer": "Clow Cards",
+    "id": 16815970058938392,
+    "options": [
+      "Star Cards",
+      "Heart Cards",
+      "Clow Cards",
+      "Sakura Cards"
+    ],
+    "question": "Dans 'Cardcaptor Sakura', quel ensemble de cartes magiques Sakura doit-elle initialement recueillir ?"
+  },
+  {
+    "correctAnswer": "Spirit World",
+    "id": 16916071058948492,
+    "options": [
+      "Netherworld",
+      "Spirit World",
+      "Demon Realm",
+      "Heaven"
+    ],
+    "question": "Dans 'Yu Yu Hakusho', Yusuke Urameshi devient détective pour quel monde après sa mort ?"
+  },
+  {
+    "correctAnswer": "Lacrima",
+    "id": 17016172058958592,
+    "options": [
+      "Etherion",
+      "Ex-quip",
+      "Celestial Spirit Key",
+      "Lacrima"
+    ],
+    "question": "Dans 'Fairy Tail', quel terme désigne les cristaux magiques utilisés pour diverses fonctions, y compris le stockage de magie ?"
+  },
+  {
+    "correctAnswer": "Night Raid",
+    "id": 17116273058968692,
+    "options": [
+      "Jaegers",
+      "Wild Hunt",
+      "Night Raid",
+      "The Revolutionary Army"
+    ],
+    "question": "Dans 'Akame ga Kill!', quel groupe d'assassins travaille pour renverser l'Empire corrompu ?"
+  },
+  {
+    "correctAnswer": "Halberd",
+    "id": 17216374058978792,
+    "options": [
+      "Sword",
+      "Bow",
+      "Whip",
+      "Halberd"
+    ],
+    "question": "Dans 'Kill la Kill', quel type d'arme est principalement utilisé par Satsuki Kiryuin ?"
+  },
+  {
+    "correctAnswer": "Witch",
+    "id": 17316475058988892,
+    "options": [
+      "Fairy",
+      "Witch",
+      "Spirit",
+      "Demon"
+    ],
+    "question": "Dans 'Little Witch Academia', quel type de créature magique Atsuko Kagari aspire-t-elle à devenir ?"
+  },
+  {
+    "correctAnswer": "Kabane",
+    "id": 17416576058998992,
+    "options": [
+      "Ghoul",
+      "Titan",
+      "Zombie",
+      "Kabane"
+    ],
+    "question": "Dans 'Kabaneri of the Iron Fortress', comment sont appelées les créatures infectées qui menacent l'humanité ?"
+  },
+  {
+    "correctAnswer": "Kawamoto",
+    "id": 17516677059009092,
+    "options": [
+      "Kurapika",
+      "Kawamoto",
+      "Kurosawa",
+      "Kamado"
+    ],
+    "question": "Dans 'March Comes in Like a Lion', quel est le nom de famille des trois sœurs qui se lient d'amitié avec Rei Kiriyama ?"
+  },
+  {
+    "correctAnswer": "Hestia Knife",
+    "id": 17616778059019192,
+    "options": [
+      "Durandal",
+      "Excalibur",
+      "Hestia Knife",
+      "Masamune"
+    ],
+    "question": "Dans 'Is It Wrong to Try to Pick Up Girls in a Dungeon?', quel est le nom du couteau que Bell Cranel reçoit de sa déesse ?"
+  },
+  {
+    "correctAnswer": "Guild",
+    "id": 17716879059029292,
+    "options": [
+      "Squad",
+      "Team",
+      "Guild",
+      "Group"
+    ],
+    "question": "Dans 'Log Horizon', comment sont appelées les organisations formées par les aventuriers pour accomplir des quêtes et des raids ?"
+  },
+  {
+    "correctAnswer": "Kagome Higurashi",
+    "id": 17816980059039392,
+    "options": [
+      "Rin Tohsaka",
+      "Kagome Higurashi",
+      "Sango",
+      "Naraku"
+    ],
+    "question": "Dans 'Inuyasha', quel personnage moderne est transporté à l'époque Sengoku après avoir été tiré dans un puits sacré ?"
+  },
+  {
+    "correctAnswer": "SOMA",
+    "id": 17917081059049492,
+    "options": [
+      "Nectar",
+      "Mana",
+      "Elixir",
+      "SOMA"
+    ],
+    "question": "Dans 'God Eater', comment s'appelle la substance utilisée pour améliorer les capacités des armes divines ?"
+  },
+  {
+    "correctAnswer": "Fruits Basket",
+    "id": 18017182059059590,
+    "options": [
+      "Flower Basket",
+      "Vegetable Basket",
+      "Fruits Basket",
+      "Meat Basket"
+    ],
+    "question": "Dans quel anime une famille est-elle maudite pour se transformer en animaux du zodiaque chinois lorsqu'elle est embrassée par le sexe opposé ?"
+  },
+  {
+    "correctAnswer": "Kira",
+    "id": 18117283059069692,
+    "options": [
+      "Ryuk",
+      "Kira",
+      "Mello",
+      "Near"
+    ],
+    "question": "Dans 'Death Note', quel surnom Light Yagami utilise-t-il lorsqu'il élimine les criminels avec le cahier ?"
+  },
+  {
+    "correctAnswer": "Dr. Stone",
+    "id": 18217384059079790,
+    "options": [
+      "Fire Force",
+      "Dr. Stone",
+      "Vinland Saga",
+      "Golden Kamuy"
+    ],
+    "question": "Dans quel anime un génie scientifique essaie-t-il de reconstruire la civilisation à partir de zéro après que l'humanité a été pétrifiée pendant des milliers d'années ?"
+  },
+  {
+    "correctAnswer": "Ishval Civil War",
+    "id": 18317485059089892,
+    "options": [
+      "Hundred Years War",
+      "Fourth Great Ninja War",
+      "Ishval Civil War",
+      "War of the Lions"
+    ],
+    "question": "Dans 'Fullmetal Alchemist', quel conflit majeur a conduit à de nombreux traumatismes pour les personnages principaux et a eu de profondes implications politiques ?"
+  },
+  {
+    "correctAnswer": "Dango",
+    "id": 18417586059099990,
+    "options": [
+      "Ramen",
+      "Sushi",
+      "Tempura",
+      "Dango"
+    ],
+    "question": "Dans 'Clannad', quel aliment est fréquemment associé à la famille Furukawa et est également présent dans l'ending de l'anime ?"
+  },
+  {
+    "correctAnswer": "Black Bulls",
+    "id": 18517687059110092,
+    "options": [
+      "Golden Dawn",
+      "Silver Eagles",
+      "Crimson Lions",
+      "Black Bulls"
+    ],
+    "question": "Dans 'Black Clover', à quelle brigade magique Asta rejoint-il après avoir reçu son grimoire ?"
+  },
+  {
+    "correctAnswer": "Phantom Troupe",
+    "id": 18617788059120190,
+    "options": [
+      "Hunter Association",
+      "Phantom Troupe",
+      "Zodiacs",
+      "Greed Island Players"
+    ],
+    "question": "Dans 'Hunter x Hunter', quel groupe est responsable de l'extermination du clan Kurta et du vol de leurs yeux écarlates ?"
+  },
+  {
+    "correctAnswer": "Hinamizawa",
+    "id": 18717889059130292,
+    "options": [
+      "Inaba",
+      "Kamihama",
+      "Hinamizawa",
+      "Tokonosu"
+    ],
+    "question": "Dans 'Higurashi When They Cry', dans quel village se déroulent les mystérieux meurtres et disparitions annuels ?"
+  },
+  {
+    "correctAnswer": "Alchemy",
+    "id": 18817990059140390,
+    "options": [
+      "Magic",
+      "Quirks",
+      "Nen",
+      "Alchemy"
+    ],
+    "question": "Dans 'The Legend of the Legendary Heroes', Ryner Lute possède un pouvoir spécial qui lui permet de copier n'importe quelle magie. Comment s'appelle ce pouvoir ?"
+  },
+  {
+    "correctAnswer": "The Red Comet",
+    "id": 18918091059150492,
+    "options": [
+      "The White Wolf",
+      "The Blue Flash",
+      "The Green Giant",
+      "The Red Comet"
+    ],
+    "question": "Dans 'Mobile Suit Gundam', quel surnom est donné à Char Aznable en raison de ses compétences de pilote exceptionnelles ?"
+  },
+  {
+    "correctAnswer": "Anpan",
+    "id": 19018192059160590,
+    "options": [
+      "Pocky",
+      "Mochi",
+      "Anpan",
+      "Taiyaki"
+    ],
+    "question": "Dans 'Anpanman', quel type de pain est la tête du héros ?"
+  },
+  {
+    "correctAnswer": "Bam",
+    "id": 19118293059170692,
+    "options": [
+      "Khun",
+      "Rak",
+      "Bam",
+      "Endorsi"
+    ],
+    "question": "Dans 'Tower of God', quel personnage principal est déterminé à grimper la tour pour retrouver son ami Rachel ?"
+  },
+  {
+    "correctAnswer": "Piano",
+    "id": 19218394059180790,
+    "options": [
+      "Violin",
+      "Flute",
+      "Piano",
+      "Guitar"
+    ],
+    "question": "Dans 'Nodame Cantabile', quel instrument est principalement joué par Nodame ?"
+  },
+  {
+    "correctAnswer": "Ohtori Academy",
+    "id": 19318495059190892,
+    "options": [
+      "Honnoji Academy",
+      "Ohtori Academy",
+      "U.A. High School",
+      "Tokyo Metropolitan Curse Technical College"
+    ],
+    "question": "Dans 'Revolutionary Girl Utena', dans quelle académie se déroule l'histoire principale ?"
+  },
+  {
+    "correctAnswer": "Vash the Stampede",
+    "id": 19418596059200990,
+    "options": [
+      "Spike Spiegel",
+      "Kenshin Himura",
+      "Vash the Stampede",
+      "Edward Elric"
+    ],
+    "question": "Quel personnage est surnommé 'The Humanoid Typhoon' dans 'Trigun' ?"
+  },
+  {
+    "correctAnswer": "NerveGear",
+    "id": 19518697059211092,
+    "options": [
+      "DiveGear",
+      "NerveGear",
+      "FullDive",
+      "BrainLink"
+    ],
+    "question": "Dans 'Sword Art Online', comment s'appelle le casque de réalité virtuelle utilisé pour accéder au jeu initial ?"
+  },
+  {
+    "correctAnswer": "Kyo and Yuki",
+    "id": 19618798059221190,
+    "options": [
+      "Rin and Yukio",
+      "Kyo and Yuki",
+      "Haru and Shigure",
+      "Momiji and Hatori"
+    ],
+    "question": "Dans 'Fruits Basket', quels sont les deux membres de la famille Soma qui sont en conflit constant, représentant le chat et le rat ?"
+  },
+  {
+    "correctAnswer": "Spiral Power",
+    "id": 19718899059231292,
+    "options": [
+      "Nen",
+      "Chakra",
+      "Ki",
+      "Spiral Power"
+    ],
+    "question": "Dans 'Gurren Lagann', quelle forme d'énergie les protagonistes utilisent-ils pour alimenter leurs mechas et réaliser l'impossible ?"
+  },
+  {
+    "correctAnswer": "Ink",
+    "id": 19818900059241390,
+    "options": [
+      "Blood",
+      "Tears",
+      "Ink",
+      "Sweat"
+    ],
+    "question": "Dans 'Blue Exorcist', quel médium Rin utilise-t-il pour dessiner des flammes lorsqu'il dégaine son épée ?"
+  },
+  {
+    "correctAnswer": "Puck",
+    "id": 19919001059251492,
+    "options": [
+      "Judeau",
+      "Casca",
+      "Puck",
+      "Skull Knight"
+    ],
+    "question": "Dans 'Berserk', quel esprit féerique devient le compagnon constant de Guts lors de ses voyages ?"
+  },
+  {
+    "correctAnswer": "Gourmet Cells",
+    "id": 20019102059261590,
+    "options": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Nucleus",
+      "Gourmet Cells"
+    ],
+    "question": "Dans 'Toriko', quel type de cellules spéciales donne aux individus des capacités surhumaines et un appétit énorme ?"
+  },
+  {
+    "correctAnswer": "Zwei",
+    "id": 20119203059271692,
+    "options": [
+      "Eins",
+      "Zwei",
+      "Drei",
+      "Vier"
+    ],
+    "question": "Dans 'Phantom: Requiem for the Phantom', quel est le nom de code donné au protagoniste après son lavage de cerveau ?"
+  },
+  {
+    "correctAnswer": "Dango",
+    "id": 20219304059281790,
+    "options": [
+      "Taiyaki",
+      "Takoyaki",
+      "Dorayaki",
+      "Dango"
+    ],
+    "question": "Dans 'Clannad', quel est le dessert préféré de Nagisa Furukawa qui est souvent associé à elle ?"
+  },
+  {
+    "correctAnswer": "AutoReiv",
+    "id": 20319405059291892,
+    "options": [
+      "Cyborg",
+      "Replicant",
+      "AutoReiv",
+      "Android"
+    ],
+    "question": "Dans 'Ergo Proxy', comment sont appelés les robots humanoïdes qui servent de compagnons et d'assistants aux humains ?"
+  },
+  {
+    "correctAnswer": "Class 3-E",
+    "id": 20419506059301990,
+    "options": [
+      "Class 1-A",
+      "Class 2-B",
+      "Class 3-E",
+      "Class 4-D"
+    ],
+    "question": "Dans 'Assassination Classroom', quelle classe est chargée d'assassiner leur professeur extraterrestre, Koro-sensei ?"
+  },
+  {
+    "correctAnswer": "The Wired",
+    "id": 20519607059312092,
+    "options": [
+      "The Matrix",
+      "The Web",
+      "The Net",
+      "The Wired"
+    ],
+    "question": "Dans 'Serial Experiments Lain', comment s'appelle le réseau mondial de communication électronique ?"
+  },
+  {
+    "correctAnswer": "Nyanko-sensei",
+    "id": 20619708059322190,
+    "options": [
+      "Kyo-sensei",
+      "Chibi-sensei",
+      "Nyanko-sensei",
+      "Neko-sensei"
+    ],
+    "question": "Dans 'Natsume's Book of Friends', quel est le surnom du puissant esprit qui ressemble à un chat dodu ?"
   }
 ]

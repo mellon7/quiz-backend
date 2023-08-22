@@ -328,5 +328,1732 @@
       "William Thackeray"
     ],
     "question": "Qui est l'auteur de 'A Tale of Two Cities' ?"
+  },
+  {
+    "correctAnswer": "Marcel Proust",
+    "id": 1012345678910111,
+    "options": [
+      "Marcel Proust",
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Émile Zola"
+    ],
+    "question": "Qui est l'auteur de 'À la recherche du temps perdu'?"
+  },
+  {
+    "correctAnswer": "L'épistolaire",
+    "id": 1012345678910112,
+    "options": [
+      "L'autobiographie",
+      "Le picaresque",
+      "L'épistolaire",
+      "Le pastoral"
+    ],
+    "question": "Quel genre littéraire est caractérisé par des lettres écrites par un ou plusieurs personnages?"
+  },
+  {
+    "correctAnswer": "Albert Camus",
+    "id": 1012345678910113,
+    "options": [
+      "Jean-Paul Sartre",
+      "François Mauriac",
+      "André Malraux",
+      "Albert Camus"
+    ],
+    "question": "Qui a écrit 'L'Étranger', une œuvre phare de l'existentialisme?"
+  },
+  {
+    "correctAnswer": "La Pléiade",
+    "id": 1012345678910114,
+    "options": [
+      "La Pléiade",
+      "Les Dadaïstes",
+      "Les Symbolistes",
+      "Les Romantiques"
+    ],
+    "question": "Quel mouvement littéraire du XVIe siècle avait pour objectif de renouveler la langue française?"
+  },
+  {
+    "correctAnswer": "Stendhal",
+    "id": 1012345678910115,
+    "options": [
+      "Honoré de Balzac",
+      "Stendhal",
+      "Guy de Maupassant",
+      "Gérard de Nerval"
+    ],
+    "question": "Qui a écrit 'Le Rouge et le Noir'?"
+  },
+  {
+    "correctAnswer": "L'assonance",
+    "id": 1012345678910116,
+    "options": [
+      "L'allitération",
+      "La métonymie",
+      "L'antithèse",
+      "L'assonance"
+    ],
+    "question": "Quelle figure de style repose sur la répétition de voyelles à l'intérieur de mots rapprochés?"
+  },
+  {
+    "correctAnswer": "Baudelaire",
+    "id": 1012345678910117,
+    "options": [
+      "Rimbaud",
+      "Baudelaire",
+      "Verlaine",
+      "Lautréamont"
+    ],
+    "question": "Qui est l'auteur des 'Fleurs du mal'?"
+  },
+  {
+    "correctAnswer": "Le réalisme",
+    "id": 1012345678910118,
+    "options": [
+      "Le surréalisme",
+      "Le baroque",
+      "Le classicisme",
+      "Le réalisme"
+    ],
+    "question": "Quel mouvement littéraire cherche à représenter la réalité de manière objective, sans l'idéaliser?"
+  },
+  {
+    "correctAnswer": "Molière",
+    "id": 1012345678910119,
+    "options": [
+      "Molière",
+      "Racine",
+      "Corneille",
+      "Voltaire"
+    ],
+    "question": "Qui a écrit 'Le Tartuffe'?"
+  },
+  {
+    "correctAnswer": "La Renaissance",
+    "id": 1012345678910120,
+    "options": [
+      "Le Moyen Âge",
+      "Le Baroque",
+      "La Renaissance",
+      "Les Lumières"
+    ],
+    "question": "Durant quelle période Rabelais a-t-il écrit 'Gargantua' et 'Pantagruel'?"
+  },
+  {
+    "correctAnswer": "Le Nouveau Roman",
+    "id": 1012345678910121,
+    "options": [
+      "Le Nouveau Roman",
+      "Le Romantisme",
+      "Le Naturalisme",
+      "Le Symbolisme"
+    ],
+    "question": "Quel mouvement littéraire du XXe siècle est associé à des auteurs comme Alain Robbe-Grillet et Nathalie Sarraute?"
+  },
+  {
+    "correctAnswer": "Marguerite Duras",
+    "id": 1012345678910122,
+    "options": [
+      "Marguerite Duras",
+      "Colette",
+      "George Sand",
+      "Simone de Beauvoir"
+    ],
+    "question": "Qui est l'auteure de 'L'Amant'?"
+  },
+  {
+    "correctAnswer": "Une élision",
+    "id": 1012345678910123,
+    "options": [
+      "Une allusion",
+      "Une ellipse",
+      "Une élision",
+      "Une élocution"
+    ],
+    "question": "Comment appelle-t-on la suppression d'une voyelle en fin de mot devant une voyelle ou un 'h' muet en début de mot suivant?"
+  },
+  {
+    "correctAnswer": "Victor Hugo",
+    "id": 1012345678910124,
+    "options": [
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Pierre Corneille",
+      "Jules Verne"
+    ],
+    "question": "Quel auteur a été exilé à Guernesey après s'être opposé au coup d'État de Louis-Napoléon Bonaparte?"
+  },
+  {
+    "correctAnswer": "Le sonnet",
+    "id": 1012345678910125,
+    "options": [
+      "Le haïku",
+      "Le sonnet",
+      "Le vers libre",
+      "Le rondeau"
+    ],
+    "question": "Quelle forme poétique est composée de 14 vers, généralement répartis en deux quatrains et deux tercets?"
+  },
+  {
+    "correctAnswer": "Montesquieu",
+    "id": 1012345678910126,
+    "options": [
+      "Montesquieu",
+      "Rousseau",
+      "Diderot",
+      "Voltaire"
+    ],
+    "question": "Qui est l'auteur de 'Lettres persanes', un roman épistolaire satirique?"
+  },
+  {
+    "correctAnswer": "Le roman d'apprentissage",
+    "id": 1012345678910127,
+    "options": [
+      "Le roman d'aventure",
+      "Le roman d'amour",
+      "Le roman d'apprentissage",
+      "Le roman historique"
+    ],
+    "question": "Quel type de roman décrit le passage de l'enfance à l'âge adulte et l'évolution du héros face aux épreuves de la vie?"
+  },
+  {
+    "correctAnswer": "Samuel Beckett",
+    "id": 1012345678910128,
+    "options": [
+      "Samuel Beckett",
+      "Eugène Ionesco",
+      "Jean Genet",
+      "Jean-Paul Sartre"
+    ],
+    "question": "Qui a écrit 'En attendant Godot', une pièce emblématique du théâtre de l'absurde?"
+  },
+  {
+    "correctAnswer": "Madame Bovary",
+    "id": 1012345678910129,
+    "options": [
+      "Madame Bovary",
+      "Les Misérables",
+      "Bel-Ami",
+      "Thérèse Raquin"
+    ],
+    "question": "Quel roman de Flaubert a été au centre d'un procès pour outrage à la morale publique et religieuse?"
+  },
+  {
+    "correctAnswer": "Paul Éluard",
+    "id": 1012345678910130,
+    "options": [
+      "Paul Valéry",
+      "Paul Éluard",
+      "Paul Claudel",
+      "Paul Morand"
+    ],
+    "question": "Quel poète est associé au mouvement surréaliste et est l'auteur de 'Liberté'?"
+  },
+  {
+    "correctAnswer": "Les lamentations",
+    "id": 2012345678910154,
+    "options": [
+      "Les élégies",
+      "Les satires",
+      "Les odes",
+      "Les lamentations"
+    ],
+    "question": "Comment appelle-t-on les poèmes antiques qui pleurent la destruction des villes ou la perte de biens culturels?"
+  },
+  {
+    "correctAnswer": "L'École des Femmes",
+    "id": 2012345678910155,
+    "options": [
+      "Tartuffe",
+      "Le Misanthrope",
+      "Dom Juan",
+      "L'École des Femmes"
+    ],
+    "question": "Quelle pièce de Molière a suscité une vive polémique et a été qualifiée de 'guerre comique'?"
+  },
+  {
+    "correctAnswer": "La poésie courtoise",
+    "id": 2012345678910156,
+    "options": [
+      "La poésie épique",
+      "La poésie didactique",
+      "La poésie lyrique",
+      "La poésie courtoise"
+    ],
+    "question": "Quel style de poésie médiévale mettait en avant l'amour idéalisé et était souvent adressé à une dame inatteignable?"
+  },
+  {
+    "correctAnswer": "Le baroque",
+    "id": 2012345678910157,
+    "options": [
+      "Le classicisme",
+      "Le baroque",
+      "Le réalisme",
+      "Le surréalisme"
+    ],
+    "question": "Quel mouvement littéraire du XVIIe siècle est caractérisé par l'exubérance, la décoration élaborée et le contraste?"
+  },
+  {
+    "correctAnswer": "Le stream of consciousness",
+    "id": 2012345678910158,
+    "options": [
+      "Le monologue intérieur",
+      "Le discours indirect libre",
+      "Le stream of consciousness",
+      "La focalisation zéro"
+    ],
+    "question": "Quelle technique narrative cherche à représenter le flux continu de pensées et de sensations d'un personnage, sans intervention apparente de l'auteur?"
+  },
+  {
+    "correctAnswer": "Les moralistes",
+    "id": 2012345678910159,
+    "options": [
+      "Les philosophes",
+      "Les didacticiens",
+      "Les moralistes",
+      "Les pamphlétaires"
+    ],
+    "question": "Comment appelle-t-on les écrivains du XVIIe siècle, comme La Rochefoucauld et La Bruyère, qui ont écrit sur la nature humaine et les mœurs de leur époque?"
+  },
+  {
+    "correctAnswer": "Le théâtre de l'absurde",
+    "id": 2012345678910160,
+    "options": [
+      "Le théâtre réaliste",
+      "Le théâtre épique",
+      "Le théâtre symboliste",
+      "Le théâtre de l'absurde"
+    ],
+    "question": "Quel mouvement théâtral du XXe siècle met en scène des personnages pris dans des situations sans signification, reflétant l'incompréhensibilité de la condition humaine?"
+  },
+  {
+    "correctAnswer": "La Nouvelle Vague",
+    "id": 2012345678910161,
+    "options": [
+      "Le Nouveau Roman",
+      "Le Surréalisme",
+      "Le Naturalisme",
+      "La Nouvelle Vague"
+    ],
+    "question": "Quel mouvement littéraire et cinématographique des années 1950-1960 en France a cherché à rompre avec les conventions narratives et techniques traditionnelles?"
+  },
+  {
+    "correctAnswer": "Les troubadours",
+    "id": 2012345678910162,
+    "options": [
+      "Les ménestrels",
+      "Les jongleurs",
+      "Les troubadours",
+      "Les griots"
+    ],
+    "question": "Comment appelle-t-on les poètes-compositeurs médiévaux du sud de la France qui chantaient en occitan?"
+  },
+  {
+    "correctAnswer": "L'utopie",
+    "id": 2012345678910163,
+    "options": [
+      "La dystopie",
+      "L'utopie",
+      "L'apologue",
+      "La satire"
+    ],
+    "question": "Quel genre littéraire décrit une société idéale, souvent comme une critique de la société existante, et a été popularisé par des œuvres comme 'Utopia' de Thomas More?"
+  },
+  {
+    "correctAnswer": "La Pléiade",
+    "id": 2012345678910164,
+    "options": [
+      "Les Précieuses",
+      "La Pléiade",
+      "Les Libertins",
+      "Les Encyclopédistes"
+    ],
+    "question": "Quel groupe de poètes du XVIe siècle, comprenant Ronsard et Du Bellay, a cherché à enrichir la langue française et à l'élever au rang des grandes langues de culture?"
+  },
+  {
+    "correctAnswer": "La quête du Graal",
+    "id": 2012345678910165,
+    "options": [
+      "La quête d'Excalibur",
+      "La quête du Graal",
+      "La quête de la Toison d'or",
+      "La quête de l'Élixir de longue vie"
+    ],
+    "question": "Quel thème récurrent de la littérature médiévale concerne la recherche d'une relique sacrée par les chevaliers de la Table Ronde?"
+  },
+  {
+    "correctAnswer": "Le sonnet",
+    "id": 2012345678910166,
+    "options": [
+      "Le rondeau",
+      "Le sonnet",
+      "La ballade",
+      "Le tercet"
+    ],
+    "question": "Quelle forme poétique d'origine italienne est composée de 14 vers et est souvent utilisée pour exprimer l'amour?"
+  },
+  {
+    "correctAnswer": "La didascalie",
+    "id": 3012345678910167,
+    "options": [
+      "Le monologue",
+      "La tirade",
+      "La stichomythie",
+      "La didascalie"
+    ],
+    "question": "Dans un texte théâtral, comment appelle-t-on les indications scéniques données par l'auteur?"
+  },
+  {
+    "correctAnswer": "L'Épopée de Gilgamesh",
+    "id": 3012345678910168,
+    "options": [
+      "L'Iliade",
+      "L'Odyssée",
+      "L'Épopée de Gilgamesh",
+      "Le Mahabharata"
+    ],
+    "question": "Quelle est l'une des plus anciennes œuvres littéraires connues, originaire de Mésopotamie?"
+  },
+  {
+    "correctAnswer": "Le vers libre",
+    "id": 3012345678910169,
+    "options": [
+      "L'alexandrin",
+      "L'octosyllabe",
+      "Le décasyllabe",
+      "Le vers libre"
+    ],
+    "question": "Quel type de vers ne suit pas une forme fixe ni un schéma de rimes spécifique?"
+  },
+  {
+    "correctAnswer": "Les fables",
+    "id": 3012345678910170,
+    "options": [
+      "Les sonnets",
+      "Les élégies",
+      "Les fables",
+      "Les odes"
+    ],
+    "question": "Quel genre littéraire, popularisé par La Fontaine, raconte généralement une courte histoire moralisatrice mettant en scène des animaux?"
+  },
+  {
+    "correctAnswer": "Les Précieuses ridicules",
+    "id": 3012345678910171,
+    "options": [
+      "Les Femmes savantes",
+      "Le Misanthrope",
+      "Les Précieuses ridicules",
+      "L'École des femmes"
+    ],
+    "question": "Quelle comédie de Molière se moque des femmes qui affectent des manières raffinées et un langage précieux?"
+  },
+  {
+    "correctAnswer": "Les écrivains maudits",
+    "id": 3012345678910172,
+    "options": [
+      "Les écrivains libertins",
+      "Les écrivains maudits",
+      "Les écrivains réalistes",
+      "Les écrivains académiciens"
+    ],
+    "question": "Comment appelle-t-on les écrivains qui ont vécu en marge de la société, souvent dans la pauvreté et l'anonymat, comme Rimbaud ou Verlaine?"
+  },
+  {
+    "correctAnswer": "Les humanistes",
+    "id": 3012345678910173,
+    "options": [
+      "Les surréalistes",
+      "Les romantiques",
+      "Les humanistes",
+      "Les existentialistes"
+    ],
+    "question": "Durant la Renaissance, quel groupe d'intellectuels s'est intéressé à l'étude des textes anciens et a prôné l'éducation et la culture pour tous?"
+  },
+  {
+    "correctAnswer": "La métempsycose",
+    "id": 3012345678910174,
+    "options": [
+      "La métaphore",
+      "La métonymie",
+      "La métempsycose",
+      "La métempsychose"
+    ],
+    "question": "Quel terme désigne la croyance en la transmigration des âmes d'un corps à un autre après la mort?"
+  },
+  {
+    "correctAnswer": "Le cycle arthurien",
+    "id": 3012345678910175,
+    "options": [
+      "Le cycle homérique",
+      "Le cycle arthurien",
+      "Le cycle troyen",
+      "Le cycle carolingien"
+    ],
+    "question": "Quel ensemble de légendes médiévales raconte les exploits du roi Arthur, de la Table Ronde et de la quête du Graal?"
+  },
+  {
+    "correctAnswer": "La poésie symboliste",
+    "id": 3012345678910176,
+    "options": [
+      "La poésie réaliste",
+      "La poésie surréaliste",
+      "La poésie symboliste",
+      "La poésie classique"
+    ],
+    "question": "Quel courant poétique du XIXe siècle, représenté par des auteurs comme Mallarmé et Verlaine, privilégie l'évocation et la suggestion plutôt que la description directe?"
+  },
+  {
+    "correctAnswer": "Le drame romantique",
+    "id": 3012345678910177,
+    "options": [
+      "La tragédie classique",
+      "Le drame bourgeois",
+      "Le drame romantique",
+      "La comédie de mœurs"
+    ],
+    "question": "Quel genre théâtral, popularisé par Victor Hugo avec 'Hernani', cherche à briser les règles classiques et à mêler le tragique et le comique?"
+  },
+  {
+    "correctAnswer": "L'encyclopédie",
+    "id": 3012345678910178,
+    "options": [
+      "L'encyclopédie",
+      "Le dictionnaire",
+      "La gazette",
+      "Le manifeste"
+    ],
+    "question": "Quelle œuvre dirigée par Diderot et d'Alembert au XVIIIe siècle visait à rassembler et diffuser tout le savoir de l'époque?"
+  },
+  {
+    "correctAnswer": "L'École des Femmes",
+    "id": 3012345678910179,
+    "options": [
+      "Dom Juan",
+      "Le Bourgeois gentilhomme",
+      "L'École des Femmes",
+      "Les Fourberies de Scapin"
+    ],
+    "question": "Dans quelle pièce de Molière le personnage d'Arnolphe tente-t-il d'éduquer sa pupille Agnès à l'abri du monde pour en faire l'épouse parfaite?"
+  },
+  {
+    "correctAnswer": "L'épistolaire",
+    "id": 3012345678910180,
+    "options": [
+      "L'autobiographique",
+      "L'épistolaire",
+      "L'historique",
+      "Le picaresque"
+    ],
+    "question": "Quel genre littéraire est composé de lettres échangées entre les personnages, comme 'Les Liaisons dangereuses' de Laclos?"
+  },
+  {
+    "correctAnswer": "La catharsis",
+    "id": 3012345678910181,
+    "options": [
+      "L'anagnorisis",
+      "La catharsis",
+      "Le pathos",
+      "La peripeteia"
+    ],
+    "question": "Selon Aristote, quelle est la fonction de la tragédie, permettant au spectateur d'éprouver et de purger ses émotions?"
+  },
+  {
+    "correctAnswer": "Les salons littéraires",
+    "id": 3012345678910182,
+    "options": [
+      "Les académies littéraires",
+      "Les clubs littéraires",
+      "Les cercles littéraires",
+      "Les salons littéraires"
+    ],
+    "question": "Au XVIIe et XVIIIe siècles, comment s'appellent les réunions où intellectuels, écrivains et artistes se retrouvaient pour discuter de littérature et de philosophie, souvent chez une femme de la haute société?"
+  },
+  {
+    "correctAnswer": "Le Haïku",
+    "id": 3012345678910183,
+    "options": [
+      "Le Tanka",
+      "Le Haïku",
+      "Le Sonnet",
+      "Le Kyoka"
+    ],
+    "question": "Quelle forme poétique japonaise est composée de trois vers de 5, 7 et 5 syllabes et capture un moment de la nature ou de la vie quotidienne?"
+  },
+  {
+    "correctAnswer": "Le Nouveau Roman",
+    "id": 3012345678910184,
+    "options": [
+      "Le roman gothique",
+      "Le roman picaresque",
+      "Le roman d'aventure",
+      "Le Nouveau Roman"
+    ],
+    "question": "Quel mouvement littéraire des années 1950-1960 en France s'est éloigné de la narration traditionnelle et a expérimenté avec la structure et le style, avec des auteurs comme Alain Robbe-Grillet et Nathalie Sarraute?"
+  },
+  {
+    "correctAnswer": "Le réalisme magique",
+    "id": 4012345678910185,
+    "options": [
+      "Le surréalisme",
+      "Le réalisme magique",
+      "L'existentialisme",
+      "Le postmodernisme"
+    ],
+    "question": "Quel genre littéraire, souvent associé à des auteurs latino-américains comme Gabriel García Márquez, mélange des éléments réalistes et fantastiques dans un contexte quotidien?"
+  },
+  {
+    "correctAnswer": "La Chanson de Roland",
+    "id": 4012345678910186,
+    "options": [
+      "La Chanson des Nibelungen",
+      "La Chanson de Geste",
+      "La Chanson de Roland",
+      "La Chanson de Tristan et Iseut"
+    ],
+    "question": "Quelle épopée médiévale raconte la bataille de Roncevaux et le sacrifice du neveu de Charlemagne?"
+  },
+  {
+    "correctAnswer": "L'ekphrasis",
+    "id": 4012345678910187,
+    "options": [
+      "L'euphémisme",
+      "L'ellipse",
+      "L'ekphrasis",
+      "L'elision"
+    ],
+    "question": "Comment appelle-t-on une description détaillée d'une œuvre d'art à l'intérieur d'un texte littéraire?"
+  },
+  {
+    "correctAnswer": "Les Lumières",
+    "id": 4012345678910188,
+    "options": [
+      "Le Baroque",
+      "Les Lumières",
+      "Le Romantisme",
+      "Le Classicisme"
+    ],
+    "question": "Quel mouvement intellectuel du XVIIIe siècle a promu la raison, la science et le progrès, et a critiqué la superstition et l'oppression?"
+  },
+  {
+    "correctAnswer": "La parodie",
+    "id": 4012345678910189,
+    "options": [
+      "L'ironie",
+      "La satire",
+      "La parodie",
+      "L'allégorie"
+    ],
+    "question": "Comment appelle-t-on un texte qui imite un autre texte ou genre dans le but de le moquer?"
+  },
+  {
+    "correctAnswer": "Le pastiche",
+    "id": 4012345678910190,
+    "options": [
+      "L'hommage",
+      "Le pastiche",
+      "La caricature",
+      "Le travestissement"
+    ],
+    "question": "Quel terme désigne une imitation respectueuse du style d'un auteur ou d'une œuvre, sans intention moqueuse?"
+  },
+  {
+    "correctAnswer": "La poésie engagée",
+    "id": 4012345678910191,
+    "options": [
+      "La poésie lyrique",
+      "La poésie pastorale",
+      "La poésie narrative",
+      "La poésie engagée"
+    ],
+    "question": "Quel type de poésie vise à sensibiliser le lecteur à des causes politiques, sociales ou morales?"
+  },
+  {
+    "correctAnswer": "L'Uchronie",
+    "id": 4012345678910192,
+    "options": [
+      "L'Utopie",
+      "L'Allégorie",
+      "L'Uchronie",
+      "La Dystopie"
+    ],
+    "question": "Comment appelle-t-on un genre littéraire qui présente une histoire alternative, où certains événements historiques ont eu une issue différente?"
+  },
+  {
+    "correctAnswer": "Les contes philosophiques",
+    "id": 4012345678910193,
+    "options": [
+      "Les contes merveilleux",
+      "Les contes philosophiques",
+      "Les contes moraux",
+      "Les contes de fées"
+    ],
+    "question": "Quel genre littéraire, représenté par des œuvres comme 'Candide' de Voltaire, mélange des éléments de fiction et de réflexion critique sur la société?"
+  },
+  {
+    "correctAnswer": "La Rime embrassée",
+    "id": 4012345678910194,
+    "options": [
+      "La Rime croisée",
+      "La Rime suivie",
+      "La Rime embrassée",
+      "La Rime redoublée"
+    ],
+    "question": "Dans un quatrain, comment appelle-t-on un schéma de rime ABBA?"
+  },
+  {
+    "correctAnswer": "La Beat Generation",
+    "id": 4012345678910195,
+    "options": [
+      "Les Symbolistes",
+      "Les Dadaïstes",
+      "Les Existentialistes",
+      "La Beat Generation"
+    ],
+    "question": "Quel mouvement littéraire des années 1950, représenté par Jack Kerouac et Allen Ginsberg, a exploré la liberté, la drogue et la spiritualité?"
+  },
+  {
+    "correctAnswer": "Les mémoires",
+    "id": 4012345678910196,
+    "options": [
+      "Le journal intime",
+      "L'autobiographie",
+      "Les mémoires",
+      "La confession"
+    ],
+    "question": "Quel genre littéraire est un récit personnel qui couvre une période historique ou des événements majeurs auxquels l'auteur a participé ou été témoin?"
+  },
+  {
+    "correctAnswer": "Le vers blanc",
+    "id": 4012345678910197,
+    "options": [
+      "Le vers libre",
+      "L'alexandrin",
+      "Le décasyllabe",
+      "Le vers blanc"
+    ],
+    "question": "Comment appelle-t-on un vers qui ne rime pas avec les vers voisins, mais qui respecte une structure métrique régulière?"
+  },
+  {
+    "correctAnswer": "La Commedia dell'arte",
+    "id": 4012345678910198,
+    "options": [
+      "La tragédie grecque",
+      "Le théâtre élisabéthain",
+      "La Commedia dell'arte",
+      "Le drame bourgeois"
+    ],
+    "question": "Quelle forme de théâtre improvisé, originaire d'Italie, utilise des personnages stéréotypés comme Arlequin et Pantalon?"
+  },
+  {
+    "correctAnswer": "La déclamation",
+    "id": 4012345678910199,
+    "options": [
+      "La déclamation",
+      "La narration",
+      "La dissertation",
+      "La méditation"
+    ],
+    "question": "Au XVIIe et XVIIIe siècles, comment appelle-t-on l'art oratoire de bien prononcer les discours et les vers, très prisé dans les écoles et les académies?"
+  },
+  {
+    "correctAnswer": "Les Essais",
+    "id": 4012345678910200,
+    "options": [
+      "Les Méditations",
+      "Les Maximes",
+      "Les Pensées",
+      "Les Essais"
+    ],
+    "question": "Quel ouvrage de Montaigne, écrit à la fin du XVIe siècle, explore une grande variété de sujets à travers des réflexions personnelles et des anecdotes?"
+  },
+  {
+    "correctAnswer": "Le stream of consciousness",
+    "id": 5012345678910201,
+    "options": [
+      "Le monologue intérieur",
+      "Le style indirect libre",
+      "La focalisation interne",
+      "Le stream of consciousness"
+    ],
+    "question": "Quelle technique narrative, utilisée par des auteurs comme James Joyce et Virginia Woolf, cherche à transcrire le flot continu des pensées d'un personnage?"
+  },
+  {
+    "correctAnswer": "Les Misérables",
+    "id": 5012345678910202,
+    "options": [
+      "Notre-Dame de Paris",
+      "Les Misérables",
+      "Le Rouge et le Noir",
+      "Les Trois Mousquetaires"
+    ],
+    "question": "Quelle œuvre de Victor Hugo dépeint la vie de plusieurs personnages sur fond de bouleversements historiques en France au XIXe siècle?"
+  },
+  {
+    "correctAnswer": "Le picaresque",
+    "id": 5012345678910203,
+    "options": [
+      "Le romanesque",
+      "Le bucolique",
+      "L'épique",
+      "Le picaresque"
+    ],
+    "question": "Quel genre narratif d'origine espagnole suit les aventures d'un anti-héros, souvent un vagabond ou un escroc, à travers une série d'épisodes?"
+  },
+  {
+    "correctAnswer": "Paul Valéry",
+    "id": 5012345678910204,
+    "options": [
+      "Paul Eluard",
+      "Paul Valéry",
+      "Paul Verlaine",
+      "Paul Claudel"
+    ],
+    "question": "Quel poète français a écrit 'Le Cimetière marin' et a été membre de l'Académie française?"
+  },
+  {
+    "correctAnswer": "La Pléiade",
+    "id": 5012345678910205,
+    "options": [
+      "Les Modernistes",
+      "Les Parnassiens",
+      "La Pléiade",
+      "Les Symbolistes"
+    ],
+    "question": "Quel groupe de poètes du XVIe siècle, dont faisaient partie Ronsard et Du Bellay, cherchait à renouveler la poésie française en s'inspirant des auteurs antiques?"
+  },
+  {
+    "correctAnswer": "Les Exercices de style",
+    "id": 5012345678910206,
+    "options": [
+      "La Vie mode d'emploi",
+      "Les Exercices de style",
+      "Les Fleurs bleues",
+      "Zazie dans le métro"
+    ],
+    "question": "Quel ouvrage de Raymond Queneau raconte la même histoire à travers 99 styles narratifs différents?"
+  },
+  {
+    "correctAnswer": "L'hypallage",
+    "id": 5012345678910207,
+    "options": [
+      "L'hypallage",
+      "L'hyperbate",
+      "L'asyndète",
+      "La synecdoque"
+    ],
+    "question": "Quelle figure de style consiste à attribuer à un mot d'une phrase ce qui devrait être attribué à un autre mot, comme dans 'la nuit silencieuse'?"
+  },
+  {
+    "correctAnswer": "Les Goncourt",
+    "id": 5012345678910208,
+    "options": [
+      "Les Goncourt",
+      "Les Médicis",
+      "Les Nobel",
+      "Les Renaudot"
+    ],
+    "question": "Quel prix littéraire français est décerné chaque année à l'auteur d'une œuvre de fiction en prose?"
+  },
+  {
+    "correctAnswer": "La poésie baroque",
+    "id": 5012345678910209,
+    "options": [
+      "La poésie symboliste",
+      "La poésie romantique",
+      "La poésie réaliste",
+      "La poésie baroque"
+    ],
+    "question": "Quel courant poétique du XVIIe siècle est caractérisé par sa richesse d'images, ses contrastes et son goût pour l'éphémère et le mouvement?"
+  },
+  {
+    "correctAnswer": "La parataxe",
+    "id": 5012345678910210,
+    "options": [
+      "La parataxe",
+      "La hypotaxe",
+      "La périphrase",
+      "La paronomase"
+    ],
+    "question": "Quelle figure de style consiste à juxtaposer des propositions sans utiliser de conjonctions de coordination ou de subordination?"
+  },
+  {
+    "correctAnswer": "L'Auberge rouge",
+    "id": 5012345678910211,
+    "options": [
+      "La Peau de chagrin",
+      "L'Auberge rouge",
+      "Eugénie Grandet",
+      "Le Père Goriot"
+    ],
+    "question": "Quelle nouvelle d'Honoré de Balzac raconte une histoire de meurtre dans une auberge isolée?"
+  },
+  {
+    "correctAnswer": "Le burlesque",
+    "id": 5012345678910212,
+    "options": [
+      "Le tragique",
+      "Le comique",
+      "Le lyrique",
+      "Le burlesque"
+    ],
+    "question": "Quel ton consiste à traiter un sujet sérieux sur un mode dérisoire ou, inversement, à magnifier un sujet trivial?"
+  },
+  {
+    "correctAnswer": "Le memento mori",
+    "id": 5012345678910213,
+    "options": [
+      "L'ars poetica",
+      "Le carpe diem",
+      "Le memento mori",
+      "L'amor fati"
+    ],
+    "question": "Quelle locution latine rappelle la mortalité humaine et signifie 'souviens-toi que tu vas mourir'?"
+  },
+  {
+    "correctAnswer": "Les contes de Canterbury",
+    "id": 5012345678910214,
+    "options": [
+      "Les contes d'Oxford",
+      "Les contes de la crypte",
+      "Les contes de Canterbury",
+      "Les contes de la Rose"
+    ],
+    "question": "Quelle œuvre de Geoffrey Chaucer est constituée d'une série d'histoires racontées par des pèlerins se rendant à Canterbury?"
+  },
+  {
+    "correctAnswer": "La Bovarysme",
+    "id": 5012345678910215,
+    "options": [
+      "Le Jansenisme",
+      "La Bovarysme",
+      "Le Parnassianisme",
+      "Le Dandysme"
+    ],
+    "question": "Quel terme, dérivé du nom d'un personnage de Flaubert, désigne une insatisfaction chronique de l'individu, qui rêve d'une autre vie?"
+  },
+  {
+    "correctAnswer": "Ulysse",
+    "id": 6012345678910216,
+    "options": [
+      "Dubliners",
+      "Ulysse",
+      "À la recherche du temps perdu",
+      "Les Vagues"
+    ],
+    "question": "Quel roman de James Joyce se déroule sur une seule journée à Dublin et est structuré autour des épisodes de l'Odyssée d'Homère?"
+  },
+  {
+    "correctAnswer": "Stéphane Mallarmé",
+    "id": 6012345678910217,
+    "options": [
+      "Paul Éluard",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé",
+      "Guillaume Apollinaire"
+    ],
+    "question": "Quel poète français est notamment connu pour son poème 'Un coup de dés jamais n'abolira le hasard'?"
+  },
+  {
+    "correctAnswer": "Le Nouveau Théâtre",
+    "id": 6012345678910218,
+    "options": [
+      "Le Théâtre classique",
+      "Le Théâtre de l'absurde",
+      "Le Théâtre romantique",
+      "Le Nouveau Théâtre"
+    ],
+    "question": "Quel mouvement théâtral des années 1950-1960, avec des auteurs comme Beckett et Ionesco, se caractérise par des situations illogiques, des dialogues non-séquentiels et une absence d'intrigue traditionnelle?"
+  },
+  {
+    "correctAnswer": "Le Neoclassicisme",
+    "id": 6012345678910219,
+    "options": [
+      "Le Baroque",
+      "Le Rococo",
+      "Le Neoclassicisme",
+      "Le Maniérisme"
+    ],
+    "question": "Quel mouvement littéraire et artistique s'est inspiré de l'Antiquité gréco-romaine, prônant la simplicité, l'équilibre et la raison?"
+  },
+  {
+    "correctAnswer": "La poésie concrète",
+    "id": 6012345678910220,
+    "options": [
+      "La poésie sonore",
+      "La poésie visuelle",
+      "La poésie lyrique",
+      "La poésie concrète"
+    ],
+    "question": "Quel style de poésie mise sur la disposition visuelle des mots et des lettres sur la page pour créer un effet esthétique?"
+  },
+  {
+    "correctAnswer": "Les Faux-Monnayeurs",
+    "id": 6012345678910221,
+    "options": [
+      "Les Nourritures terrestres",
+      "Les Faux-Monnayeurs",
+      "Les Mandarins",
+      "Les Gommes"
+    ],
+    "question": "Quel roman d'André Gide explore les thèmes de l'authenticité, de l'identité et de la moralité à travers un récit labyrinthique?"
+  },
+  {
+    "correctAnswer": "L'Heptaméron",
+    "id": 6012345678910222,
+    "options": [
+      "Le Decameron",
+      "L'Heptaméron",
+      "Les Mille et Une Nuits",
+      "Les Amours"
+    ],
+    "question": "Quelle œuvre de Marguerite de Navarre raconte des histoires racontées par un groupe de personnes bloquées par une inondation?"
+  },
+  {
+    "correctAnswer": "L'épic",
+    "id": 6012345678910223,
+    "options": [
+      "L'ode",
+      "L'élégie",
+      "L'épic",
+      "L'acrostiche"
+    ],
+    "question": "Quelle figure de style consiste à utiliser la première lettre de chaque vers pour écrire un mot ou une expression?"
+  },
+  {
+    "correctAnswer": "La poésie oulipienne",
+    "id": 6012345678910224,
+    "options": [
+      "La poésie symboliste",
+      "La poésie surréaliste",
+      "La poésie oulipienne",
+      "La poésie dadaïste"
+    ],
+    "question": "Quel type de poésie, développé par un groupe de mathématiciens et écrivains français, utilise des contraintes formelles, comme des algorithmes ou des formules mathématiques?"
+  },
+  {
+    "correctAnswer": "Les Misérables",
+    "id": 6012345678910225,
+    "options": [
+      "Les Misérables",
+      "Notre-Dame de Paris",
+      "L'Homme qui rit",
+      "Le Dernier Jour d'un condamné"
+    ],
+    "question": "Dans quel roman de Victor Hugo le personnage de Jean Valjean apparaît-il?"
+  },
+  {
+    "correctAnswer": "Le naturalisme",
+    "id": 6012345678910226,
+    "options": [
+      "Le réalisme",
+      "Le surréalisme",
+      "Le symbolisme",
+      "Le naturalisme"
+    ],
+    "question": "Quel mouvement littéraire, représenté par Émile Zola, cherche à représenter la réalité de manière scientifique et déterministe, en se basant sur l'hérédité et l'environnement?"
+  },
+  {
+    "correctAnswer": "Pierre Corneille",
+    "id": 6012345678910227,
+    "options": [
+      "Pierre Corneille",
+      "Jean Racine",
+      "Molière",
+      "Jean de La Fontaine"
+    ],
+    "question": "Quel dramaturge français du XVIIe siècle est l'auteur de 'Le Cid'?"
+  },
+  {
+    "correctAnswer": "L'alexandrin",
+    "id": 6012345678910228,
+    "options": [
+      "L'octosyllabe",
+      "Le décasyllabe",
+      "L'hexamètre",
+      "L'alexandrin"
+    ],
+    "question": "Quel type de vers est composé de douze pieds et est fréquemment utilisé dans la poésie française classique?"
+  },
+  {
+    "correctAnswer": "La parabase",
+    "id": 6012345678910229,
+    "options": [
+      "La stichomythie",
+      "La parabase",
+      "La prolepse",
+      "L'agon"
+    ],
+    "question": "Dans la comédie antique grecque, comment s'appelle la partie où le chœur s'adresse directement au public pour exprimer l'opinion de l'auteur?"
+  },
+  {
+    "correctAnswer": "Les ballades",
+    "id": 6012345678910230,
+    "options": [
+      "Les sonnets",
+      "Les haïkus",
+      "Les églogues",
+      "Les ballades"
+    ],
+    "question": "Quelle forme poétique médiévale est constituée de strophes suivies d'un refrain et se termine souvent par une demi-strophe appelée 'l'envoi'?"
+  },
+  {
+    "correctAnswer": "La quête du Graal",
+    "id": 7012345678910231,
+    "options": [
+      "La guerre de Troie",
+      "La quête de la Toison d'or",
+      "La descente aux enfers",
+      "La quête du Graal"
+    ],
+    "question": "Quel thème médiéval est central dans des œuvres comme 'Le Morte d'Arthur' et 'Perceval ou le Conte du Graal'?"
+  },
+  {
+    "correctAnswer": "Marcel Proust",
+    "id": 7012345678910232,
+    "options": [
+      "Marcel Proust",
+      "François Mauriac",
+      "André Malraux",
+      "Roger Martin du Gard"
+    ],
+    "question": "Quel écrivain français est l'auteur de 'À la recherche du temps perdu'?"
+  },
+  {
+    "correctAnswer": "Le grotesque",
+    "id": 7012345678910233,
+    "options": [
+      "Le mélodramatique",
+      "Le burlesque",
+      "Le tragique",
+      "Le grotesque"
+    ],
+    "question": "Quel terme désigne un style artistique ou littéraire qui mélange le comique et le macabre, souvent pour critiquer la société?"
+  },
+  {
+    "correctAnswer": "La Comédie humaine",
+    "id": 7012345678910234,
+    "options": [
+      "Les Rougon-Macquart",
+      "La Comédie humaine",
+      "Les Trois Mousquetaires",
+      "Les Misérables"
+    ],
+    "question": "Quel ensemble de romans et nouvelles, écrit par Honoré de Balzac, dépeint la société française du XIXe siècle?"
+  },
+  {
+    "correctAnswer": "L'existentialisme",
+    "id": 7012345678910235,
+    "options": [
+      "Le structuralisme",
+      "L'absurdisme",
+      "Le modernisme",
+      "L'existentialisme"
+    ],
+    "question": "Quel mouvement philosophique et littéraire, associé à Jean-Paul Sartre et Albert Camus, met l'accent sur la liberté individuelle et l'absurdité de l'existence?"
+  },
+  {
+    "correctAnswer": "Les Lettres persanes",
+    "id": 7012345678910236,
+    "options": [
+      "Les Liaisons dangereuses",
+      "Les Lettres portugaises",
+      "Les Lettres persanes",
+      "Les Lettres provinciales"
+    ],
+    "question": "Quel ouvrage épistolaire de Montesquieu présente une critique de la société française à travers les yeux de deux voyageurs persans?"
+  },
+  {
+    "correctAnswer": "L'assonance",
+    "id": 7012345678910237,
+    "options": [
+      "L'allitération",
+      "L'assonance",
+      "La diérèse",
+      "L'élision"
+    ],
+    "question": "Quelle figure de style se caractérise par la répétition de voyelles identiques ou similaires dans une série de mots?"
+  },
+  {
+    "correctAnswer": "L'élégie",
+    "id": 7012345678910238,
+    "options": [
+      "L'ode",
+      "L'élégie",
+      "L'épopée",
+      "La ballade"
+    ],
+    "question": "Quelle forme poétique exprime souvent la mélancolie, le regret ou le deuil?"
+  },
+  {
+    "correctAnswer": "Gustave Flaubert",
+    "id": 7012345678910239,
+    "options": [
+      "Émile Zola",
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Stendhal"
+    ],
+    "question": "Quel écrivain français a été poursuivi en justice pour 'outrage à la morale publique et religieuse' après la publication de 'Madame Bovary'?"
+  },
+  {
+    "correctAnswer": "Le romantisme",
+    "id": 7012345678910240,
+    "options": [
+      "Le classicisme",
+      "Le baroque",
+      "Le réalisme",
+      "Le romantisme"
+    ],
+    "question": "Quel mouvement littéraire du XIXe siècle met l'accent sur l'expression des émotions, l'individualisme et la nature?"
+  },
+  {
+    "correctAnswer": "Le théâtre de l'absurde",
+    "id": 7012345678910241,
+    "options": [
+      "Le théâtre épique",
+      "Le drame bourgeois",
+      "Le théâtre de boulevard",
+      "Le théâtre de l'absurde"
+    ],
+    "question": "Quel style théâtral, représenté par des auteurs comme Samuel Beckett et Eugène Ionesco, dépeint un monde sans signification où les personnages luttent contre l'absurdité de leur existence?"
+  },
+  {
+    "correctAnswer": "La métaphore filée",
+    "id": 7012345678910242,
+    "options": [
+      "La métaphore inanimée",
+      "La métonymie",
+      "La métaphore filée",
+      "La synecdoque"
+    ],
+    "question": "Quelle figure de style étend une métaphore sur plusieurs phrases ou vers, développant ainsi la comparaison?"
+  },
+  {
+    "correctAnswer": "Les Illuminations",
+    "id": 7012345678910243,
+    "options": [
+      "Les Fleurs du mal",
+      "Les Chants de Maldoror",
+      "Alcools",
+      "Les Illuminations"
+    ],
+    "question": "Quel recueil de poèmes, attribué à Arthur Rimbaud, contient des vers comme 'Après le déluge' et 'Barbare'?"
+  },
+  {
+    "correctAnswer": "Les maximes",
+    "id": 7012345678910244,
+    "options": [
+      "Les fables",
+      "Les contes",
+      "Les maximes",
+      "Les récits"
+    ],
+    "question": "Quelle forme brève, souvent utilisée par La Rochefoucauld, présente une réflexion générale sur la morale ou la nature humaine en une ou deux phrases?"
+  },
+  {
+    "correctAnswer": "L'utopie",
+    "id": 7012345678910245,
+    "options": [
+      "L'apologue",
+      "L'utopie",
+      "La dystopie",
+      "L'épopée"
+    ],
+    "question": "Quel genre littéraire, popularisé par Thomas More, décrit une société idéale, souvent située dans un lieu ou un temps lointain?"
+  },
+  {
+    "correctAnswer": "Les Liaisons dangereuses",
+    "id": 8012345678910246,
+    "options": [
+      "Les Aventures de Télémaque",
+      "Les Misérables",
+      "Les Liaisons dangereuses",
+      "Les Fleurs du mal"
+    ],
+    "question": "Quel roman épistolaire de Choderlos de Laclos dépeint la manipulation et la séduction parmi la noblesse française au XVIIIe siècle?"
+  },
+  {
+    "correctAnswer": "Rabelais",
+    "id": 8012345678910247,
+    "options": [
+      "Montaigne",
+      "Racine",
+      "Rabelais",
+      "Molière"
+    ],
+    "question": "Quel auteur de la Renaissance française est notamment connu pour son œuvre 'Gargantua et Pantagruel'?"
+  },
+  {
+    "correctAnswer": "La satire",
+    "id": 8012345678910248,
+    "options": [
+      "L'épopée",
+      "La satire",
+      "Le lyrisme",
+      "Le tragique"
+    ],
+    "question": "Quel genre littéraire se caractérise par la critique et la moquerie des vices et des ridicules de la société?"
+  },
+  {
+    "correctAnswer": "Les Salons",
+    "id": 8012345678910249,
+    "options": [
+      "Les Études",
+      "Les Salons",
+      "Les Confessions",
+      "Les Lettres"
+    ],
+    "question": "Quelle série d'essais critiques de Diderot, écrite entre 1759 et 1781, commente et analyse les œuvres d'art présentées lors des expositions annuelles à Paris?"
+  },
+  {
+    "correctAnswer": "L'assonance",
+    "id": 8012345678910250,
+    "options": [
+      "L'allitération",
+      "La diérèse",
+      "L'assonance",
+      "L'onomatopée"
+    ],
+    "question": "Quelle figure de style se base sur la répétition de sons de voyelles dans une phrase ou un vers?"
+  },
+  {
+    "correctAnswer": "L'Étranger",
+    "id": 8012345678910251,
+    "options": [
+      "L'Étranger",
+      "La Peste",
+      "La Chute",
+      "Le Malentendu"
+    ],
+    "question": "Dans quel roman d'Albert Camus, le personnage principal, Meursault, est-il indifférent à sa propre vie et commet un acte irréfléchi qui le conduit en prison?"
+  },
+  {
+    "correctAnswer": "L'alexandrin",
+    "id": 8012345678910252,
+    "options": [
+      "Le décasyllabe",
+      "L'octosyllabe",
+      "L'hexamètre",
+      "L'alexandrin"
+    ],
+    "question": "Quelle forme poétique, particulièrement populaire dans le théâtre classique français, est composée de vers de douze pieds?"
+  },
+  {
+    "correctAnswer": "Les Fables",
+    "id": 8012345678910253,
+    "options": [
+      "Les Contes",
+      "Les Maximes",
+      "Les Fables",
+      "Les Caractères"
+    ],
+    "question": "Quelle œuvre de Jean de La Fontaine offre des leçons de morale à travers des histoires mettant en scène des animaux?"
+  },
+  {
+    "correctAnswer": "La Madeleine",
+    "id": 8012345678910254,
+    "options": [
+      "La Rose",
+      "La Madeleine",
+      "La Prune",
+      "La Pivoine"
+    ],
+    "question": "Dans 'À la recherche du temps perdu' de Marcel Proust, quel gâteau provoque chez le narrateur une intense remémoration de son passé?"
+  },
+  {
+    "correctAnswer": "Le spleen",
+    "id": 8012345678910255,
+    "options": [
+      "L'extase",
+      "Le spleen",
+      "L'éther",
+      "Le rêve"
+    ],
+    "question": "Quel terme, associé à Baudelaire, désigne un sentiment mélancolique d'ennui et de désenchantement?"
+  },
+  {
+    "correctAnswer": "Les Lusiades",
+    "id": 8012345678910256,
+    "options": [
+      "Les Géorgiques",
+      "Les Bucoliques",
+      "Les Lusiades",
+      "Les Satires"
+    ],
+    "question": "Quelle épopée nationale du poète portugais Luís de Camões raconte les voyages de Vasco de Gama et la découverte de la route maritime vers l'Inde?"
+  },
+  {
+    "correctAnswer": "Voltaire",
+    "id": 8012345678910257,
+    "options": [
+      "Diderot",
+      "Rousseau",
+      "Montesquieu",
+      "Voltaire"
+    ],
+    "question": "Quel philosophe des Lumières est l'auteur de 'Candide ou l'Optimisme', un conte satirique critiquant la société de son époque?"
+  },
+  {
+    "correctAnswer": "Le blason",
+    "id": 8012345678910258,
+    "options": [
+      "L'épopée",
+      "L'élégie",
+      "Le blason",
+      "La pastorale"
+    ],
+    "question": "Quelle forme poétique médiévale décrit et loue une partie spécifique du corps féminin, comme les yeux ou les mains?"
+  },
+  {
+    "correctAnswer": "Les Essais",
+    "id": 8012345678910259,
+    "options": [
+      "Les Pensées",
+      "Les Confessions",
+      "Les Méditations",
+      "Les Essais"
+    ],
+    "question": "Quelle œuvre de Montaigne consiste en une série de réflexions personnelles sur divers sujets, mêlant anecdotes, citations et observations?"
+  },
+  {
+    "correctAnswer": "La Pléiade",
+    "id": 8012345678910260,
+    "options": [
+      "Les Modernistes",
+      "La Pléiade",
+      "Les Parnassiens",
+      "Les Symbolistes"
+    ],
+    "question": "Quel groupe de poètes du XVIe siècle, incluant Ronsard et Du Bellay, visait à enrichir la langue française en s'inspirant de la poésie antique?"
+  },
+  {
+    "correctAnswer": "Cyrano de Bergerac",
+    "id": 9012345678910260,
+    "options": [
+      "Les Fourberies de Scapin",
+      "Cyrano de Bergerac",
+      "Britannicus",
+      "Le Cid"
+    ],
+    "question": "Quelle pièce d'Edmond Rostand présente un héros au grand nez qui est amoureux de sa cousine Roxane, mais craint de déclarer sa flamme à cause de son apparence?"
+  },
+  {
+    "correctAnswer": "Le surréalisme",
+    "id": 9012345678910262,
+    "options": [
+      "Le romantisme",
+      "Le réalisme",
+      "Le symbolisme",
+      "Le surréalisme"
+    ],
+    "question": "Quel mouvement littéraire, ayant André Breton comme figure de proue, cherche à exprimer le fonctionnement réel de la pensée en dehors de toute préoccupation esthétique ou morale?"
+  },
+  {
+    "correctAnswer": "L'Histoire de ma vie",
+    "id": 9012345678910264,
+    "options": [
+      "L'Histoire de ma vie",
+      "Justine",
+      "Les Confessions",
+      "Les Mémoires d'outre-tombe"
+    ],
+    "question": "Quelle est l'autobiographie du célèbre aventurier et écrivain vénitien Giacomo Casanova?"
+  },
+  {
+    "correctAnswer": "La Divine Comédie",
+    "id": 1870548285830887,
+    "options": [
+      "Le Canzoniere",
+      "Les Tragiques",
+      "La Divine Comédie",
+      "Les Lusiades"
+    ],
+    "question": "Quelle œuvre épique de Dante Alighieri décrit un voyage à travers l'Enfer, le Purgatoire et le Paradis?"
+  },
+  {
+    "correctAnswer": "Le vers libre",
+    "id": 6545477582975677,
+    "options": [
+      "L'alexandrin",
+      "Le sonnet",
+      "Le vers libre",
+      "L'octosyllabe"
+    ],
+    "question": "Quelle forme poétique se caractérise par l'absence de rime et de mètre régulier, privilégiant l'expression personnelle et le rythme naturel de la langue?"
+  },
+  {
+    "correctAnswer": "L'Encyclopédie",
+    "id": 9012345678910266,
+    "options": [
+      "Le Dictionnaire philosophique",
+      "Les Pensées",
+      "L'Encyclopédie",
+      "Les Essais"
+    ],
+    "question": "Quel ouvrage monumental, dirigé par Diderot et d'Alembert, visait à rassembler et diffuser l'ensemble des connaissances humaines du XVIIIe siècle?"
+  },
+  {
+    "correctAnswer": "La parodie",
+    "id": 9012345678910268,
+    "options": [
+      "La parabole",
+      "L'allégorie",
+      "La parodie",
+      "La métonymie"
+    ],
+    "question": "Quelle figure de style consiste à imiter une œuvre ou un style dans le but de s'en moquer?"
+  },
+  {
+    "correctAnswer": "Les Essais",
+    "id": 981844106494283,
+    "options": [
+      "Le Contrat social",
+      "Les Maximes",
+      "Les Caractères",
+      "Les Essais"
+    ],
+    "question": "Quel ouvrage de Montaigne est souvent considéré comme la création du genre littéraire de l'essai?"
+  },
+  {
+    "correctAnswer": "Le stream of consciousness",
+    "id": 2070253270860221,
+    "options": [
+      "La focalisation zéro",
+      "Le monologue intérieur",
+      "Le stream of consciousness",
+      "L'omniscience"
+    ],
+    "question": "Quelle technique narrative, popularisée par des auteurs comme James Joyce et Virginia Woolf, cherche à représenter le flot continu de la conscience d'un personnage?"
+  },
+  {
+    "correctAnswer": "Le Parnasse",
+    "id": 9012345678910270,
+    "options": [
+      "Le Symbolisme",
+      "Le Surréalisme",
+      "Le Romantisme",
+      "Le Parnasse"
+    ],
+    "question": "Quel mouvement poétique du XIXe siècle prônait 'l'art pour l'art', mettant l'accent sur la forme plutôt que sur le contenu, et avait pour devise 'Impersonnalité, Objectivité, Perfection'?"
+  },
+  {
+    "correctAnswer": "Tristan et Iseult",
+    "id": 9012345678910272,
+    "options": [
+      "Lancelot ou le Chevalier de la charrette",
+      "Tristan et Iseult",
+      "Le Roman de la Rose",
+      "Le Songe du Vieil Pèlerin"
+    ],
+    "question": "Quelle légende médiévale raconte l'histoire d'amour tragique d'un chevalier et de la reine d'Irlande, tous deux unis par un philtre d'amour?"
+  },
+  {
+    "correctAnswer": "Le réalisme magique",
+    "id": 5302272114356471,
+    "options": [
+      "Le surréalisme",
+      "Le postmodernisme",
+      "Le réalisme",
+      "Le réalisme magique"
+    ],
+    "question": "Quel genre littéraire, associé à des auteurs comme Gabriel García Márquez et Salman Rushdie, mélange des éléments réalistes avec des éléments fantastiques ou mythiques?"
+  },
+  {
+    "correctAnswer": "La Bruyère",
+    "id": 3937649385774449,
+    "options": [
+      "La Fontaine",
+      "Molière",
+      "Racine",
+      "La Bruyère"
+    ],
+    "question": "Quel écrivain du XVIIe siècle est l'auteur des 'Caractères', une série de portraits satiriques de la société de son époque?"
+  },
+  {
+    "correctAnswer": "L'incipit",
+    "id": 9012345678910274,
+    "options": [
+      "L'épilogue",
+      "L'excipit",
+      "L'incipit",
+      "L'intrigue"
+    ],
+    "question": "Comment appelle-t-on le début d'un roman ou d'une œuvre littéraire qui sert à introduire le cadre, les personnages et l'ambiance?"
+  },
+  {
+    "correctAnswer": "Les Précieuses ridicules",
+    "id": 9012345678910276,
+    "options": [
+      "Les Fourberies de Scapin",
+      "Les Femmes savantes",
+      "Le Malade imaginaire",
+      "Les Précieuses ridicules"
+    ],
+    "question": "Quelle comédie de Molière se moque des femmes de la bourgeoisie qui tentent d'imiter les manières et le langage des dames de la cour?"
+  },
+  {
+    "correctAnswer": "La Horla",
+    "id": 10012345678910276,
+    "options": [
+      "Boule de Suif",
+      "Pierre et Jean",
+      "Bel-Ami",
+      "La Horla"
+    ],
+    "question": "Quelle nouvelle de Guy de Maupassant raconte l'histoire d'un homme hanté par une créature invisible qui semble contrôler ses pensées et ses actions?"
+  },
+  {
+    "correctAnswer": "L'ubiquité",
+    "id": 1385919282846853,
+    "options": [
+      "L'omniscience",
+      "L'omnipotence",
+      "L'omniprésence",
+      "L'ubiquité"
+    ],
+    "question": "Quel terme littéraire décrit la capacité d'un personnage à être présent en plusieurs endroits à la fois?"
+  },
+  {
+    "correctAnswer": "La Comtesse de Ségur",
+    "id": 10012345678910278,
+    "options": [
+      "George Sand",
+      "Marceline Desbordes-Valmore",
+      "La Comtesse de Ségur",
+      "Colette"
+    ],
+    "question": "Quelle auteure du XIXe siècle est notamment connue pour ses ouvrages destinés à la jeunesse, tels que 'Les Petites Filles modèles' et 'Les Malheurs de Sophie'?"
+  },
+  {
+    "correctAnswer": "Les Vies parallèles",
+    "id": 10012345678910280,
+    "options": [
+      "Les Confessions",
+      "Les Vies des hommes illustres",
+      "Les Vies parallèles",
+      "Les Vies des saints"
+    ],
+    "question": "Quelle œuvre de Plutarque compare la vie de personnalités grecques et romaines?"
+  },
+  {
+    "correctAnswer": "L'acrostiche",
+    "id": 5351404499212485,
+    "options": [
+      "L'anagramme",
+      "L'acrostiche",
+      "L'allégorie",
+      "L'antithèse"
+    ],
+    "question": "Quelle figure de style consiste à cacher un mot ou un message à la première lettre de chaque vers ou phrase?"
+  },
+  {
+    "correctAnswer": "Zadig",
+    "id": 4062946502163995,
+    "options": [
+      "Micromégas",
+      "Zadig",
+      "L'Ingénu",
+      "Candide"
+    ],
+    "question": "Dans quelle œuvre de Voltaire, le protagoniste est-il un jeune homme babylonien qui subit une série de malheurs tout en cherchant à comprendre la nature de la destinée?"
+  },
+  {
+    "correctAnswer": "Le mythe de Sisyphe",
+    "id": 10012345678910282,
+    "options": [
+      "L'Homme révolté",
+      "La Chute",
+      "Le mythe de Sisyphe",
+      "L'Étranger"
+    ],
+    "question": "Quel essai d'Albert Camus explore le concept de l'absurde, illustré par l'image d'un homme condamné à pousser éternellement une pierre en haut d'une montagne?"
+  },
+  {
+    "correctAnswer": "Le chiasme",
+    "id": 10012345678910284,
+    "options": [
+      "La paronomase",
+      "La litote",
+      "L'hyperbate",
+      "Le chiasme"
+    ],
+    "question": "Quelle figure de style repose sur une structure en croix, où deux éléments sont suivis de leurs contraires? (par exemple: 'Il faut manger pour vivre et non vivre pour manger.')"
+  },
+  {
+    "correctAnswer": "La Jalousie",
+    "id": 1110020292563229,
+    "options": [
+      "La Route des Flandres",
+      "La Modification",
+      "La Guerre",
+      "La Jalousie"
+    ],
+    "question": "Quel roman d'Alain Robbe-Grillet, représentatif du Nouveau Roman, dépeint la suspicion obsessive d'un homme envers sa femme, le tout sans jamais nommer le narrateur?"
+  },
+  {
+    "correctAnswer": "Les Hymnes homériques",
+    "id": 6181987766344801,
+    "options": [
+      "Les Travaux et les Jours",
+      "Les Argonautiques",
+      "Les Hymnes homériques",
+      "Les Épinicies"
+    ],
+    "question": "Quelle collection de poèmes antiques est dédiée à divers dieux grecs et est souvent attribuée, à tort, au poète Homère?"
+  },
+  {
+    "correctAnswer": "Le clair de lune",
+    "id": 10012345678910286,
+    "options": [
+      "Le soleil couchant",
+      "La mer",
+      "Le vent",
+      "Le clair de lune"
+    ],
+    "question": "Quel élément naturel est fréquemment associé à la mélancolie et à la rêverie dans la poésie symboliste?"
+  },
+  {
+    "correctAnswer": "Le grotesque",
+    "id": 10012345678910288,
+    "options": [
+      "Le pittoresque",
+      "Le sublime",
+      "Le burlesque",
+      "Le grotesque"
+    ],
+    "question": "Quel terme décrit des éléments étranges, déformés et souvent comiques dans la littérature, combinant le rire et l'horreur?"
+  },
+  {
+    "correctAnswer": "Les Fiancées en folie",
+    "id": 755409204930499,
+    "options": [
+      "Les Aventures de Sherlock Holmes",
+      "Les Hauts de Hurlevent",
+      "Les Fiancées en folie",
+      "Les Noces funèbres"
+    ],
+    "question": "Quel titre français correspond au film muet américain 'Seven Chances' réalisé par Buster Keaton en 1925?"
+  },
+  {
+    "correctAnswer": "La picaresque",
+    "id": 4525641644565493,
+    "options": [
+      "La pastorale",
+      "La tragédie",
+      "La comédie",
+      "La picaresque"
+    ],
+    "question": "Quel genre littéraire, originaire d'Espagne, raconte les aventures d'un héros de basse extraction sociale à travers une série d'épisodes souvent comiques et satiriques?"
+  },
+  {
+    "correctAnswer": "Le drame bourgeois",
+    "id": 10012345678910290,
+    "options": [
+      "La comédie de mœurs",
+      "Le drame historique",
+      "Le drame romantique",
+      "Le drame bourgeois"
+    ],
+    "question": "Quel genre théâtral, popularisé au XVIIIe siècle, met en scène des problèmes et des conflits propres à la classe moyenne?"
   }
 ]

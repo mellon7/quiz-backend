@@ -460,5 +460,1743 @@
       "Linz"
     ],
     "question": "Quelle est la capitale de la musique classique en Autriche ?"
+  },
+  {
+    "correctAnswer": "Ludwig van Beethoven",
+    "id": 1234567890123451,
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
+    ],
+    "question": "Qui est le compositeur sourd célèbre pour sa 9ème symphonie?"
+  },
+  {
+    "correctAnswer": "Vivaldi",
+    "id": 2234567890123452,
+    "options": [
+      "Bach",
+      "Haendel",
+      "Vivaldi",
+      "Purcell"
+    ],
+    "question": "Quel compositeur est associé à 'Les Quatre Saisons'?"
+  },
+  {
+    "correctAnswer": "12",
+    "id": 3234567890123453,
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "question": "Combien de notes y a-t-il dans une gamme chromatique?"
+  },
+  {
+    "correctAnswer": "Jazz",
+    "id": 4234567890123454,
+    "options": [
+      "Rock",
+      "Country",
+      "Blues",
+      "Jazz"
+    ],
+    "question": "Quel style musical est associé à Louis Armstrong?"
+  },
+  {
+    "correctAnswer": "La Flûte Enchantée",
+    "id": 5234567890123455,
+    "options": [
+      "Don Giovanni",
+      "La Flûte Enchantée",
+      "Le Nozze di Figaro",
+      "Cosi fan tutte"
+    ],
+    "question": "Quel opéra de Mozart se déroule dans un cadre égyptien?"
+  },
+  {
+    "correctAnswer": "Miles Davis",
+    "id": 6234567890123456,
+    "options": [
+      "John Coltrane",
+      "Miles Davis",
+      "Charlie Parker",
+      "Thelonious Monk"
+    ],
+    "question": "Qui est le musicien associé à l'album 'Kind of Blue'?"
+  },
+  {
+    "correctAnswer": "Baroque",
+    "id": 7234567890123457,
+    "options": [
+      "Classique",
+      "Romantique",
+      "Renaissance",
+      "Baroque"
+    ],
+    "question": "Durant quelle période de la musique occidentale Antonio Vivaldi a-t-il composé?"
+  },
+  {
+    "correctAnswer": "Tenor",
+    "id": 8234567890123458,
+    "options": [
+      "Baryton",
+      "Basse",
+      "Tenor",
+      "Alto"
+    ],
+    "question": "Luciano Pavarotti était principalement connu pour chanter dans quelle tessiture vocale?"
+  },
+  {
+    "correctAnswer": "Guitare électrique",
+    "id": 9234567890123460,
+    "options": [
+      "Piano",
+      "Flûte traversière",
+      "Saxophone",
+      "Guitare électrique"
+    ],
+    "question": "Sur quel instrument Jimi Hendrix était-il le plus célèbre?"
+  },
+  {
+    "correctAnswer": "Rhythm and Blues",
+    "id": 1023456789012345,
+    "options": [
+      "Pop",
+      "Rap",
+      "Country",
+      "Rhythm and Blues"
+    ],
+    "question": "Quel genre musical a précédé et influencé le développement du rock 'n' roll dans les années 1950?"
+  },
+  {
+    "correctAnswer": "Le Ring des Nibelungen",
+    "id": 1123456789012346,
+    "options": [
+      "Le Chevalier à la Rose",
+      "Carmen",
+      "Madame Butterfly",
+      "Le Ring des Nibelungen"
+    ],
+    "question": "Quelle série d'opéras de Richard Wagner se base sur la mythologie nordique?"
+  },
+  {
+    "correctAnswer": "Stravinsky",
+    "id": 1223456789012347,
+    "options": [
+      "Debussy",
+      "Ravel",
+      "Satie",
+      "Stravinsky"
+    ],
+    "question": "Quel compositeur a créé 'Le Sacre du Printemps', une œuvre qui a provoqué des émeutes lors de sa première en 1913?"
+  },
+  {
+    "correctAnswer": "Bob Dylan",
+    "id": 1323456789012348,
+    "options": [
+      "John Lennon",
+      "Bob Dylan",
+      "Paul Simon",
+      "Neil Young"
+    ],
+    "question": "Quel artiste a été reconnu pour son influence sur la musique populaire en recevant le prix Nobel de littérature en 2016?"
+  },
+  {
+    "correctAnswer": "Clavecin",
+    "id": 1423456789012349,
+    "options": [
+      "Piano",
+      "Orgue",
+      "Clavecin",
+      "Fortepiano"
+    ],
+    "question": "Quel instrument à clavier était populaire avant l'avènement du piano moderne et est souvent associé à la musique baroque?"
+  },
+  {
+    "correctAnswer": "Atonale",
+    "id": 1523456789012350,
+    "options": [
+      "Diatonique",
+      "Pentatonique",
+      "Atonale",
+      "Hexatonique"
+    ],
+    "question": "Quel terme décrit la musique qui n'est centrée sur aucune tonalité ou clé spécifique?"
+  },
+  {
+    "correctAnswer": "Elvis Presley",
+    "id": 1623456789012351,
+    "options": [
+      "Chuck Berry",
+      "Buddy Holly",
+      "Little Richard",
+      "Elvis Presley"
+    ],
+    "question": "Qui est souvent surnommé 'le roi du rock 'n' roll'?"
+  },
+  {
+    "correctAnswer": "Philip Glass",
+    "id": 1723456789012352,
+    "options": [
+      "John Adams",
+      "Philip Glass",
+      "Steve Reich",
+      "Terry Riley"
+    ],
+    "question": "Quel compositeur est un pionnier du mouvement minimaliste en musique classique?"
+  },
+  {
+    "correctAnswer": "Techno",
+    "id": 1823456789012353,
+    "options": [
+      "Disco",
+      "Reggae",
+      "Techno",
+      "Ska"
+    ],
+    "question": "Quel genre musical électronique est originaire de Detroit dans les années 1980?"
+  },
+  {
+    "correctAnswer": "Pizzicato",
+    "id": 1923456789012354,
+    "options": [
+      "Glissando",
+      "Staccato",
+      "Legato",
+      "Pizzicato"
+    ],
+    "question": "Comment appelle-t-on la technique où les cordes d'un instrument à cordes sont pincées plutôt que frottées avec un archet?"
+  },
+  {
+    "correctAnswer": "Bela Bartok",
+    "id": 2023456789012355,
+    "options": [
+      "Dmitri Shostakovich",
+      "Bela Bartok",
+      "Igor Stravinsky",
+      "Sergei Prokofiev"
+    ],
+    "question": "Quel compositeur est connu pour avoir intégré des éléments de la musique folklorique de son pays d'origine, la Hongrie, dans ses œuvres classiques?"
+  },
+  {
+    "correctAnswer": "La battue",
+    "id": 2123456789012356,
+    "options": [
+      "La mélodie",
+      "L'harmonie",
+      "La battue",
+      "Le timbre"
+    ],
+    "question": "Quel terme décrit le mouvement du chef d'orchestre pour indiquer le rythme et la mesure?"
+  },
+  {
+    "correctAnswer": "Violon",
+    "id": 2223456789012357,
+    "options": [
+      "Tuba",
+      "Trompette",
+      "Flûte",
+      "Violon"
+    ],
+    "question": "Quel instrument est le plus aigu de la famille des cordes dans un orchestre?"
+  },
+  {
+    "correctAnswer": "Résonance",
+    "id": 2323456789012358,
+    "options": [
+      "Diffraction",
+      "Réflexion",
+      "Refraction",
+      "Résonance"
+    ],
+    "question": "Quel terme décrit le phénomène acoustique lorsque la fréquence d'une force externe correspond à la fréquence naturelle d'un objet, amplifiant ainsi son amplitude?"
+  },
+  {
+    "correctAnswer": "Allegro",
+    "id": 2423456789012359,
+    "options": [
+      "Adagio",
+      "Andante",
+      "Presto",
+      "Allegro"
+    ],
+    "question": "Quel terme indique un tempo rapide en musique?"
+  },
+  {
+    "correctAnswer": "La forme sonate",
+    "id": 2523456789012360,
+    "options": [
+      "La forme rondo",
+      "La forme ternaire",
+      "La forme sonate",
+      "La forme canon"
+    ],
+    "question": "Quelle forme musicale est fréquemment utilisée dans les premiers mouvements des symphonies classiques?"
+  },
+  {
+    "correctAnswer": "Oboe",
+    "id": 2623456789012361,
+    "options": [
+      "Cor anglais",
+      "Basson",
+      "Clarinette",
+      "Oboe"
+    ],
+    "question": "Quel instrument à double anche est couramment utilisé pour jouer le 'la' d'accord dans un orchestre?"
+  },
+  {
+    "correctAnswer": "L'opéra",
+    "id": 2723456789012362,
+    "options": [
+      "Le ballet",
+      "L'opéra",
+      "La symphonie",
+      "Le concerto"
+    ],
+    "question": "Quelle forme musicale combine le chant, le théâtre, et parfois la danse?"
+  },
+  {
+    "correctAnswer": "La trompette",
+    "id": 2823456789012363,
+    "options": [
+      "Le trombone",
+      "Le tuba",
+      "La trompette",
+      "Le cornet"
+    ],
+    "question": "Quel instrument de la famille des cuivres est généralement joué avec trois pistons ou vannes rotatives?"
+  },
+  {
+    "correctAnswer": "La clé de sol",
+    "id": 2923456789012364,
+    "options": [
+      "La clé d'ut",
+      "La clé de fa",
+      "La clé de sol",
+      "La clé de la"
+    ],
+    "question": "Quelle clé est couramment utilisée pour noter la musique destinée aux instruments aigus comme le violon ou la flûte?"
+  },
+  {
+    "correctAnswer": "L'harmonique",
+    "id": 3023456789012365,
+    "options": [
+      "Le vibrato",
+      "L'harmonique",
+      "Le glissando",
+      "La double-corde"
+    ],
+    "question": "Quel terme décrit le son produit sur une corde en touchant légèrement un point nodal tout en la faisant vibrer, produisant ainsi un son aigu et pur?"
+  },
+  {
+    "correctAnswer": "Le diapason",
+    "id": 3123456789012366,
+    "options": [
+      "Le metronome",
+      "Le diapason",
+      "Le métronome",
+      "La baguette"
+    ],
+    "question": "Quel outil est utilisé pour donner une référence de hauteur, généralement le 'la' à 440 Hz?"
+  },
+  {
+    "correctAnswer": "Fugue",
+    "id": 3223456789012367,
+    "options": [
+      "Sonate",
+      "Rondo",
+      "Aria",
+      "Fugue"
+    ],
+    "question": "Quelle forme musicale est basée sur le principe de l'imitation et est souvent associée à J.S. Bach?"
+  },
+  {
+    "correctAnswer": "Timbales",
+    "id": 3323456789012368,
+    "options": [
+      "Cymbales",
+      "Triangle",
+      "Timbales",
+      "Tambour"
+    ],
+    "question": "Quel instrument de percussion est constitué d'un ensemble de grands tambours accordés et est souvent utilisé pour des solos dramatiques dans l'orchestre?"
+  },
+  {
+    "correctAnswer": "Le mode mineur",
+    "id": 3423456789012369,
+    "options": [
+      "Le mode majeur",
+      "Le mode diminué",
+      "Le mode augmenté",
+      "Le mode mineur"
+    ],
+    "question": "Quel mode musical est souvent associé à une sensation mélancolique ou triste?"
+  },
+  {
+    "correctAnswer": "Sousaphone",
+    "id": 3523456789012370,
+    "options": [
+      "Euphonium",
+      "Trombone",
+      "Tuba",
+      "Sousaphone"
+    ],
+    "question": "Quel instrument de cuivre est souvent utilisé dans les fanfares et se porte autour du corps du musicien?"
+  },
+  {
+    "correctAnswer": "Le trémolo",
+    "id": 3623456789012371,
+    "options": [
+      "Le vibrato",
+      "Le trill",
+      "Le trémolo",
+      "Le staccato"
+    ],
+    "question": "Quelle technique instrumentale consiste à jouer rapidement la même note ou à alterner rapidement entre deux notes?"
+  },
+  {
+    "correctAnswer": "La tessiture",
+    "id": 3723456789012372,
+    "options": [
+      "Le timbre",
+      "La tessiture",
+      "La tonalité",
+      "La texture"
+    ],
+    "question": "Quel terme décrit la gamme de notes qu'un chanteur ou un instrument peut produire?"
+  },
+  {
+    "correctAnswer": "Le vibrato",
+    "id": 3823456789012373,
+    "options": [
+      "Le glissando",
+      "Le vibrato",
+      "Le tremolo",
+      "Le pizzicato"
+    ],
+    "question": "Quelle technique vocale ou instrumentale consiste à varier rapidement la hauteur d'une note pour lui donner de la chaleur et de l'expression?"
+  },
+  {
+    "correctAnswer": "L'orchestre symphonique",
+    "id": 3923456789012374,
+    "options": [
+      "L'ensemble de chambre",
+      "L'orchestre à cordes",
+      "L'orchestre d'harmonie",
+      "L'orchestre symphonique"
+    ],
+    "question": "Quel type d'orchestre comprend des instruments à cordes, des bois, des cuivres et des percussions, et joue souvent des symphonies, des ouvertures et des concertos?"
+  },
+  {
+    "correctAnswer": "La dynamique",
+    "id": 4023456789012375,
+    "options": [
+      "La mélodie",
+      "L'harmonie",
+      "La dynamique",
+      "Le rythme"
+    ],
+    "question": "Quel terme musical décrit le niveau de volume d'une pièce ou d'une section de musique?"
+  },
+  {
+    "correctAnswer": "Le legato",
+    "id": 4123456789012376,
+    "options": [
+      "Le staccato",
+      "Le legato",
+      "Le trémolo",
+      "Le vibrato"
+    ],
+    "question": "Quelle technique indique que les notes doivent être jouées ou chantées de manière fluide et connectée?"
+  },
+  {
+    "correctAnswer": "Le clavecin",
+    "id": 4223456789012377,
+    "options": [
+      "Le piano",
+      "L'orgue",
+      "Le clavecin",
+      "Le synthétiseur"
+    ],
+    "question": "Quel instrument à clavier, populaire à l'époque baroque, produit des sons en pinçant les cordes plutôt qu'en les frappant?"
+  },
+  {
+    "correctAnswer": "La caisse claire",
+    "id": 4323456789012378,
+    "options": [
+      "La grosse caisse",
+      "Les toms",
+      "Le tambourin",
+      "La caisse claire"
+    ],
+    "question": "Quel tambour est au centre de la plupart des batteries et est connu pour son son clair et pénétrant?"
+  },
+  {
+    "correctAnswer": "La tonique",
+    "id": 4423456789012379,
+    "options": [
+      "La dominante",
+      "La médiane",
+      "La tonique",
+      "La sous-dominante"
+    ],
+    "question": "Dans une échelle musicale, comment est appelée la première note?"
+  },
+  {
+    "correctAnswer": "Opus",
+    "id": 4523456789012380,
+    "options": [
+      "Étude",
+      "Opus",
+      "Concerto",
+      "Suite"
+    ],
+    "question": "Quel terme est souvent utilisé pour indiquer l'ordre chronologique des œuvres d'un compositeur?"
+  },
+  {
+    "correctAnswer": "Le rythme",
+    "id": 4623456789012381,
+    "options": [
+      "La mélodie",
+      "L'harmonie",
+      "Le rythme",
+      "Le timbre"
+    ],
+    "question": "Quel élément musical décrit la durée et l'accentuation des notes dans le temps?"
+  },
+  {
+    "correctAnswer": "La contrebasse",
+    "id": 4723456789012382,
+    "options": [
+      "Le violoncelle",
+      "La contrebasse",
+      "L'alto",
+      "Le violon"
+    ],
+    "question": "Quel est l'instrument à cordes le plus grave de l'orchestre?"
+  },
+  {
+    "correctAnswer": "Le pont",
+    "id": 4823456789012383,
+    "options": [
+      "Le refrain",
+      "Le couplet",
+      "Le pont",
+      "L'intro"
+    ],
+    "question": "Dans une chanson populaire, quelle section sert souvent de transition entre le couplet et le refrain et est généralement différente de ces deux parties?"
+  },
+  {
+    "correctAnswer": "La batteur",
+    "id": 4923456789012384,
+    "options": [
+      "Le pianiste",
+      "Le bassiste",
+      "Le batteur",
+      "Le guitariste"
+    ],
+    "question": "Dans un groupe de rock, qui est responsable de maintenir le tempo et de fournir le rythme de base?"
+  },
+  {
+    "correctAnswer": "Bémol",
+    "id": 5023456789012385,
+    "options": [
+      "Dièse",
+      "Bémol",
+      "Naturel",
+      "Croix"
+    ],
+    "question": "Quel signe musical abaisse la hauteur d'une note d'un demi-ton?"
+  },
+  {
+    "correctAnswer": "La tessiture",
+    "id": 5123456789012386,
+    "options": [
+      "La tonalité",
+      "La tessiture",
+      "Le timbre",
+      "La texture"
+    ],
+    "question": "Quel terme décrit l'éventail complet des notes qu'un chanteur ou un instrument peut produire, du plus bas au plus haut?"
+  },
+  {
+    "correctAnswer": "Le cor",
+    "id": 5223456789012387,
+    "options": [
+      "La trompette",
+      "Le trombone",
+      "Le cor",
+      "Le tuba"
+    ],
+    "question": "Quel instrument de cuivre est couramment utilisé dans les orchestres et est connu pour son son doux et mélodique?"
+  },
+  {
+    "correctAnswer": "La mesure",
+    "id": 5323456789012388,
+    "options": [
+      "Le tempo",
+      "Le rythme",
+      "La mesure",
+      "La battue"
+    ],
+    "question": "Quel terme musical décrit la division régulière du temps en un certain nombre de temps ou de battements?"
+  },
+  {
+    "correctAnswer": "Le piccolo",
+    "id": 5423456789012389,
+    "options": [
+      "Le hautbois",
+      "La clarinette",
+      "Le basson",
+      "Le piccolo"
+    ],
+    "question": "Quel instrument à vent en bois est la version aiguë de la flûte traversière?"
+  },
+  {
+    "correctAnswer": "L'andantino",
+    "id": 5523456789012390,
+    "options": [
+      "L'adagietto",
+      "L'allegretto",
+      "L'andante",
+      "L'andantino"
+    ],
+    "question": "Quel terme musical indique généralement un tempo légèrement plus rapide que l'andante mais plus lent que l'allegretto?"
+  },
+  {
+    "correctAnswer": "La croche",
+    "id": 5623456789012391,
+    "options": [
+      "La blanche",
+      "La noire",
+      "La croche",
+      "La double croche"
+    ],
+    "question": "Dans la notation musicale, quelle note vaut la moitié d'une noire?"
+  },
+  {
+    "correctAnswer": "Le balafon",
+    "id": 5723456789012392,
+    "options": [
+      "Le djembé",
+      "Le kora",
+      "Le balafon",
+      "La marimba"
+    ],
+    "question": "Quel instrument à percussion mélodique est originaire d'Afrique de l'Ouest et est similaire au xylophone?"
+  },
+  {
+    "correctAnswer": "La modulation",
+    "id": 5823456789012393,
+    "options": [
+      "L'ornementation",
+      "La variation",
+      "La transposition",
+      "La modulation"
+    ],
+    "question": "Quel terme musical décrit le changement de tonalité ou de clé au sein d'une pièce?"
+  },
+  {
+    "correctAnswer": "L'alto",
+    "id": 5923456789012394,
+    "options": [
+      "Le violon",
+      "Le violoncelle",
+      "L'alto",
+      "La contrebasse"
+    ],
+    "question": "Quel instrument à cordes est plus grand que le violon mais plus petit que le violoncelle et possède un son plus grave que le violon?"
+  },
+  {
+    "correctAnswer": "La sonorité",
+    "id": 6023456789012395,
+    "options": [
+      "Le tempo",
+      "Le rythme",
+      "La mélodie",
+      "La sonorité"
+    ],
+    "question": "Quel terme décrit la qualité et la couleur du son d'un instrument ou d'une voix?"
+  },
+  {
+    "correctAnswer": "The Beatles",
+    "id": 6123456789012396,
+    "options": [
+      "The Rolling Stones",
+      "The Who",
+      "Pink Floyd",
+      "The Beatles"
+    ],
+    "question": "Quel groupe britannique est célèbre pour des albums comme 'Sgt. Pepper's Lonely Hearts Club Band' et 'Abbey Road'?"
+  },
+  {
+    "correctAnswer": "Reggae",
+    "id": 6223456789012397,
+    "options": [
+      "Salsa",
+      "Jazz",
+      "Funk",
+      "Reggae"
+    ],
+    "question": "Quel genre musical, originaire de Jamaïque, est associé à des artistes comme Bob Marley?"
+  },
+  {
+    "correctAnswer": "Mozart",
+    "id": 6323456789012398,
+    "options": [
+      "Beethoven",
+      "Mozart",
+      "Haydn",
+      "Schubert"
+    ],
+    "question": "Quel compositeur est célèbre pour avoir été un prodige musical dès son plus jeune âge et pour avoir composé plus de 600 œuvres?"
+  },
+  {
+    "correctAnswer": "Hip-hop",
+    "id": 6423456789012399,
+    "options": [
+      "Blues",
+      "Country",
+      "Rock",
+      "Hip-hop"
+    ],
+    "question": "Quel genre musical est originaire des quartiers de New York dans les années 1970 et est centré sur le rap et le DJing?"
+  },
+  {
+    "correctAnswer": "Edith Piaf",
+    "id": 6523456789012400,
+    "options": [
+      "Céline Dion",
+      "Françoise Hardy",
+      "Edith Piaf",
+      "Mireille Mathieu"
+    ],
+    "question": "Quelle chanteuse française est célèbre pour des chansons comme 'La Vie en Rose' et 'Non, je ne regrette rien'?"
+  },
+  {
+    "correctAnswer": "Sitar",
+    "id": 6623456789012401,
+    "options": [
+      "Tabla",
+      "Sitar",
+      "Sarod",
+      "Tambura"
+    ],
+    "question": "Quel instrument à cordes indien est souvent associé à Ravi Shankar et a été popularisé en Occident par des groupes comme The Beatles?"
+  },
+  {
+    "correctAnswer": "Fado",
+    "id": 6723456789012402,
+    "options": [
+      "Flamenco",
+      "Samba",
+      "Fado",
+      "Tango"
+    ],
+    "question": "Quel genre musical, souvent mélancolique, est originaire du Portugal?"
+  },
+  {
+    "correctAnswer": "Nina Simone",
+    "id": 6823456789012403,
+    "options": [
+      "Ella Fitzgerald",
+      "Billie Holiday",
+      "Nina Simone",
+      "Sarah Vaughan"
+    ],
+    "question": "Quelle chanteuse et pianiste est connue pour ses interprétations de chansons comme 'Feeling Good' et 'Sinnerman'?"
+  },
+  {
+    "correctAnswer": "Kraftwerk",
+    "id": 6923456789012404,
+    "options": [
+      "Depeche Mode",
+      "Kraftwerk",
+      "The Chemical Brothers",
+      "Daft Punk"
+    ],
+    "question": "Quel groupe allemand est considéré comme l'un des pionniers de la musique électronique?"
+  },
+  {
+    "correctAnswer": "Elton John",
+    "id": 7023456789012405,
+    "options": [
+      "Billy Joel",
+      "Paul McCartney",
+      "Freddie Mercury",
+      "Elton John"
+    ],
+    "question": "Quel musicien britannique est célèbre pour des hits comme 'Rocket Man' et 'Candle in the Wind'?"
+  },
+  {
+    "correctAnswer": "Woodstock",
+    "id": 7123456789012406,
+    "options": [
+      "Coachella",
+      "Glastonbury",
+      "Burning Man",
+      "Woodstock"
+    ],
+    "question": "Quel festival de musique, qui a eu lieu en 1969, est devenu emblématique de la contre-culture des années 60?"
+  },
+  {
+    "correctAnswer": "Bossa nova",
+    "id": 7223456789012407,
+    "options": [
+      "Mambo",
+      "Bolero",
+      "Merengue",
+      "Bossa nova"
+    ],
+    "question": "Quel genre musical, originaire du Brésil, combine des éléments de jazz et de samba?"
+  },
+  {
+    "correctAnswer": "B.B. King",
+    "id": 7323456789012408,
+    "options": [
+      "Muddy Waters",
+      "B.B. King",
+      "John Lee Hooker",
+      "Robert Johnson"
+    ],
+    "question": "Quel musicien de blues est célèbre pour sa guitare appelée 'Lucille'?"
+  },
+  {
+    "correctAnswer": "Disco",
+    "id": 7423456789012409,
+    "options": [
+      "Funk",
+      "Soul",
+      "Disco",
+      "R&B"
+    ],
+    "question": "Quel genre musical, populaire dans les années 70, est associé à des artistes comme Donna Summer et des lieux comme le Studio 54?"
+  },
+  {
+    "correctAnswer": "Vuvuzela",
+    "id": 7523456789012410,
+    "options": [
+      "Didgeridoo",
+      "Djembe",
+      "Maracas",
+      "Vuvuzela"
+    ],
+    "question": "Quel instrument à vent, souvent associé à des événements sportifs en Afrique du Sud, produit un son de bourdonnement distinctif?"
+  },
+  {
+    "correctAnswer": "Gospel",
+    "id": 7623456789012411,
+    "options": [
+      "Blues",
+      "Jazz",
+      "Soul",
+      "Gospel"
+    ],
+    "question": "Quel genre musical est étroitement lié aux églises afro-américaines et combine des éléments spirituels et rythmiques?"
+  },
+  {
+    "correctAnswer": "Johnny Cash",
+    "id": 7723456789012412,
+    "options": [
+      "Willie Nelson",
+      "Hank Williams",
+      "Merle Haggard",
+      "Johnny Cash"
+    ],
+    "question": "Quel musicien de country est connu pour des chansons comme 'Ring of Fire' et 'Walk the Line'?"
+  },
+  {
+    "correctAnswer": "Ska",
+    "id": 7823456789012413,
+    "options": [
+      "Reggae",
+      "Dancehall",
+      "Ska",
+      "Dub"
+    ],
+    "question": "Quel genre musical, originaire de Jamaïque dans les années 1950, est caractérisé par un rythme chaloupé et a précédé le reggae?"
+  },
+  {
+    "correctAnswer": "Madonna",
+    "id": 7923456789012414,
+    "options": [
+      "Cher",
+      "Whitney Houston",
+      "Tina Turner",
+      "Madonna"
+    ],
+    "question": "Quelle chanteuse, surnommée la 'Reine de la Pop', est célèbre pour des hits comme 'Like a Virgin' et 'Vogue'?"
+  },
+  {
+    "correctAnswer": "Punk",
+    "id": 8023456789012415,
+    "options": [
+      "Rockabilly",
+      "Grunge",
+      "Metal",
+      "Punk"
+    ],
+    "question": "Quel genre musical est associé à des groupes comme The Sex Pistols et The Ramones et a émergé comme une réaction contre la musique rock mainstream des années 70?"
+  },
+  {
+    "correctAnswer": "Amy Winehouse",
+    "id": 8123456789012416,
+    "options": [
+      "Adele",
+      "Lana Del Rey",
+      "Billie Eilish",
+      "Amy Winehouse"
+    ],
+    "question": "Quelle chanteuse britannique est connue pour sa voix soul unique et sa chanson 'Back to Black'?"
+  },
+  {
+    "correctAnswer": "Thriller",
+    "id": 8223456789012417,
+    "options": [
+      "Bad",
+      "Off the Wall",
+      "Dangerous",
+      "Thriller"
+    ],
+    "question": "Quel album de Michael Jackson est le plus vendu de tous les temps?"
+  },
+  {
+    "correctAnswer": "La Havane",
+    "id": 8323456789012418,
+    "options": [
+      "Santiago",
+      "Buenos Aires",
+      "La Havane",
+      "Mexico"
+    ],
+    "question": "Quelle ville est associée à la musique Buena Vista Social Club et au son cubain classique?"
+  },
+  {
+    "correctAnswer": "Flamenco",
+    "id": 8423456789012419,
+    "options": [
+      "Fado",
+      "Tango",
+      "Flamenco",
+      "Samba"
+    ],
+    "question": "Quel style musical et de danse est originaire d'Andalousie, en Espagne?"
+  },
+  {
+    "correctAnswer": "David Bowie",
+    "id": 8523456789012420,
+    "options": [
+      "Elton John",
+      "David Bowie",
+      "Mick Jagger",
+      "Freddie Mercury"
+    ],
+    "question": "Quel artiste est connu pour ses nombreux changements d'identité, dont Ziggy Stardust?"
+  },
+  {
+    "correctAnswer": "Ukulele",
+    "id": 8623456789012421,
+    "options": [
+      "Banjo",
+      "Mandoline",
+      "Balalaïka",
+      "Ukulele"
+    ],
+    "question": "Quel petit instrument à cordes est associé à la musique hawaïenne?"
+  },
+  {
+    "correctAnswer": "Techno",
+    "id": 8723456789012422,
+    "options": [
+      "Trance",
+      "House",
+      "Dubstep",
+      "Techno"
+    ],
+    "question": "Quel genre de musique électronique est originaire de Detroit dans les années 80?"
+  },
+  {
+    "correctAnswer": "Prince",
+    "id": 8823456789012423,
+    "options": [
+      "Stevie Wonder",
+      "Prince",
+      "James Brown",
+      "Lionel Richie"
+    ],
+    "question": "Qui est l'artiste derrière le hit 'Purple Rain'?"
+  },
+  {
+    "correctAnswer": "Harmonica",
+    "id": 8923456789012424,
+    "options": [
+      "Accordéon",
+      "Mélodica",
+      "Harmonica",
+      "Bandoneon"
+    ],
+    "question": "Quel petit instrument à vent est souvent associé au blues et est parfois appelé 'harp'?"
+  },
+  {
+    "correctAnswer": "Beyoncé",
+    "id": 9023456789012424,
+    "options": [
+      "Rihanna",
+      "Alicia Keys",
+      "Beyoncé",
+      "Mariah Carey"
+    ],
+    "question": "Quelle artiste a commencé sa carrière avec le groupe Destiny's Child avant de connaître un énorme succès en solo?"
+  },
+  {
+    "correctAnswer": "Graceland",
+    "id": 9123456789012426,
+    "options": [
+      "Neverland",
+      "Sunset Strip",
+      "Graceland",
+      "Wonderland"
+    ],
+    "question": "Comment s'appelle la résidence historique d'Elvis Presley à Memphis?"
+  },
+  {
+    "correctAnswer": "Chopin",
+    "id": 9223456789012428,
+    "options": [
+      "Rachmaninov",
+      "Chopin",
+      "Liszt",
+      "Schumann"
+    ],
+    "question": "Quel compositeur est particulièrement connu pour ses compositions pour piano, notamment ses nocturnes?"
+  },
+  {
+    "correctAnswer": "Jimi Hendrix",
+    "id": 9323456789012428,
+    "options": [
+      "Eric Clapton",
+      "Jimmy Page",
+      "Keith Richards",
+      "Jimi Hendrix"
+    ],
+    "question": "Quel guitariste légendaire a interprété une version emblématique de l'hymne national américain à Woodstock en 1969?"
+  },
+  {
+    "correctAnswer": "Rap",
+    "id": 9423456789012428,
+    "options": [
+      "Rap",
+      "Funk",
+      "Soul",
+      "Jazz"
+    ],
+    "question": "Quel genre musical est associé à des artistes comme Tupac Shakur, Biggie Smalls et Jay-Z?"
+  },
+  {
+    "correctAnswer": "Django Reinhardt",
+    "id": 9523456789012430,
+    "options": [
+      "Carlos Santana",
+      "Andrés Segovia",
+      "Django Reinhardt",
+      "John McLaughlin"
+    ],
+    "question": "Quel guitariste de jazz manouche est célèbre pour avoir développé un style unique malgré la perte de l'usage de deux doigts?"
+  },
+  {
+    "correctAnswer": "K-pop",
+    "id": 9623456789012432,
+    "options": [
+      "J-pop",
+      "C-pop",
+      "K-pop",
+      "Q-pop"
+    ],
+    "question": "Quel genre musical originaire de Corée du Sud a gagné en popularité mondiale avec des groupes comme BTS et Blackpink?"
+  },
+  {
+    "correctAnswer": "Accordion",
+    "id": 9723456789012432,
+    "options": [
+      "Bandoneon",
+      "Mélodica",
+      "Harmonium",
+      "Accordion"
+    ],
+    "question": "Quel instrument à clavier et à soufflet est souvent associé à la musique folklorique française et au musette?"
+  },
+  {
+    "correctAnswer": "Cumbia",
+    "id": 9823456789012432,
+    "options": [
+      "Merengue",
+      "Salsa",
+      "Bachata",
+      "Cumbia"
+    ],
+    "question": "Quel genre musical et de danse est originaire de la côte caribéenne de la Colombie?"
+  },
+  {
+    "correctAnswer": "The Velvet Underground",
+    "id": 9923456789012434,
+    "options": [
+      "The Doors",
+      "The Velvet Underground",
+      "The Stooges",
+      "The Kinks"
+    ],
+    "question": "Quel groupe, associé à l'artiste Andy Warhol, a sorti un album avec une banane sur la pochette?"
+  },
+  {
+    "correctAnswer": "Maracas",
+    "id": 10023456789012436,
+    "options": [
+      "Tambourine",
+      "Bongos",
+      "Castanets",
+      "Maracas"
+    ],
+    "question": "Quel instrument de percussion est souvent utilisé dans la musique latine et produit un son en secouant?"
+  },
+  {
+    "correctAnswer": "Vinyl",
+    "id": 10123456789012436,
+    "options": [
+      "Cassette",
+      "Vinyl",
+      "8-track",
+      "CD"
+    ],
+    "question": "Quel support musical a connu une résurgence de popularité chez les audiophiles et les collectionneurs au 21e siècle?"
+  },
+  {
+    "correctAnswer": "Nirvana",
+    "id": 10223456789012436,
+    "options": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains",
+      "Nirvana"
+    ],
+    "question": "Quel groupe est souvent associé à la scène grunge de Seattle et a sorti l'album 'Nevermind' en 1991?"
+  },
+  {
+    "correctAnswer": "La Scala",
+    "id": 10323456789012438,
+    "options": [
+      "The Met",
+      "The Royal Opera House",
+      "La Fenice",
+      "La Scala"
+    ],
+    "question": "Quel opéra de Milan est l'un des plus prestigieux au monde?"
+  },
+  {
+    "correctAnswer": "Saxophone",
+    "id": 10423456789012440,
+    "options": [
+      "Trompette",
+      "Clarinet",
+      "Saxophone",
+      "Flûte"
+    ],
+    "question": "Quel instrument à vent a été inventé par Adolphe Sax au 19e siècle?"
+  },
+  {
+    "correctAnswer": "Radiohead",
+    "id": 10523456789012440,
+    "options": [
+      "Coldplay",
+      "Muse",
+      "Oasis",
+      "Radiohead"
+    ],
+    "question": "Quel groupe britannique a sorti l'album 'OK Computer' en 1997?"
+  },
+  {
+    "correctAnswer": "Baroque",
+    "id": 10623456789012440,
+    "options": [
+      "Renaissance",
+      "Classique",
+      "Baroque",
+      "Romantique"
+    ],
+    "question": "Dans quelle période musicale Antonio Vivaldi et Johann Sebastian Bach sont-ils principalement actifs?"
+  },
+  {
+    "correctAnswer": "Aretha Franklin",
+    "id": 10723456789012442,
+    "options": [
+      "Diana Ross",
+      "Etta James",
+      "Aretha Franklin",
+      "Whitney Houston"
+    ],
+    "question": "Quelle chanteuse est souvent surnommée la 'Reine de la Soul'?"
+  },
+  {
+    "correctAnswer": "Bollywood",
+    "id": 10823456789012444,
+    "options": [
+      "Kollywood",
+      "Tollywood",
+      "Hollywood",
+      "Bollywood"
+    ],
+    "question": "Quelle industrie cinématographique indienne est connue pour ses comédies musicales flamboyantes et ses séquences de danse?"
+  },
+  {
+    "correctAnswer": "ABBA",
+    "id": 10923456789012444,
+    "options": [
+      "The Bee Gees",
+      "The Carpenters",
+      "Eurythmics",
+      "ABBA"
+    ],
+    "question": "Quel groupe suédois a remporté le Concours Eurovision de la chanson en 1974 avec 'Waterloo'?"
+  },
+  {
+    "correctAnswer": "Fela Kuti",
+    "id": 11023456789012444,
+    "options": [
+      "Youssou N'Dour",
+      "Fela Kuti",
+      "Ali Farka Touré",
+      "Manu Dibango"
+    ],
+    "question": "Quel musicien nigérian est souvent associé à la création de l'Afrobeat?"
+  },
+  {
+    "correctAnswer": "Tchaikovsky",
+    "id": 11123456789012446,
+    "options": [
+      "Stravinsky",
+      "Rimsky-Korsakov",
+      "Shostakovich",
+      "Tchaikovsky"
+    ],
+    "question": "Quel compositeur russe est connu pour des ballets comme 'Le Lac des Cygnes' et 'Casse-Noisette'?"
+  },
+  {
+    "correctAnswer": "Drum & Bass",
+    "id": 11223456789012448,
+    "options": [
+      "House",
+      "Trance",
+      "Dubstep",
+      "Drum & Bass"
+    ],
+    "question": "Quel genre de musique électronique est caractérisé par des tempos rapides et des basses lourdes?"
+  },
+  {
+    "correctAnswer": "Lou Reed",
+    "id": 11323456789012448,
+    "options": [
+      "Iggy Pop",
+      "David Byrne",
+      "Lou Reed",
+      "Bob Dylan"
+    ],
+    "question": "Quel chanteur a été le leader du groupe The Velvet Underground avant de poursuivre une carrière solo réussie?"
+  },
+  {
+    "correctAnswer": "Accordion",
+    "id": 11423456789012448,
+    "options": [
+      "Harmonica",
+      "Bandoneon",
+      "Melodica",
+      "Accordion"
+    ],
+    "question": "Quel instrument est fortement associé à la musique traditionnelle française et est souvent présent dans la chanson française?"
+  },
+  {
+    "correctAnswer": "Duke Ellington",
+    "id": 11523456789012450,
+    "options": [
+      "Miles Davis",
+      "Duke Ellington",
+      "John Coltrane",
+      "Louis Armstrong"
+    ],
+    "question": "Quel musicien de jazz est célèbre pour avoir dirigé l'un des orchestres de jazz les plus célèbres et pour des compositions comme 'Take the 'A' Train'?"
+  },
+  {
+    "correctAnswer": "New Orleans",
+    "id": 11623456789012452,
+    "options": [
+      "Memphis",
+      "Chicago",
+      "New York",
+      "New Orleans"
+    ],
+    "question": "Dans quelle ville américaine le jazz est-il généralement considéré comme ayant ses racines?"
+  },
+  {
+    "correctAnswer": "The Clash",
+    "id": 11723456789012452,
+    "options": [
+      "The Sex Pistols",
+      "The Ramones",
+      "The Clash",
+      "The Stooges"
+    ],
+    "question": "Quel groupe punk britannique est connu pour des chansons comme 'London Calling' et 'Should I Stay or Should I Go'?"
+  },
+  {
+    "correctAnswer": "Zither",
+    "id": 11823456789012452,
+    "options": [
+      "Hurdy Gurdy",
+      "Dulcimer",
+      "Harpsichord",
+      "Zither"
+    ],
+    "question": "Quel instrument à cordes pincées d'origine austro-allemande a été popularisé dans le film 'Le Troisième Homme'?"
+  },
+  {
+    "correctAnswer": "Björk",
+    "id": 11923456789012454,
+    "options": [
+      "Robyn",
+      "Sigur Rós",
+      "Aurora",
+      "Björk"
+    ],
+    "question": "Quelle artiste islandaise est connue pour son style éclectique et avant-gardiste, mêlant musique électronique, classique, trip-hop et plus?"
+  },
+  {
+    "correctAnswer": "The Smiths",
+    "id": 12023456789012456,
+    "options": [
+      "The Cure",
+      "Joy Division",
+      "The Smiths",
+      "The Stone Roses"
+    ],
+    "question": "Quel groupe britannique des années 80, avec Morrissey comme chanteur principal, est célèbre pour des chansons comme 'This Charming Man' et 'How Soon Is Now?'?"
+  },
+  {
+    "correctAnswer": "Phil Collins",
+    "id": 12123456789012456,
+    "options": [
+      "Peter Gabriel",
+      "Phil Collins",
+      "Mike Rutherford",
+      "Steve Hackett"
+    ],
+    "question": "Quel membre de Genesis a connu un grand succès en solo avec des chansons comme 'In the Air Tonight' et 'Against All Odds'?"
+  },
+  {
+    "correctAnswer": "Blues",
+    "id": 12223456789012456,
+    "options": [
+      "Jazz",
+      "Soul",
+      "Blues",
+      "R&B"
+    ],
+    "question": "Quel genre musical est originaire des communautés afro-américaines du Deep South des États-Unis?"
+  },
+  {
+    "correctAnswer": "U2",
+    "id": 12323456789012458,
+    "options": [
+      "Coldplay",
+      "The Police",
+      "U2",
+      "R.E.M."
+    ],
+    "question": "Quel groupe irlandais est connu pour des chansons comme 'With or Without You' et 'Beautiful Day'?"
+  },
+  {
+    "correctAnswer": "Trombone",
+    "id": 12423456789012460,
+    "options": [
+      "Tuba",
+      "Cornet",
+      "Trompette",
+      "Trombone"
+    ],
+    "question": "Quel instrument à vent en cuivre possède une coulisse utilisée pour changer la longueur de sa tubulure et, par conséquent, sa note?"
+  },
+  {
+    "correctAnswer": "Lady Gaga",
+    "id": 12523456789012460,
+    "options": [
+      "Madonna",
+      "Katy Perry",
+      "Lady Gaga",
+      "Ariana Grande"
+    ],
+    "question": "Quelle artiste pop est connue pour ses tenues excentriques et des chansons comme 'Bad Romance' et 'Shallow'?"
+  },
+  {
+    "correctAnswer": "Viola da gamba",
+    "id": 12623456789012460,
+    "options": [
+      "Violoncelle",
+      "Contrebasse",
+      "Viola da gamba",
+      "Vielle à roue"
+    ],
+    "question": "Quel instrument à cordes de la Renaissance et du Baroque est joué entre les jambes et possède des frettes?"
+  },
+  {
+    "correctAnswer": "The Grateful Dead",
+    "id": 12723456789012462,
+    "options": [
+      "The Doors",
+      "The Grateful Dead",
+      "The Beach Boys",
+      "Cream"
+    ],
+    "question": "Quel groupe est célèbre pour ses concerts improvisés et ses fans dévoués appelés 'Deadheads'?"
+  },
+  {
+    "correctAnswer": "Psytrance",
+    "id": 12823456789012464,
+    "options": [
+      "Dub",
+      "Ambient",
+      "Psytrance",
+      "Techno"
+    ],
+    "question": "Quel sous-genre de la musique trance est associé à des tempos rapides, des basses complexes et des atmosphères psychédéliques?"
+  },
+  {
+    "correctAnswer": "John Williams",
+    "id": 12923456789012464,
+    "options": [
+      "Hans Zimmer",
+      "Danny Elfman",
+      "John Williams",
+      "James Horner"
+    ],
+    "question": "Quel compositeur est célèbre pour avoir écrit la musique de films comme 'Star Wars', 'Jurassic Park' et 'Indiana Jones'?"
+  },
+  {
+    "correctAnswer": "Sousaphone",
+    "id": 13023456789012464,
+    "options": [
+      "Euphonium",
+      "Tuba",
+      "Baritone",
+      "Sousaphone"
+    ],
+    "question": "Quel gros instrument à vent en cuivre, souvent utilisé dans les fanfares, a été conçu pour être porté autour du corps et jouer avec le pavillon orienté vers l'avant?"
+  },
+  {
+    "correctAnswer": "Bossa nova",
+    "id": 13123456789012466,
+    "options": [
+      "Samba",
+      "Merengue",
+      "Rumba",
+      "Bossa nova"
+    ],
+    "question": "Quel style musical brésilien, influencé par le jazz, est associé à des artistes comme João Gilberto et Antônio Carlos Jobim?"
+  },
+  {
+    "correctAnswer": "Patti Smith",
+    "id": 13223456789012468,
+    "options": [
+      "Joan Jett",
+      "Janis Joplin",
+      "Patti Smith",
+      "Stevie Nicks"
+    ],
+    "question": "Quelle artiste est souvent surnommée la 'marraine du punk' et est connue pour son album 'Horses'?"
+  },
+  {
+    "correctAnswer": "Dub",
+    "id": 13323456789012468,
+    "options": [
+      "Reggae",
+      "Dancehall",
+      "Dub",
+      "Ska"
+    ],
+    "question": "Quel genre musical jamaïcain se concentre sur des remixes instrumentaux, avec un accent sur la basse et la réverbération?"
+  },
+  {
+    "correctAnswer": "Bouzouki",
+    "id": 13423456789012468,
+    "options": [
+      "Balalaika",
+      "Mandoline",
+      "Oud",
+      "Bouzouki"
+    ],
+    "question": "Quel instrument à cordes pincées est souvent associé à la musique grecque traditionnelle?"
+  },
+  {
+    "correctAnswer": "Mötley Crüe",
+    "id": 13523456789012470,
+    "options": [
+      "Guns N' Roses",
+      "Def Leppard",
+      "Mötley Crüe",
+      "Poison"
+    ],
+    "question": "Quel groupe de glam metal est associé à des chansons comme 'Dr. Feelgood' et 'Kickstart My Heart'?"
+  },
+  {
+    "correctAnswer": "Sitar",
+    "id": 13623456789012472,
+    "options": [
+      "Tabla",
+      "Sitar",
+      "Veena",
+      "Sarod"
+    ],
+    "question": "Quel instrument à cordes indien a été popularisé dans la musique rock occidentale par des musiciens comme George Harrison des Beatles?"
+  },
+  {
+    "correctAnswer": "Daft Punk",
+    "id": 13723456789012472,
+    "options": [
+      "The Chemical Brothers",
+      "Justice",
+      "Daft Punk",
+      "The Prodigy"
+    ],
+    "question": "Quel duo français est connu pour ses casques robotiques et des hits comme 'Around the World' et 'Get Lucky'?"
+  },
+  {
+    "correctAnswer": "Cajon",
+    "id": 13823456789012472,
+    "options": [
+      "Djembe",
+      "Conga",
+      "Cajon",
+      "Bongo"
+    ],
+    "question": "Quel instrument de percussion, qui ressemble à une boîte et est joué en étant assis dessus, est originaire du Pérou?"
+  },
+  {
+    "correctAnswer": "Ravi Shankar",
+    "id": 13923456789012474,
+    "options": [
+      "Ali Akbar Khan",
+      "Zakir Hussain",
+      "Ravi Shankar",
+      "Anoushka Shankar"
+    ],
+    "question": "Quel musicien indien est particulièrement célèbre pour sa maîtrise du sitar et sa collaboration avec des musiciens occidentaux comme George Harrison?"
+  },
+  {
+    "correctAnswer": "Billie Holiday",
+    "id": 14023456789012476,
+    "options": [
+      "Ella Fitzgerald",
+      "Billie Holiday",
+      "Sarah Vaughan",
+      "Dinah Washington"
+    ],
+    "question": "Quelle chanteuse de jazz est connue pour sa voix mélancolique et des chansons comme 'Strange Fruit'?"
+  },
+  {
+    "correctAnswer": "Calypso",
+    "id": 14123456789012476,
+    "options": [
+      "Soca",
+      "Reggaeton",
+      "Calypso",
+      "Merengue"
+    ],
+    "question": "Quel style musical est originaire de Trinité-et-Tobago et est souvent associé à des commentaires sociaux et politiques?"
+  },
+  {
+    "correctAnswer": "Didgeridoo",
+    "id": 14223456789012476,
+    "options": [
+      "Djembe",
+      "Ocarina",
+      "Didgeridoo",
+      "Kalimba"
+    ],
+    "question": "Quel instrument à vent traditionnel est associé aux peuples autochtones d'Australie?"
+  },
+  {
+    "correctAnswer": "Otis Redding",
+    "id": 14323456789012478,
+    "options": [
+      "James Brown",
+      "Marvin Gaye",
+      "Otis Redding",
+      "Sam Cooke"
+    ],
+    "question": "Quel chanteur soul est connu pour sa performance emblématique à Monterey Pop Festival et sa chanson '(Sittin' On) The Dock of the Bay'?"
+  },
+  {
+    "correctAnswer": "Berimbau",
+    "id": 14423456789012480,
+    "options": [
+      "Maracas",
+      "Claves",
+      "Berimbau",
+      "Cajon"
+    ],
+    "question": "Quel instrument à une seule corde est essentiel dans la musique de la capoeira brésilienne?"
+  },
+  {
+    "correctAnswer": "A cappella",
+    "id": 14523456789012480,
+    "options": [
+      "Staccato",
+      "Legato",
+      "Forte",
+      "A cappella"
+    ],
+    "question": "Comment appelle-t-on la musique chantée sans accompagnement instrumental?"
+  },
+  {
+    "correctAnswer": "B.B. King",
+    "id": 14623456789012480,
+    "options": [
+      "Eric Clapton",
+      "Buddy Guy",
+      "John Lee Hooker",
+      "B.B. King"
+    ],
+    "question": "Quel musicien de blues est célèbre pour sa guitare nommée 'Lucille'?"
+  },
+  {
+    "correctAnswer": "Theremin",
+    "id": 14723456789012482,
+    "options": [
+      "Synthétiseur",
+      "Mellotron",
+      "Theremin",
+      "Moog"
+    ],
+    "question": "Quel instrument électronique est joué sans être touché, produisant des sons lorsque le musicien bouge ses mains près de ses antennes?"
+  },
+  {
+    "correctAnswer": "Flamenco",
+    "id": 14823456789012484,
+    "options": [
+      "Tango",
+      "Samba",
+      "Flamenco",
+      "Bolero"
+    ],
+    "question": "Quelle forme d'art espagnole combine chant, danse et jeu de guitare?"
+  },
+  {
+    "correctAnswer": "The Rolling Stones",
+    "id": 14923456789012484,
+    "options": [
+      "The Beatles",
+      "The Who",
+      "The Rolling Stones",
+      "The Kinks"
+    ],
+    "question": "Quel groupe de rock britannique est connu pour des chansons comme 'Angie', 'Start Me Up' et 'Paint It Black'?"
+  },
+  {
+    "correctAnswer": "Glenn Miller",
+    "id": 15023456789012484,
+    "options": [
+      "Benny Goodman",
+      "Duke Ellington",
+      "Count Basie",
+      "Glenn Miller"
+    ],
+    "question": "Quel chef d'orchestre est célèbre pour des chansons comme 'In the Mood' et 'Moonlight Serenade' durant l'ère du swing?"
+  },
+  {
+    "correctAnswer": "Punk rock",
+    "id": 15123456789012486,
+    "options": [
+      "New wave",
+      "Punk rock",
+      "Glam rock",
+      "Progressive rock"
+    ],
+    "question": "Quel genre musical est né dans les années 70 comme une réaction contre les excès perçus du rock mainstream?"
+  },
+  {
+    "correctAnswer": "Banjo",
+    "id": 15223456789012488,
+    "options": [
+      "Ukulele",
+      "Mandoline",
+      "Balalaika",
+      "Banjo"
+    ],
+    "question": "Quel instrument à cordes pincées est souvent associé à la musique bluegrass et folk américaine?"
+  },
+  {
+    "correctAnswer": "Heavy metal",
+    "id": 15323456789012488,
+    "options": [
+      "Hard rock",
+      "Heavy metal",
+      "Grunge",
+      "Punk rock"
+    ],
+    "question": "Quel genre musical est associé à des groupes comme Black Sabbath, Iron Maiden et Metallica?"
+  },
+  {
+    "correctAnswer": "Reggae",
+    "id": 15423456789012488,
+    "options": [
+      "Ska",
+      "Dancehall",
+      "Reggae",
+      "Rumba"
+    ],
+    "question": "Bob Marley est une figure emblématique de quel genre musical?"
+  },
+  {
+    "correctAnswer": "Bagpipes",
+    "id": 15523456789012490,
+    "options": [
+      "Alphorn",
+      "Didgeridoo",
+      "Zurna",
+      "Bagpipes"
+    ],
+    "question": "Quel instrument à vent est traditionnellement associé à la musique écossaise?"
+  },
+  {
+    "correctAnswer": "The Carter Family",
+    "id": 15623456789012492,
+    "options": [
+      "The Everly Brothers",
+      "The Carter Family",
+      "The Louvin Brothers",
+      "The Stanley Brothers"
+    ],
+    "question": "Quelle famille est souvent considérée comme l'une des premières familles importantes de la musique country?"
+  },
+  {
+    "correctAnswer": "Gamelan",
+    "id": 15723456789012492,
+    "options": [
+      "Gamelan",
+      "Tabla",
+      "Koto",
+      "Erhu"
+    ],
+    "question": "Comment appelle-t-on l'ensemble musical traditionnel indonésien, principalement composé de percussions métalliques?"
+  },
+  {
+    "correctAnswer": "Dixieland",
+    "id": 15823456789012492,
+    "options": [
+      "Bebop",
+      "Dixieland",
+      "Swing",
+      "Fusion"
+    ],
+    "question": "Quel sous-genre du jazz, originaire de La Nouvelle-Orléans, est caractérisé par un ensemble de petites tailles jouant ensemble sans partitions?"
   }
 ]

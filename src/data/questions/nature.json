@@ -1,71 +1,5 @@
 [
   {
-    "correctAnswer": "Océan Pacifique",
-    "id": 7083950244202899,
-    "options": [
-      "Océan Atlantique",
-      "Océan Arctique",
-      "Océan Indien",
-      "Océan Pacifique"
-    ],
-    "question": "Quel est le plus grand océan du monde ?"
-  },
-  {
-    "correctAnswer": "Mont Everest",
-    "id": 5817474338920621,
-    "options": [
-      "Mont Everest",
-      "Mont Kilimandjaro",
-      "Mont Denali",
-      "Mont Blanc"
-    ],
-    "question": "Quelle est la plus haute montagne du monde ?"
-  },
-  {
-    "correctAnswer": "Désert du Sahara",
-    "id": 3636744278209401,
-    "options": [
-      "Désert du Sahara",
-      "Désert de Gobi",
-      "Désert d'Arabie",
-      "Désert du Kalahari"
-    ],
-    "question": "Quel est le plus grand désert du monde ?"
-  },
-  {
-    "correctAnswer": "Nil",
-    "id": 1546668096854175,
-    "options": [
-      "Nil",
-      "Amazone",
-      "Mississippi",
-      "Yangtsé"
-    ],
-    "question": "Quel est le fleuve le plus long du monde ?"
-  },
-  {
-    "correctAnswer": "lac Supérieur",
-    "id": 4733630333585793,
-    "options": [
-      "lac Supérieur",
-      "lac Baïkal",
-      "lac Victoria",
-      "lac Michigan"
-    ],
-    "question": "Quel est le plus grand lac du monde en superficie ?"
-  },
-  {
-    "correctAnswer": "Forêt amazonienne",
-    "id": 5231355234672937,
-    "options": [
-      "Forêt amazonienne",
-      "Forêt du Congo",
-      "Forêt de Bornéo",
-      "Forêt de Daintree"
-    ],
-    "question": "Quelle est la plus grande forêt tropicale du monde ?"
-  },
-  {
     "correctAnswer": "Grande Barrière de Corail",
     "id": 8877020869729601,
     "options": [
@@ -449,5 +383,1666 @@
       "Mangue"
     ],
     "question": "Quel est le plus grand arbre fruitier du monde ?"
+  },
+  {
+    "correctAnswer": "La photosynthèse",
+    "id": 1012301202310231,
+    "options": [
+      "La respiration",
+      "La photosynthèse",
+      "La fermentation",
+      "L'osmose"
+    ],
+    "question": "Quel est le processus par lequel les plantes transforment la lumière du soleil en énergie?"
+  },
+  {
+    "correctAnswer": "Charles Darwin",
+    "id": 1023401230123024,
+    "options": [
+      "Isaac Newton",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Albert Einstein"
+    ],
+    "question": "Qui est l'auteur de 'L'Origine des espèces', où est présentée la théorie de l'évolution par la sélection naturelle?"
+  },
+  {
+    "correctAnswer": "Le lynx",
+    "id": 1034501230123025,
+    "options": [
+      "Le lion",
+      "Le panda",
+      "Le lynx",
+      "Le kangourou"
+    ],
+    "question": "Quel animal est reconnaissable à ses oreilles pointues ornées d'une touffe de poils?"
+  },
+  {
+    "correctAnswer": "L'orchidée",
+    "id": 1045601230123026,
+    "options": [
+      "La rose",
+      "Le tournesol",
+      "L'orchidée",
+      "La marguerite"
+    ],
+    "question": "Quelle plante est connue pour sa symbiose avec des champignons, qui l'aident à obtenir des nutriments?"
+  },
+  {
+    "correctAnswer": "L'ADN",
+    "id": 1056701230123027,
+    "options": [
+      "L'ARN",
+      "L'ADN",
+      "Les protéines",
+      "Les lipides"
+    ],
+    "question": "Quelle molécule est souvent décrite comme la 'molécule de la vie' et contient les instructions génétiques pour le développement et le fonctionnement de tous les organismes vivants?"
+  },
+  {
+    "correctAnswer": "Rachel Carson",
+    "id": 1067801230123028,
+    "options": [
+      "Marie Curie",
+      "Jane Goodall",
+      "Rachel Carson",
+      "Rosalind Franklin"
+    ],
+    "question": "Qui est l'auteur de 'Printemps silencieux', un livre qui a alerté le public sur les dangers des pesticides et a conduit à des changements dans les politiques environnementales?"
+  },
+  {
+    "correctAnswer": "Les fougères",
+    "id": 1078901230123029,
+    "options": [
+      "Les mousses",
+      "Les algues",
+      "Les fougères",
+      "Les champignons"
+    ],
+    "question": "Quels sont les plantes vasculaires les plus anciennes qui ne produisent pas de fleurs mais se reproduisent par spores?"
+  },
+  {
+    "correctAnswer": "L'eau",
+    "id": 1089012312301230,
+    "options": [
+      "L'oxygène",
+      "L'hydrogène",
+      "L'eau",
+      "Le carbone"
+    ],
+    "question": "Quelle molécule est souvent appelée 'le solvant universel' en raison de sa capacité à dissoudre de nombreuses substances?"
+  },
+  {
+    "correctAnswer": "Le mimétisme",
+    "id": 1090112312301231,
+    "options": [
+      "La mutation",
+      "La migration",
+      "Le mimétisme",
+      "La métamorphose"
+    ],
+    "question": "Comment appelle-t-on la capacité de certains animaux à ressembler à d'autres organismes ou à leur environnement pour échapper aux prédateurs?"
+  },
+  {
+    "correctAnswer": "Les anneaux de croissance",
+    "id": 1101212312301232,
+    "options": [
+      "Les cernes de sève",
+      "Les lignes d'écorce",
+      "Les anneaux de croissance",
+      "Les stries de feuille"
+    ],
+    "question": "Comment peut-on estimer l'âge d'un arbre en observant les marques sur une coupe transversale de son tronc?"
+  },
+  {
+    "correctAnswer": "Les bactéries",
+    "id": 1112312312301233,
+    "options": [
+      "Les virus",
+      "Les protozoaires",
+      "Les bactéries",
+      "Les champignons"
+    ],
+    "question": "Quels micro-organismes sont essentiels pour la fixation de l'azote dans le sol, bénéfique pour les plantes?"
+  },
+  {
+    "correctAnswer": "Les lémuriens",
+    "id": 1123412312301234,
+    "options": [
+      "Les pandas",
+      "Les koalas",
+      "Les lémuriens",
+      "Les gibbons"
+    ],
+    "question": "Quels primates sont endémiques de Madagascar?"
+  },
+  {
+    "correctAnswer": "La pollinisation",
+    "id": 1134512312301235,
+    "options": [
+      "La germination",
+      "La pollinisation",
+      "La fermentation",
+      "La transpiration"
+    ],
+    "question": "Quel est le processus par lequel le pollen est transféré de la partie mâle d'une fleur à la partie femelle, conduisant à la production de graines?"
+  },
+  {
+    "correctAnswer": "L'Amazonie",
+    "id": 1145612312301236,
+    "options": [
+      "Le Sahara",
+      "La toundra",
+      "L'Amazonie",
+      "Les Alpes"
+    ],
+    "question": "Quelle région est souvent appelée 'les poumons de la Terre' en raison de la grande quantité d'oxygène produite par ses arbres?"
+  },
+  {
+    "correctAnswer": "Les coraux",
+    "id": 1156712312301237,
+    "options": [
+      "Les éponges",
+      "Les méduses",
+      "Les anémones",
+      "Les coraux"
+    ],
+    "question": "Quels organismes marins forment des récifs qui fournissent un habitat à de nombreuses espèces marines et protègent les côtes des vagues et des tempêtes?"
+  },
+  {
+    "correctAnswer": "L'éthologie",
+    "id": 1167812312301238,
+    "options": [
+      "La botanique",
+      "L'éthologie",
+      "La mycologie",
+      "L'entomologie"
+    ],
+    "question": "Comment appelle-t-on l'étude du comportement des animaux dans leur environnement naturel?"
+  },
+  {
+    "correctAnswer": "L'écologie",
+    "id": 1178912312301239,
+    "options": [
+      "La biologie",
+      "L'écologie",
+      "La géologie",
+      "La météorologie"
+    ],
+    "question": "Quelle science étudie les relations entre les organismes et leur environnement, ainsi que les processus qui régissent la distribution et l'abondance des organismes?"
+  },
+  {
+    "correctAnswer": "La grande barrière de corail",
+    "id": 1189012312301240,
+    "options": [
+      "Le récif de Maldives",
+      "La grande barrière de corail",
+      "Le récif de Belize",
+      "Les récifs de Hawaï"
+    ],
+    "question": "Quel est le plus grand système de récif corallien du monde, situé au large de la côte nord-est de l'Australie?"
+  },
+  {
+    "correctAnswer": "Les fourmis",
+    "id": 1190112312301241,
+    "options": [
+      "Les abeilles",
+      "Les fourmis",
+      "Les termites",
+      "Les guêpes"
+    ],
+    "question": "Quels insectes sont connus pour former des colonies extrêmement organisées, avec des rôles spécifiques pour chaque membre, allant des ouvrières aux soldats?"
+  },
+  {
+    "correctAnswer": "La myrmécologie",
+    "id": 1201212312301242,
+    "options": [
+      "L'apiculture",
+      "La myrmécologie",
+      "L'ornithologie",
+      "La mammalogie"
+    ],
+    "question": "Comment appelle-t-on l'étude scientifique des fourmis?"
+  },
+  {
+    "correctAnswer": "La métamorphose",
+    "id": 2012312401230123,
+    "options": [
+      "La migration",
+      "La métamorphose",
+      "La mutation",
+      "La moulting"
+    ],
+    "question": "Quel est le processus par lequel certains insectes, comme les papillons, passent par des changements drastiques de forme et de fonction à différents stades de leur vie?"
+  },
+  {
+    "correctAnswer": "Le dodo",
+    "id": 2023412401230124,
+    "options": [
+      "Le dodo",
+      "Le kiwi",
+      "Le toucan",
+      "L'autruche"
+    ],
+    "question": "Quel oiseau, autrefois endémique de l'île Maurice, a été déclaré éteint au 17ème siècle à cause de la chasse excessive et l'introduction d'espèces envahissantes?"
+  },
+  {
+    "correctAnswer": "Le caméléon",
+    "id": 2034512401230125,
+    "options": [
+      "Le lézard",
+      "Le caméléon",
+      "La salamandre",
+      "La grenouille"
+    ],
+    "question": "Quel reptile est célèbre pour sa capacité à changer de couleur selon son humeur, son environnement ou d'autres facteurs?"
+  },
+  {
+    "correctAnswer": "La biodiversité",
+    "id": 2045612401230126,
+    "options": [
+      "L'écologie",
+      "La biodiversité",
+      "L'écosystème",
+      "La biomasse"
+    ],
+    "question": "Comment appelle-t-on la variété et la variabilité des formes de vie sur Terre, y compris les différents écosystèmes, espèces et gènes?"
+  },
+  {
+    "correctAnswer": "Les cétacés",
+    "id": 2056712401230127,
+    "options": [
+      "Les poissons",
+      "Les cétacés",
+      "Les mollusques",
+      "Les crustacés"
+    ],
+    "question": "À quelle catégorie d'animaux appartiennent les baleines, les dauphins et les marsouins?"
+  },
+  {
+    "correctAnswer": "Les séquoias",
+    "id": 2067812401230128,
+    "options": [
+      "Les pins",
+      "Les chênes",
+      "Les érables",
+      "Les séquoias"
+    ],
+    "question": "Quels sont les plus grands arbres du monde en termes de volume?"
+  },
+  {
+    "correctAnswer": "L'hibernation",
+    "id": 2078912401230129,
+    "options": [
+      "La migration",
+      "L'hibernation",
+      "La dormance",
+      "L'adaptation"
+    ],
+    "question": "Comment appelle-t-on le processus par lequel certains animaux passent plusieurs mois en état de sommeil profond pendant les mois d'hiver?"
+  },
+  {
+    "correctAnswer": "Le lichen",
+    "id": 2089012401230130,
+    "options": [
+      "Le champignon",
+      "Le lichen",
+      "La mousse",
+      "L'algue"
+    ],
+    "question": "Quel organisme est le résultat d'une symbiose entre un champignon et une algue ou une cyanobactérie?"
+  },
+  {
+    "correctAnswer": "La pollinisation par le vent",
+    "id": 2090112401230131,
+    "options": [
+      "La pollinisation par les insectes",
+      "La pollinisation par le vent",
+      "La pollinisation par l'eau",
+      "La pollinisation manuelle"
+    ],
+    "question": "Comment appelle-t-on le processus de transfert du pollen entre les fleurs grâce à l'action du vent?"
+  },
+  {
+    "correctAnswer": "Les orchidées",
+    "id": 2101212401230132,
+    "options": [
+      "Les roses",
+      "Les tulipes",
+      "Les orchidées",
+      "Les marguerites"
+    ],
+    "question": "Quelles fleurs sont connues pour leur grande variété d'espèces et sont souvent associées à la symbiose avec des champignons?"
+  },
+  {
+    "correctAnswer": "La girafe",
+    "id": 2112312401230133,
+    "options": [
+      "Le zèbre",
+      "L'éléphant",
+      "La girafe",
+      "Le rhinocéros"
+    ],
+    "question": "Quel est le plus grand animal terrestre en termes de hauteur?"
+  },
+  {
+    "correctAnswer": "La déforestation",
+    "id": 2123412401230134,
+    "options": [
+      "L'urbanisation",
+      "La déforestation",
+      "La désertification",
+      "L'érosion"
+    ],
+    "question": "Comment appelle-t-on la conversion des zones forestières en terres non forestières pour l'agriculture, l'urbanisation ou d'autres raisons?"
+  },
+  {
+    "correctAnswer": "Les arachnides",
+    "id": 2134512401230135,
+    "options": [
+      "Les insectes",
+      "Les crustacés",
+      "Les mollusques",
+      "Les arachnides"
+    ],
+    "question": "À quelle catégorie d'animaux appartiennent les araignées, les scorpions et les acariens?"
+  },
+  {
+    "correctAnswer": "La pluie acide",
+    "id": 2145612401230136,
+    "options": [
+      "La pluie acide",
+      "La pluie de météorites",
+      "La pluie tropicale",
+      "La pluie d'étoiles"
+    ],
+    "question": "Comment appelle-t-on la précipitation contenant des niveaux élevés d'ions d'acide sulfurique et d'acide nitrique, souvent due à la pollution de l'air par la combustion des combustibles fossiles?"
+  },
+  {
+    "correctAnswer": "Le Grand Bleu",
+    "id": 2156712401230137,
+    "options": [
+      "La vie aquatique",
+      "Océans",
+      "Le monde du silence",
+      "Le Grand Bleu"
+    ],
+    "question": "Quel film, réalisé par Luc Besson, met en scène la rivalité de deux champions de plongée en apnée?"
+  },
+  {
+    "correctAnswer": "La décomposition",
+    "id": 2167812401230138,
+    "options": [
+      "La photosynthèse",
+      "La décomposition",
+      "La fermentation",
+      "La respiration"
+    ],
+    "question": "Quel processus naturel implique la dégradation des matières organiques par des bactéries, des champignons et d'autres organismes?"
+  },
+  {
+    "correctAnswer": "L'azote",
+    "id": 2178912401230139,
+    "options": [
+      "L'oxygène",
+      "Le carbone",
+      "L'azote",
+      "L'hydrogène"
+    ],
+    "question": "Quel élément est le plus abondant dans l'atmosphère terrestre?"
+  },
+  {
+    "correctAnswer": "Les guépards",
+    "id": 2189012401230140,
+    "options": [
+      "Les lions",
+      "Les guépards",
+      "Les tigres",
+      "Les léopards"
+    ],
+    "question": "Quels félins sont reconnus comme les animaux terrestres les plus rapides, capables d'atteindre des vitesses de plus de 100 km/h sur de courtes distances?"
+  },
+  {
+    "correctAnswer": "Le cycle de l'eau",
+    "id": 2190112401230141,
+    "options": [
+      "Le cycle du carbone",
+      "Le cycle de l'oxygène",
+      "Le cycle de l'azote",
+      "Le cycle de l'eau"
+    ],
+    "question": "Quel cycle biogéochimique décrit le mouvement continu de l'eau sur, au-dessus et sous la surface de la Terre?"
+  },
+  {
+    "correctAnswer": "Les écosystèmes marins",
+    "id": 2201212401230142,
+    "options": [
+      "Les écosystèmes désertiques",
+      "Les écosystèmes de forêt tropicale",
+      "Les écosystèmes de toundra",
+      "Les écosystèmes marins"
+    ],
+    "question": "Quels écosystèmes comprennent les océans, les mers, les estuaires et les zones humides côtières?"
+  },
+  {
+    "correctAnswer": "Les échidnés",
+    "id": 3012312501230123,
+    "options": [
+      "Les ornithorynques",
+      "Les échidnés",
+      "Les tatous",
+      "Les pangolins"
+    ],
+    "question": "Quels mammifères, en plus des ornithorynques, pondent des œufs?"
+  },
+  {
+    "correctAnswer": "La permaculture",
+    "id": 3023412501230124,
+    "options": [
+      "L'hydroponie",
+      "L'agroforesterie",
+      "La monoculture",
+      "La permaculture"
+    ],
+    "question": "Quelle approche de l'agriculture vise à créer des systèmes agricoles durables et autosuffisants?"
+  },
+  {
+    "correctAnswer": "Les proboscidiens",
+    "id": 3034512501230125,
+    "options": [
+      "Les artiodactyles",
+      "Les carnivores",
+      "Les cétacés",
+      "Les proboscidiens"
+    ],
+    "question": "À quelle famille d'animaux appartiennent les éléphants?"
+  },
+  {
+    "correctAnswer": "La canopée",
+    "id": 3045612501230126,
+    "options": [
+      "La strate herbacée",
+      "La canopée",
+      "Le sous-bois",
+      "La strate arbustive"
+    ],
+    "question": "Dans une forêt, comment appelle-t-on la couche supérieure formée par les cimes des arbres?"
+  },
+  {
+    "correctAnswer": "Le krill",
+    "id": 3056712501230127,
+    "options": [
+      "Les planctons",
+      "Les méduses",
+      "Le krill",
+      "Les algues"
+    ],
+    "question": "Quel petit crustacé est une source alimentaire essentielle pour de nombreuses espèces marines, y compris les baleines?"
+  },
+  {
+    "correctAnswer": "Le mimosa pudique",
+    "id": 3067812501230128,
+    "options": [
+      "Le tournesol",
+      "Le mimosa pudique",
+      "La rose",
+      "L'orchidée"
+    ],
+    "question": "Quelle plante est connue pour réagir au toucher en repliant rapidement ses feuilles?"
+  },
+  {
+    "correctAnswer": "Le biotope",
+    "id": 3078912501230129,
+    "options": [
+      "L'habitat",
+      "L'écosystème",
+      "La biocénose",
+      "Le biotope"
+    ],
+    "question": "Comment appelle-t-on l'environnement physique d'une communauté d'organismes?"
+  },
+  {
+    "correctAnswer": "Les vautours",
+    "id": 3089012501230130,
+    "options": [
+      "Les aigles",
+      "Les vautours",
+      "Les faucons",
+      "Les hiboux"
+    ],
+    "question": "Quels oiseaux sont principalement des charognards et jouent un rôle crucial dans l'écosystème en nettoyant les carcasses d'animaux morts?"
+  },
+  {
+    "correctAnswer": "Le corbeau",
+    "id": 3090112501230131,
+    "options": [
+      "Le pigeon",
+      "Le corbeau",
+      "La pie",
+      "Le merle"
+    ],
+    "question": "Quel oiseau est souvent associé à la mythologie et est connu pour sa grande intelligence et sa capacité à résoudre des problèmes?"
+  },
+  {
+    "correctAnswer": "La mycorhize",
+    "id": 3101212501230132,
+    "options": [
+      "La photosynthèse",
+      "La mycorhize",
+      "La symbiose",
+      "La pollinisation"
+    ],
+    "question": "Comment appelle-t-on la relation symbiotique entre les racines des plantes et les champignons?"
+  },
+  {
+    "correctAnswer": "Les zones humides",
+    "id": 3112312501230133,
+    "options": [
+      "Les déserts",
+      "Les forêts",
+      "Les montagnes",
+      "Les zones humides"
+    ],
+    "question": "Quels écosystèmes jouent un rôle crucial dans la régulation du cycle de l'eau et fournissent un habitat à de nombreuses espèces d'animaux et de plantes?"
+  },
+  {
+    "correctAnswer": "Les félidés",
+    "id": 3123412501230134,
+    "options": [
+      "Les canidés",
+      "Les ursidés",
+      "Les félidés",
+      "Les cervidés"
+    ],
+    "question": "À quelle famille d'animaux appartiennent les lions, les tigres, les léopards et les chats?"
+  },
+  {
+    "correctAnswer": "Les solanacées",
+    "id": 3134512501230135,
+    "options": [
+      "Les fabacées",
+      "Les solanacées",
+      "Les poacées",
+      "Les rosacées"
+    ],
+    "question": "À quelle famille de plantes appartiennent les pommes de terre, les tomates et les aubergines?"
+  },
+  {
+    "correctAnswer": "Le pétrole",
+    "id": 3145612501230136,
+    "options": [
+      "Le charbon",
+      "Le pétrole",
+      "Le gaz naturel",
+      "L'uranium"
+    ],
+    "question": "Quelle ressource est formée à partir de restes d'organismes marins et est largement utilisée comme source d'énergie dans le monde?"
+  },
+  {
+    "correctAnswer": "La pieuvre",
+    "id": 3156712501230137,
+    "options": [
+      "Le poulpe",
+      "La pieuvre",
+      "Le calamar",
+      "La méduse"
+    ],
+    "question": "Quel céphalopode est connu pour son intelligence, sa capacité à changer de couleur et à utiliser des outils?"
+  },
+  {
+    "correctAnswer": "L'érosion",
+    "id": 3167812501230138,
+    "options": [
+      "L'oxydation",
+      "L'évaporation",
+      "L'érosion",
+      "La sublimation"
+    ],
+    "question": "Quel processus naturel résulte de l'action du vent, de l'eau et de la glace sur les roches, les déplaçant et les modifiant au fil du temps?"
+  },
+  {
+    "correctAnswer": "La taïga",
+    "id": 3178912501230139,
+    "options": [
+      "La savane",
+      "La toundra",
+      "La taïga",
+      "La forêt tropicale humide"
+    ],
+    "question": "Quel biome est caractérisé par de vastes forêts de conifères et est situé juste au sud de la toundra dans l'hémisphère nord?"
+  },
+  {
+    "correctAnswer": "L'omnivore",
+    "id": 3189012501230140,
+    "options": [
+      "Le carnivore",
+      "L'herbivore",
+      "L'omnivore",
+      "Le détritivore"
+    ],
+    "question": "Quel terme décrit un animal qui se nourrit à la fois de plantes et d'animaux?"
+  },
+  {
+    "correctAnswer": "La chlorophylle",
+    "id": 3190112501230141,
+    "options": [
+      "La carotène",
+      "La mélanine",
+      "L'hémoglobine",
+      "La chlorophylle"
+    ],
+    "question": "Quel pigment donne aux plantes leur couleur verte et joue un rôle essentiel dans la photosynthèse?"
+  },
+  {
+    "correctAnswer": "Les cactus",
+    "id": 3201212501230142,
+    "options": [
+      "Les orchidées",
+      "Les fougères",
+      "Les cactus",
+      "Les bambous"
+    ],
+    "question": "Quelles plantes sont particulièrement adaptées à la vie dans les déserts, avec des adaptations pour stocker l'eau et réduire la perte d'eau par évaporation?"
+  },
+  {
+    "correctAnswer": "Les mangroves",
+    "id": 4012312601230123,
+    "options": [
+      "Les forêts tropicales",
+      "Les zones humides",
+      "Les savanes",
+      "Les mangroves"
+    ],
+    "question": "Quels écosystèmes côtiers jouent un rôle crucial dans la protection contre l'érosion et servent de nurseries pour de nombreuses espèces marines?"
+  },
+  {
+    "correctAnswer": "Le narval",
+    "id": 4023412601230124,
+    "options": [
+      "Le dauphin",
+      "Le narval",
+      "Le béluga",
+      "L'orque"
+    ],
+    "question": "Quel cétacé est souvent appelé 'la licorne des mers' à cause de sa longue défense en spirale?"
+  },
+  {
+    "correctAnswer": "La pollinisation par les oiseaux",
+    "id": 4034512601230125,
+    "options": [
+      "La pollinisation par le vent",
+      "La pollinisation par les insectes",
+      "La pollinisation par les oiseaux",
+      "La pollinisation par l'eau"
+    ],
+    "question": "Comment appelle-t-on le processus par lequel certaines fleurs sont pollinisées grâce à l'intervention d'oiseaux qui recueillent leur nectar?"
+  },
+  {
+    "correctAnswer": "La faune",
+    "id": 4045612601230126,
+    "options": [
+      "La flore",
+      "La faune",
+      "La mycologie",
+      "L'herbier"
+    ],
+    "question": "Quel terme désigne l'ensemble des espèces animales d'une région ou d'un habitat?"
+  },
+  {
+    "correctAnswer": "Les baleines à fanons",
+    "id": 4056712601230127,
+    "options": [
+      "Les dauphins",
+      "Les requins",
+      "Les baleines à fanons",
+      "Les poissons-lunes"
+    ],
+    "question": "Quels cétacés utilisent des plaques de kératine pour filtrer le krill et d'autres petits organismes de l'eau?"
+  },
+  {
+    "correctAnswer": "Les lichens",
+    "id": 4067812601230128,
+    "options": [
+      "Les mousses",
+      "Les lichens",
+      "Les fougères",
+      "Les champignons"
+    ],
+    "question": "Quels organismes sont des indicateurs de la qualité de l'air car ils sont particulièrement sensibles à la pollution?"
+  },
+  {
+    "correctAnswer": "La transpiration",
+    "id": 4078912601230129,
+    "options": [
+      "La respiration",
+      "La photosynthèse",
+      "La transpiration",
+      "La digestion"
+    ],
+    "question": "Quel processus permet aux plantes de libérer de la vapeur d'eau dans l'atmosphère par leurs feuilles?"
+  },
+  {
+    "correctAnswer": "Les lucioles",
+    "id": 4089012601230130,
+    "options": [
+      "Les libellules",
+      "Les lucioles",
+      "Les papillons",
+      "Les abeilles"
+    ],
+    "question": "Quels insectes sont connus pour leur capacité à produire de la lumière grâce à un processus appelé bioluminescence?"
+  },
+  {
+    "correctAnswer": "Les frugivores",
+    "id": 4090112601230131,
+    "options": [
+      "Les herbivores",
+      "Les carnivores",
+      "Les frugivores",
+      "Les omnivores"
+    ],
+    "question": "Comment appelle-t-on les animaux qui se nourrissent principalement de fruits?"
+  },
+  {
+    "correctAnswer": "Le dard",
+    "id": 4101212601230132,
+    "options": [
+      "La trompe",
+      "Le rostre",
+      "Le dard",
+      "La mandibule"
+    ],
+    "question": "Quelle partie de l'abeille peut-elle utiliser pour piquer en défense, entraînant souvent sa mort?"
+  },
+  {
+    "correctAnswer": "La sève",
+    "id": 4112312601230133,
+    "options": [
+      "La chlorophylle",
+      "L'écorce",
+      "La sève",
+      "Le pollen"
+    ],
+    "question": "Quel fluide transporte les nutriments et l'eau à travers les plantes?"
+  },
+  {
+    "correctAnswer": "La pollinisation croisée",
+    "id": 4123412601230134,
+    "options": [
+      "La pollinisation directe",
+      "La pollinisation croisée",
+      "La pollinisation manuelle",
+      "La pollinisation par clonage"
+    ],
+    "question": "Quel type de pollinisation se produit lorsque le pollen d'une fleur féconde une autre fleur de la même espèce?"
+  },
+  {
+    "correctAnswer": "Les arborescences",
+    "id": 4134512601230135,
+    "options": [
+      "Les herbacées",
+      "Les arbustes",
+      "Les arborescences",
+      "Les lianes"
+    ],
+    "question": "Comment appelle-t-on les plantes qui ont une structure ligneuse principale et peuvent atteindre de grandes hauteurs?"
+  },
+  {
+    "correctAnswer": "La serre",
+    "id": 4145612601230136,
+    "options": [
+      "Le terrarium",
+      "La serre",
+      "L'aquarium",
+      "Le vivarium"
+    ],
+    "question": "Quelle structure est utilisée pour cultiver et protéger les plantes dans un environnement contrôlé?"
+  },
+  {
+    "correctAnswer": "Le koala",
+    "id": 4156712601230137,
+    "options": [
+      "Le kangourou",
+      "Le wallaby",
+      "Le koala",
+      "Le wombat"
+    ],
+    "question": "Quel marsupial est connu pour se nourrir principalement de feuilles d'eucalyptus?"
+  },
+  {
+    "correctAnswer": "Les pluies acides",
+    "id": 4167812601230138,
+    "options": [
+      "Les pluies de mousson",
+      "Les pluies torrentielles",
+      "Les pluies acides",
+      "Les pluies diluviennes"
+    ],
+    "question": "Quel type de précipitation peut causer des dommages aux forêts, aux lacs et aux bâtiments en raison de sa teneur élevée en substances chimiques?"
+  },
+  {
+    "correctAnswer": "L'oxygène",
+    "id": 5012312701230123,
+    "options": [
+      "Le carbone",
+      "L'azote",
+      "L'hydrogène",
+      "L'oxygène"
+    ],
+    "question": "Quel gaz est libéré par les plantes pendant la photosynthèse?"
+  },
+  {
+    "correctAnswer": "Les batraciens",
+    "id": 5023412701230124,
+    "options": [
+      "Les reptiles",
+      "Les mammifères",
+      "Les oiseaux",
+      "Les batraciens"
+    ],
+    "question": "À quelle classe d'animaux appartiennent les grenouilles et les salamandres?"
+  },
+  {
+    "correctAnswer": "Les aurores boréales",
+    "id": 5034512701230125,
+    "options": [
+      "Les éclipses solaires",
+      "Les pluies d'étoiles filantes",
+      "Les comètes",
+      "Les aurores boréales"
+    ],
+    "question": "Quel phénomène lumineux naturel est observé dans les régions polaires et est causé par l'interaction des particules chargées du soleil avec l'atmosphère de la Terre?"
+  },
+  {
+    "correctAnswer": "Les algues",
+    "id": 5045612701230126,
+    "options": [
+      "Les champignons",
+      "Les bactéries",
+      "Les plantes",
+      "Les algues"
+    ],
+    "question": "Quels organismes aquatiques réalisent la photosynthèse et forment la base de la chaîne alimentaire marine?"
+  },
+  {
+    "correctAnswer": "Les renards",
+    "id": 5056712701230127,
+    "options": [
+      "Les loups",
+      "Les renards",
+      "Les coyotes",
+      "Les hyènes"
+    ],
+    "question": "Quels mammifères carnivores sont souvent décrits comme rusés et sont présents dans de nombreuses cultures et folklores?"
+  },
+  {
+    "correctAnswer": "Les termitières",
+    "id": 5067812701230128,
+    "options": [
+      "Les ruches",
+      "Les nids d'oiseaux",
+      "Les tanières",
+      "Les termitières"
+    ],
+    "question": "Quelles structures sont construites par les termites et peuvent atteindre plusieurs mètres de hauteur?"
+  },
+  {
+    "correctAnswer": "La prairie",
+    "id": 5078912701230129,
+    "options": [
+      "La savane",
+      "La forêt tempérée",
+      "La toundra",
+      "La prairie"
+    ],
+    "question": "Quel biome est caractérisé par de vastes étendues d'herbes avec peu d'arbres ou d'arbustes?"
+  },
+  {
+    "correctAnswer": "Le geyser",
+    "id": 5089012701230130,
+    "options": [
+      "La cascade",
+      "Le geyser",
+      "Le ruisseau",
+      "L'oasis"
+    ],
+    "question": "Quelle formation géologique éjecte périodiquement de l'eau et de la vapeur d'eau sous l'effet de la chaleur géothermique?"
+  },
+  {
+    "correctAnswer": "Les spores",
+    "id": 5090112701230131,
+    "options": [
+      "Les graines",
+      "Les bulbes",
+      "Les rhizomes",
+      "Les spores"
+    ],
+    "question": "Comment les fougères se reproduisent-elles principalement?"
+  },
+  {
+    "correctAnswer": "Les épinettes",
+    "id": 5101212701230132,
+    "options": [
+      "Les chênes",
+      "Les érables",
+      "Les épinettes",
+      "Les hêtres"
+    ],
+    "question": "Quels types d'arbres sont couramment trouvés dans les forêts boréales ou taïga?"
+  },
+  {
+    "correctAnswer": "Les coraux",
+    "id": 5112312701230133,
+    "options": [
+      "Les éponges",
+      "Les méduses",
+      "Les anémones",
+      "Les coraux"
+    ],
+    "question": "Quels organismes marins forment des récifs, structures cruciales pour la biodiversité marine?"
+  },
+  {
+    "correctAnswer": "Le nectar",
+    "id": 5123412701230134,
+    "options": [
+      "Le pollen",
+      "Le nectar",
+      "Les feuilles",
+      "Les fruits"
+    ],
+    "question": "De quoi se nourrissent principalement les colibris?"
+  },
+  {
+    "correctAnswer": "Le bambou",
+    "id": 5134512701230135,
+    "options": [
+      "Les baies",
+      "Le bambou",
+      "Les racines",
+      "Les insectes"
+    ],
+    "question": "Quel est l'aliment principal du panda géant?"
+  },
+  {
+    "correctAnswer": "La brume salée",
+    "id": 5145612701230136,
+    "options": [
+      "La rosée matinale",
+      "La brume salée",
+      "La pluie acide",
+      "La condensation"
+    ],
+    "question": "Quel phénomène se produit lorsque des particules d'eau de mer s'évaporent et forment un brouillard près des côtes?"
+  },
+  {
+    "correctAnswer": "Les cernes",
+    "id": 5156712701230137,
+    "options": [
+      "Les nœuds",
+      "Les cernes",
+      "Les racines",
+      "Les bourgeons"
+    ],
+    "question": "En examinant la coupe transversale d'un tronc d'arbre, qu'est-ce qui permet d'estimer l'âge de l'arbre?"
+  },
+  {
+    "correctAnswer": "La mousson",
+    "id": 6012312801230123,
+    "options": [
+      "L'ouragan",
+      "Le typhon",
+      "La mousson",
+      "Le cyclone"
+    ],
+    "question": "Quel phénomène climatique est caractérisé par des saisons alternées de pluies intenses et de sécheresse, en particulier en Asie du Sud?"
+  },
+  {
+    "correctAnswer": "La métamorphose",
+    "id": 6023412801230124,
+    "options": [
+      "La mue",
+      "La gestation",
+      "La métamorphose",
+      "La pollinisation"
+    ],
+    "question": "Quel processus décrit la transformation d'une larve en adulte, comme dans le cas des papillons?"
+  },
+  {
+    "correctAnswer": "Les insectes",
+    "id": 6034512801230125,
+    "options": [
+      "Les mammifères",
+      "Les oiseaux",
+      "Les reptiles",
+      "Les insectes"
+    ],
+    "question": "Quelle classe d'animaux est la plus diversifiée sur Terre, avec des millions d'espèces identifiées?"
+  },
+  {
+    "correctAnswer": "L'hibernation",
+    "id": 6045612801230126,
+    "options": [
+      "La migration",
+      "L'hibernation",
+      "La reproduction",
+      "L'adaptation"
+    ],
+    "question": "Quel comportement certains animaux adoptent-ils pour survivre aux mois d'hiver froids, en ralentissant considérablement leur métabolisme?"
+  },
+  {
+    "correctAnswer": "La chlorophylle",
+    "id": 6056712801230127,
+    "options": [
+      "La mélanine",
+      "La carotène",
+      "L'hémoglobine",
+      "La chlorophylle"
+    ],
+    "question": "Quel pigment est essentiel pour la photosynthèse et donne leur couleur verte aux plantes?"
+  },
+  {
+    "correctAnswer": "Les arachnides",
+    "id": 6067812801230128,
+    "options": [
+      "Les insectes",
+      "Les crustacés",
+      "Les myriapodes",
+      "Les arachnides"
+    ],
+    "question": "À quelle classe d'animaux appartiennent les araignées et les scorpions?"
+  },
+  {
+    "correctAnswer": "Les symbiotes",
+    "id": 6078912801230129,
+    "options": [
+      "Les prédateurs",
+      "Les parasitaires",
+      "Les symbiotes",
+      "Les compétiteurs"
+    ],
+    "question": "Quel terme décrit des organismes qui vivent ensemble et bénéficient mutuellement de cette association?"
+  },
+  {
+    "correctAnswer": "Les séismes",
+    "id": 6089012801230130,
+    "options": [
+      "Les éruptions volcaniques",
+      "Les tsunamis",
+      "Les inondations",
+      "Les séismes"
+    ],
+    "question": "Quels phénomènes naturels sont causés par la libération soudaine d'énergie dans la croûte terrestre, créant des ondes sismiques?"
+  },
+  {
+    "correctAnswer": "La myrmécologie",
+    "id": 6090112801230131,
+    "options": [
+      "L'entomologie",
+      "La botanique",
+      "La myrmécologie",
+      "La zoologie"
+    ],
+    "question": "Comment s'appelle la science qui étudie les fourmis?"
+  },
+  {
+    "correctAnswer": "La photosynthèse",
+    "id": 6101212801230132,
+    "options": [
+      "La respiration",
+      "La fermentation",
+      "La photosynthèse",
+      "La transpiration"
+    ],
+    "question": "Quel processus permet aux plantes de convertir la lumière du soleil, le dioxyde de carbone et l'eau en glucose et en oxygène?"
+  },
+  {
+    "correctAnswer": "Les ruminants",
+    "id": 6112312801230133,
+    "options": [
+      "Les carnivores",
+      "Les omnivores",
+      "Les herbivores",
+      "Les ruminants"
+    ],
+    "question": "Quels animaux mâchent leur nourriture, l'avale, puis la régurgitent pour la mâcher à nouveau?"
+  },
+  {
+    "correctAnswer": "Le solstice",
+    "id": 6123412801230134,
+    "options": [
+      "L'équinoxe",
+      "Le solstice",
+      "Le zenith",
+      "La pleine lune"
+    ],
+    "question": "Quel terme décrit le moment où le soleil atteint son point le plus élevé ou le plus bas dans le ciel à midi, marquant le début de l'été ou de l'hiver?"
+  },
+  {
+    "correctAnswer": "Les conifères",
+    "id": 6134512801230135,
+    "options": [
+      "Les feuillus",
+      "Les cactées",
+      "Les graminées",
+      "Les conifères"
+    ],
+    "question": "Quels types d'arbres sont caractérisés par des feuilles en forme d'aiguilles et des cônes?"
+  },
+  {
+    "correctAnswer": "Les fossiles",
+    "id": 6145612801230136,
+    "options": [
+      "Les minéraux",
+      "Les pierres précieuses",
+      "Les fossiles",
+      "Les météorites"
+    ],
+    "question": "Comment appelle-t-on les restes ou les traces d'organismes anciens préservés dans la roche?"
+  },
+  {
+    "correctAnswer": "Le compostage",
+    "id": 6156712801230137,
+    "options": [
+      "La fermentation",
+      "La décomposition",
+      "Le compostage",
+      "La pasteurisation"
+    ],
+    "question": "Quel processus permet de transformer les déchets organiques en un riche amendement pour le sol?"
+  },
+  {
+    "correctAnswer": "Les orchidées",
+    "id": 7012312901230123,
+    "options": [
+      "Les roses",
+      "Les tulipes",
+      "Les tournesols",
+      "Les orchidées"
+    ],
+    "question": "Quelle famille de plantes compte parmi les plus diversifiées avec plus de 25 000 espèces répertoriées?"
+  },
+  {
+    "correctAnswer": "L'albinisme",
+    "id": 7023412901230124,
+    "options": [
+      "Le mimétisme",
+      "La métamorphose",
+      "La mutation",
+      "L'albinisme"
+    ],
+    "question": "Comment appelle-t-on la condition génétique qui se manifeste par une absence de pigmentation dans la peau, les cheveux et les yeux?"
+  },
+  {
+    "correctAnswer": "Les carnivores",
+    "id": 7034512901230125,
+    "options": [
+      "Les herbivores",
+      "Les omnivores",
+      "Les carnivores",
+      "Les détritivores"
+    ],
+    "question": "À quelle catégorie alimentaire appartient un animal qui se nourrit principalement de chair d'autres animaux?"
+  },
+  {
+    "correctAnswer": "L'effet de serre",
+    "id": 7045612901230126,
+    "options": [
+      "L'effet Doppler",
+      "La réflexion solaire",
+      "La photosynthèse",
+      "L'effet de serre"
+    ],
+    "question": "Quel phénomène naturel permet à la Terre de retenir une partie de la chaleur du Soleil, mais qui, lorsqu'il est amplifié par les activités humaines, contribue au réchauffement climatique?"
+  },
+  {
+    "correctAnswer": "La canopée",
+    "id": 7056712901230127,
+    "options": [
+      "Le sous-bois",
+      "La strate herbacée",
+      "La canopée",
+      "La strate arbustive"
+    ],
+    "question": "Dans une forêt tropicale, comment appelle-t-on la couche formée par les cimes des arbres et qui abrite la majorité des espèces animales?"
+  },
+  {
+    "correctAnswer": "Les champignons",
+    "id": 7067812901230128,
+    "options": [
+      "Les légumes",
+      "Les fruits",
+      "Les champignons",
+      "Les algues"
+    ],
+    "question": "Quels organismes se nourrissent en décomposant la matière organique et sont ni plantes, ni animaux?"
+  },
+  {
+    "correctAnswer": "Les mangroves",
+    "id": 7078912901230129,
+    "options": [
+      "Les savanes",
+      "Les forêts tempérées",
+      "Les déserts",
+      "Les mangroves"
+    ],
+    "question": "Quels écosystèmes forestiers se développent dans les régions côtières tropicales et jouent un rôle crucial dans la protection contre l'érosion?"
+  },
+  {
+    "correctAnswer": "Le krill",
+    "id": 7089012901230130,
+    "options": [
+      "Les poissons",
+      "Les planctons",
+      "Les algues",
+      "Le krill"
+    ],
+    "question": "Quel petit organisme marin est la principale source de nourriture pour les baleines bleues?"
+  },
+  {
+    "correctAnswer": "Les cétacés",
+    "id": 7090112901230131,
+    "options": [
+      "Les poissons",
+      "Les reptiles",
+      "Les amphibiens",
+      "Les cétacés"
+    ],
+    "question": "À quelle catégorie d'animaux appartiennent les baleines, les dauphins et les marsouins?"
+  },
+  {
+    "correctAnswer": "La déforestation",
+    "id": 7101212901230132,
+    "options": [
+      "La reforestation",
+      "L'afforestation",
+      "La déforestation",
+      "La conservation"
+    ],
+    "question": "Comment appelle-t-on le processus d'abattage massif des arbres dans une région donnée?"
+  },
+  {
+    "correctAnswer": "Les nénuphars",
+    "id": 7112312901230133,
+    "options": [
+      "Les orchidées",
+      "Les cactus",
+      "Les fougères",
+      "Les nénuphars"
+    ],
+    "question": "Quelles plantes aquatiques à grandes feuilles flottent à la surface des étangs et des lacs?"
+  },
+  {
+    "correctAnswer": "Le pergélisol",
+    "id": 7123412901230134,
+    "options": [
+      "La tourbière",
+      "Le marécage",
+      "Le pergélisol",
+      "Le sable mouvant"
+    ],
+    "question": "Comment appelle-t-on le sol qui reste gelé pendant au moins deux ans d'affilée, typique des régions de toundra?"
+  },
+  {
+    "correctAnswer": "Les rongeurs",
+    "id": 7134512901230135,
+    "options": [
+      "Les insectivores",
+      "Les rongeurs",
+      "Les carnivores",
+      "Les herbivores"
+    ],
+    "question": "À quelle catégorie d'animaux appartiennent les rats, les souris et les castors?"
+  },
+  {
+    "correctAnswer": "Les aigles",
+    "id": 7145612901230136,
+    "options": [
+      "Les hiboux",
+      "Les faucons",
+      "Les vautours",
+      "Les aigles"
+    ],
+    "question": "Quels oiseaux de proie sont souvent considérés comme des symboles de puissance et de liberté dans de nombreuses cultures?"
+  },
+  {
+    "correctAnswer": "Les serpents",
+    "id": 7156712901230137,
+    "options": [
+      "Les lézards",
+      "Les tortues",
+      "Les serpents",
+      "Les crocodiles"
+    ],
+    "question": "Quels reptiles sont caractérisés par l'absence de pattes et un corps allongé?"
+  },
+  {
+    "correctAnswer": "Le mimétisme",
+    "id": 8012313001230123,
+    "options": [
+      "L'adaptation",
+      "La mutation",
+      "La reproduction",
+      "Le mimétisme"
+    ],
+    "question": "Comment appelle-t-on la capacité de certains animaux à ressembler à d'autres organismes ou à leur environnement pour échapper à leurs prédateurs?"
+  },
+  {
+    "correctAnswer": "Les bioluminescents",
+    "id": 8023413001230124,
+    "options": [
+      "Les translucides",
+      "Les fluorescents",
+      "Les bioluminescents",
+      "Les phosphorescents"
+    ],
+    "question": "Quels organismes sont capables de produire de la lumière grâce à une réaction chimique interne?"
+  },
+  {
+    "correctAnswer": "La migration",
+    "id": 8034513001230125,
+    "options": [
+      "L'hibernation",
+      "La reproduction",
+      "La mutation",
+      "La migration"
+    ],
+    "question": "Quel phénomène se produit lorsque des animaux se déplacent sur de longues distances en réponse à des changements saisonniers?"
+  },
+  {
+    "correctAnswer": "Les herbivores",
+    "id": 8045613001230126,
+    "options": [
+      "Les carnivores",
+      "Les omnivores",
+      "Les herbivores",
+      "Les détritivores"
+    ],
+    "question": "Quels animaux se nourrissent principalement de plantes?"
+  },
+  {
+    "correctAnswer": "Les poissons",
+    "id": 8056713001230127,
+    "options": [
+      "Les mammifères",
+      "Les oiseaux",
+      "Les reptiles",
+      "Les poissons"
+    ],
+    "question": "Quels animaux respirent principalement grâce à des branchies?"
+  },
+  {
+    "correctAnswer": "La pollinisation",
+    "id": 8067813001230128,
+    "options": [
+      "La germination",
+      "La reproduction",
+      "La fécondation",
+      "La pollinisation"
+    ],
+    "question": "Quel processus permet le transfert du pollen des étamines d'une fleur au pistil d'une autre fleur?"
+  },
+  {
+    "correctAnswer": "Les algues",
+    "id": 8078913001230129,
+    "options": [
+      "Les champignons",
+      "Les lichens",
+      "Les plantes",
+      "Les algues"
+    ],
+    "question": "Quels organismes simples réalisent la photosynthèse et se trouvent souvent dans les océans, les rivières et les lacs?"
+  },
+  {
+    "correctAnswer": "Les primates",
+    "id": 8089013001230130,
+    "options": [
+      "Les rongeurs",
+      "Les carnivores",
+      "Les marsupiaux",
+      "Les primates"
+    ],
+    "question": "À quelle catégorie d'animaux appartiennent les singes, les gorilles et les humains?"
+  },
+  {
+    "correctAnswer": "Le lierre",
+    "id": 8090113001230131,
+    "options": [
+      "La mousse",
+      "L'herbe",
+      "Le bambou",
+      "Le lierre"
+    ],
+    "question": "Quelle plante grimpante est souvent associée aux bâtiments anciens et aux arbres?"
+  },
+  {
+    "correctAnswer": "Les déserts",
+    "id": 8101213001230132,
+    "options": [
+      "Les forêts tropicales",
+      "Les prairies",
+      "Les toundras",
+      "Les déserts"
+    ],
+    "question": "Dans quels biomes trouve-t-on les conditions les plus sèches et les moins de précipitations?"
+  },
+  {
+    "correctAnswer": "Les chauves-souris",
+    "id": 8112313001230133,
+    "options": [
+      "Les oiseaux",
+      "Les insectes",
+      "Les reptiles",
+      "Les chauves-souris"
+    ],
+    "question": "Quels sont les seuls mammifères capables de voler activement?"
+  },
+  {
+    "correctAnswer": "L'écorce",
+    "id": 8123413001230134,
+    "options": [
+      "Le tronc",
+      "La feuille",
+      "La branche",
+      "L'écorce"
+    ],
+    "question": "Quelle partie externe de l'arbre la protège contre les éléments extérieurs et les prédateurs?"
+  },
+  {
+    "correctAnswer": "Les insectes",
+    "id": 8134513001230135,
+    "options": [
+      "Les oiseaux",
+      "Les reptiles",
+      "Les poissons",
+      "Les insectes"
+    ],
+    "question": "Quels animaux ont généralement trois paires de pattes et un corps segmenté?"
+  },
+  {
+    "correctAnswer": "Les écosystèmes marins",
+    "id": 8145613001230136,
+    "options": [
+      "Les écosystèmes forestiers",
+      "Les écosystèmes urbains",
+      "Les écosystèmes désertiques",
+      "Les écosystèmes marins"
+    ],
+    "question": "Quels écosystèmes englobent les océans, les mers, les estuaires et les lagunes?"
+  },
+  {
+    "correctAnswer": "La topographie",
+    "id": 8156713001230137,
+    "options": [
+      "La géologie",
+      "La biologie",
+      "La météorologie",
+      "La topographie"
+    ],
+    "question": "Quelle science étudie les formes et les caractéristiques de la surface de la Terre?"
+  },
+  {
+    "correctAnswer": "La chloroplaste",
+    "id": 9012313101230124,
+    "options": [
+      "La mitochondrie",
+      "Le noyau",
+      "Le lysosome",
+      "La chloroplaste"
+    ],
+    "question": "Dans quelle partie de la cellule végétale la photosynthèse a-t-elle principalement lieu?"
+  },
+  {
+    "correctAnswer": "Les écosystèmes de montagne",
+    "id": 9023413101230124,
+    "options": [
+      "Les écosystèmes de prairie",
+      "Les écosystèmes de forêt tropicale",
+      "Les écosystèmes de montagne",
+      "Les écosystèmes de mangrove"
+    ],
+    "question": "Dans quels écosystèmes les variations d'altitude créent-elles une série de microclimats, allant des forêts de basse altitude aux zones alpines?"
+  },
+  {
+    "correctAnswer": "Les marsupiaux",
+    "id": 9034513101230124,
+    "options": [
+      "Les monotrèmes",
+      "Les placentaires",
+      "Les reptiles",
+      "Les marsupiaux"
+    ],
+    "question": "À quelle catégorie d'animaux appartient le kangourou, caractérisée par la naissance d'individus relativement non développés qui continuent leur développement dans une poche externe?"
+  },
+  {
+    "correctAnswer": "Les geysers",
+    "id": 9045613101230126,
+    "options": [
+      "Les cascades",
+      "Les geysers",
+      "Les rivières",
+      "Les lacs"
+    ],
+    "question": "Quels phénomènes d'origine géothermique projettent périodiquement de l'eau chaude et de la vapeur d'eau dans l'air?"
+  },
+  {
+    "correctAnswer": "Les végétaux",
+    "id": 9056713101230128,
+    "options": [
+      "Les animaux",
+      "Les champignons",
+      "Les bactéries",
+      "Les végétaux"
+    ],
+    "question": "Quels organismes utilisent la photosynthèse pour transformer la lumière du soleil en énergie?"
+  },
+  {
+    "correctAnswer": "Les dunes de sable",
+    "id": 9067813101230128,
+    "options": [
+      "Les grottes",
+      "Les dunes de sable",
+      "Les marais",
+      "Les forêts"
+    ],
+    "question": "Quelles formations naturelles sont créées par l'action du vent sur des particules de sable, souvent trouvées dans les déserts?"
+  },
+  {
+    "correctAnswer": "Les pluies acides",
+    "id": 9078913101230128,
+    "options": [
+      "Les pluies de mousson",
+      "Les pluies torrentielles",
+      "Les pluies acides",
+      "Les pluies diluviennes"
+    ],
+    "question": "Quel type de précipitations est provoqué par la pollution atmosphérique et peut causer des dommages à la végétation, aux animaux et aux bâtiments?"
+  },
+  {
+    "correctAnswer": "Les lichens",
+    "id": 9089013101230130,
+    "options": [
+      "Les algues",
+      "Les champignons",
+      "Les lichens",
+      "Les mousses"
+    ],
+    "question": "Quels organismes résultent de la symbiose entre un champignon et une algue ou une cyanobactérie?"
+  },
+  {
+    "correctAnswer": "Les taupes",
+    "id": 9090113101230132,
+    "options": [
+      "Les écureuils",
+      "Les lapins",
+      "Les taupes",
+      "Les souris"
+    ],
+    "question": "Quels mammifères sont connus pour leur capacité à creuser des tunnels souterrains à la recherche de nourriture?"
+  },
+  {
+    "correctAnswer": "La xérophytie",
+    "id": 9101213101230132,
+    "options": [
+      "La photosynthèse",
+      "La xérophytie",
+      "La transpiration",
+      "La photoréception"
+    ],
+    "question": "Quel terme désigne l'adaptation des plantes aux environnements arides?"
+  },
+  {
+    "correctAnswer": "Les cactus",
+    "id": 9112313101230132,
+    "options": [
+      "Les orchidées",
+      "Les fougères",
+      "Les cactus",
+      "Les roses"
+    ],
+    "question": "Quelles plantes sont particulièrement adaptées à la survie dans les déserts grâce à leur capacité à stocker de l'eau?"
+  },
+  {
+    "correctAnswer": "La serre",
+    "id": 9123413101230134,
+    "options": [
+      "L'observatoire",
+      "La serre",
+      "Le laboratoire",
+      "Le silo"
+    ],
+    "question": "Dans quelle structure les plantes sont-elles souvent cultivées pour les protéger des éléments extérieurs tout en bénéficiant de la lumière du soleil?"
+  },
+  {
+    "correctAnswer": "Les tornades",
+    "id": 9134513101230136,
+    "options": [
+      "Les ouragans",
+      "Les tempêtes",
+      "Les tornades",
+      "Les cyclones"
+    ],
+    "question": "Quels phénomènes météorologiques violents se présentent sous la forme d'un vortex étroit touchant le sol et sont souvent associés à des orages supercellulaires?"
+  },
+  {
+    "correctAnswer": "Les écosystèmes de forêt pluviale",
+    "id": 9145613101230136,
+    "options": [
+      "Les écosystèmes de savane",
+      "Les écosystèmes de forêt pluviale",
+      "Les écosystèmes de toundra",
+      "Les écosystèmes de désert"
+    ],
+    "question": "Dans quels écosystèmes trouve-t-on la plus grande biodiversité sur terre?"
+  },
+  {
+    "correctAnswer": "Les oiseaux migrateurs",
+    "id": 9156713101230136,
+    "options": [
+      "Les oiseaux prédateurs",
+      "Les oiseaux nocturnes",
+      "Les oiseaux migrateurs",
+      "Les oiseaux aquatiques"
+    ],
+    "question": "Quels oiseaux parcourent de longues distances entre leurs zones de reproduction et leurs zones d'hivernage?"
   }
 ]

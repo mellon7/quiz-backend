@@ -449,5 +449,2095 @@
       "Felicity Jones"
     ],
     "question": "Quelle actrice a remporté l'Oscar de la meilleure actrice en 2015 pour son rôle dans 'Still Alice' ?"
+  },
+  {
+    "correctAnswer": "Andrei Tarkovsky",
+    "id": 2010012057371750,
+    "options": [
+      "Lars von Trier",
+      "Andrei Tarkovsky",
+      "Akira Kurosawa",
+      "Wong Kar-wai"
+    ],
+    "question": "Quel réalisateur a créé le film contemplatif 'Stalker' se déroulant dans une zone mystérieuse?"
+  },
+  {
+    "correctAnswer": "Dogme 95",
+    "id": 2020021815445910,
+    "options": [
+      "Nouvelle Vague",
+      "Néo-Réalisme",
+      "Mumblecore",
+      "Dogme 95"
+    ],
+    "question": "Quel mouvement cinématographique a été fondé par Lars von Trier et Thomas Vinterberg, qui prône un retour à la simplicité dans la réalisation?"
+  },
+  {
+    "correctAnswer": "Werner Herzog",
+    "id": 2030032057371751,
+    "options": [
+      "Michael Haneke",
+      "Rainer Werner Fassbinder",
+      "Werner Herzog",
+      "Wim Wenders"
+    ],
+    "question": "Quel réalisateur allemand est connu pour ses collaborations avec l'acteur Klaus Kinski, notamment dans 'Aguirre, la colère de Dieu'?"
+  },
+  {
+    "correctAnswer": "Bela Tarr",
+    "id": 2040041815445911,
+    "options": [
+      "Bela Tarr",
+      "László Nemes",
+      "Péter Gothár",
+      "Miklós Jancsó"
+    ],
+    "question": "Quel réalisateur hongrois est célèbre pour son film 'Le cheval de Turin', caractérisé par de longs plans-séquences?"
+  },
+  {
+    "correctAnswer": "Robert Bresson",
+    "id": 2050052057371752,
+    "options": [
+      "Jean-Luc Godard",
+      "François Truffaut",
+      "Eric Rohmer",
+      "Robert Bresson"
+    ],
+    "question": "Quel réalisateur français est connu pour sa mise en scène minimaliste et pour des films tels que 'Pickpocket' et 'Un condamné à mort s'est échappé'?"
+  },
+  {
+    "correctAnswer": "Yasujiro Ozu",
+    "id": 2060061815445912,
+    "options": [
+      "Akira Kurosawa",
+      "Kenji Mizoguchi",
+      "Yasujiro Ozu",
+      "Masaki Kobayashi"
+    ],
+    "question": "Quel réalisateur japonais est renommé pour ses portraits poignants de la vie de famille, notamment dans 'Tokyo Monogatari' (Contes de Tokyo)?"
+  },
+  {
+    "correctAnswer": "Chantal Akerman",
+    "id": 2070072057371753,
+    "options": [
+      "Agnes Varda",
+      "Claire Denis",
+      "Chantal Akerman",
+      "Céline Sciamma"
+    ],
+    "question": "Quelle réalisatrice belge est célèbre pour 'Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles', un film expérimental sur la vie quotidienne d'une femme?"
+  },
+  {
+    "correctAnswer": "Carl Theodor Dreyer",
+    "id": 2080081815445913,
+    "options": [
+      "Ingmar Bergman",
+      "Carl Theodor Dreyer",
+      "Victor Sjöström",
+      "Aki Kaurismäki"
+    ],
+    "question": "Quel réalisateur scandinave est connu pour 'La Passion de Jeanne d'Arc', un film muet sur le procès et l'exécution de Jeanne d'Arc?"
+  },
+  {
+    "correctAnswer": "Satyajit Ray",
+    "id": 2090092057371754,
+    "options": [
+      "Anurag Kashyap",
+      "Ritwik Ghatak",
+      "Satyajit Ray",
+      "Rajkumar Hirani"
+    ],
+    "question": "Quel réalisateur indien est renommé pour sa trilogie 'Apu', qui raconte la vie d'un jeune homme depuis son enfance à la maturité?"
+  },
+  {
+    "correctAnswer": "Krystof Kieślowski",
+    "id": 2100101815445914,
+    "options": [
+      "Agnieszka Holland",
+      "Andrzej Wajda",
+      "Roman Polanski",
+      "Krystof Kieślowski"
+    ],
+    "question": "Quel réalisateur polonais est connu pour la série 'Trois couleurs', composée des films 'Bleu', 'Blanc' et 'Rouge'?"
+  },
+  {
+    "correctAnswer": "Federico Fellini",
+    "id": 2110112057371755,
+    "options": [
+      "Sergio Leone",
+      "Michelangelo Antonioni",
+      "Pier Paolo Pasolini",
+      "Federico Fellini"
+    ],
+    "question": "Quel réalisateur italien est célèbre pour son style baroque et des films comme '8½' et 'La Dolce Vita'?"
+  },
+  {
+    "correctAnswer": "Nuri Bilge Ceylan",
+    "id": 2120121815445915,
+    "options": [
+      "Fatih Akin",
+      "Yılmaz Güney",
+      "Nuri Bilge Ceylan",
+      "Semih Kaplanoğlu"
+    ],
+    "question": "Quel réalisateur turc est connu pour 'Winter Sleep', qui a remporté la Palme d'Or à Cannes?"
+  },
+  {
+    "correctAnswer": "Hou Hsiao-hsien",
+    "id": 2130132057371756,
+    "options": [
+      "Ang Lee",
+      "Edward Yang",
+      "Hou Hsiao-hsien",
+      "Tsai Ming-liang"
+    ],
+    "question": "Quel cinéaste taïwanais est célèbre pour des films contemplatifs comme 'The Assassin' et 'A City of Sadness'?"
+  },
+  {
+    "correctAnswer": "Abbas Kiarostami",
+    "id": 2140141815445916,
+    "options": [
+      "Jafar Panahi",
+      "Asghar Farhadi",
+      "Majid Majidi",
+      "Abbas Kiarostami"
+    ],
+    "question": "Quel réalisateur iranien est renommé pour son film 'Close-Up', qui mélange fiction et documentaire?"
+  },
+  {
+    "correctAnswer": "Luis Buñuel",
+    "id": 2150152057371757,
+    "options": [
+      "Pedro Almodóvar",
+      "Carlos Saura",
+      "Luis Buñuel",
+      "Alejandro Amenábar"
+    ],
+    "question": "Quel cinéaste espagnol est connu pour des films surréalistes comme 'Un chien andalou' et 'L'Âge d'or'?"
+  },
+  {
+    "correctAnswer": "Aleksandr Sokurov",
+    "id": 2160161815445917,
+    "options": [
+      "Andrei Konchalovsky",
+      "Aleksandr Sokurov",
+      "Nikita Mikhalkov",
+      "Andrei Zvyagintsev"
+    ],
+    "question": "Quel réalisateur russe a réalisé 'Russian Ark', un film composé d'un seul plan-séquence tourné au musée de l'Ermitage?"
+  },
+  {
+    "correctAnswer": "Bong Joon-ho",
+    "id": 2170172057371758,
+    "options": [
+      "Park Chan-wook",
+      "Bong Joon-ho",
+      "Kim Ki-duk",
+      "Lee Chang-dong"
+    ],
+    "question": "Quel réalisateur sud-coréen a remporté la Palme d'Or à Cannes pour 'Parasite' en 2019?"
+  },
+  {
+    "correctAnswer": "The Dardenne Brothers",
+    "id": 2180181815445918,
+    "options": [
+      "The Coen Brothers",
+      "The Dardenne Brothers",
+      "The Wachowskis",
+      "The Safdie Brothers"
+    ],
+    "question": "Quels frères réalisateurs belges sont connus pour leurs drames sociaux tels que 'Rosetta' et 'L'Enfant'?"
+  },
+  {
+    "correctAnswer": "Apichatpong Weerasethakul",
+    "id": 2190192057371759,
+    "options": [
+      "Anocha Suwichakornpong",
+      "Pen-Ek Ratanaruang",
+      "Wisit Sasanatieng",
+      "Apichatpong Weerasethakul"
+    ],
+    "question": "Quel réalisateur thaïlandais est célèbre pour 'Oncle Boonmee, celui qui se souvient de ses vies antérieures'?"
+  },
+  {
+    "correctAnswer": "Claire Denis",
+    "id": 2200201815445919,
+    "options": [
+      "Céline Sciamma",
+      "Claire Denis",
+      "Mia Hansen-Løve",
+      "Agnès Varda"
+    ],
+    "question": "Quelle réalisatrice française est renommée pour des films comme 'Beau Travail' et 'High Life'?"
+  },
+  {
+    "correctAnswer": "Michael Haneke",
+    "id": 2210212057371760,
+    "options": [
+      "Werner Herzog",
+      "Wim Wenders",
+      "Rainer Werner Fassbinder",
+      "Michael Haneke"
+    ],
+    "question": "Quel réalisateur autrichien est célèbre pour des films provocateurs comme 'Funny Games' et 'Amour'?"
+  },
+  {
+    "correctAnswer": "Wong Kar-wai",
+    "id": 2220221815445920,
+    "options": [
+      "John Woo",
+      "Zhang Yimou",
+      "Chen Kaige",
+      "Wong Kar-wai"
+    ],
+    "question": "Quel réalisateur hongkongais est renommé pour des films visuellement époustouflants comme 'In the Mood for Love' et 'Chungking Express'?"
+  },
+  {
+    "correctAnswer": "Jacques Tati",
+    "id": 2230232057371761,
+    "options": [
+      "Pierre Richard",
+      "Louis de Funès",
+      "Jacques Tati",
+      "Fernandel"
+    ],
+    "question": "Quel réalisateur et acteur français est célèbre pour son personnage de 'Monsieur Hulot' dans des films comme 'Mon oncle' et 'Playtime'?"
+  },
+  {
+    "correctAnswer": "Jean-Pierre and Luc Dardenne",
+    "id": 2240241815445921,
+    "options": [
+      "Jean-Pierre Jeunet and Marc Caro",
+      "Olivier Assayas and Mia Hansen-Løve",
+      "Jean-Pierre and Luc Dardenne",
+      "François Ozon and Gaspar Noé"
+    ],
+    "question": "Quels frères réalisateurs belges sont connus pour leurs drames sociaux tels que 'Le Fils' et 'Le Silence de Lorna'?"
+  },
+  {
+    "correctAnswer": "Terrence Malick",
+    "id": 2250252057371762,
+    "options": [
+      "David Lynch",
+      "Terrence Malick",
+      "Paul Thomas Anderson",
+      "Wes Anderson"
+    ],
+    "question": "Quel réalisateur américain est connu pour ses films contemplatifs et poétiques comme 'The Tree of Life' et 'Days of Heaven'?"
+  },
+  {
+    "correctAnswer": "Gaspar Noé",
+    "id": 2260261815445922,
+    "options": [
+      "Gaspar Noé",
+      "Olivier Assayas",
+      "Bertrand Bonello",
+      "Leos Carax"
+    ],
+    "question": "Quel réalisateur français est renommé pour des films provocateurs comme 'Irréversible' et 'Enter the Void'?"
+  },
+  {
+    "correctAnswer": "Takeshi Kitano",
+    "id": 2270272057371763,
+    "options": [
+      "Takashi Miike",
+      "Hirokazu Kore-eda",
+      "Shōhei Imamura",
+      "Takeshi Kitano"
+    ],
+    "question": "Quel réalisateur japonais est également un comédien et est célèbre pour des films comme 'Hana-bi' et 'Zatoichi'?"
+  },
+  {
+    "correctAnswer": "Lars von Trier",
+    "id": 2280281815445923,
+    "options": [
+      "Thomas Vinterberg",
+      "Lars von Trier",
+      "Nicolas Winding Refn",
+      "Susanne Bier"
+    ],
+    "question": "Quel réalisateur danois est célèbre pour des films controversés comme 'Breaking the Waves' et 'Antichrist'?"
+  },
+  {
+    "correctAnswer": "Andrzej Wajda",
+    "id": 2290292057371764,
+    "options": [
+      "Roman Polanski",
+      "Jerzy Skolimowski",
+      "Andrzej Wajda",
+      "Krzysztof Kieślowski"
+    ],
+    "question": "Quel réalisateur polonais est célèbre pour sa trilogie sur la Seconde Guerre mondiale, incluant 'Cendres et Diamants'?"
+  },
+  {
+    "correctAnswer": "Theo Angelopoulos",
+    "id": 2300301815445924,
+    "options": [
+      "Costa-Gavras",
+      "Yorgos Lanthimos",
+      "Theo Angelopoulos",
+      "Michael Cacoyannis"
+    ],
+    "question": "Quel réalisateur grec est renommé pour ses épopées cinématographiques comme 'Le Voyage des comédiens' et 'Le Pas suspendu de la cigogne'?"
+  },
+  {
+    "correctAnswer": "Les Vampires",
+    "id": 2310312057371770,
+    "options": [
+      "L'Atlantide",
+      "La Souriante Madame Beudet",
+      "Les Vampires",
+      "Fantômas"
+    ],
+    "question": "Quel est le titre du feuilleton cinématographique réalisé par Louis Feuillade en 1915, mettant en scène une organisation criminelle?"
+  },
+  {
+    "correctAnswer": "Jean Renoir",
+    "id": 2320321815445930,
+    "options": [
+      "Abel Gance",
+      "Jean Renoir",
+      "Marcel Carné",
+      "Robert Bresson"
+    ],
+    "question": "Quel réalisateur français est célèbre pour le film 'La Règle du jeu' (1939)?"
+  },
+  {
+    "correctAnswer": "Nouvelle Vague",
+    "id": 2330332057371771,
+    "options": [
+      "Poetic Realism",
+      "Cinéma Pur",
+      "Nouvelle Vague",
+      "Cinéma Vérité"
+    ],
+    "question": "Quel mouvement cinématographique des années 1960 a révolutionné le cinéma français avec des films comme 'À bout de souffle' et 'Les 400 coups'?"
+  },
+  {
+    "correctAnswer": "Jacques Tati",
+    "id": 2340341815445931,
+    "options": [
+      "Jacques Tati",
+      "Pierre Richard",
+      "Louis de Funès",
+      "Jacques Brel"
+    ],
+    "question": "Quel cinéaste et acteur français est célèbre pour son personnage de 'Monsieur Hulot' et son regard comique sur la modernité?"
+  },
+  {
+    "correctAnswer": "Claude Chabrol",
+    "id": 2350352057371772,
+    "options": [
+      "Claude Chabrol",
+      "André Téchiné",
+      "Maurice Pialat",
+      "Jacques Demy"
+    ],
+    "question": "Quel réalisateur, souvent considéré comme le Hitchcock français, est célèbre pour ses films à suspense comme 'Le Boucher'?"
+  },
+  {
+    "correctAnswer": "Cyrano de Bergerac",
+    "id": 2360361815445932,
+    "options": [
+      "Le Hussard sur le toit",
+      "La Reine Margot",
+      "Cyrano de Bergerac",
+      "Jean de Florette"
+    ],
+    "question": "Dans quel film de 1990, réalisé par Jean-Paul Rappeneau, Gérard Depardieu joue-t-il le rôle titre?"
+  },
+  {
+    "correctAnswer": "La Haine",
+    "id": 2370372057371773,
+    "options": [
+      "La Haine",
+      "Intouchables",
+      "Banlieue 13",
+      "Ma 6-T va crack-er"
+    ],
+    "question": "Quel film de 1995, réalisé par Mathieu Kassovitz, dépeint 24 heures dans la vie de trois amis vivant dans les banlieues parisiennes?"
+  },
+  {
+    "correctAnswer": "Agnès Varda",
+    "id": 2380381815445933,
+    "options": [
+      "Claire Denis",
+      "Céline Sciamma",
+      "Mia Hansen-Løve",
+      "Agnès Varda"
+    ],
+    "question": "Quelle réalisatrice, figure importante de la Nouvelle Vague, est célèbre pour ses films 'Cléo de 5 à 7' et 'Les Plages d'Agnès'?"
+  },
+  {
+    "correctAnswer": "La Belle et la Bête",
+    "id": 2390392057371774,
+    "options": [
+      "Orphée",
+      "La Belle et la Bête",
+      "Les Enfants du Paradis",
+      "Le Quai des brumes"
+    ],
+    "question": "Quel film de 1946, réalisé par Jean Cocteau, est une adaptation fantastique d'un célèbre conte de fées?"
+  },
+  {
+    "correctAnswer": "L'Armée des ombres",
+    "id": 2400401815445934,
+    "options": [
+      "L'Armée des ombres",
+      "Le Cercle rouge",
+      "Un condamné à mort s'est échappé",
+      "Le Trou"
+    ],
+    "question": "Quel film de Jean-Pierre Melville raconte la résistance française pendant la Seconde Guerre mondiale?"
+  },
+  {
+    "correctAnswer": "La Grande Illusion",
+    "id": 2410412057371775,
+    "options": [
+      "La Bête humaine",
+      "La Grande Illusion",
+      "Le Jour se lève",
+      "Le Quai des brumes"
+    ],
+    "question": "Quel film de 1937, réalisé par Jean Renoir, dépeint la camaraderie entre des prisonniers de guerre pendant la Première Guerre mondiale?"
+  },
+  {
+    "correctAnswer": "Les Parapluies de Cherbourg",
+    "id": 2420421815445935,
+    "options": [
+      "Les Demoiselles de Rochefort",
+      "Les Parapluies de Cherbourg",
+      "Lola",
+      "Peau d'âne"
+    ],
+    "question": "Dans quel film musical de Jacques Demy, Catherine Deneuve chante-t-elle tout au long du film?"
+  },
+  {
+    "correctAnswer": "Alain Resnais",
+    "id": 2430432057371776,
+    "options": [
+      "Alain Robbe-Grillet",
+      "Alain Resnais",
+      "Eric Rohmer",
+      "Louis Malle"
+    ],
+    "question": "Quel réalisateur français est célèbre pour des films expérimentaux et non linéaires comme 'L'Année dernière à Marienbad' et 'Hiroshima mon amour'?"
+  },
+  {
+    "correctAnswer": "La Jetée",
+    "id": 2440441815445936,
+    "options": [
+      "La Jetée",
+      "Sans Soleil",
+      "Le Joli Mai",
+      "Loin du Vietnam"
+    ],
+    "question": "Quel court métrage de science-fiction réalisé par Chris Marker en 1962 est principalement composé de photographies fixes?"
+  },
+  {
+    "correctAnswer": "Gérard Depardieu",
+    "id": 2450452057371777,
+    "options": [
+      "Philippe Noiret",
+      "Yves Montand",
+      "Gérard Depardieu",
+      "Jean-Paul Belmondo"
+    ],
+    "question": "Quel acteur français a joué dans des films tels que 'Le Dernier métro', 'Danton' et 'Green Card'?"
+  },
+  {
+    "correctAnswer": "Maurice Pialat",
+    "id": 2460461815445937,
+    "options": [
+      "André Téchiné",
+      "Maurice Pialat",
+      "Jacques Doillon",
+      "Claude Sautet"
+    ],
+    "question": "Quel réalisateur français est célèbre pour son style réaliste et des films comme 'À nos amours' et 'Sous le soleil de Satan'?"
+  },
+  {
+    "correctAnswer": "Marcel Carné",
+    "id": 2470472057371778,
+    "options": [
+      "Jean Vigo",
+      "Jean Grémillon",
+      "Marcel Carné",
+      "Rene Clair"
+    ],
+    "question": "Quel réalisateur français est célèbre pour 'Les Enfants du Paradis', souvent considéré comme l'un des plus grands films français de tous les temps?"
+  },
+  {
+    "correctAnswer": "Juliette Binoche",
+    "id": 2480481815445938,
+    "options": [
+      "Isabelle Adjani",
+      "Emmanuelle Béart",
+      "Catherine Deneuve",
+      "Juliette Binoche"
+    ],
+    "question": "Quelle actrice française a joué dans des films internationaux tels que 'The English Patient', 'Chocolat' et 'Trois couleurs: Bleu'?"
+  },
+  {
+    "correctAnswer": "Luc Besson",
+    "id": 2490492057371779,
+    "options": [
+      "Olivier Megaton",
+      "Luc Besson",
+      "Mathieu Kassovitz",
+      "Jean-Jacques Beineix"
+    ],
+    "question": "Quel réalisateur français est célèbre pour des films d'action et de science-fiction tels que 'Le Cinquième Élément', 'Léon' et 'Lucy'?"
+  },
+  {
+    "correctAnswer": "La Cage aux folles",
+    "id": 2500501815445939,
+    "options": [
+      "Tout le monde il est beau, tout le monde il est gentil",
+      "La Chèvre",
+      "Les Visiteurs",
+      "La Cage aux folles"
+    ],
+    "question": "Quelle comédie française de 1978, réalisée par Édouard Molinaro, raconte l'histoire de deux hommes homosexuels dont l'un d'eux doit jouer le rôle d'une femme pour impressionner la famille conservatrice de leur fils?"
+  },
+  {
+    "correctAnswer": "Belle de jour",
+    "id": 2510512057371780,
+    "options": [
+      "Le Charme discret de la bourgeoisie",
+      "Belle de jour",
+      "Cet obscur objet du désir",
+      "Le Journal d'une femme de chambre"
+    ],
+    "question": "Dans quel film de Luis Buñuel, Catherine Deneuve joue-t-elle une femme au foyer qui devient secrètement une prostituée l'après-midi?"
+  },
+  {
+    "correctAnswer": "Jean-Luc Godard",
+    "id": 2520521815445940,
+    "options": [
+      "François Truffaut",
+      "Eric Rohmer",
+      "Jean-Luc Godard",
+      "Claude Chabrol"
+    ],
+    "question": "Quel réalisateur de la Nouvelle Vague est derrière le film iconoclaste 'Pierrot le Fou' (1965)?"
+  },
+  {
+    "correctAnswer": "Les quatre cents coups",
+    "id": 2530532057371781,
+    "options": [
+      "L'Enfant sauvage",
+      "Les quatre cents coups",
+      "Jules et Jim",
+      "L'Amour en fuite"
+    ],
+    "question": "Quel est le premier film de François Truffaut, mettant en vedette Antoine Doinel, un jeune garçon parisien en difficulté?"
+  },
+  {
+    "correctAnswer": "Breathless",
+    "id": 2540541815445941,
+    "options": [
+      "Breathless",
+      "Band of Outsiders",
+      "Weekend",
+      "Masculin Féminin"
+    ],
+    "question": "Quel film de Jean-Luc Godard, dont le titre original est 'À bout de souffle', est célèbre pour son style de montage innovant et sa narration non linéaire?"
+  },
+  {
+    "correctAnswer": "Le Salaire de la peur",
+    "id": 2550552057371782,
+    "options": [
+      "La Vérité",
+      "Le Couteau dans l'eau",
+      "Le Salaire de la peur",
+      "Quai des Orfèvres"
+    ],
+    "question": "Quel film d'Henri-Georges Clouzot suit quatre hommes transportant de la nitroglycérine sur des routes dangereuses d'Amérique du Sud?"
+  },
+  {
+    "correctAnswer": "Le Samouraï",
+    "id": 2560561815445942,
+    "options": [
+      "Le Doulos",
+      "Le Cercle rouge",
+      "Le Samouraï",
+      "Bob le flambeur"
+    ],
+    "question": "Dans quel film de Jean-Pierre Melville, Alain Delon joue-t-il un tueur à gages solitaire?"
+  },
+  {
+    "correctAnswer": "Emmanuelle Riva",
+    "id": 2570572057371783,
+    "options": [
+      "Isabelle Huppert",
+      "Emmanuelle Riva",
+      "Marion Cotillard",
+      "Audrey Tautou"
+    ],
+    "question": "Quelle actrice française a été acclamée pour son rôle dans 'Hiroshima mon amour' et 'Amour'?"
+  },
+  {
+    "correctAnswer": "La La Land",
+    "id": 2580581815445943,
+    "options": [
+      "La La Land",
+      "Moonlight",
+      "Les Misérables",
+      "The Artist"
+    ],
+    "question": "Quel film n'est PAS français mais contient une séquence onirique rendant hommage aux comédies musicales françaises et au cinéma de Jacques Demy?"
+  },
+  {
+    "correctAnswer": "Gérard Oury",
+    "id": 2590592057371784,
+    "options": [
+      "Pierre Richard",
+      "Yves Robert",
+      "Gérard Oury",
+      "Claude Zidi"
+    ],
+    "question": "Quel réalisateur est derrière des comédies françaises célèbres comme 'La Grande Vadrouille' et 'Le Corniaud'?"
+  },
+  {
+    "correctAnswer": "Delicatessen",
+    "id": 2600601815445944,
+    "options": [
+      "La Haine",
+      "Delicatessen",
+      "Amélie",
+      "La Cité des enfants perdus"
+    ],
+    "question": "Quel film post-apocalyptique réalisé par Jean-Pierre Jeunet et Marc Caro se déroule dans un immeuble où un boucher vend de la viande humaine?"
+  },
+  {
+    "correctAnswer": "Betty Blue",
+    "id": 2610612057371785,
+    "options": [
+      "La Femme Nikita",
+      "Betty Blue",
+      "The Big Blue",
+      "La Haine"
+    ],
+    "question": "Quel film réalisé par Jean-Jacques Beineix raconte une histoire d'amour passionnée entre une femme instable et un homme introverti?"
+  },
+  {
+    "correctAnswer": "Le Scaphandre et le papillon",
+    "id": 2620621815445945,
+    "options": [
+      "La Piscine",
+      "Le Scaphandre et le papillon",
+      "Un prophète",
+      "La Danseuse"
+    ],
+    "question": "Quel film raconte l'histoire vraie de Jean-Dominique Bauby, rédacteur en chef de Elle magazine, qui souffre du syndrome de l'enfermement après un AVC?"
+  },
+  {
+    "correctAnswer": "La Nuit américaine",
+    "id": 2630632057371786,
+    "options": [
+      "L'Amour l'après-midi",
+      "La Chambre verte",
+      "La Nuit américaine",
+      "Le Dernier métro"
+    ],
+    "question": "Quel film de François Truffaut offre un regard coulisses sur le processus de réalisation d'un film?"
+  },
+  {
+    "correctAnswer": "Gaspard Ulliel",
+    "id": 2640641815445946,
+    "options": [
+      "Mathieu Amalric",
+      "Louis Garrel",
+      "Gaspard Ulliel",
+      "Romain Duris"
+    ],
+    "question": "Quel acteur français a joué le jeune Hannibal Lecter dans 'Hannibal Rising'?"
+  },
+  {
+    "correctAnswer": "Les Diaboliques",
+    "id": 2650652057371787,
+    "options": [
+      "L'Enfer",
+      "La Vérité",
+      "Les Diaboliques",
+      "Quai des Orfèvres"
+    ],
+    "question": "Dans quel film d'Henri-Georges Clouzot, deux femmes conspirent pour tuer un homme, mais son corps disparaît mystérieusement?"
+  },
+  {
+    "correctAnswer": "Omar Sy",
+    "id": 2660662057371790,
+    "options": [
+      "Jamal Debouze",
+      "Omar Sy",
+      "Vincent Cassel",
+      "Romain Duris"
+    ],
+    "question": "Quel acteur joue le rôle principal de Driss dans le film 'Intouchables' (2011)?"
+  },
+  {
+    "correctAnswer": "La La Land",
+    "id": 2670671815445950,
+    "options": [
+      "Blue Is the Warmest Colour",
+      "La La Land",
+      "La Haine",
+      "The Artist"
+    ],
+    "question": "Lequel de ces films n'est PAS français, mais a une séquence rendant hommage au cinéma français?"
+  },
+  {
+    "correctAnswer": "120 Battements par minute",
+    "id": 2680682057371791,
+    "options": [
+      "Polisse",
+      "La Loi du marché",
+      "120 Battements par minute",
+      "La Tête haute"
+    ],
+    "question": "Quel film de 2017 réalisé par Robin Campillo retrace les actions de l'association ACT UP Paris dans les années 1990?"
+  },
+  {
+    "correctAnswer": "La Famille Bélier",
+    "id": 2690691815445951,
+    "options": [
+      "Les Garçons et Guillaume, à table!",
+      "La Famille Bélier",
+      "Le Prénom",
+      "De rouille et d'os"
+    ],
+    "question": "Dans quel film Louane Emera joue-t-elle une adolescente dont les parents sont sourds et muets?"
+  },
+  {
+    "correctAnswer": "Grave",
+    "id": 2700702057371792,
+    "options": [
+      "Grave",
+      "Elle",
+      "Mustang",
+      "Jeune & Jolie"
+    ],
+    "question": "Quel film d'horreur de 2016, réalisé par Julia Ducournau, raconte l'histoire d'une étudiante en médecine vétérinaire qui développe un goût pour la chair humaine?"
+  },
+  {
+    "correctAnswer": "Ladj Ly",
+    "id": 2710711815445952,
+    "options": [
+      "François Ozon",
+      "Ladj Ly",
+      "Michel Hazanavicius",
+      "Cédric Klapisch"
+    ],
+    "question": "Quel réalisateur est derrière le film 'Les Misérables' (2019) qui explore la tension entre la police et les résidents d'une banlieue parisienne?"
+  },
+  {
+    "correctAnswer": "Divines",
+    "id": 2720722057371793,
+    "options": [
+      "Bande de filles",
+      "La Fête est finie",
+      "Divines",
+      "Mon roi"
+    ],
+    "question": "Quel film de 2016, réalisé par Houda Benyamina, raconte l'histoire de deux jeunes filles qui rêvent de s'évader de leur banlieue parisienne?"
+  },
+  {
+    "correctAnswer": "La Guerre est déclarée",
+    "id": 2730731815445953,
+    "options": [
+      "Nos futurs",
+      "Les Combattants",
+      "La Guerre est déclarée",
+      "2 automnes 3 hivers"
+    ],
+    "question": "Quel film de Valérie Donzelli raconte l'histoire d'un jeune couple confronté à la maladie de leur enfant?"
+  },
+  {
+    "correctAnswer": "Kheiron",
+    "id": 2740742057371794,
+    "options": [
+      "Kad Merad",
+      "Dany Boon",
+      "Kheiron",
+      "Manu Payet"
+    ],
+    "question": "Quel humoriste et réalisateur est derrière le film 'Nous trois ou rien' (2015), une comédie inspirée de l'histoire de ses parents fuyant l'Iran?"
+  },
+  {
+    "correctAnswer": "La Tête haute",
+    "id": 2750751815445954,
+    "options": [
+      "La Belle Époque",
+      "La Tête haute",
+      "La Loi du marché",
+      "L'Avenir"
+    ],
+    "question": "Quel film réalisé par Emmanuelle Bercot et mettant en vedette Catherine Deneuve et Rod Paradot, raconte l'histoire d'un jeune délinquant et de sa juge pour enfants?"
+  },
+  {
+    "correctAnswer": "Girlhood",
+    "id": 2760762057371795,
+    "options": [
+      "Girlhood",
+      "Tomboy",
+      "Raw",
+      "Mustang"
+    ],
+    "question": "Quel film de Céline Sciamma suit une adolescente qui rejoint un gang de filles dans une banlieue parisienne?"
+  },
+  {
+    "correctAnswer": "Le Chant du loup",
+    "id": 2770771815445955,
+    "options": [
+      "Les Frères Sisters",
+      "Le Chant du loup",
+      "Hors normes",
+      "Au revoir là-haut"
+    ],
+    "question": "Quel film de 2019, réalisé par Antonin Baudry, est un thriller se déroulant à bord d'un sous-marin?"
+  },
+  {
+    "correctAnswer": "J'accuse",
+    "id": 2780782057371796,
+    "options": [
+      "La Vérité",
+      "J'accuse",
+      "Dheepan",
+      "Les Fantômes d'Ismaël"
+    ],
+    "question": "Quel film de Roman Polanski raconte l'affaire Dreyfus, un scandale antisémite qui a secoué la France à la fin du 19ème siècle?"
+  },
+  {
+    "correctAnswer": "Portrait de la jeune fille en feu",
+    "id": 2790791815445956,
+    "options": [
+      "Une fille facile",
+      "Sympathie pour le diable",
+      "Les Misérables",
+      "Portrait de la jeune fille en feu"
+    ],
+    "question": "Quel film de Céline Sciamma raconte une histoire d'amour entre une peintre et son modèle au 18ème siècle?"
+  },
+  {
+    "correctAnswer": "Le Redoutable",
+    "id": 2800802057371797,
+    "options": [
+      "Le Redoutable",
+      "The Artist",
+      "La Classe américaine",
+      "Godard Mon Amour"
+    ],
+    "question": "Quel film de Michel Hazanavicius est une biographie comique de Jean-Luc Godard et de son mariage avec Anne Wiazemsky?"
+  },
+  {
+    "correctAnswer": "Mustang",
+    "id": 2810812057371800,
+    "options": [
+      "Grave",
+      "Divines",
+      "Mustang",
+      "BPM (Beats Per Minute)"
+    ],
+    "question": "Quel film de 2015, réalisé par Deniz Gamze Ergüven, raconte l'histoire de cinq sœurs adolescentes vivant en Turquie et confrontées aux traditions conservatrices?"
+  },
+  {
+    "correctAnswer": "Polisse",
+    "id": 2820821815445960,
+    "options": [
+      "Mon roi",
+      "Polisse",
+      "Les Misérables",
+      "Rust and Bone"
+    ],
+    "question": "Quel film de 2011, réalisé par Maïwenn, suit le quotidien des policiers de la Brigade de Protection des Mineurs?"
+  },
+  {
+    "correctAnswer": "Roschdy Zem",
+    "id": 2830832057371801,
+    "options": [
+      "Olivier Nakache",
+      "Roschdy Zem",
+      "Dany Boon",
+      "Jacques Audiard"
+    ],
+    "question": "Quel acteur et réalisateur est derrière le film 'Chocolat' (2016), qui raconte l'histoire du premier clown noir en France?"
+  },
+  {
+    "correctAnswer": "Les Frères Sisters",
+    "id": 2840841815445961,
+    "options": [
+      "Un Prophète",
+      "De rouille et d'os",
+      "Les Frères Sisters",
+      "Dheepan"
+    ],
+    "question": "Quel film de Jacques Audiard, sorti en 2018, est un western racontant l'histoire de deux frères chasseurs de primes?"
+  },
+  {
+    "correctAnswer": "L'Économie du couple",
+    "id": 2850852057371802,
+    "options": [
+      "L'Économie du couple",
+      "Deux jours, une nuit",
+      "La Fille inconnue",
+      "Le Jeune Ahmed"
+    ],
+    "question": "Quel film de Joachim Lafosse de 2016 décrit la tension entre un couple en train de se séparer mais contraint de vivre sous le même toit pour des raisons financières?"
+  },
+  {
+    "correctAnswer": "La Promesse de l'aube",
+    "id": 2860861815445962,
+    "options": [
+      "La Vérité si je mens",
+      "La Promesse de l'aube",
+      "Le Brio",
+      "Tout le monde debout"
+    ],
+    "question": "Quel film de 2017, réalisé par Eric Barbier, est une adaptation du roman autobiographique de Romain Gary?"
+  },
+  {
+    "correctAnswer": "Pierre Niney",
+    "id": 2870872057371803,
+    "options": [
+      "Tahar Rahim",
+      "Vincent Lacoste",
+      "Pierre Niney",
+      "Swann Arlaud"
+    ],
+    "question": "Quel acteur français a joué le rôle de Yves Saint Laurent dans le film biographique de 2014?"
+  },
+  {
+    "correctAnswer": "La Belle Époque",
+    "id": 2880881815445963,
+    "options": [
+      "La Belle Époque",
+      "Le Sens de la fête",
+      "Hors normes",
+      "Qu'est-ce qu'on a encore fait au Bon Dieu?"
+    ],
+    "question": "Quel film de Nicolas Bedos de 2019 raconte l'histoire d'un homme déprimé qui choisit de revivre la période la plus heureuse de sa vie grâce à une entreprise de reconstitution historique?"
+  },
+  {
+    "correctAnswer": "Le Grand Bain",
+    "id": 2890892057371804,
+    "options": [
+      "Sink or Swim",
+      "Le Grand Bain",
+      "Patients",
+      "La Ch'tite famille"
+    ],
+    "question": "Quel film de Gilles Lellouche de 2018 est une comédie sur un groupe d'hommes qui forment une équipe de natation synchronisée?"
+  },
+  {
+    "correctAnswer": "120 BPM (Beats Per Minute)",
+    "id": 2900901815445964,
+    "options": [
+      "La Douleur",
+      "Grave",
+      "Jeune femme",
+      "120 BPM (Beats Per Minute)"
+    ],
+    "question": "Quel film de Robin Campillo de 2017 raconte les actions militantes d'ACT UP Paris dans les années 1990 pour lutter contre l'épidémie de sida?"
+  },
+  {
+    "correctAnswer": "Christopher Nolan",
+    "id": 2910912057371810,
+    "options": [
+      "Quentin Tarantino",
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "Martin Scorsese"
+    ],
+    "question": "Quel réalisateur est connu pour utiliser des scènes tournées en format IMAX dans ses films, comme 'The Dark Knight' et 'Dunkerque'?"
+  },
+  {
+    "correctAnswer": "Steadicam",
+    "id": 2920921815445970,
+    "options": [
+      "Dolly",
+      "Crane",
+      "Steadicam",
+      "Drone"
+    ],
+    "question": "Quel équipement permet de filmer des plans séquences fluides tout en suivant le mouvement des acteurs, comme dans la scène de l'hôtel du film 'Shining'?"
+  },
+  {
+    "correctAnswer": "Foley",
+    "id": 2930932057371811,
+    "options": [
+      "ADR",
+      "Score",
+      "Soundtrack",
+      "Foley"
+    ],
+    "question": "Comment appelle-t-on l'art de recréer des bruits pour le cinéma en post-production, comme le bruit des pas ou le froissement des vêtements?"
+  },
+  {
+    "correctAnswer": "Montage parallèle",
+    "id": 2940941815445971,
+    "options": [
+      "Montage elliptique",
+      "Montage parallèle",
+      "Montage alterné",
+      "Montage séquentiel"
+    ],
+    "question": "Quelle technique de montage montre deux séquences d'actions se déroulant simultanément dans des lieux différents?"
+  },
+  {
+    "correctAnswer": "Vertigo",
+    "id": 2950952057371812,
+    "options": [
+      "Tracking shot",
+      "Tilt",
+      "Dutch angle",
+      "Vertigo"
+    ],
+    "question": "Quel effet, popularisé par Alfred Hitchcock, implique un zoom avant combiné à un travelling arrière, créant une distorsion du fond?"
+  },
+  {
+    "correctAnswer": "Raccord dans l'axe",
+    "id": 2960961815445972,
+    "options": [
+      "Raccord de regard",
+      "Raccord de mouvement",
+      "Raccord dans l'axe",
+      "Raccord de plan"
+    ],
+    "question": "Quelle erreur de montage fait que la caméra franchit la ligne d'action, causant une inversion de l'orientation spatiale à l'écran?"
+  },
+  {
+    "correctAnswer": "La profondeur de champ",
+    "id": 2970972057371813,
+    "options": [
+      "La mise au point",
+      "L'exposition",
+      "La balance des blancs",
+      "La profondeur de champ"
+    ],
+    "question": "Quel terme décrit la zone nette devant et derrière le sujet sur lequel la caméra est mise au point?"
+  },
+  {
+    "correctAnswer": "Cinémascope",
+    "id": 2980981815445973,
+    "options": [
+      "IMAX",
+      "Technicolor",
+      "Cinémascope",
+      "3D"
+    ],
+    "question": "Quelle technologie, introduite dans les années 1950, permet d'obtenir un format d'image plus large, souvent utilisé pour les films épiques?"
+  },
+  {
+    "correctAnswer": "La règle des tiers",
+    "id": 2990992057371814,
+    "options": [
+      "L'angle d'or",
+      "La règle des tiers",
+      "La perspective atmosphérique",
+      "La symétrie radiale"
+    ],
+    "question": "Quelle règle de composition suggère de diviser l'image en neuf parties égales et de placer le sujet ou le point d'intérêt aux intersections?"
+  },
+  {
+    "correctAnswer": "Dolby",
+    "id": 3001001815445974,
+    "options": [
+      "Sony",
+      "Panavision",
+      "Kodak",
+      "Dolby"
+    ],
+    "question": "Quelle entreprise est célèbre pour avoir révolutionné le son au cinéma avec l'introduction de systèmes de son surround?"
+  },
+  {
+    "correctAnswer": "La couleur",
+    "id": 3011012057371820,
+    "options": [
+      "La vitesse de la pellicule",
+      "Le grain",
+      "La couleur",
+      "Le contraste"
+    ],
+    "question": "Qu'est-ce que la correction colorimétrique modifie principalement dans la post-production d'un film?"
+  },
+  {
+    "correctAnswer": "Key light",
+    "id": 3021021815445980,
+    "options": [
+      "Fill light",
+      "Back light",
+      "Key light",
+      "Practical light"
+    ],
+    "question": "Quelle source lumineuse est généralement la plus brillante et détermine l'orientation principale de la lumière sur un sujet dans une configuration d'éclairage?"
+  },
+  {
+    "correctAnswer": "Plan-séquence",
+    "id": 3031032057371821,
+    "options": [
+      "Plan fixe",
+      "Plan-séquence",
+      "Plan rapproché",
+      "Plan d'ensemble"
+    ],
+    "question": "Quel type de plan est filmé en une seule prise sans coupure, souvent utilisé pour des scènes importantes ou dramatiques?"
+  },
+  {
+    "correctAnswer": "Animatronics",
+    "id": 3041041815445981,
+    "options": [
+      "Stop-motion",
+      "Rotoscoping",
+      "Mocap",
+      "Animatronics"
+    ],
+    "question": "Quelle technique utilise des robots mécaniques pour créer des effets spéciaux réalistes de créatures, comme dans les films 'Jurassic Park'?"
+  },
+  {
+    "correctAnswer": "Green screen",
+    "id": 3051052057371822,
+    "options": [
+      "Rear projection",
+      "Matte painting",
+      "Green screen",
+      "Miniature set"
+    ],
+    "question": "Quelle technique permet aux cinéastes de remplacer l'arrière-plan d'une scène par des images numériques ou des décors préfilmés?"
+  },
+  {
+    "correctAnswer": "Storyboard",
+    "id": 3061061815445982,
+    "options": [
+      "Script",
+      "Shot list",
+      "Treatment",
+      "Storyboard"
+    ],
+    "question": "Comment appelle-t-on les dessins qui illustrent chaque scène d'un film et servent de guide visuel pour la mise en scène et la photographie?"
+  },
+  {
+    "correctAnswer": "Dolly zoom",
+    "id": 3071072057371823,
+    "options": [
+      "Pan",
+      "Tilt",
+      "Handheld shot",
+      "Dolly zoom"
+    ],
+    "question": "Quelle technique de prise de vue, rendue célèbre par Alfred Hitchcock dans 'Vertigo', crée une sensation de vertige en zoomant tout en déplaçant la caméra dans la direction opposée?"
+  },
+  {
+    "correctAnswer": "ADR",
+    "id": 3081081815445983,
+    "options": [
+      "Foley",
+      "Diegetic sound",
+      "Sound design",
+      "ADR"
+    ],
+    "question": "Quelle technique consiste à réenregistrer des dialogues en studio après le tournage pour améliorer la qualité sonore ou corriger des erreurs?"
+  },
+  {
+    "correctAnswer": "Gaffer",
+    "id": 3091092057371824,
+    "options": [
+      "Grip",
+      "Best boy",
+      "Gaffer",
+      "Boom operator"
+    ],
+    "question": "Sur un plateau de tournage, comment s'appelle le chef électricien responsable de l'éclairage?"
+  },
+  {
+    "correctAnswer": "24 images par seconde",
+    "id": 3101101815445984,
+    "options": [
+      "12 images par seconde",
+      "30 images par seconde",
+      "48 images par seconde",
+      "24 images par seconde"
+    ],
+    "question": "Quelle est la vitesse de projection standard pour la plupart des films?"
+  },
+  {
+    "correctAnswer": "Cannes",
+    "id": 3111112057371830,
+    "options": [
+      "Toronto",
+      "Venise",
+      "Sundance",
+      "Cannes"
+    ],
+    "question": "Quel est le festival de cinéma où est décernée la Palme d'Or?"
+  },
+  {
+    "correctAnswer": "Neorealismo",
+    "id": 3121121815445990,
+    "options": [
+      "Expressionnisme",
+      "Neorealismo",
+      "Nouvelle vague",
+      "Dogme95"
+    ],
+    "question": "Quel mouvement cinématographique italien des années 1940 est connu pour ses histoires simples, souvent tragiques, mettant en scène des personnages ordinaires dans des situations réalistes?"
+  },
+  {
+    "correctAnswer": "Pixar",
+    "id": 3131132057371831,
+    "options": [
+      "DreamWorks",
+      "Blue Sky Studios",
+      "Illumination",
+      "Pixar"
+    ],
+    "question": "Quel studio d'animation a produit 'Toy Story', le premier long métrage d'animation entièrement réalisé par ordinateur?"
+  },
+  {
+    "correctAnswer": "Rotoscopie",
+    "id": 3141141815445991,
+    "options": [
+      "Morphing",
+      "Rotoscopie",
+      "Capture de mouvement",
+      "Animation en volume"
+    ],
+    "question": "Quelle technique d'animation consiste à dessiner ou peindre image par image en utilisant des images filmées comme référence?"
+  },
+  {
+    "correctAnswer": "Clint Eastwood",
+    "id": 3151152057371832,
+    "options": [
+      "Clint Eastwood",
+      "Sean Connery",
+      "Harrison Ford",
+      "John Wayne"
+    ],
+    "question": "Quel acteur et réalisateur américain est connu pour son rôle de l'homme sans nom dans une série de westerns spaghetti réalisés par Sergio Leone?"
+  },
+  {
+    "correctAnswer": "Bollywood",
+    "id": 3161161815445992,
+    "options": [
+      "Nollywood",
+      "Kollywood",
+      "Hollywood",
+      "Bollywood"
+    ],
+    "question": "Comment appelle-t-on l'industrie cinématographique basée à Mumbai, qui produit le plus grand nombre de films au monde?"
+  },
+  {
+    "correctAnswer": "F.W. Murnau",
+    "id": 3171172057371833,
+    "options": [
+      "Fritz Lang",
+      "F.W. Murnau",
+      "Robert Wiene",
+      "G.W. Pabst"
+    ],
+    "question": "Quel réalisateur allemand est connu pour son film muet 'Nosferatu' (1922), une adaptation non autorisée de 'Dracula'?"
+  },
+  {
+    "correctAnswer": "Sergueï Eisenstein",
+    "id": 3181181815445993,
+    "options": [
+      "Andrei Tarkovsky",
+      "Dziga Vertov",
+      "Vsevolod Poudovkine",
+      "Sergueï Eisenstein"
+    ],
+    "question": "Quel réalisateur russe est célèbre pour son utilisation de la théorie du montage, en particulier dans son film 'Le Cuirassé Potemkine'?"
+  },
+  {
+    "correctAnswer": "Nouvelle vague",
+    "id": 3191192057371834,
+    "options": [
+      "Impressionnisme",
+      "Poétique réalisme",
+      "Nouvelle vague",
+      "Cinéma du look"
+    ],
+    "question": "Quel mouvement cinématographique français des années 1960 est associé à des réalisateurs comme Jean-Luc Godard et François Truffaut?"
+  },
+  {
+    "correctAnswer": "Mise-en-scène",
+    "id": 3201201815445994,
+    "options": [
+      "Diégèse",
+      "Montage",
+      "Mise-en-scène",
+      "Storyboard"
+    ],
+    "question": "Quel terme décrit l'arrangement visuel d'une scène, notamment le placement des acteurs, le décor, les costumes et l'éclairage?"
+  },
+  {
+    "correctAnswer": "Méliès",
+    "id": 3211212057371840,
+    "options": [
+      "Lumière",
+      "Méliès",
+      "Edison",
+      "Chaplin"
+    ],
+    "question": "Quel pionnier du cinéma est connu pour le film 'Le Voyage dans la Lune' (1902), l'un des premiers films de science-fiction?"
+  },
+  {
+    "correctAnswer": "Documentaire",
+    "id": 3221221815446000,
+    "options": [
+      "Biopic",
+      "Mélodrame",
+      "Documentaire",
+      "Comédie musicale"
+    ],
+    "question": "Quel genre de film présente des faits réels et des informations sur un sujet particulier sans fiction?"
+  },
+  {
+    "correctAnswer": "Les Oscars",
+    "id": 3231232057371841,
+    "options": [
+      "Les BAFTA",
+      "Les César",
+      "Les Golden Globes",
+      "Les Oscars"
+    ],
+    "question": "Quelle cérémonie de remise de prix cinématographique se tient annuellement à Los Angeles et est considérée comme la plus prestigieuse au monde?"
+  },
+  {
+    "correctAnswer": "Francis Ford Coppola",
+    "id": 3241241815446001,
+    "options": [
+      "Martin Scorsese",
+      "Brian De Palma",
+      "Francis Ford Coppola",
+      "Steven Spielberg"
+    ],
+    "question": "Quel réalisateur est derrière la trilogie 'Le Parrain'?"
+  },
+  {
+    "correctAnswer": "Casablanca",
+    "id": 3251252057371842,
+    "options": [
+      "Gone with the Wind",
+      "Casablanca",
+      "The Maltese Falcon",
+      "Rebecca"
+    ],
+    "question": "Dans quel film célèbre trouve-t-on la réplique: 'Nous aurons toujours Paris'?"
+  },
+  {
+    "correctAnswer": "Western",
+    "id": 3261261815446002,
+    "options": [
+      "Film noir",
+      "Sci-fi",
+      "Rom-com",
+      "Western"
+    ],
+    "question": "Quel genre de film est généralement associé aux cowboys, aux duels et à l'Ouest américain?"
+  },
+  {
+    "correctAnswer": "La Dolce Vita",
+    "id": 3271272057371843,
+    "options": [
+      "La Strada",
+      "8½",
+      "Roma",
+      "La Dolce Vita"
+    ],
+    "question": "Quel film de Federico Fellini décrit le monde des paparazzis à Rome dans les années 1960?"
+  },
+  {
+    "correctAnswer": "Blade Runner",
+    "id": 3281281815446003,
+    "options": [
+      "A Clockwork Orange",
+      "Blade Runner",
+      "Metropolis",
+      "Ex Machina"
+    ],
+    "question": "Quel film, réalisé par Ridley Scott, est basé sur le roman 'Do Androids Dream of Electric Sheep?' de Philip K. Dick?"
+  },
+  {
+    "correctAnswer": "La Haine",
+    "id": 3291292057371844,
+    "options": [
+      "La Haine",
+      "Banlieue 13",
+      "Mesrine",
+      "Taxi"
+    ],
+    "question": "Quel film de Mathieu Kassovitz, sorti en 1995, suit trois jeunes d'une banlieue parisienne sur une période de 24 heures?"
+  },
+  {
+    "correctAnswer": "Jurassic Park",
+    "id": 3301301815446004,
+    "options": [
+      "Avatar",
+      "Jaws",
+      "E.T.",
+      "Jurassic Park"
+    ],
+    "question": "Quel film, réalisé par Steven Spielberg, est célèbre pour avoir révolutionné les effets spéciaux avec l'utilisation d'effets CGI pour créer des dinosaures?"
+  },
+  {
+    "correctAnswer": "Quentin Tarantino",
+    "id": 3311312057371850,
+    "options": [
+      "Martin Scorsese",
+      "Stanley Kubrick",
+      "Quentin Tarantino",
+      "Joel Coen"
+    ],
+    "question": "Quel réalisateur est connu pour ses dialogues tranchants et ses films comme 'Pulp Fiction' et 'Inglourious Basterds'?"
+  },
+  {
+    "correctAnswer": "Meryl Streep",
+    "id": 3321321815446010,
+    "options": [
+      "Nicole Kidman",
+      "Julianne Moore",
+      "Cate Blanchett",
+      "Meryl Streep"
+    ],
+    "question": "Quelle actrice a été nominée pour un Oscar plus de 20 fois, remportant la récompense à plusieurs reprises?"
+  },
+  {
+    "correctAnswer": "The Shawshank Redemption",
+    "id": 3331332057371851,
+    "options": [
+      "The Godfather",
+      "The Shawshank Redemption",
+      "Fight Club",
+      "Forrest Gump"
+    ],
+    "question": "Quel film, basé sur une histoire de Stephen King, est souvent classé comme l'un des meilleurs films de tous les temps sur IMDb?"
+  },
+  {
+    "correctAnswer": "Psychose",
+    "id": 3341341815446011,
+    "options": [
+      "Les Oiseaux",
+      "Vertigo",
+      "Fenêtre sur cour",
+      "Psychose"
+    ],
+    "question": "Dans quel film d'Alfred Hitchcock entend-on la célèbre musique de douche composée par Bernard Herrmann?"
+  },
+  {
+    "correctAnswer": "Le muet",
+    "id": 3351352057371852,
+    "options": [
+      "Le noir et blanc",
+      "Le muet",
+      "Le technicolor",
+      "Le panoramique"
+    ],
+    "question": "Comment appelle-t-on les films réalisés avant l'introduction du son synchronisé?"
+  },
+  {
+    "correctAnswer": "Orson Welles",
+    "id": 3361361815446012,
+    "options": [
+      "Charlie Chaplin",
+      "Orson Welles",
+      "Frank Capra",
+      "John Ford"
+    ],
+    "question": "Qui a réalisé et joué dans 'Citizen Kane'?"
+  },
+  {
+    "correctAnswer": "George Lucas",
+    "id": 3371372057371853,
+    "options": [
+      "James Cameron",
+      "Steven Spielberg",
+      "Tim Burton",
+      "George Lucas"
+    ],
+    "question": "Qui est le créateur de l'univers 'Star Wars'?"
+  },
+  {
+    "correctAnswer": "Rotoscopie",
+    "id": 3381381815446013,
+    "options": [
+      "Stop-motion",
+      "Rotoscopie",
+      "CGI",
+      "Live-action"
+    ],
+    "question": "Quelle technique d'animation consiste à dessiner directement sur des images filmées pour donner un rendu réaliste?"
+  },
+  {
+    "correctAnswer": "John Williams",
+    "id": 3391392057371854,
+    "options": [
+      "Hans Zimmer",
+      "John Williams",
+      "Danny Elfman",
+      "Ennio Morricone"
+    ],
+    "question": "Quel compositeur est célèbre pour ses musiques de films pour 'Star Wars', 'Indiana Jones' et 'E.T.'?"
+  },
+  {
+    "correctAnswer": "Studio Ghibli",
+    "id": 3401401815446014,
+    "options": [
+      "DreamWorks Animation",
+      "Studio Ghibli",
+      "Blue Sky Studios",
+      "Illumination Entertainment"
+    ],
+    "question": "Quel studio d'animation japonais est connu pour des films comme 'Mon voisin Totoro' et 'Le Voyage de Chihiro'?"
+  },
+  {
+    "correctAnswer": "Dogme95",
+    "id": 3411412057371860,
+    "options": [
+      "Nouvelle vague",
+      "Mumblecore",
+      "Dogme95",
+      "Cinéma vérité"
+    ],
+    "question": "Quel mouvement cinématographique, initié par Lars von Trier et Thomas Vinterberg, se caractérise par des règles strictes, dont l'interdiction des effets spéciaux et de la musique non diégétique?"
+  },
+  {
+    "correctAnswer": "Sergueï Eisenstein",
+    "id": 3421421815446020,
+    "options": [
+      "Andrei Tarkovsky",
+      "Federico Fellini",
+      "Jean Renoir",
+      "Sergueï Eisenstein"
+    ],
+    "question": "Qui a théorisé le montage des attractions, une approche qui provoque des émotions ou réactions grâce à la juxtaposition de plans opposés?"
+  },
+  {
+    "correctAnswer": "Chien Andalou",
+    "id": 3431432057371861,
+    "options": [
+      "La Strada",
+      "Chien Andalou",
+      "L'Atalante",
+      "La Jetée"
+    ],
+    "question": "Quel film surréaliste de Luis Buñuel et Salvador Dalí est célèbre pour une scène où un œil est coupé par un rasoir?"
+  },
+  {
+    "correctAnswer": "Neo-noir",
+    "id": 3441441815446021,
+    "options": [
+      "Mumblecore",
+      "Neo-noir",
+      "Cinéma du look",
+      "Kitchen-sink realism"
+    ],
+    "question": "Quel sous-genre est caractérisé par les thèmes et les esthétiques du film noir, mais produit après l'âge d'or du film noir?"
+  },
+  {
+    "correctAnswer": "Le Troisième Homme",
+    "id": 3451452057371862,
+    "options": [
+      "Casablanca",
+      "La Nuit du chasseur",
+      "Le Troisième Homme",
+      "Rashomon"
+    ],
+    "question": "Quel film, se déroulant dans le Vienne d'après-guerre, est connu pour sa musique de cithare et sa scène dans les égouts?"
+  },
+  {
+    "correctAnswer": "The Passion of Joan of Arc",
+    "id": 3461461815446022,
+    "options": [
+      "Metropolis",
+      "The Battleship Potemkin",
+      "The Passion of Joan of Arc",
+      "The Cabinet of Dr. Caligari"
+    ],
+    "question": "Quel film muet de Carl Theodor Dreyer est célèbre pour ses gros plans intenses de l'actrice Renée Jeanne Falconetti?"
+  },
+  {
+    "correctAnswer": "Jean-Pierre Jeunet",
+    "id": 3471472057371863,
+    "options": [
+      "Luc Besson",
+      "Jean-Pierre Jeunet",
+      "Michel Gondry",
+      "Gaspar Noé"
+    ],
+    "question": "Qui a réalisé le film visuellement distinctif 'Amélie'?"
+  },
+  {
+    "correctAnswer": "Intertitres",
+    "id": 3481481815446023,
+    "options": [
+      "Voice-over",
+      "Diégèse",
+      "Intertitres",
+      "Flashback"
+    ],
+    "question": "Dans les films muets, comment étaient appelés les panneaux de texte utilisés pour fournir du dialogue ou de la narration?"
+  },
+  {
+    "correctAnswer": "Béla Tarr",
+    "id": 3491492057371864,
+    "options": [
+      "Lav Diaz",
+      "Andrei Tarkovsky",
+      "Béla Tarr",
+      "Michael Haneke"
+    ],
+    "question": "Quel réalisateur hongrois est connu pour ses films minimalistes et méditatifs avec de longues prises, comme 'Sátántangó'?"
+  },
+  {
+    "correctAnswer": "Nouvelle vague",
+    "id": 3501501815446024,
+    "options": [
+      "Nouvelle vague",
+      "Cinéma pur",
+      "Poetic realism",
+      "German Expressionism"
+    ],
+    "question": "À quel mouvement cinématographique François Truffaut, Jean-Luc Godard et Éric Rohmer sont-ils associés?"
+  },
+  {
+    "correctAnswer": "Forrest Gump",
+    "id": 3511512057371870,
+    "options": [
+      "Rain Man",
+      "Forrest Gump",
+      "Philadelphia",
+      "Dead Man Walking"
+    ],
+    "question": "Dans quel film Tom Hanks joue-t-il un homme avec un faible quotient intellectuel qui témoigne involontairement de plusieurs moments historiques majeurs des États-Unis?"
+  },
+  {
+    "correctAnswer": "Martin Scorsese",
+    "id": 3521521815446030,
+    "options": [
+      "Brian De Palma",
+      "Oliver Stone",
+      "Martin Scorsese",
+      "Woody Allen"
+    ],
+    "question": "Quel réalisateur a dirigé 'Goodfellas', une adaptation du livre 'Wiseguy' de Nicholas Pileggi?"
+  },
+  {
+    "correctAnswer": "Kevin Costner",
+    "id": 3531532057371871,
+    "options": [
+      "Mel Gibson",
+      "Clint Eastwood",
+      "Kevin Costner",
+      "Ben Affleck"
+    ],
+    "question": "Qui a réalisé et joué dans le film 'Dances with Wolves' en 1990?"
+  },
+  {
+    "correctAnswer": "The Sixth Sense",
+    "id": 3541541815446031,
+    "options": [
+      "The Others",
+      "The Sixth Sense",
+      "Unbreakable",
+      "Signs"
+    ],
+    "question": "Dans quel film de M. Night Shyamalan un jeune garçon révèle qu'il peut voir et communiquer avec les morts?"
+  },
+  {
+    "correctAnswer": "Pulp Fiction",
+    "id": 3551552057371872,
+    "options": [
+      "Kill Bill",
+      "Pulp Fiction",
+      "Jackie Brown",
+      "Death Proof"
+    ],
+    "question": "Quel film de Quentin Tarantino est connu pour son dialogue emblématique, ses histoires entrecroisées et son utilisation non linéaire de la narration?"
+  },
+  {
+    "correctAnswer": "The Matrix",
+    "id": 3561561815446032,
+    "options": [
+      "Inception",
+      "Blade Runner",
+      "The Matrix",
+      "Dark City"
+    ],
+    "question": "Quel film, réalisé par les Wachowski, met en scène Keanu Reeves en tant que Neo, un hacker qui découvre une réalité simulée par des machines?"
+  },
+  {
+    "correctAnswer": "Saving Private Ryan",
+    "id": 3571572057371873,
+    "options": [
+      "Platoon",
+      "Apocalypse Now",
+      "Full Metal Jacket",
+      "Saving Private Ryan"
+    ],
+    "question": "Quel film de Steven Spielberg débute avec la sanglante bataille du débarquement de Normandie pendant la Seconde Guerre mondiale?"
+  },
+  {
+    "correctAnswer": "Fight Club",
+    "id": 3581581815446033,
+    "options": [
+      "American Psycho",
+      "Fight Club",
+      "Seven",
+      "The Game"
+    ],
+    "question": "Quel film, basé sur un roman de Chuck Palahniuk, suit un homme insomniac (joué par Edward Norton) qui forme un groupe de combat clandestin avec Tyler Durden (Brad Pitt)?"
+  },
+  {
+    "correctAnswer": "Sidney Lumet",
+    "id": 3591592057371874,
+    "options": [
+      "Sidney Lumet",
+      "Stanley Kubrick",
+      "Robert Altman",
+      "David Lynch"
+    ],
+    "question": "Quel réalisateur a dirigé 'Network', un film satirique sur un présentateur de nouvelles qui devient un 'prophète en colère'?"
+  },
+  {
+    "correctAnswer": "The Big Lebowski",
+    "id": 3601601815446034,
+    "options": [
+      "Fargo",
+      "No Country for Old Men",
+      "The Big Lebowski",
+      "True Grit"
+    ],
+    "question": "Dans quel film des frères Coen Jeff Bridges joue-t-il un personnage paresseux appelé 'The Dude'?"
+  },
+  {
+    "correctAnswer": "American Beauty",
+    "id": 3611612057371880,
+    "options": [
+      "American Psycho",
+      "American Beauty",
+      "American Pie",
+      "American History X"
+    ],
+    "question": "Quel film, réalisé par Sam Mendes, dépeint le malaise d'un homme de banlieue et sa fascination pour la jeune amie de sa fille?"
+  },
+  {
+    "correctAnswer": "E.T. the Extra-Terrestrial",
+    "id": 3621621815446040,
+    "options": [
+      "Close Encounters of the Third Kind",
+      "E.T. the Extra-Terrestrial",
+      "Avatar",
+      "Aliens"
+    ],
+    "question": "Dans quel film de Steven Spielberg un jeune garçon nommé Elliott se lie d'amitié avec un alien et tente de le ramener chez lui?"
+  },
+  {
+    "correctAnswer": "The Terminator",
+    "id": 3631632057371881,
+    "options": [
+      "Predator",
+      "RoboCop",
+      "Blade Runner",
+      "The Terminator"
+    ],
+    "question": "Quel film, réalisé par James Cameron, présente un cyborg envoyé du futur pour tuer la mère du futur leader de la résistance humaine?"
+  },
+  {
+    "correctAnswer": "The Breakfast Club",
+    "id": 3641641815446041,
+    "options": [
+      "Sixteen Candles",
+      "Ferris Bueller's Day Off",
+      "The Breakfast Club",
+      "Clueless"
+    ],
+    "question": "Quel film de John Hughes se déroule presque entièrement dans une salle d'étude où cinq adolescents de différents groupes sociaux passent un samedi en retenue?"
+  },
+  {
+    "correctAnswer": "Shrek",
+    "id": 3651652057371882,
+    "options": [
+      "Toy Story",
+      "Shrek",
+      "The Lion King",
+      "Finding Nemo"
+    ],
+    "question": "Quel film d'animation présente un ogre vert qui se lie d'amitié avec un âne parlant tout en essayant de sauver une princesse?"
+  },
+  {
+    "correctAnswer": "The Blair Witch Project",
+    "id": 3661661815446042,
+    "options": [
+      "The Ring",
+      "The Blair Witch Project",
+      "Paranormal Activity",
+      "Cloverfield"
+    ],
+    "question": "Quel film d'horreur est présenté comme un documentaire retrouvé montrant des étudiants en cinéma perdus dans les bois tout en étant traqués par une entité inconnue?"
+  },
+  {
+    "correctAnswer": "The Dark Knight",
+    "id": 3671672057371883,
+    "options": [
+      "Batman Begins",
+      "The Dark Knight",
+      "Batman v Superman: Dawn of Justice",
+      "Batman & Robin"
+    ],
+    "question": "Quel film de Christopher Nolan présente Heath Ledger dans le rôle du Joker?"
+  },
+  {
+    "correctAnswer": "A Beautiful Mind",
+    "id": 3681681815446043,
+    "options": [
+      "Good Will Hunting",
+      "The Imitation Game",
+      "A Beautiful Mind",
+      "The Theory of Everything"
+    ],
+    "question": "Quel film raconte la vie du mathématicien John Nash, qui souffre de schizophrénie?"
+  },
+  {
+    "correctAnswer": "Sideways",
+    "id": 3691692057371884,
+    "options": [
+      "The Descendants",
+      "Sideways",
+      "Little Miss Sunshine",
+      "About Schmidt"
+    ],
+    "question": "Quel film suit deux amis lors d'un voyage dans les vignobles de Californie juste avant le mariage de l'un d'eux?"
+  },
+  {
+    "correctAnswer": "There's Something About Mary",
+    "id": 3701701815446044,
+    "options": [
+      "Dumb and Dumber",
+      "There's Something About Mary",
+      "Kingpin",
+      "Me, Myself & Irene"
+    ],
+    "question": "Dans quel film de comédie les frères Farrelly présentent-ils un homme (joué par Ben Stiller) obsédé par une femme (jouée par Cameron Diaz) qu'il a rencontrée au lycée?"
+  },
+  {
+    "correctAnswer": "The Usual Suspects",
+    "id": 3711712057371890,
+    "options": [
+      "Memento",
+      "Fight Club",
+      "The Usual Suspects",
+      "Heat"
+    ],
+    "question": "Quel film est connu pour son personnage mystérieux, Keyser Söze, et son twist final surprenant?"
+  },
+  {
+    "correctAnswer": "Scarface",
+    "id": 3721721815446050,
+    "options": [
+      "The Godfather",
+      "Goodfellas",
+      "Casino",
+      "Scarface"
+    ],
+    "question": "Dans quel film Al Pacino prononce-t-il la célèbre réplique : 'Say hello to my little friend!'?"
+  },
+  {
+    "correctAnswer": "Jurassic Park",
+    "id": 3731732057371891,
+    "options": [
+      "Avatar",
+      "Jurassic Park",
+      "King Kong",
+      "Godzilla"
+    ],
+    "question": "Quel film, dirigé par Steven Spielberg, a révolutionné les effets spéciaux avec la création réaliste de dinosaures grâce à la CGI?"
+  },
+  {
+    "correctAnswer": "Die Hard",
+    "id": 3741741815446051,
+    "options": [
+      "Lethal Weapon",
+      "Die Hard",
+      "Rambo",
+      "Terminator 2: Judgment Day"
+    ],
+    "question": "Quel film présente Bruce Willis en tant que John McClane, un flic de New York prenant d'assaut un bâtiment pour sauver des otages?"
+  },
+  {
+    "correctAnswer": "Edward Scissorhands",
+    "id": 3751752057371892,
+    "options": [
+      "Edward Scissorhands",
+      "Batman",
+      "Frankenweenie",
+      "Beetlejuice"
+    ],
+    "question": "Quel film de Tim Burton met en scène Johnny Depp en tant que créature avec des ciseaux à la place des mains?"
+  },
+  {
+    "correctAnswer": "The Truman Show",
+    "id": 3761761815446052,
+    "options": [
+      "Man on the Moon",
+      "Bruce Almighty",
+      "The Truman Show",
+      "Liar Liar"
+    ],
+    "question": "Dans quel film Jim Carrey joue-t-il un homme qui découvre que toute sa vie a été filmée pour une émission de télévision?"
+  },
+  {
+    "correctAnswer": "The Silence of the Lambs",
+    "id": 3771772057371893,
+    "options": [
+      "Se7en",
+      "The Silence of the Lambs",
+      "Psycho",
+      "Zodiac"
+    ],
+    "question": "Quel film met en scène l'agent du FBI Clarice Starling cherchant à capturer un tueur en série avec l'aide du cannibale emprisonné, Dr. Hannibal Lecter?"
+  },
+  {
+    "correctAnswer": "The Big Lebowski",
+    "id": 3781781815446053,
+    "options": [
+      "Raising Arizona",
+      "Barton Fink",
+      "Fargo",
+      "The Big Lebowski"
+    ],
+    "question": "Quel film des frères Coen met en scène Jeff Bridges en tant que 'The Dude', un paresseux amateur de bowling impliqué dans une affaire de rançon compliquée?"
+  },
+  {
+    "correctAnswer": "American History X",
+    "id": 3791792057371894,
+    "options": [
+      "Fight Club",
+      "American History X",
+      "A Clockwork Orange",
+      "Training Day"
+    ],
+    "question": "Quel film présente Edward Norton en tant que néo-nazi repenti essayant de sauver son frère cadet de la haine?"
+  },
+  {
+    "correctAnswer": "Requiem for a Dream",
+    "id": 3801801815446054,
+    "options": [
+      "Black Swan",
+      "Requiem for a Dream",
+      "The Wrestler",
+      "Mother!"
+    ],
+    "question": "Quel film sombre et troublant de Darren Aronofsky dépeint la descente aux enfers de quatre individus accros à la drogue?"
+  },
+  {
+    "correctAnswer": "Thelma & Louise",
+    "id": 3811812057371900,
+    "options": [
+      "Butch Cassidy and the Sundance Kid",
+      "Thelma & Louise",
+      "Bonnie and Clyde",
+      "Easy Rider"
+    ],
+    "question": "Quel film, réalisé par Ridley Scott, raconte l'histoire de deux femmes qui partent en road trip et finissent par échapper à la loi?"
+  },
+  {
+    "correctAnswer": "The Sixth Sense",
+    "id": 3821821815446060,
+    "options": [
+      "Signs",
+      "The Village",
+      "Unbreakable",
+      "The Sixth Sense"
+    ],
+    "question": "Dans quel film M. Night Shyamalan révèle-t-il que le personnage principal, interprété par Bruce Willis, est en réalité un fantôme?"
+  },
+  {
+    "correctAnswer": "Fargo",
+    "id": 3831832057371901,
+    "options": [
+      "The Big Lebowski",
+      "No Country for Old Men",
+      "Miller's Crossing",
+      "Fargo"
+    ],
+    "question": "Quel film des frères Coen se déroule en grande partie dans le Minnesota et le Dakota du Nord et met en scène une tentative d'enlèvement qui tourne mal?"
+  },
+  {
+    "correctAnswer": "A League of Their Own",
+    "id": 3841841815446061,
+    "options": [
+      "Moneyball",
+      "Field of Dreams",
+      "The Sandlot",
+      "A League of Their Own"
+    ],
+    "question": "Dans quel film, réalisé par Penny Marshall, Tom Hanks prononce-t-il la célèbre réplique : 'There's no crying in baseball!'?"
+  },
+  {
+    "correctAnswer": "Rain Man",
+    "id": 3851852057371902,
+    "options": [
+      "Born on the Fourth of July",
+      "Rain Man",
+      "Top Gun",
+      "Jerry Maguire"
+    ],
+    "question": "Dans quel film Dustin Hoffman joue-t-il un autiste savant aux côtés de Tom Cruise?"
+  },
+  {
+    "correctAnswer": "American Psycho",
+    "id": 3861861815446062,
+    "options": [
+      "Fight Club",
+      "Seven",
+      "American Psycho",
+      "The Machinist"
+    ],
+    "question": "Dans quel film Christian Bale interprète-t-il un banquier d'investissement qui mène une double vie de tueur en série?"
+  },
+  {
+    "correctAnswer": "The Departed",
+    "id": 3871872057371903,
+    "options": [
+      "Goodfellas",
+      "Casino",
+      "The Departed",
+      "Gangs of New York"
+    ],
+    "question": "Quel film de Martin Scorsese, remportant l'Oscar du meilleur film, est un remake du film hongkongais 'Infernal Affairs'?"
+  },
+  {
+    "correctAnswer": "Dances with Wolves",
+    "id": 3881881815446063,
+    "options": [
+      "The Last Samurai",
+      "Dances with Wolves",
+      "The Postman",
+      "Waterworld"
+    ],
+    "question": "Quel film, réalisé et interprété par Kevin Costner, raconte l'histoire d'un lieutenant de l'Union qui se lie d'amitié avec une tribu sioux?"
+  },
+  {
+    "correctAnswer": "Gladiator",
+    "id": 3891892057371904,
+    "options": [
+      "Spartacus",
+      "Troy",
+      "300",
+      "Gladiator"
+    ],
+    "question": "Quel film, réalisé par Ridley Scott, met en vedette Russell Crowe en tant que général romain trahi qui devient gladiateur?"
+  },
+  {
+    "correctAnswer": "The Iron Giant",
+    "id": 3901901815446064,
+    "options": [
+      "Big Hero 6",
+      "The Iron Giant",
+      "WALL-E",
+      "Robots"
+    ],
+    "question": "Quel film d'animation, réalisé par Brad Bird, raconte l'histoire d'un jeune garçon qui se lie d'amitié avec un robot géant venu de l'espace?"
   }
 ]

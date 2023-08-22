@@ -471,5 +471,2007 @@
       "Aku Aku"
     ],
     "question": "Quel est le nom du protagoniste dans la série de jeux vidéo 'Crash Bandicoot' ?"
+  },
+  {
+    "correctAnswer": "Shigeru Miyamoto",
+    "id": 1013002057371721,
+    "options": [
+      "Hideo Kojima",
+      "Shigeru Miyamoto",
+      "Ken Levine",
+      "Sid Meier"
+    ],
+    "question": "Qui est le créateur de la série 'The Legend of Zelda'?"
+  },
+  {
+    "correctAnswer": "Pong",
+    "id": 1023002057371722,
+    "options": [
+      "Space Invaders",
+      "Pac-Man",
+      "Pong",
+      "Asteroids"
+    ],
+    "question": "Quel est le nom du jeu vidéo considéré comme le premier jeu d'arcade commercialisé?"
+  },
+  {
+    "correctAnswer": "32 bits",
+    "id": 1033002057371723,
+    "options": [
+      "8 bits",
+      "16 bits",
+      "32 bits",
+      "64 bits"
+    ],
+    "question": "La Sony PlayStation originale a une architecture de combien de bits?"
+  },
+  {
+    "correctAnswer": "Modulation de fréquence",
+    "id": 1043002057371724,
+    "options": [
+      "Ondulation de fréquence",
+      "Modulation de fréquence",
+      "Synthèse granulaire",
+      "Synthèse soustractive"
+    ],
+    "question": "Quelle technique audio a été largement utilisée dans la musique de la Sega Genesis?"
+  },
+  {
+    "correctAnswer": "R.O.B.",
+    "id": 1053002057371725,
+    "options": [
+      "E.T.",
+      "R2-D2",
+      "Wall-E",
+      "R.O.B."
+    ],
+    "question": "Quel est le nom du robot qui a accompagné le lancement de la Nintendo Entertainment System aux États-Unis?"
+  },
+  {
+    "correctAnswer": "Final Fantasy",
+    "id": 1063002057371726,
+    "options": [
+      "Dragon Quest",
+      "Chrono Trigger",
+      "Tales of Symphonia",
+      "Final Fantasy"
+    ],
+    "question": "Quelle série de jeux a été développée par Square Enix et a débuté sur la NES?"
+  },
+  {
+    "correctAnswer": "Kojima Productions",
+    "id": 1073002057371727,
+    "options": [
+      "PlatinumGames",
+      "FromSoftware",
+      "Kojima Productions",
+      "Capcom"
+    ],
+    "question": "Quelle société a développé le jeu 'Death Stranding' après la séparation de son fondateur avec Konami?"
+  },
+  {
+    "correctAnswer": "RPG tactique",
+    "id": 1083002057371728,
+    "options": [
+      "RPG d'action",
+      "RPG tactique",
+      "MMORPG",
+      "RPG de table"
+    ],
+    "question": "Quel genre de jeu est 'Fire Emblem'?"
+  },
+  {
+    "correctAnswer": "Ray tracing",
+    "id": 1093002057371729,
+    "options": [
+      "Rasterization",
+      "Ray casting",
+      "Ray tracing",
+      "Voxel rendering"
+    ],
+    "question": "Quelle technique est utilisée pour simuler la manière dont la lumière interagit avec les objets pour créer des ombres, des reflets et des refractions réalistes?"
+  },
+  {
+    "correctAnswer": "Epic Games",
+    "id": 1103002057371730,
+    "options": [
+      "Riot Games",
+      "Epic Games",
+      "Rockstar Games",
+      "Bioware"
+    ],
+    "question": "Quelle entreprise est à l'origine de l'Unreal Engine?"
+  },
+  {
+    "correctAnswer": "Gabe Newell",
+    "id": 1113002057371731,
+    "options": [
+      "Tim Schafer",
+      "Peter Molyneux",
+      "Gabe Newell",
+      "Cliff Bleszinski"
+    ],
+    "question": "Qui est le co-fondateur de Valve Corporation, l'entreprise derrière 'Half-Life' et 'Steam'?"
+  },
+  {
+    "correctAnswer": "Doom",
+    "id": 1123002057371732,
+    "options": [
+      "Quake",
+      "Doom",
+      "Duke Nukem 3D",
+      "Wolfenstein 3D"
+    ],
+    "question": "Quel jeu est souvent crédité pour avoir popularisé le genre des jeux de tir à la première personne?"
+  },
+  {
+    "correctAnswer": "StarCraft",
+    "id": 1133002057371733,
+    "options": [
+      "Age of Empires",
+      "Civilization",
+      "Warcraft",
+      "StarCraft"
+    ],
+    "question": "Quel jeu de stratégie en temps réel est particulièrement populaire en Corée du Sud et est même considéré comme un sport électronique national?"
+  },
+  {
+    "correctAnswer": "Virtual Reality",
+    "id": 1143002057371734,
+    "options": [
+      "Augmented Reality",
+      "Virtual Reality",
+      "Mixed Reality",
+      "Hyper Reality"
+    ],
+    "question": "Quelle technologie utilise des casques pour plonger l'utilisateur dans un environnement entièrement simulé par ordinateur?"
+  },
+  {
+    "correctAnswer": "The Elder Scrolls V: Skyrim",
+    "id": 1153002057371735,
+    "options": [
+      "The Witcher 3: Wild Hunt",
+      "The Elder Scrolls V: Skyrim",
+      "Dark Souls III",
+      "Final Fantasy XV"
+    ],
+    "question": "Dans quel jeu pouvez-vous entendre le cri célèbre 'Fus Ro Dah'?"
+  },
+  {
+    "correctAnswer": "Phantasy Star",
+    "id": 1163002057371736,
+    "options": [
+      "Final Fantasy",
+      "Dragon Quest",
+      "Phantasy Star",
+      "Shin Megami Tensei"
+    ],
+    "question": "Quelle série de jeux vidéo a été l'une des premières à présenter un protagoniste féminin et a été initialement publiée sur la Sega Master System?"
+  },
+  {
+    "correctAnswer": "Red Dead Redemption 2",
+    "id": 1173002057371737,
+    "options": [
+      "The Last of Us Part II",
+      "Red Dead Redemption 2",
+      "Grand Theft Auto V",
+      "Assassin's Creed Odyssey"
+    ],
+    "question": "Quel jeu, développé par Rockstar, se déroule dans un monde ouvert basé sur l'Amérique à l'époque du Far West?"
+  },
+  {
+    "correctAnswer": "Mojang",
+    "id": 1183002057371738,
+    "options": [
+      "Mojang",
+      "Supercell",
+      "Rovio",
+      "King"
+    ],
+    "question": "Quelle entreprise a développé le jeu sandbox populaire 'Minecraft'?"
+  },
+  {
+    "correctAnswer": "Neo Geo",
+    "id": 1193002057371739,
+    "options": [
+      "Atari Jaguar",
+      "3DO",
+      "CD-i",
+      "Neo Geo"
+    ],
+    "question": "Quelle console, sortie dans les années 90, était particulièrement chère à l'achat et est connue pour ses jeux d'arcade de haute qualité?"
+  },
+  {
+    "correctAnswer": "Cloud gaming",
+    "id": 1203002057371740,
+    "options": [
+      "Social gaming",
+      "Mobile gaming",
+      "Cloud gaming",
+      "Console gaming"
+    ],
+    "question": "Quelle technologie permet aux joueurs de jouer à des jeux vidéo en streaming sans nécessiter de matériel puissant, car le jeu est exécuté sur des serveurs distants?"
+  },
+  {
+    "correctAnswer": "Masahiro Sakurai",
+    "id": 1213002057371741,
+    "options": [
+      "Junichi Masuda",
+      "Masahiro Sakurai",
+      "Eiji Aonuma",
+      "Tetsuya Nomura"
+    ],
+    "question": "Qui est le créateur principal de la série 'Super Smash Bros.'?"
+  },
+  {
+    "correctAnswer": "Another World",
+    "id": 1223002057371742,
+    "options": [
+      "Heart of Darkness",
+      "Flashback",
+      "Another World",
+      "Limbo"
+    ],
+    "question": "Quel jeu, développé par Éric Chahi, est célèbre pour son style cinématique et son utilisation de rotoscopie?"
+  },
+  {
+    "correctAnswer": "Radiant Silvergun",
+    "id": 1233002057371743,
+    "options": [
+      "Axelay",
+      "Ikaruga",
+      "Radiant Silvergun",
+      "R-Type"
+    ],
+    "question": "Quel shoot'em up, développé par Treasure, est devenu une pièce de collection coûteuse sur la Sega Saturn?"
+  },
+  {
+    "correctAnswer": "Rez",
+    "id": 1243002057371744,
+    "options": [
+      "Lumines",
+      "Child of Eden",
+      "Rez",
+      "Tetris Effect"
+    ],
+    "question": "Quel jeu de tir musical a été développé par Tetsuya Mizuguchi et est connu pour sa fusion de musique et de gameplay?"
+  },
+  {
+    "correctAnswer": "Ryuichi Sakamoto",
+    "id": 1253002057371745,
+    "options": [
+      "Yuzo Koshiro",
+      "Nobuo Uematsu",
+      "Koji Kondo",
+      "Ryuichi Sakamoto"
+    ],
+    "question": "Quel compositeur célèbre, surtout connu pour sa musique hors du monde des jeux vidéo, a composé la musique de 'The Last Emperor' et a également travaillé sur la musique de 'Femme Fatale' pour le jeu 'Ridge Racer'?"
+  },
+  {
+    "correctAnswer": "Net Yaroze",
+    "id": 1263002057371746,
+    "options": [
+      "Net Yaroze",
+      "PlayStation Dev Kit",
+      "Pippin",
+      "Playdia"
+    ],
+    "question": "Comment s'appelle la version spéciale de la PlayStation qui permettait aux développeurs amateurs de créer leurs propres jeux?"
+  },
+  {
+    "correctAnswer": "Elite",
+    "id": 1273002057371747,
+    "options": [
+      "Wing Commander",
+      "Star Citizen",
+      "EVE Online",
+      "Elite"
+    ],
+    "question": "Quel est le nom du jeu spatial pionnier développé par David Braben et Ian Bell dans les années 80?"
+  },
+  {
+    "correctAnswer": "S.T.A.L.K.E.R.",
+    "id": 1283002057371748,
+    "options": [
+      "Metro 2033",
+      "S.T.A.L.K.E.R.",
+      "Fallout",
+      "DayZ"
+    ],
+    "question": "Quelle série de jeux est basée sur le roman 'Roadside Picnic' et se déroule dans la Zone autour de la centrale nucléaire de Tchernobyl?"
+  },
+  {
+    "correctAnswer": "Demon's Souls",
+    "id": 1293002057371749,
+    "options": [
+      "Dark Souls",
+      "Bloodborne",
+      "Sekiro: Shadows Die Twice",
+      "Demon's Souls"
+    ],
+    "question": "Quel jeu, développé par FromSoftware, est considéré comme le prédécesseur spirituel de la série 'Dark Souls'?"
+  },
+  {
+    "correctAnswer": "Silent Hill 2",
+    "id": 1303002057371750,
+    "options": [
+      "Fatal Frame II",
+      "Silent Hill 2",
+      "Resident Evil 2",
+      "The Evil Within"
+    ],
+    "question": "Dans quel jeu rencontre-t-on le personnage effrayant Pyramid Head pour la première fois?"
+  },
+  {
+    "correctAnswer": "Panzer Dragoon Saga",
+    "id": 1313002057371751,
+    "options": [
+      "Panzer Dragoon Orta",
+      "Panzer Dragoon Saga",
+      "Dragon Force",
+      "Phantasy Star IV"
+    ],
+    "question": "Quel jeu sur Sega Saturn est célèbre pour sa rareté et est considéré comme l'un des meilleurs RPG de la console?"
+  },
+  {
+    "correctAnswer": "Planescape: Torment",
+    "id": 1323002057371752,
+    "options": [
+      "Baldur's Gate",
+      "Neverwinter Nights",
+      "Planescape: Torment",
+      "Icewind Dale"
+    ],
+    "question": "Dans quel RPG la phrase 'What can change the nature of a man?' est-elle un élément central de l'intrigue?"
+  },
+  {
+    "correctAnswer": "Roguelike",
+    "id": 1333002057371753,
+    "options": [
+      "Metroidvania",
+      "Roguelike",
+      "Twin-stick shooter",
+      "Beat'em up"
+    ],
+    "question": "Quel genre de jeu est caractérisé par la génération procédurale de niveaux, la mort permanente et typiquement une progression basée sur des essais et erreurs?"
+  },
+  {
+    "correctAnswer": "Myst",
+    "id": 1343002057371754,
+    "options": [
+      "The 7th Guest",
+      "Myst",
+      "Riven",
+      "The Witness"
+    ],
+    "question": "Quel jeu d'aventure à la première personne, sorti dans les années 90, était révolutionnaire pour ses graphismes et a été l'un des premiers à utiliser le format CD-ROM?"
+  },
+  {
+    "correctAnswer": "Disgaea",
+    "id": 1353002057371755,
+    "options": [
+      "Final Fantasy Tactics",
+      "Tactics Ogre",
+      "Fire Emblem",
+      "Disgaea"
+    ],
+    "question": "Dans quelle série de jeux de stratégie au tour par tour les joueurs peuvent-ils atteindre le niveau 9999 et infliger des dommages se comptant par millions?"
+  },
+  {
+    "correctAnswer": "Zork",
+    "id": 1363002057371756,
+    "options": [
+      "King's Quest",
+      "Monkey Island",
+      "Zork",
+      "The Hitchhiker's Guide to the Galaxy"
+    ],
+    "question": "Quel jeu textuel classique commence par la phrase 'You are standing at the end of a road before a small brick building. Around you is a forest.'?"
+  },
+  {
+    "correctAnswer": "ICO",
+    "id": 1373002057371757,
+    "options": [
+      "Shadow of the Colossus",
+      "The Last Guardian",
+      "ICO",
+      "Journey"
+    ],
+    "question": "Dans quel jeu minimaliste les joueurs guident un jeune garçon pour aider une fille à échapper à un château mystérieux?"
+  },
+  {
+    "correctAnswer": "Maniac Mansion",
+    "id": 1383002057371758,
+    "options": [
+      "Day of the Tentacle",
+      "Maniac Mansion",
+      "Full Throttle",
+      "Sam & Max Hit the Road"
+    ],
+    "question": "Quel jeu d'aventure graphique, développé par Lucasfilm Games, a introduit le système SCUMM?"
+  },
+  {
+    "correctAnswer": "Vectrex",
+    "id": 1393002057371759,
+    "options": [
+      "Atari 2600",
+      "Intellivision",
+      "ColecoVision",
+      "Vectrex"
+    ],
+    "question": "Quelle console rétro est unique car elle possède son propre écran intégré et affiche des graphiques vectoriels?"
+  },
+  {
+    "correctAnswer": "Samurai Shodown",
+    "id": 1403002057371760,
+    "options": [
+      "Street Fighter II",
+      "Mortal Kombat",
+      "King of Fighters",
+      "Samurai Shodown"
+    ],
+    "question": "Quel jeu de combat est célèbre pour son focus sur les combats à l'arme blanche et sa représentation de l'époque féodale japonaise?"
+  },
+  {
+    "correctAnswer": "1983",
+    "id": 1413002057371761,
+    "options": [
+      "1980",
+      "1983",
+      "1985",
+      "1987"
+    ],
+    "question": "Quelle année est communément associée au grand krach du jeu vidéo?"
+  },
+  {
+    "correctAnswer": "Hitbox",
+    "id": 1423002057371762,
+    "options": [
+      "Texture",
+      "Sprite",
+      "Voxel",
+      "Hitbox"
+    ],
+    "question": "Quel terme est utilisé pour décrire la zone invisible autour d'un personnage ou d'un objet qui détecte les collisions dans un jeu vidéo?"
+  },
+  {
+    "correctAnswer": "Atari",
+    "id": 1433002057371763,
+    "options": [
+      "Atari",
+      "Sega",
+      "Nintendo",
+      "Commodore"
+    ],
+    "question": "Quelle entreprise a enterré des milliers de cartouches de jeux vidéo dans un désert du Nouveau-Mexique en 1983?"
+  },
+  {
+    "correctAnswer": "Speedrun",
+    "id": 1443002057371764,
+    "options": [
+      "Let's Play",
+      "Live stream",
+      "Speedrun",
+      "Modding"
+    ],
+    "question": "Comment appelle-t-on la pratique de terminer un jeu le plus rapidement possible, souvent en exploitant des bugs ou des mécaniques spécifiques?"
+  },
+  {
+    "correctAnswer": "DDR",
+    "id": 1453002057371765,
+    "options": [
+      "Guitar Hero",
+      "DDR",
+      "Rock Band",
+      "Just Dance"
+    ],
+    "question": "Quel jeu est connu pour ses tapis de danse sur lesquels les joueurs doivent marcher en rythme avec la musique?"
+  },
+  {
+    "correctAnswer": "Loot box",
+    "id": 1463002057371766,
+    "options": [
+      "DLC",
+      "Mod",
+      "Patch",
+      "Loot box"
+    ],
+    "question": "Quel terme décrit un objet virtuel que les joueurs peuvent acheter ou gagner, contenant des articles aléatoires pour un jeu?"
+  },
+  {
+    "correctAnswer": "Battle Royale",
+    "id": 1473002057371767,
+    "options": [
+      "MMO",
+      "RPG",
+      "RTS",
+      "Battle Royale"
+    ],
+    "question": "Quel genre de jeu vidéo met généralement en scène des dizaines ou des centaines de joueurs luttant jusqu'à ce qu'un seul joueur ou équipe reste debout?"
+  },
+  {
+    "correctAnswer": "E3",
+    "id": 1483002057371768,
+    "options": [
+      "Gamescom",
+      "PAX",
+      "BlizzCon",
+      "E3"
+    ],
+    "question": "Quel événement annuel est le plus grand salon professionnel de l'industrie du jeu vidéo aux États-Unis?"
+  },
+  {
+    "correctAnswer": "Cloud",
+    "id": 1493002057371769,
+    "options": [
+      "Hard drive",
+      "Optical disc",
+      "Cartridge",
+      "Cloud"
+    ],
+    "question": "Sur quelle plateforme de stockage les jeux de Google Stadia sont-ils principalement exécutés?"
+  },
+  {
+    "correctAnswer": "VRAM",
+    "id": 1503002057371770,
+    "options": [
+      "RAM",
+      "SSD",
+      "HDD",
+      "VRAM"
+    ],
+    "question": "Quel type de mémoire est spécifiquement utilisé pour stocker les textures et autres données graphiques sur une carte graphique?"
+  },
+  {
+    "correctAnswer": "PvE",
+    "id": 1513002057371771,
+    "options": [
+      "PvP",
+      "Co-op",
+      "Solo",
+      "PvE"
+    ],
+    "question": "Dans quel mode de jeu les joueurs s'unissent généralement pour combattre des ennemis contrôlés par ordinateur plutôt que d'autres joueurs?"
+  },
+  {
+    "correctAnswer": "Achievements",
+    "id": 1523002057371772,
+    "options": [
+      "DLCs",
+      "Mods",
+      "Patches",
+      "Achievements"
+    ],
+    "question": "Comment sont appelés les récompenses virtuelles que les joueurs reçoivent pour avoir accompli certaines tâches ou défis dans un jeu?"
+  },
+  {
+    "correctAnswer": "Roguelike",
+    "id": 1533002057371773,
+    "options": [
+      "Metroidvania",
+      "Roguelike",
+      "Beat'em up",
+      "Platformer"
+    ],
+    "question": "Quel genre de jeu tire son nom d'un jeu classique où la mort est permanente et les niveaux sont générés de manière procédurale?"
+  },
+  {
+    "correctAnswer": "Anti-aliasing",
+    "id": 1543002057371774,
+    "options": [
+      "Texture mapping",
+      "Bump mapping",
+      "Ray tracing",
+      "Anti-aliasing"
+    ],
+    "question": "Quelle technique graphique est utilisée pour lisser les bords dentelés dans les jeux vidéo?"
+  },
+  {
+    "correctAnswer": "Freemium",
+    "id": 1553002057371775,
+    "options": [
+      "Shareware",
+      "Open-source",
+      "Freemium",
+      "Paid"
+    ],
+    "question": "Comment appelle-t-on un modèle économique où un jeu est offert gratuitement, mais des éléments ou des avantages peuvent être achetés à l'intérieur du jeu?"
+  },
+  {
+    "correctAnswer": "Motion capture",
+    "id": 1563002057371776,
+    "options": [
+      "Animation keyframe",
+      "Rotoscoping",
+      "Tweening",
+      "Motion capture"
+    ],
+    "question": "Quelle technique est utilisée pour capturer les mouvements réels d'un acteur et les transposer dans un jeu vidéo?"
+  },
+  {
+    "correctAnswer": "Ping",
+    "id": 1573002057371777,
+    "options": [
+      "FPS",
+      "Resolution",
+      "Refresh rate",
+      "Ping"
+    ],
+    "question": "Quel terme décrit le temps de réponse entre l'envoi d'une requête depuis un ordinateur et la réception d'une réponse d'un serveur, généralement mesuré en millisecondes?"
+  },
+  {
+    "correctAnswer": "Couch co-op",
+    "id": 1583002057371778,
+    "options": [
+      "Online multiplayer",
+      "Single-player",
+      "Couch co-op",
+      "Asynchronous multiplayer"
+    ],
+    "question": "Comment appelle-t-on un mode de jeu où deux joueurs ou plus jouent ensemble sur la même console et le même écran?"
+  },
+  {
+    "correctAnswer": "Metacritic",
+    "id": 1593002057371779,
+    "options": [
+      "IGN",
+      "GameSpot",
+      "Kotaku",
+      "Metacritic"
+    ],
+    "question": "Quel site web agrège les scores de critiques pour les jeux vidéo et d'autres médias?"
+  },
+  {
+    "correctAnswer": "Microtransactions",
+    "id": 1603002057371780,
+    "options": [
+      "DLC",
+      "Subscription",
+      "Microtransactions",
+      "One-time purchase"
+    ],
+    "question": "Quel terme décrit les petits achats effectués à l'intérieur d'un jeu, souvent pour des objets cosmétiques ou des avantages?"
+  },
+  {
+    "correctAnswer": "Sylvanas Windrunner",
+    "id": 1633002057371783,
+    "options": [
+      "Jaina Proudmoore",
+      "Sylvanas Windrunner",
+      "Alexstrasza",
+      "Tyrande Whisperwind"
+    ],
+    "question": "Quelle Reine Banshee a dirigé la Horde dans 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "Teemo",
+    "id": 1643002057371784,
+    "options": [
+      "Amumu",
+      "Teemo",
+      "Fizz",
+      "Gnar"
+    ],
+    "question": "Quel champion de 'League of Legends' est souvent associé à la phrase 'Never underestimate the power of the Scout's code'?"
+  },
+  {
+    "correctAnswer": "Riven",
+    "id": 1653002057371785,
+    "options": [
+      "Yasuo",
+      "Riven",
+      "Zed",
+      "Akali"
+    ],
+    "question": "Quel champion de 'League of Legends' porte la Lame Brisée?"
+  },
+  {
+    "correctAnswer": "Moogle",
+    "id": 1663002057371786,
+    "options": [
+      "Chocobo",
+      "Tonberry",
+      "Moogle",
+      "Cactuar"
+    ],
+    "question": "Dans l'univers de 'Final Fantasy', quel créature est souvent associée à la phrase 'Kupo!'?"
+  },
+  {
+    "correctAnswer": "Nagrand",
+    "id": 1673002057371787,
+    "options": [
+      "Zangarmarsh",
+      "Hellfire Peninsula",
+      "Terokkar Forest",
+      "Nagrand"
+    ],
+    "question": "Dans 'World of Warcraft: The Burning Crusade', quelle zone est connue pour ses vastes plaines et ses îles flottantes?"
+  },
+  {
+    "correctAnswer": "Illidan Stormrage",
+    "id": 1683002057371788,
+    "options": [
+      "Malfurion Stormrage",
+      "Illidan Stormrage",
+      "Maiev Shadowsong",
+      "Tyrande Whisperwind"
+    ],
+    "question": "Quel personnage est souvent associé à la phrase 'You are not prepared!' dans 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "The Sin'dorei",
+    "id": 1693002057371789,
+    "options": [
+      "The Kaldorei",
+      "The Zandalari",
+      "The Sin'dorei",
+      "The Darkspear"
+    ],
+    "question": "Comment les Elfes de sang sont-ils appelés dans leur propre langue dans 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "Midgar",
+    "id": 1703002057371790,
+    "options": [
+      "Balamb",
+      "Rabanastre",
+      "Midgar",
+      "Zanarkand"
+    ],
+    "question": "Dans 'Final Fantasy VII', quelle cité est le siège de la Shinra Electric Power Company?"
+  },
+  {
+    "correctAnswer": "Annie",
+    "id": 1713002057371791,
+    "options": [
+      "Annie",
+      "Lulu",
+      "Zoe",
+      "Lux"
+    ],
+    "question": "Quelle championne de 'League of Legends' possède un ours en peluche géant nommé Tibbers?"
+  },
+  {
+    "correctAnswer": "Grommash Hellscream",
+    "id": 1723002057371792,
+    "options": [
+      "Durotan",
+      "Grommash Hellscream",
+      "Garrosh Hellscream",
+      "Thrall"
+    ],
+    "question": "Quel chef orque a bu le sang de Mannoroth, condamnant les orcs à la servitude envers la Légion Ardente dans 'Warcraft'?"
+  },
+  {
+    "correctAnswer": "Vivi",
+    "id": 1733002057371793,
+    "options": [
+      "Auron",
+      "Vivi",
+      "Rikku",
+      "Balthier"
+    ],
+    "question": "Quel mage noir est un personnage central explorant des thèmes d'identité et d'existence dans 'Final Fantasy IX'?"
+  },
+  {
+    "correctAnswer": "The Void",
+    "id": 1743002057371794,
+    "options": [
+      "The Abyss",
+      "The Nether",
+      "The Void",
+      "The Aether"
+    ],
+    "question": "D'où viennent les champions Kassadin, Malzahar, et Vel'Koz dans 'League of Legends'?"
+  },
+  {
+    "correctAnswer": "Azeroth",
+    "id": 1753002057371795,
+    "options": [
+      "Draenor",
+      "Argus",
+      "Azeroth",
+      "Outland"
+    ],
+    "question": "Sur quelle planète se déroulent la plupart des événements principaux de 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "Sion",
+    "id": 1763002057371796,
+    "options": [
+      "Yorick",
+      "Sion",
+      "Urgot",
+      "Mordekaiser"
+    ],
+    "question": "Quel champion mort-vivant de 'League of Legends' cherche constamment la bataille pour trouver une mort digne?"
+  },
+  {
+    "correctAnswer": "Cloud Strife",
+    "id": 1783002057371798,
+    "options": [
+      "Squall Leonhart",
+      "Tidus",
+      "Cloud Strife",
+      "Noctis Lucis Caelum"
+    ],
+    "question": "Quel personnage est le protagoniste principal de 'Final Fantasy VII'?"
+  },
+  {
+    "correctAnswer": "The Horde",
+    "id": 1793002057371799,
+    "options": [
+      "The Alliance",
+      "The Horde",
+      "The Burning Legion",
+      "The Scourge"
+    ],
+    "question": "À quelle faction appartient Thrall dans 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "Thresh",
+    "id": 1803002057371800,
+    "options": [
+      "Thresh",
+      "Braum",
+      "Nautilus",
+      "Blitzcrank"
+    ],
+    "question": "Quel champion de 'League of Legends' est connu comme le Gardien des chaînes?"
+  },
+  {
+    "correctAnswer": "Alistar",
+    "id": 1813002057371801,
+    "options": [
+      "Ornn",
+      "Rammus",
+      "Alistar",
+      "Nasus"
+    ],
+    "question": "Quel champion de 'League of Legends' est souvent associé à la phrase 'You can't milk those'?"
+  },
+  {
+    "correctAnswer": "Cairne Bloodhoof",
+    "id": 1823002057371802,
+    "options": [
+      "Baine Bloodhoof",
+      "Cairne Bloodhoof",
+      "Vol'jin",
+      "Garrosh Hellscream"
+    ],
+    "question": "Quel personnage est le chef originel des Taurens dans 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "Materia",
+    "id": 1833002057371803,
+    "options": [
+      "Espers",
+      "Aeons",
+      "Materia",
+      "Jobs"
+    ],
+    "question": "Dans 'Final Fantasy VII', comment s'appelle le système permettant aux personnages d'utiliser des magies et des compétences spécifiques?"
+  },
+  {
+    "correctAnswer": "Orgrimmar",
+    "id": 1843002057371804,
+    "options": [
+      "Stormwind",
+      "Silvermoon",
+      "Dalaran",
+      "Orgrimmar"
+    ],
+    "question": "Quelle est la capitale principale de la Horde dans 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "Jinx",
+    "id": 1853002057371805,
+    "options": [
+      "Vi",
+      "Caitlyn",
+      "Jinx",
+      "Ashe"
+    ],
+    "question": "Quelle championne de 'League of Legends' est connue pour sa nature imprévisible et chaotique?"
+  },
+  {
+    "correctAnswer": "Valeera Sanguinar",
+    "id": 1863002057371806,
+    "options": [
+      "Jaina Proudmoore",
+      "Valeera Sanguinar",
+      "Sylvanas Windrunner",
+      "Alexstrasza"
+    ],
+    "question": "Quelle elfe de sang est associée à la classe Rogue dans l'univers 'Warcraft'?"
+  },
+  {
+    "correctAnswer": "K/DA",
+    "id": 1873002057371807,
+    "options": [
+      "Pentakill",
+      "True Damage",
+      "K/DA",
+      "Star Guardians"
+    ],
+    "question": "Quel groupe musical fictif de 'League of Legends' comprend les championnes Ahri, Evelynn, Kai'Sa et Akali?"
+  },
+  {
+    "correctAnswer": "Zerg",
+    "id": 1883002057371808,
+    "options": [
+      "Protoss",
+      "Terran",
+      "Zerg",
+      "Xel'Naga"
+    ],
+    "question": "Dans 'StarCraft', quelle faction est connue pour sa rapidité de reproduction et ses unités biologiques?"
+  },
+  {
+    "correctAnswer": "Zidane Tribal",
+    "id": 1893002057371809,
+    "options": [
+      "Zidane Tribal",
+      "Vivi Ornitier",
+      "Adelbert Steiner",
+      "Garnet Til Alexandros XVII"
+    ],
+    "question": "Quel personnage est le protagoniste principal de 'Final Fantasy IX'?"
+  },
+  {
+    "correctAnswer": "Demacia",
+    "id": 1903002057371810,
+    "options": [
+      "Piltover",
+      "Zaun",
+      "Noxus",
+      "Demacia"
+    ],
+    "question": "Garen, un champion de 'League of Legends', représente fièrement quelle cité-état?"
+  },
+  {
+    "correctAnswer": "Varian Wrynn",
+    "id": 1913002057371811,
+    "options": [
+      "Anduin Lothar",
+      "Varian Wrynn",
+      "Magni Bronzebeard",
+      "Turalyon"
+    ],
+    "question": "Quel personnage était le roi de Hurlevent avant son fils Anduin dans 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "Ionia",
+    "id": 1923002057371812,
+    "options": [
+      "Bandle City",
+      "Freljord",
+      "Ionia",
+      "Mount Targon"
+    ],
+    "question": "Quelle région de 'League of Legends' est associée à des champions comme Yasuo, Irelia, et Akali?"
+  },
+  {
+    "correctAnswer": "Ifrit",
+    "id": 1933002057371813,
+    "options": [
+      "Shiva",
+      "Ifrit",
+      "Ramuh",
+      "Leviathan"
+    ],
+    "question": "Quelle invocation de 'Final Fantasy' est souvent associée au feu et est généralement représentée comme un démon ou un djinn?"
+  },
+  {
+    "correctAnswer": "Draven",
+    "id": 1943002057371814,
+    "options": [
+      "Darius",
+      "Draven",
+      "Swain",
+      "Vladimir"
+    ],
+    "question": "Quel champion de 'League of Legends' est surnommé 'The Glorious Executioner'?"
+  },
+  {
+    "correctAnswer": "Dalaran",
+    "id": 1953002057371815,
+    "options": [
+      "Silvermoon",
+      "Darnassus",
+      "Dalaran",
+      "Suramar"
+    ],
+    "question": "Quelle cité volante est le foyer des mages dans 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "Ryze",
+    "id": 1963002057371816,
+    "options": [
+      "Taric",
+      "Ryze",
+      "Azir",
+      "Malzahar"
+    ],
+    "question": "Quel champion de 'League of Legends' est en quête éternelle pour protéger les runes du monde?"
+  },
+  {
+    "correctAnswer": "Forsaken",
+    "id": 1973002057371817,
+    "options": [
+      "Nightborne",
+      "Forsaken",
+      "Worgen",
+      "Draenei"
+    ],
+    "question": "Quel groupe dirigé par Sylvanas Windrunner représente les morts-vivants alliés à la Horde dans 'World of Warcraft'?"
+  },
+  {
+    "correctAnswer": "Link",
+    "id": 1983002057371818,
+    "options": [
+      "Zelda",
+      "Ganon",
+      "Link",
+      "Sheik"
+    ],
+    "question": "Quel est le protagoniste principal de la série 'The Legend of Zelda'?"
+  },
+  {
+    "correctAnswer": "Aperture Science",
+    "id": 1993002057371819,
+    "options": [
+      "Black Mesa",
+      "Umbrella Corporation",
+      "Abstergo Industries",
+      "Aperture Science"
+    ],
+    "question": "Dans 'Portal', quelle entreprise est responsable de la création des portails et du robot GLaDOS?"
+  },
+  {
+    "correctAnswer": "Master Chief",
+    "id": 2003002057371820,
+    "options": [
+      "Cortana",
+      "Master Chief",
+      "Commander Shepard",
+      "Spartan Locke"
+    ],
+    "question": "Quel personnage est le héros emblématique de la série 'Halo'?"
+  },
+  {
+    "correctAnswer": "Skellige",
+    "id": 2013002057371821,
+    "options": [
+      "Novigrad",
+      "Velen",
+      "Skellige",
+      "Toussaint"
+    ],
+    "question": "Dans 'The Witcher 3', quelle région est composée d'îles et est fortement inspirée de la mythologie nordique?"
+  },
+  {
+    "correctAnswer": "Aiden Pearce",
+    "id": 2023002057371822,
+    "options": [
+      "Marcus Holloway",
+      "Desmond Miles",
+      "Aiden Pearce",
+      "Niko Bellic"
+    ],
+    "question": "Quel personnage est le protagoniste du premier jeu 'Watch Dogs'?"
+  },
+  {
+    "correctAnswer": "Diamond City",
+    "id": 2033002057371823,
+    "options": [
+      "Megaton",
+      "Rivet City",
+      "Diamond City",
+      "Sanctuary Hills"
+    ],
+    "question": "Dans 'Fallout 4', quelle communauté est située dans un stade de baseball?"
+  },
+  {
+    "correctAnswer": "Sims",
+    "id": 2043002057371824,
+    "options": [
+      "Avatars",
+      "NPCs",
+      "Mii",
+      "Sims"
+    ],
+    "question": "Dans le jeu 'The Sims', comment sont appelés les personnages jouables?"
+  },
+  {
+    "correctAnswer": "Normandy",
+    "id": 2053002057371825,
+    "options": [
+      "Tempest",
+      "Pillar of Autumn",
+      "Normandy",
+      "Nemesis"
+    ],
+    "question": "Dans 'Mass Effect', quel est le nom du vaisseau spatial du commandant Shepard?"
+  },
+  {
+    "correctAnswer": "Trevor",
+    "id": 2063002057371826,
+    "options": [
+      "Franklin",
+      "Michael",
+      "Trevor",
+      "Lamar"
+    ],
+    "question": "Dans 'Grand Theft Auto V', quel personnage est connu pour sa nature imprévisible et violente?"
+  },
+  {
+    "correctAnswer": "Sovereign",
+    "id": 2073002057371827,
+    "options": [
+      "Harbinger",
+      "Saren",
+      "Sovereign",
+      "Reaper"
+    ],
+    "question": "Dans 'Mass Effect', quel est le premier Moissonneur que Shepard rencontre?"
+  },
+  {
+    "correctAnswer": "Cyberpunk 2077",
+    "id": 2083002057371828,
+    "options": [
+      "Deus Ex: Mankind Divided",
+      "Shadowrun",
+      "Cyberpunk 2077",
+      "Watch Dogs: Legion"
+    ],
+    "question": "Dans quel jeu le personnage Johnny Silverhand, interprété par Keanu Reeves, joue-t-il un rôle clé?"
+  },
+  {
+    "correctAnswer": "Dovakin",
+    "id": 2093002057371829,
+    "options": [
+      "Grey Warden",
+      "Nerevarine",
+      "Chosen Undead",
+      "Dovakin"
+    ],
+    "question": "Dans 'The Elder Scrolls V: Skyrim', comment est surnommé le personnage principal?"
+  },
+  {
+    "correctAnswer": "Big Daddy",
+    "id": 2103002057371830,
+    "options": [
+      "Splicer",
+      "Handyman",
+      "Big Daddy",
+      "Little Sister"
+    ],
+    "question": "Dans 'Bioshock', quel ennemi emblématique est souvent vu protégeant les Little Sisters?"
+  },
+  {
+    "correctAnswer": "Raccoon City",
+    "id": 2113002057371831,
+    "options": [
+      "Silent Hill",
+      "Raccoon City",
+      "Dunwall",
+      "Union"
+    ],
+    "question": "Dans la série 'Resident Evil', quelle ville est le théâtre d'une épidémie de zombies causée par le virus T?"
+  },
+  {
+    "correctAnswer": "Mortal Kombat",
+    "id": 2123002057371832,
+    "options": [
+      "Tekken",
+      "Street Fighter",
+      "Mortal Kombat",
+      "Soulcalibur"
+    ],
+    "question": "Dans quel jeu de combat peut-on effectuer des 'Fatalities' à la fin d'un match?"
+  },
+  {
+    "correctAnswer": "Peach",
+    "id": 2133002057371833,
+    "options": [
+      "Daisy",
+      "Peach",
+      "Rosalina",
+      "Toadette"
+    ],
+    "question": "Quel personnage est souvent kidnappé par Bowser dans la série 'Super Mario'?"
+  },
+  {
+    "correctAnswer": "Adam Jensen",
+    "id": 2143002057371834,
+    "options": [
+      "J.C. Denton",
+      "Adam Jensen",
+      "Nathan Drake",
+      "Ezio Auditore"
+    ],
+    "question": "Quel est le protagoniste de 'Deus Ex: Human Revolution'?"
+  },
+  {
+    "correctAnswer": "Rapture",
+    "id": 2153002057371835,
+    "options": [
+      "Columbia",
+      "Rapture",
+      "Dunwall",
+      "City 17"
+    ],
+    "question": "Dans quel lieu sous-marin se déroule principalement le premier 'Bioshock'?"
+  },
+  {
+    "correctAnswer": "Pikachu",
+    "id": 2163002057371836,
+    "options": [
+      "Jigglypuff",
+      "Meowth",
+      "Pikachu",
+      "Charizard"
+    ],
+    "question": "Quel Pokémon est la mascotte officielle de la franchise 'Pokémon'?"
+  },
+  {
+    "correctAnswer": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "id": 2173002057371837,
+    "options": [
+      "Fallout 4",
+      "Metro 2033",
+      "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "Far Cry 2"
+    ],
+    "question": "Quel jeu se déroule dans la Zone d'exclusion de Tchernobyl après une deuxième explosion fictive?"
+  },
+  {
+    "correctAnswer": "Lara Croft",
+    "id": 2183002057371838,
+    "options": [
+      "Aloy",
+      "Samus Aran",
+      "Lara Croft",
+      "Bayonetta"
+    ],
+    "question": "Quel personnage est le protagoniste principal de la série 'Tomb Raider'?"
+  },
+  {
+    "correctAnswer": "A Plague Tale: Innocence",
+    "id": 2193002057371839,
+    "options": [
+      "The Last of Us",
+      "Bloodborne",
+      "Dishonored",
+      "A Plague Tale: Innocence"
+    ],
+    "question": "Quel jeu raconte l'histoire de deux frère et sœur, Amicia et Hugo, essayant de survivre pendant la peste noire en France?"
+  },
+  {
+    "correctAnswer": "Red Dead Redemption",
+    "id": 2203002057371840,
+    "options": [
+      "Call of Juarez",
+      "Gun",
+      "Red Dead Redemption",
+      "Desperados"
+    ],
+    "question": "Quel jeu raconte l'histoire de John Marston, un ancien hors-la-loi cherchant à retrouver sa famille?"
+  },
+  {
+    "correctAnswer": "Trico",
+    "id": 2213002057371841,
+    "options": [
+      "Agro",
+      "Mono",
+      "Ico",
+      "Trico"
+    ],
+    "question": "Dans 'The Last Guardian', quel est le nom de la créature géante qui accompagne le protagoniste?"
+  },
+  {
+    "correctAnswer": "Ellie",
+    "id": 2223002057371842,
+    "options": [
+      "Abby",
+      "Joel",
+      "Ellie",
+      "Tess"
+    ],
+    "question": "Dans 'The Last of Us', quel personnage est immunisé contre l'infection fongique qui a ravagé le monde?"
+  },
+  {
+    "correctAnswer": "V",
+    "id": 2233002057371843,
+    "options": [
+      "Geralt",
+      "Johnny Silverhand",
+      "V",
+      "Jackie"
+    ],
+    "question": "Dans 'Cyberpunk 2077', quel est le nom du personnage jouable?"
+  },
+  {
+    "correctAnswer": "Nights into Dreams",
+    "id": 2243002057371844,
+    "options": [
+      "Sonic the Hedgehog",
+      "Super Mario 64",
+      "Nights into Dreams",
+      "Banjo-Kazooie"
+    ],
+    "question": "Quel jeu, développé par SEGA, présente un personnage qui vole à travers des rêves?"
+  },
+  {
+    "correctAnswer": "Pyramid Head",
+    "id": 2253002057371845,
+    "options": [
+      "Nemesis",
+      "Pyramid Head",
+      "The Keeper",
+      "Mr. X"
+    ],
+    "question": "Quel ennemi emblématique est associé à la série 'Silent Hill'?"
+  },
+  {
+    "correctAnswer": "Limbo",
+    "id": 2263002057371846,
+    "options": [
+      "Inside",
+      "Little Nightmares",
+      "Limbo",
+      "The Witness"
+    ],
+    "question": "Dans quel jeu un jeune garçon traverse un monde sombre et éthéré pour retrouver sa sœur?"
+  },
+  {
+    "correctAnswer": "Connor",
+    "id": 2273002057371847,
+    "options": [
+      "Markus",
+      "Kara",
+      "Connor",
+      "Luther"
+    ],
+    "question": "Dans 'Detroit: Become Human', quel personnage est un détective androïde?"
+  },
+  {
+    "correctAnswer": "Stanley Parable",
+    "id": 2283002057371848,
+    "options": [
+      "Dear Esther",
+      "Stanley Parable",
+      "Firewatch",
+      "Gone Home"
+    ],
+    "question": "Quel jeu narratif présente un narrateur qui commente et réagit constamment aux choix du joueur?"
+  },
+  {
+    "correctAnswer": "Mushroom Kingdom",
+    "id": 2293002057371849,
+    "options": [
+      "Hyrule",
+      "Mushroom Kingdom",
+      "Dream Land",
+      "Wario World"
+    ],
+    "question": "Où se déroulent la plupart des aventures de Mario dans la série 'Super Mario'?"
+  },
+  {
+    "correctAnswer": "Marcus Fenix",
+    "id": 2303002057371850,
+    "options": [
+      "Dom Santiago",
+      "Marcus Fenix",
+      "JD Fenix",
+      "Damon Baird"
+    ],
+    "question": "Quel personnage est le protagoniste principal de la trilogie originale 'Gears of War'?"
+  },
+  {
+    "correctAnswer": "Nook's Cranny",
+    "id": 2313002057371851,
+    "options": [
+      "Able Sisters",
+      "Nook's Cranny",
+      "Resetti's Den",
+      "Blathers' Museum"
+    ],
+    "question": "Dans 'Animal Crossing', quelle boutique est tenue par Tom Nook et ses neveux?"
+  },
+  {
+    "correctAnswer": "Felynes",
+    "id": 2323002057371852,
+    "options": [
+      "Chocobos",
+      "Mogs",
+      "Palicoes",
+      "Felynes"
+    ],
+    "question": "Dans 'Monster Hunter', comment sont appelées les créatures ressemblant à des chats qui aident les chasseurs?"
+  },
+  {
+    "correctAnswer": "Pneuma",
+    "id": 2333002057371853,
+    "options": [
+      "Mythra",
+      "Pyra",
+      "Pneuma",
+      "Nia"
+    ],
+    "question": "Dans 'Xenoblade Chronicles 2', quel est le nom de la forme finale de l'Épée, compagne de Rex?"
+  },
+  {
+    "correctAnswer": "Norman Reedus",
+    "id": 2343002057371854,
+    "options": [
+      "Keanu Reeves",
+      "Norman Reedus",
+      "Troy Baker",
+      "Liam Neeson"
+    ],
+    "question": "Quel acteur incarne le personnage principal, Sam, dans 'Death Stranding'?"
+  },
+  {
+    "correctAnswer": "Tommy Vercetti",
+    "id": 2353002057371855,
+    "options": [
+      "Niko Bellic",
+      "Carl Johnson",
+      "Michael De Santa",
+      "Tommy Vercetti"
+    ],
+    "question": "Quel personnage est le protagoniste de 'Grand Theft Auto: Vice City'?"
+  },
+  {
+    "correctAnswer": "B.J. Blazkowicz",
+    "id": 2363002057371856,
+    "options": [
+      "Doom Slayer",
+      "B.J. Blazkowicz",
+      "Booker DeWitt",
+      "Jack Cooper"
+    ],
+    "question": "Quel personnage est le héros de la série 'Wolfenstein'?"
+  },
+  {
+    "correctAnswer": "Aurora",
+    "id": 2373002057371857,
+    "options": [
+      "Celeste",
+      "Aurora",
+      "Ciri",
+      "Jodie"
+    ],
+    "question": "Quel est le nom de la protagoniste de 'Child of Light'?"
+  },
+  {
+    "correctAnswer": "Cappy",
+    "id": 2383002057371858,
+    "options": [
+      "Luma",
+      "Flood",
+      "Cappy",
+      "Poltergust"
+    ],
+    "question": "Dans 'Super Mario Odyssey', comment s'appelle le compagnon chapeau de Mario?"
+  },
+  {
+    "correctAnswer": "Dishonored",
+    "id": 2393002057371859,
+    "options": [
+      "Bioshock Infinite",
+      "Prey",
+      "Sekiro: Shadows Die Twice",
+      "Dishonored"
+    ],
+    "question": "Dans quel jeu joue-t-on en tant que Corvo Attano, un protecteur royal accusé à tort d'assassinat?"
+  },
+  {
+    "correctAnswer": "Frostmourne",
+    "id": 2403002057371860,
+    "options": [
+      "Dawnbreaker",
+      "Soulcalibur",
+      "Frostmourne",
+      "Excalibur"
+    ],
+    "question": "Quelle épée maudite appartient au Roi-Liche dans l'univers de 'Warcraft'?"
+  },
+  {
+    "correctAnswer": "Isaac Clarke",
+    "id": 2413002057371861,
+    "options": [
+      "Joel Miller",
+      "Jack Joyce",
+      "Isaac Clarke",
+      "Sebastian Castellanos"
+    ],
+    "question": "Quel ingénieur spatial combat des nécromorphes dans la série 'Dead Space'?"
+  },
+  {
+    "correctAnswer": "Mines of Moria",
+    "id": 2423002057371862,
+    "options": [
+      "Mirkwood",
+      "Mines of Moria",
+      "Shire",
+      "Helm's Deep"
+    ],
+    "question": "Dans 'The Lord of the Rings Online', quelle région est connue pour ses profondes cavernes et son ancien nain Balin?"
+  },
+  {
+    "correctAnswer": "High Chaos",
+    "id": 2433002057371863,
+    "options": [
+      "Low Profile",
+      "High Chaos",
+      "Dark Side",
+      "Renegade"
+    ],
+    "question": "Dans 'Dishonored', comment est appelé le résultat de prendre des décisions violentes et meurtrières?"
+  },
+  {
+    "correctAnswer": "Raiden",
+    "id": 2443002057371864,
+    "options": [
+      "Snake",
+      "Big Boss",
+      "Ocelot",
+      "Raiden"
+    ],
+    "question": "Quel personnage est le protagoniste principal de 'Metal Gear Solid 2: Sons of Liberty'?"
+  },
+  {
+    "correctAnswer": "Inkling",
+    "id": 2453002057371865,
+    "options": [
+      "Octoling",
+      "Inkling",
+      "Squidling",
+      "Splatling"
+    ],
+    "question": "Dans 'Splatoon', comment sont appelés les personnages jouables capables de se transformer en calmar?"
+  },
+  {
+    "correctAnswer": "Subnautica",
+    "id": 2463002057371866,
+    "options": [
+      "No Man's Sky",
+      "The Forest",
+      "Subnautica",
+      "Green Hell"
+    ],
+    "question": "Quel jeu de survie se déroule principalement sous l'eau sur une planète extraterrestre?"
+  },
+  {
+    "correctAnswer": "The Phantom Pain",
+    "id": 2473002057371867,
+    "options": [
+      "Guns of the Patriots",
+      "The Phantom Pain",
+      "Peace Walker",
+      "Sons of Liberty"
+    ],
+    "question": "Quel est le sous-titre de 'Metal Gear Solid V'?"
+  },
+  {
+    "correctAnswer": "Dr. Eggman",
+    "id": 2483002057371868,
+    "options": [
+      "Dr. Wily",
+      "Bowser",
+      "King Dedede",
+      "Dr. Eggman"
+    ],
+    "question": "Quel méchant est l'adversaire principal de Sonic dans la série 'Sonic the Hedgehog'?"
+  },
+  {
+    "correctAnswer": "Ryo Hazuki",
+    "id": 2493002057371869,
+    "options": [
+      "Kazuma Kiryu",
+      "Ryo Hazuki",
+      "Terry Bogard",
+      "Jin Kazama"
+    ],
+    "question": "Quel personnage cherche à venger la mort de son père dans la série 'Shenmue'?"
+  },
+  {
+    "correctAnswer": "Aloy",
+    "id": 2503002057371870,
+    "options": [
+      "Ellie",
+      "Aloy",
+      "Lara Croft",
+      "Chell"
+    ],
+    "question": "Quel personnage est le protagoniste de 'Horizon Zero Dawn', cherchant à découvrir son passé dans un monde post-apocalyptique?"
+  },
+  {
+    "correctAnswer": "Sackboy",
+    "id": 2513002057371871,
+    "options": [
+      "Sackboy",
+      "Yarny",
+      "Rayman",
+      "Knack"
+    ],
+    "question": "Quel personnage est la mascotte de la série 'LittleBigPlanet'?"
+  },
+  {
+    "correctAnswer": "The Wraith",
+    "id": 2523002057371872,
+    "options": [
+      "The Nurse",
+      "The Wraith",
+      "The Hillbilly",
+      "The Huntress"
+    ],
+    "question": "Quel tueur dans 'Dead by Daylight' est capable de se rendre presque invisible?"
+  },
+  {
+    "correctAnswer": "Faith",
+    "id": 2533002057371873,
+    "options": [
+      "Jade",
+      "Faith",
+      "Aiden",
+      "Sam Fisher"
+    ],
+    "question": "Quel personnage est le protagoniste principal de la série 'Mirror's Edge'?"
+  },
+  {
+    "correctAnswer": "Kassandra",
+    "id": 2543002057371874,
+    "options": [
+      "Eivor",
+      "Bayek",
+      "Kassandra",
+      "Edward Kenway"
+    ],
+    "question": "Quel personnage est l'un des protagonistes jouables de 'Assassin's Creed Odyssey'?"
+  },
+  {
+    "correctAnswer": "Rabbids",
+    "id": 2553002057371875,
+    "options": [
+      "Rabbids",
+      "Minions",
+      "Toads",
+      "Goombas"
+    ],
+    "question": "Quelles créatures loufoques de Ubisoft ont collaboré avec Mario dans 'Mario + Rabbids Kingdom Battle'?"
+  },
+  {
+    "correctAnswer": "Blighttown",
+    "id": 2563002057371876,
+    "options": [
+      "Sen's Fortress",
+      "Undead Burg",
+      "Anor Londo",
+      "Blighttown"
+    ],
+    "question": "Dans 'Dark Souls', quelle zone est particulièrement connue pour ses problèmes de performances et son environnement toxique?"
+  },
+  {
+    "correctAnswer": "Rico Rodriguez",
+    "id": 2573002057371877,
+    "options": [
+      "Johnny Gat",
+      "Rico Rodriguez",
+      "Jason Brody",
+      "Vaas Montenegro"
+    ],
+    "question": "Quel personnage est le protagoniste de la série 'Just Cause'?"
+  },
+  {
+    "correctAnswer": "Monokuma",
+    "id": 2583002057371878,
+    "options": [
+      "Jibanyan",
+      "Koromaru",
+      "Monokuma",
+      "Teddie"
+    ],
+    "question": "Quel ours mécanique est l'antagoniste principal de la série 'Danganronpa'?"
+  },
+  {
+    "correctAnswer": "The Division",
+    "id": 2593002057371879,
+    "options": [
+      "Rainbow Six Siege",
+      "The Division",
+      "Ghost Recon Wildlands",
+      "Watch Dogs"
+    ],
+    "question": "Dans quel jeu Ubisoft un virus se propage lors du Black Friday à New York?"
+  },
+  {
+    "correctAnswer": "Nuka-Cola",
+    "id": 2603002057371880,
+    "options": [
+      "Slurm",
+      "Bonk! Atomic Punch",
+      "Nuka-Cola",
+      "Sunset Sarsaparilla"
+    ],
+    "question": "Quelle boisson est emblématique de la série 'Fallout'?"
+  },
+  {
+    "correctAnswer": "Bayonetta",
+    "id": 2613002057371881,
+    "options": [
+      "Jeanne",
+      "Cereza",
+      "Bayonetta",
+      "Rosa"
+    ],
+    "question": "Quelle sorcière utilise ses cheveux comme arme et vêtement dans le jeu éponyme?"
+  },
+  {
+    "correctAnswer": "Orpheus",
+    "id": 2623002057371882,
+    "options": [
+      "Arsène",
+      "Izanagi",
+      "Orpheus",
+      "Johanna"
+    ],
+    "question": "Dans 'Persona 3', quel est le Persona initial du protagoniste?"
+  },
+  {
+    "correctAnswer": "Brotherhood of Steel",
+    "id": 2633002057371883,
+    "options": [
+      "Enclave",
+      "Brotherhood of Steel",
+      "Railroad",
+      "Minutemen"
+    ],
+    "question": "Dans 'Fallout', quelle faction est obsédée par la technologie et porte souvent des armures assistées?"
+  },
+  {
+    "correctAnswer": "Gwent",
+    "id": 2643002057371884,
+    "options": [
+      "Triple Triad",
+      "Tetra Master",
+      "Caravan",
+      "Gwent"
+    ],
+    "question": "Quel jeu de cartes est populaire dans l'univers de 'The Witcher'?"
+  },
+  {
+    "correctAnswer": "Cole Phelps",
+    "id": 2653002057371885,
+    "options": [
+      "John Marston",
+      "Arthur Morgan",
+      "Niko Bellic",
+      "Cole Phelps"
+    ],
+    "question": "Quel détective résout des affaires dans 'L.A. Noire'?"
+  },
+  {
+    "correctAnswer": "Preston Garvey",
+    "id": 2663002057371886,
+    "options": [
+      "Codsworth",
+      "Nick Valentine",
+      "Preston Garvey",
+      "Dogmeat"
+    ],
+    "question": "Quel personnage dans 'Fallout 4' informe fréquemment le joueur de colonies nécessitant de l'aide?"
+  },
+  {
+    "correctAnswer": "Katamari Damacy",
+    "id": 2673002057371887,
+    "options": [
+      "LocoRoco",
+      "Katamari Damacy",
+      "Pikmin",
+      "Noby Noby Boy"
+    ],
+    "question": "Dans quel jeu le joueur doit-il rouler des objets pour former une boule géante à la demande du Roi de Tous les Cosmos?"
+  },
+  {
+    "correctAnswer": "Sam Fisher",
+    "id": 2683002057371888,
+    "options": [
+      "Ethan Hunt",
+      "James Bond",
+      "Jason Bourne",
+      "Sam Fisher"
+    ],
+    "question": "Quel agent est le protagoniste de la série 'Splinter Cell'?"
+  },
+  {
+    "correctAnswer": "Peach's Castle",
+    "id": 2693002057371889,
+    "options": [
+      "Bowser's Castle",
+      "Princess Daisy's Palace",
+      "Toad's House",
+      "Peach's Castle"
+    ],
+    "question": "Où se déroule principalement l'action dans 'Super Mario 64'?"
+  },
+  {
+    "correctAnswer": "Gordon Freeman",
+    "id": 2703002057371890,
+    "options": [
+      "G-Man",
+      "Eli Vance",
+      "Barney Calhoun",
+      "Gordon Freeman"
+    ],
+    "question": "Quel est le protagoniste principal de la série 'Half-Life'?"
+  },
+  {
+    "correctAnswer": "Aperture Science Handheld Portal Device",
+    "id": 2713002057371891,
+    "options": [
+      "Gravity Gun",
+      "Aperture Science Handheld Portal Device",
+      "Neurotoxin Emitter",
+      "Turret Deployer"
+    ],
+    "question": "Quel est le nom complet de l'outil qui permet de créer des portails dans 'Portal'?"
+  },
+  {
+    "correctAnswer": "Black Mesa",
+    "id": 2723002057371892,
+    "options": [
+      "Aperture Science",
+      "Umbrella Corporation",
+      "Black Mesa",
+      "White Forest"
+    ],
+    "question": "Dans 'Half-Life', quelle installation de recherche est le théâtre d'un incident dévastateur?"
+  },
+  {
+    "correctAnswer": "GLaDOS",
+    "id": 2733002057371893,
+    "options": [
+      "SHODAN",
+      "Wheatley",
+      "GLaDOS",
+      "Cave Johnson"
+    ],
+    "question": "Quelle intelligence artificielle est l'antagoniste principal de la série 'Portal'?"
+  },
+  {
+    "correctAnswer": "Headcrab",
+    "id": 2743002057371894,
+    "options": [
+      "Barnacle",
+      "Headcrab",
+      "Antlion",
+      "Vortigaunt"
+    ],
+    "question": "Quelle créature de 'Half-Life' se fixe sur la tête de ses victimes et prend le contrôle de leur corps?"
+  },
+  {
+    "correctAnswer": "The Combine",
+    "id": 2753002057371895,
+    "options": [
+      "The Resistance",
+      "Xen Aliens",
+      "Black Mesa Personnel",
+      "The Combine"
+    ],
+    "question": "Quelle faction extraterrestre occupe la Terre dans 'Half-Life 2'?"
+  },
+  {
+    "correctAnswer": "Chell",
+    "id": 2763002057371896,
+    "options": [
+      "Alyx Vance",
+      "Chell",
+      "Caroline",
+      "Shell"
+    ],
+    "question": "Quel est le nom de la protagoniste muette de la série 'Portal'?"
+  },
+  {
+    "correctAnswer": "City 17",
+    "id": 2773002057371897,
+    "options": [
+      "Nova Prospekt",
+      "White Forest",
+      "Black Mesa East",
+      "City 17"
+    ],
+    "question": "Dans 'Half-Life 2', quelle ville est le principal point d'ancrage de l'occupation du Combine?"
+  },
+  {
+    "correctAnswer": "Companion Cube",
+    "id": 2783002057371898,
+    "options": [
+      "Storage Cube",
+      "Turret Cube",
+      "Companion Cube",
+      "Reflective Cube"
+    ],
+    "question": "Dans 'Portal', quel cube est décoré avec des cœurs?"
+  },
+  {
+    "correctAnswer": "Dog",
+    "id": 2793002057371899,
+    "options": [
+      "Dog",
+      "Bird",
+      "Cat",
+      "Fish"
+    ],
+    "question": "Quel est le nom du robot compagnon d'Alyx Vance dans 'Half-Life 2'?"
+  },
+  {
+    "correctAnswer": "Ratman",
+    "id": 2803002057371900,
+    "options": [
+      "Cave Johnson",
+      "Ratman",
+      "G-Man",
+      "Wheatley"
+    ],
+    "question": "Dans 'Portal', quel personnage laisse des graffitis et des messages cachés pour le joueur?"
+  },
+  {
+    "correctAnswer": "Crowbar",
+    "id": 2813002057371901,
+    "options": [
+      "Pistol",
+      "SMG",
+      "Crossbow",
+      "Crowbar"
+    ],
+    "question": "Quelle est l'arme emblématique de Gordon Freeman dans la série 'Half-Life'?"
+  },
+  {
+    "correctAnswer": "The Borealis",
+    "id": 2823002057371902,
+    "options": [
+      "The Hyperborea",
+      "The Borealis",
+      "The Aurora",
+      "The Nebula"
+    ],
+    "question": "Quel navire de recherche, appartenant à Aperture Science, est mentionné dans 'Half-Life 2: Episode Two'?"
+  },
+  {
+    "correctAnswer": "Test Chambers",
+    "id": 2833002057371903,
+    "options": [
+      "Experiment Rooms",
+      "Lab Chambers",
+      "Test Chambers",
+      "Puzzle Rooms"
+    ],
+    "question": "Dans 'Portal', comment sont appelées les pièces où les joueurs doivent résoudre des énigmes?"
+  },
+  {
+    "correctAnswer": "Dr. Kleiner",
+    "id": 2843002057371904,
+    "options": [
+      "Dr. Magnusson",
+      "Dr. Breen",
+      "Dr. Kleiner",
+      "Dr. Rosenberg"
+    ],
+    "question": "Quel scientifique de 'Half-Life 2' possède un crabe de tête apprivoisé nommé Lamarr?"
+  },
+  {
+    "correctAnswer": "Neurotoxin",
+    "id": 2853002057371905,
+    "options": [
+      "Turret Lasers",
+      "Rocket Turrets",
+      "Neurotoxin",
+      "Portal Gun"
+    ],
+    "question": "Dans 'Portal', avec quel gaz GLaDOS tente-t-elle de tuer Chell lors de la confrontation finale?"
   }
 ]

@@ -471,5 +471,1732 @@
       "Hadrien"
     ],
     "question": "Quel est le nom de l'empereur romain qui a adopté le christianisme comme religion officielle de l'Empire ?"
+  },
+  {
+    "correctAnswer": "Jules César",
+    "id": 1234002057371726,
+    "options": [
+      "Marc Antoine",
+      "Jules César",
+      "Auguste",
+      "Néron"
+    ],
+    "question": "Quel général romain a été assassiné lors des Ides de Mars en 44 av. J.-C.?"
+  },
+  {
+    "correctAnswer": "Charlemagne",
+    "id": 2385002067371727,
+    "options": [
+      "Louis le Pieux",
+      "Pépin le Bref",
+      "Charles Martel",
+      "Charlemagne"
+    ],
+    "question": "Qui a été couronné empereur du Saint Empire romain germanique en l'an 800?"
+  },
+  {
+    "correctAnswer": "La guillotine",
+    "id": 3496002077371728,
+    "options": [
+      "La potence",
+      "Le garrot",
+      "La guillotine",
+      "Le peloton d'exécution"
+    ],
+    "question": "Quel était l'outil d'exécution le plus couramment utilisé pendant la Révolution française?"
+  },
+  {
+    "correctAnswer": "Saladin",
+    "id": 4607002087371729,
+    "options": [
+      "Genghis Khan",
+      "Tamerlan",
+      "Saladin",
+      "Mehmed II"
+    ],
+    "question": "Quel leader musulman a reconquis Jérusalem des croisés en 1187?"
+  },
+  {
+    "correctAnswer": "Vasco de Gama",
+    "id": 5718002097371730,
+    "options": [
+      "Christophe Colomb",
+      "Magellan",
+      "Hernán Cortés",
+      "Vasco de Gama"
+    ],
+    "question": "Quel explorateur portugais a été le premier à naviguer directement de l'Europe à l'Inde?"
+  },
+  {
+    "correctAnswer": "Gutenberg",
+    "id": 6829002107371731,
+    "options": [
+      "Leonard de Vinci",
+      "Galilée",
+      "Gutenberg",
+      "Erasme"
+    ],
+    "question": "Qui est considéré comme l'inventeur de l'imprimerie moderne en Europe?"
+  },
+  {
+    "correctAnswer": "Treaty of Tordesillas",
+    "id": 7940002117371732,
+    "options": [
+      "Treaty of Paris",
+      "Treaty of Tordesillas",
+      "Treaty of Westphalia",
+      "Treaty of Utrecht"
+    ],
+    "question": "Quel traité, signé en 1494, a divisé le Nouveau Monde entre le Portugal et l'Espagne?"
+  },
+  {
+    "correctAnswer": "Napoléon Bonaparte",
+    "id": 9051002127371732,
+    "options": [
+      "Louis XVI",
+      "Robespierre",
+      "Napoléon Bonaparte",
+      "Marie-Antoinette"
+    ],
+    "question": "Qui a vendu le territoire de la Louisiane aux États-Unis en 1803?"
+  },
+  {
+    "correctAnswer": "Hannibal",
+    "id": 10162002137371734,
+    "options": [
+      "Scipion l'Africain",
+      "Cincinnatus",
+      "Hannibal",
+      "Attila"
+    ],
+    "question": "Quel général carthaginois est célèbre pour avoir traversé les Alpes avec des éléphants?"
+  },
+  {
+    "correctAnswer": "Magna Carta",
+    "id": 11273002147371736,
+    "options": [
+      "Bill of Rights",
+      "Habeas Corpus",
+      "Magna Carta",
+      "Petition of Right"
+    ],
+    "question": "Quel document a été signé par le roi Jean d'Angleterre en 1215, limitant les pouvoirs du monarque?"
+  },
+  {
+    "correctAnswer": "Martin Luther",
+    "id": 12384002157371736,
+    "options": [
+      "John Calvin",
+      "Ulrich Zwingli",
+      "Martin Luther",
+      "Thomas Cranmer"
+    ],
+    "question": "Qui a affiché les 95 thèses sur la porte de l'église du château de Wittenberg en 1517, déclenchant la Réforme protestante?"
+  },
+  {
+    "correctAnswer": "Les Hittites",
+    "id": 13495002167371736,
+    "options": [
+      "Les Sumériens",
+      "Les Babyloniens",
+      "Les Akkadiens",
+      "Les Hittites"
+    ],
+    "question": "Quel ancien peuple est connu pour avoir établi un empire en Anatolie et signé un traité de paix avec les Égyptiens après la bataille de Qadesh?"
+  },
+  {
+    "correctAnswer": "Oliver Cromwell",
+    "id": 14606002177371738,
+    "options": [
+      "Richard III",
+      "Henry VIII",
+      "Charles I",
+      "Oliver Cromwell"
+    ],
+    "question": "Qui a dirigé l'Angleterre en tant que Lord Protecteur après la guerre civile anglaise?"
+  },
+  {
+    "correctAnswer": "Ivan le Terrible",
+    "id": 15717002187371740,
+    "options": [
+      "Pierre le Grand",
+      "Alexandre Nevski",
+      "Catherine la Grande",
+      "Ivan le Terrible"
+    ],
+    "question": "Quel tsar russe est connu pour avoir établi l'opritchnina et pour ses accès de colère imprévisibles?"
+  },
+  {
+    "correctAnswer": "Le siècle des Lumières",
+    "id": 16828002197371740,
+    "options": [
+      "Le siècle d'or",
+      "La Renaissance",
+      "Le siècle des Lumières",
+      "La Belle Époque"
+    ],
+    "question": "Quelle période de l'histoire européenne est associée à des penseurs tels que Voltaire, Rousseau et Diderot?"
+  },
+  {
+    "correctAnswer": "Cyrus le Grand",
+    "id": 17939002207371740,
+    "options": [
+      "Darius I",
+      "Xerxès I",
+      "Artaxerxès I",
+      "Cyrus le Grand"
+    ],
+    "question": "Quel empereur perse est célèbre pour avoir émis le décret autorisant les Juifs à retourner à Jérusalem et à reconstruire le Temple?"
+  },
+  {
+    "correctAnswer": "L'Empire ottoman",
+    "id": 19050002217371744,
+    "options": [
+      "L'Empire byzantin",
+      "L'Empire sassanide",
+      "L'Empire maurya",
+      "L'Empire ottoman"
+    ],
+    "question": "Quel empire a été fondé par Osman I et a duré jusqu'à la fin de la Première Guerre mondiale?"
+  },
+  {
+    "correctAnswer": "La peste noire",
+    "id": 20161002227371744,
+    "options": [
+      "La variole",
+      "La grippe espagnole",
+      "Le choléra",
+      "La peste noire"
+    ],
+    "question": "Quelle maladie a tué près d'un tiers de la population européenne au 14ème siècle?"
+  },
+  {
+    "correctAnswer": "La guerre des Trente Ans",
+    "id": 21272002237371744,
+    "options": [
+      "La guerre de Sept Ans",
+      "La guerre de Cent Ans",
+      "La guerre des Roses",
+      "La guerre des Trente Ans"
+    ],
+    "question": "Quelle guerre, de 1618 à 1648, a impliqué la majeure partie des grandes puissances européennes et a été en partie un conflit religieux entre catholiques et protestants?"
+  },
+  {
+    "correctAnswer": "Confucius",
+    "id": 22383002247371744,
+    "options": [
+      "Lao Tseu",
+      "Sun Tzu",
+      "Zhuangzi",
+      "Confucius"
+    ],
+    "question": "Quel philosophe chinois est connu pour ses enseignements sur l'éthique, la moralité et la conduite correcte dans les relations interpersonnelles?"
+  },
+  {
+    "correctAnswer": "Alexis de Tocqueville",
+    "id": 23494012257371744,
+    "options": [
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Montesquieu",
+      "Alexis de Tocqueville"
+    ],
+    "question": "Qui a écrit 'De la démocratie en Amérique', une étude approfondie du système démocratique américain au 19ème siècle?"
+  },
+  {
+    "correctAnswer": "La Bataille de Teutobourg",
+    "id": 24605012267371748,
+    "options": [
+      "La Bataille de Marathon",
+      "La Bataille de Thermopyles",
+      "La Bataille de Cannae",
+      "La Bataille de Teutobourg"
+    ],
+    "question": "Dans quelle bataille les tribus germaniques ont-elles infligé une défaite majeure à trois légions romaines en 9 après J.-C.?"
+  },
+  {
+    "correctAnswer": "Les Cathares",
+    "id": 25716012277371748,
+    "options": [
+      "Les Hussites",
+      "Les Waldenses",
+      "Les Cathares",
+      "Les Bogomiles"
+    ],
+    "question": "Quelle secte religieuse médiévale, considérée comme hérétique par l'Église catholique, a été persécutée lors de la croisade des Albigeois?"
+  },
+  {
+    "correctAnswer": "Suleiman le Magnifique",
+    "id": 26827012287371748,
+    "options": [
+      "Selim I",
+      "Mehmed II",
+      "Bayezid II",
+      "Suleiman le Magnifique"
+    ],
+    "question": "Sous quel sultan l'Empire ottoman a-t-il atteint son apogée territorial et culturel au 16ème siècle?"
+  },
+  {
+    "correctAnswer": "Le Concordat de Worms",
+    "id": 27938012297371750,
+    "options": [
+      "Le Traité de Verdun",
+      "L'Edit de Milan",
+      "Le Concordat de Bologne",
+      "Le Concordat de Worms"
+    ],
+    "question": "Quel accord a mis fin à la querelle des Investitures entre la papauté et le Saint Empire romain germanique en 1122?"
+  },
+  {
+    "correctAnswer": "Philippe II d'Espagne",
+    "id": 29049012307371750,
+    "options": [
+      "Charles V du Saint Empire",
+      "Louis XIV de France",
+      "Henri VIII d'Angleterre",
+      "Philippe II d'Espagne"
+    ],
+    "question": "Quel monarque a envoyé l'Armada espagnole pour envahir l'Angleterre en 1588?"
+  },
+  {
+    "correctAnswer": "Les Janissaires",
+    "id": 30151001231731750,
+    "options": [
+      "Les Mamelouks",
+      "Les Samouraïs",
+      "Les Spartiates",
+      "Les Janissaires"
+    ],
+    "question": "Quelle était la caste de guerriers d'élite qui formaient la garde impériale ottomane?"
+  },
+  {
+    "correctAnswer": "La Bataille de Lépante",
+    "id": 31262001241731750,
+    "options": [
+      "La Bataille de Navarin",
+      "La Bataille de Lépante",
+      "La Bataille de Diu",
+      "La Bataille de Trafalgar"
+    ],
+    "question": "Dans quelle bataille navale de 1571 la Sainte Ligue chrétienne a-t-elle défait la flotte ottomane?"
+  },
+  {
+    "correctAnswer": "Hatshepsut",
+    "id": 32373001251731750,
+    "options": [
+      "Néfertiti",
+      "Cleopâtre",
+      "Hatshepsut",
+      "Ankhesenamun"
+    ],
+    "question": "Quelle reine égyptienne de la XVIIIe dynastie a gouverné en tant que pharaon et est connue pour ses expéditions commerciales, notamment à Punt?"
+  },
+  {
+    "correctAnswer": "Le roi Mithridate VI",
+    "id": 33484001261731756,
+    "options": [
+      "Le roi Darius I",
+      "Le roi Antiochus III",
+      "Le roi Mithridate VI",
+      "Le roi Cyrus II"
+    ],
+    "question": "Quel roi du royaume du Pont a combattu trois guerres contre Rome, connues sous le nom de guerres mithridatiques?"
+  },
+  {
+    "correctAnswer": "Le Codex Justinianus",
+    "id": 34595001271731756,
+    "options": [
+      "Le Codex Theodosianus",
+      "Le Codex Sinaiticus",
+      "Le Codex Alexandrinus",
+      "Le Codex Justinianus"
+    ],
+    "question": "Quel ensemble de lois a été compilé sous l'empereur byzantin Justinien Ier au 6ème siècle?"
+  },
+  {
+    "correctAnswer": "Zoroastre",
+    "id": 35706001281731756,
+    "options": [
+      "Mani",
+      "Baha'u'llah",
+      "Guru Nanak",
+      "Zoroastre"
+    ],
+    "question": "Qui est le fondateur de l'ancienne religion persane du zoroastrisme?"
+  },
+  {
+    "correctAnswer": "La Bataille de Poitiers",
+    "id": 36817001291731760,
+    "options": [
+      "La Bataille de Tours",
+      "La Bataille de Poitiers",
+      "La Bataille d'Orléans",
+      "La Bataille de Bouvines"
+    ],
+    "question": "Lors de quelle bataille de 732, Charles Martel a-t-il arrêté l'avancée des forces musulmanes en Europe occidentale?"
+  },
+  {
+    "correctAnswer": "El Cid",
+    "id": 37928001301731760,
+    "options": [
+      "Ferdinand II d'Aragon",
+      "Almanzor",
+      "El Cid",
+      "Alphonse X de Castille"
+    ],
+    "question": "Quel chevalier et héros national espagnol a joué un rôle clé dans la Reconquista et est connu pour ses exploits à Valence?"
+  },
+  {
+    "correctAnswer": "Le traité de Nérchinsk",
+    "id": 39039001311731760,
+    "options": [
+      "Le traité de Tordesillas",
+      "Le traité de Utrecht",
+      "Le traité de Nankin",
+      "Le traité de Nérchinsk"
+    ],
+    "question": "Quel traité, signé en 1689, a établi les frontières entre la Russie tsariste et la dynastie Qing en Chine?"
+  },
+  {
+    "correctAnswer": "Akhenaton",
+    "id": 40151001321731760,
+    "options": [
+      "Ramsès II",
+      "Thoutmôsis III",
+      "Akhenaton",
+      "Sésostris III"
+    ],
+    "question": "Quel pharaon égyptien est célèbre pour avoir instauré un court règne de monothéisme autour du culte d'Aton?"
+  },
+  {
+    "correctAnswer": "Alhazen",
+    "id": 41262001331731760,
+    "options": [
+      "Avicenne",
+      "Averroès",
+      "Alhazen",
+      "Al-Khwarizmi"
+    ],
+    "question": "Quel savant musulman médiéval est considéré comme le père de l'optique moderne?"
+  },
+  {
+    "correctAnswer": "La Ligue hanséatique",
+    "id": 42373001341731760,
+    "options": [
+      "La Compagnie des Indes orientales",
+      "La Ligue de Délos",
+      "La Ligue dorienne",
+      "La Ligue hanséatique"
+    ],
+    "question": "Quelle confédération commerciale et défensive du Moyen Âge tardif regroupait principalement des villes d'Allemagne du Nord et de la mer Baltique?"
+  },
+  {
+    "correctAnswer": "Les Ilkhanides",
+    "id": 43484001351731760,
+    "options": [
+      "Les Timourides",
+      "Les Safavides",
+      "Les Ayyoubides",
+      "Les Ilkhanides"
+    ],
+    "question": "Quelle dynastie mongole a régné sur la Perse au 13ème et 14ème siècles?"
+  },
+  {
+    "correctAnswer": "Le traité de Waitangi",
+    "id": 44595001361731770,
+    "options": [
+      "Le traité de Versailles",
+      "Le traité de Waitangi",
+      "Le traité de Brest-Litovsk",
+      "Le traité de Ghent"
+    ],
+    "question": "Quel traité, signé en 1840, est considéré comme le document fondateur de la Nouvelle-Zélande et a établi un accord entre les Maoris et la Couronne britannique?"
+  },
+  {
+    "correctAnswer": "Le Concile de Trente",
+    "id": 45706102371731770,
+    "options": [
+      "Le Concile de Nicée",
+      "Le Concile de Chalcédoine",
+      "Le Concile de Constance",
+      "Le Concile de Trente"
+    ],
+    "question": "Quel concile a été convoqué au 16ème siècle en réponse à la Réforme protestante et a marqué le début de la Contre-Réforme catholique?"
+  },
+  {
+    "correctAnswer": "Simón Bolívar",
+    "id": 46817202381731770,
+    "options": [
+      "Che Guevara",
+      "José de San Martín",
+      "Pancho Villa",
+      "Simón Bolívar"
+    ],
+    "question": "Quel leader militaire et politique sud-américain a joué un rôle clé dans l'indépendance de plusieurs pays d'Amérique du Sud face à l'Empire espagnol?"
+  },
+  {
+    "correctAnswer": "Les Guerres puniques",
+    "id": 47928302391731770,
+    "options": [
+      "Les Guerres médiques",
+      "Les Guerres de Diadoques",
+      "Les Guerres mithridatiques",
+      "Les Guerres puniques"
+    ],
+    "question": "Quel ensemble de trois guerres a opposé la République romaine et Carthage, culminant avec la destruction de cette dernière en 146 av. J.-C.?"
+  },
+  {
+    "correctAnswer": "Shaka Zulu",
+    "id": 49039402401731770,
+    "options": [
+      "Mansa Musa",
+      "Osei Tutu",
+      "Menelik II",
+      "Shaka Zulu"
+    ],
+    "question": "Quel monarque africain est célèbre pour avoir transformé l'armée zouloue et instauré diverses réformes militaires au début du 19ème siècle?"
+  },
+  {
+    "correctAnswer": "Le siège d'Orléans",
+    "id": 50140512411731770,
+    "options": [
+      "La bataille d'Agincourt",
+      "Le siège de Calais",
+      "La bataille de Crécy",
+      "Le siège d'Orléans"
+    ],
+    "question": "Durant quelle confrontation de la guerre de Cent Ans Jeanne d'Arc a-t-elle joué un rôle déterminant, conduisant à la levée du siège en faveur des Français?"
+  },
+  {
+    "correctAnswer": "L'édit de Nantes",
+    "id": 51251612421731770,
+    "options": [
+      "L'édit de Milan",
+      "L'édit de Nantes",
+      "L'édit de Fontainebleau",
+      "L'édit de Restitution"
+    ],
+    "question": "Quel édit, signé en 1598, a accordé une certaine tolérance religieuse aux protestants en France avant d'être révoqué en 1685?"
+  },
+  {
+    "correctAnswer": "L'Empire kouchite",
+    "id": 52362712431731780,
+    "options": [
+      "L'Empire ghanéen",
+      "L'Empire du Mali",
+      "L'Empire axoumite",
+      "L'Empire kouchite"
+    ],
+    "question": "Quel ancien empire africain, ayant pour capitale Napata puis Méroé, a même régné sur l'Égypte pendant la 25ème dynastie?"
+  },
+  {
+    "correctAnswer": "Le traité de Tilsit",
+    "id": 53473812441731780,
+    "options": [
+      "Le traité de Campo Formio",
+      "Le traité de Lunéville",
+      "Le traité de Tilsit",
+      "Le traité d'Amiens"
+    ],
+    "question": "Quel traité, signé en 1807, a établi une paix entre Napoléon et Alexandre Ier de Russie après la défaite de la Prusse?"
+  },
+  {
+    "correctAnswer": "Le Grand Schisme d'Orient",
+    "id": 54584912451731780,
+    "options": [
+      "Le Schisme d'Avignon",
+      "Le Grand Schisme d'Orient",
+      "Le Schisme de 1054",
+      "Le Schisme anglais"
+    ],
+    "question": "Quel événement a marqué la séparation définitive entre les Églises orthodoxe et catholique en 1054?"
+  },
+  {
+    "correctAnswer": "L'Empire khmer",
+    "id": 55695012461731780,
+    "options": [
+      "L'Empire maurya",
+      "L'Empire srivijaya",
+      "L'Empire gupta",
+      "L'Empire khmer"
+    ],
+    "question": "Quel empire, ayant pour capitale Angkor, est célèbre pour avoir construit le temple d'Angkor Vat au Cambodge?"
+  },
+  {
+    "correctAnswer": "Le traité de Guadalupe Hidalgo",
+    "id": 56806112471731780,
+    "options": [
+      "Le traité de Paris",
+      "Le traité de Guadalupe Hidalgo",
+      "Le traité de Versailles",
+      "Le traité de Ghent"
+    ],
+    "question": "Quel traité, signé en 1848, a mis fin à la guerre américano-mexicaine et a conduit à ce que le Mexique cède de vastes territoires aux États-Unis?"
+  },
+  {
+    "correctAnswer": "Les Hébreux",
+    "id": 57917212481731780,
+    "options": [
+      "Les Philistins",
+      "Les Hittites",
+      "Les Amorites",
+      "Les Hébreux"
+    ],
+    "question": "Quel peuple de l'Antiquité est associé à la figure de Moïse et à l'exode hors d'Égypte selon les textes bibliques?"
+  },
+  {
+    "correctAnswer": "Le Directoire",
+    "id": 59028312491731780,
+    "options": [
+      "La Terreur",
+      "Le Consulat",
+      "Le Directoire",
+      "La Convention"
+    ],
+    "question": "Quelle forme de gouvernement en France a succédé à la Convention et précédé le Consulat après la Révolution française?"
+  },
+  {
+    "correctAnswer": "Les Boxers",
+    "id": 60139402501731780,
+    "options": [
+      "Les Taiping",
+      "Les Cipayes",
+      "Les Boxers",
+      "Les Ming"
+    ],
+    "question": "Quel mouvement anti-étranger et anti-chrétien a culminé dans un soulèvement majeur en Chine en 1900, nécessitant une intervention militaire internationale?"
+  },
+  {
+    "correctAnswer": "Le prince Shotoku",
+    "id": 61240512511731780,
+    "options": [
+      "L'empereur Meiji",
+      "Tokugawa Ieyasu",
+      "Oda Nobunaga",
+      "Le prince Shotoku"
+    ],
+    "question": "Quelle figure historique japonaise est célèbre pour avoir promulgué la Constitution en 17 articles en 604, établissant des principes bouddhistes et confucéens pour le gouvernement?"
+  },
+  {
+    "correctAnswer": "Le sultan Mehmet II",
+    "id": 62351622521731784,
+    "options": [
+      "Le sultan Bayezid I",
+      "Le sultan Suleiman I",
+      "Le sultan Selim I",
+      "Le sultan Mehmet II"
+    ],
+    "question": "Quel sultan ottoman est crédité de la conquête de Constantinople en 1453, mettant fin à l'Empire byzantin?"
+  },
+  {
+    "correctAnswer": "La Bataille de Carrhes",
+    "id": 63462722531731784,
+    "options": [
+      "La Bataille de Cannae",
+      "La Bataille de Pharsale",
+      "La Bataille de Carrhes",
+      "La Bataille de Zama"
+    ],
+    "question": "Dans quelle bataille de 53 av. J.-C. les Parthes ont-ils infligé une défaite majeure à l'armée romaine dirigée par Crassus?"
+  },
+  {
+    "correctAnswer": "Gavrilo Princip",
+    "id": 64573822541731784,
+    "options": [
+      "Franz Ferdinand",
+      "Kaiser Wilhelm II",
+      "Nicholas II de Russie",
+      "Gavrilo Princip"
+    ],
+    "question": "Quel nationaliste serbe est responsable de l'assassinat de l'archiduc Franz Ferdinand en 1914, un événement déclencheur de la Première Guerre mondiale?"
+  },
+  {
+    "correctAnswer": "Le Décret d'Alhambra",
+    "id": 65684922551731784,
+    "options": [
+      "L'Édit de Nantes",
+      "Le Décret d'Alhambra",
+      "L'Édit de Milan",
+      "Le Traité de Tordesillas"
+    ],
+    "question": "Quel décret, promulgué en 1492 par les monarques catholiques Ferdinand et Isabelle, a ordonné l'expulsion des Juifs d'Espagne?"
+  },
+  {
+    "correctAnswer": "La Bataille de Gaugamèles",
+    "id": 66795022561731784,
+    "options": [
+      "La Bataille d'Issos",
+      "La Bataille de Gaugamèles",
+      "La Bataille de Marathon",
+      "La Bataille de Thermopyles"
+    ],
+    "question": "Dans quelle bataille en 331 av. J.-C. Alexandre le Grand a-t-il définitivement vaincu Darius III et l'Empire perse?"
+  },
+  {
+    "correctAnswer": "Le Compromis de 1867",
+    "id": 67906122571731784,
+    "options": [
+      "Le Traité de Versailles",
+      "L'Acte d'Union",
+      "Le Compromis de 1867",
+      "Le Traité de Westphalie"
+    ],
+    "question": "Quel accord a établi la double monarchie d'Autriche-Hongrie, accordant à la Hongrie une autonomie significative au sein de l'Empire?"
+  },
+  {
+    "correctAnswer": "La Route de la soie",
+    "id": 69017222581731784,
+    "options": [
+      "La Route des épices",
+      "La Route de l'ambre",
+      "La Route de la soie",
+      "La Route transsaharienne"
+    ],
+    "question": "Quel ancien réseau de routes commerciales reliait l'Europe et le Moyen-Orient à l'Asie, en particulier à la Chine?"
+  },
+  {
+    "correctAnswer": "Le sultanat de Delhi",
+    "id": 70128322591731790,
+    "options": [
+      "Le sultanat de Ghazna",
+      "Le sultanat de Delhi",
+      "L'Empire moghol",
+      "L'Empire maurya"
+    ],
+    "question": "Quel empire musulman, établi au 13ème siècle, a dominé une grande partie du sous-continent indien avant l'ascension des Moghols?"
+  },
+  {
+    "correctAnswer": "La Bataille de Plassey",
+    "id": 71239402601731790,
+    "options": [
+      "La Bataille de Panipat",
+      "La Bataille de Kalinga",
+      "La Bataille de Plassey",
+      "La Bataille de Buxar"
+    ],
+    "question": "Quelle bataille de 1757 a marqué le début du contrôle britannique sur l'Inde, avec la Compagnie britannique des Indes orientales établissant sa domination?"
+  },
+  {
+    "correctAnswer": "Les Carolingiens",
+    "id": 72340512611731790,
+    "options": [
+      "Les Mérovingiens",
+      "Les Capétiens",
+      "Les Carolingiens",
+      "Les Ottoniens"
+    ],
+    "question": "Quelle dynastie, ayant pour fondateur Pépin le Bref, a vu Charlemagne être couronné empereur du Saint Empire romain germanique en 800?"
+  },
+  {
+    "correctAnswer": "Le Cylindre de Cyrus",
+    "id": 73451622621731790,
+    "options": [
+      "La Pierre de Rosette",
+      "Le Cylindre de Cyrus",
+      "Les tablettes d'Ebla",
+      "Le Code d'Hammurabi"
+    ],
+    "question": "Quel artefact ancien, datant du règne de Cyrus le Grand, est souvent cité comme la première déclaration des droits de l'homme de l'histoire?"
+  },
+  {
+    "correctAnswer": "Les Vandales",
+    "id": 74562722631731790,
+    "options": [
+      "Les Wisigoths",
+      "Les Ostrogoths",
+      "Les Vandales",
+      "Les Huns"
+    ],
+    "question": "Quel peuple germanique a établi un royaume en Afrique du Nord et est célèbre pour avoir pillé Rome en 455 av. J.-C.?"
+  },
+  {
+    "correctAnswer": "L'insurrection de la mer Égée",
+    "id": 75673822641731790,
+    "options": [
+      "La révolte des Maccabées",
+      "L'insurrection de la mer Égée",
+      "La révolte des esclaves de Sicile",
+      "La révolte d'Ionie"
+    ],
+    "question": "Quelle révolte, soutenue par Athènes et Érétrie, a éclaté contre la domination perse au 5ème siècle av. J.-C. et a conduit aux guerres médiques?"
+  },
+  {
+    "correctAnswer": "Le traité de Tordesillas",
+    "id": 76784922651731790,
+    "options": [
+      "Le traité de Paris",
+      "Le traité de Tordesillas",
+      "Le traité de Westphalie",
+      "Le traité de Utrecht"
+    ],
+    "question": "Quel traité, signé en 1494, a été négocié par le pape Alexandre VI pour diviser le Nouveau Monde entre l'Espagne et le Portugal?"
+  },
+  {
+    "correctAnswer": "Le Trajan",
+    "id": 77895022661731790,
+    "options": [
+      "Auguste",
+      "Hadrien",
+      "Marc Aurèle",
+      "Le Trajan"
+    ],
+    "question": "Sous quel empereur romain l'Empire romain a-t-il atteint sa plus grande étendue territoriale au début du 2ème siècle après J.-C.?"
+  },
+  {
+    "correctAnswer": "La Confédération Iroquoise",
+    "id": 79006122671731790,
+    "options": [
+      "Les Mississipiens",
+      "Les Incas",
+      "Les Aztèques",
+      "La Confédération Iroquoise"
+    ],
+    "question": "Quelle alliance de tribus autochtones nord-américaines, formée bien avant l'arrivée des Européens, est souvent citée comme une influence possible sur la conception de la démocratie fédérale des États-Unis?"
+  },
+  {
+    "correctAnswer": "L'Empire Sogdien",
+    "id": 80117232681731790,
+    "options": [
+      "L'Empire Parthe",
+      "L'Empire Kushan",
+      "L'Empire Sogdien",
+      "L'Empire Sassanide"
+    ],
+    "question": "Quel ancien empire centré autour de l'actuel Ouzbékistan était célèbre pour ses marchands qui dominaient le commerce le long de la Route de la soie?"
+  },
+  {
+    "correctAnswer": "Les Gracques",
+    "id": 81228332691731790,
+    "options": [
+      "Les Flaviens",
+      "Les Jules",
+      "Les Antonins",
+      "Les Gracques"
+    ],
+    "question": "Quels frères tribuns de la plèbe à Rome ont tenté des réformes agraires pour redistribuer les terres aux pauvres, mais ont finalement été assassinés pour leurs efforts?"
+  },
+  {
+    "correctAnswer": "L'Empire Axoumite",
+    "id": 82339432701731790,
+    "options": [
+      "L'Empire de Ghana",
+      "L'Empire de Mali",
+      "L'Empire Songhaï",
+      "L'Empire Axoumite"
+    ],
+    "question": "Quel ancien empire africain, centré dans l'actuelle Éthiopie, était un puissant royaume chrétien et un important carrefour commercial?"
+  },
+  {
+    "correctAnswer": "La Guerre des Deux Roses",
+    "id": 83440512711731800,
+    "options": [
+      "La Guerre de Sept Ans",
+      "La Guerre des Deux Roses",
+      "La Guerre de Cent Ans",
+      "La Guerre de Succession d'Espagne"
+    ],
+    "question": "Quelle guerre civile en Angleterre au 15ème siècle a opposé les maisons de Lancaster et de York pour le trône anglais?"
+  },
+  {
+    "correctAnswer": "Le Pape Grégoire VII",
+    "id": 84551622721731800,
+    "options": [
+      "Le Pape Urbain II",
+      "Le Pape Innocent III",
+      "Le Pape Clément VII",
+      "Le Pape Grégoire VII"
+    ],
+    "question": "Quel pape médiéval a excommunié l'empereur Henri IV lors de la querelle des Investitures, un conflit sur le pouvoir de nomination ecclésiastique?"
+  },
+  {
+    "correctAnswer": "Les Hittites",
+    "id": 85662722731731800,
+    "options": [
+      "Les Akkadiens",
+      "Les Sumeriens",
+      "Les Assyriens",
+      "Les Hittites"
+    ],
+    "question": "Quel peuple de l'Antiquité, centré en Anatolie, est connu pour avoir établi un empire puissant et avoir combattu les Égyptiens à la bataille de Qadesh?"
+  },
+  {
+    "correctAnswer": "La période Edo",
+    "id": 86773822741731800,
+    "options": [
+      "La période Heian",
+      "La période Kamakura",
+      "La période Muromachi",
+      "La période Edo"
+    ],
+    "question": "Durant quelle période de l'histoire japonaise le shogunat Tokugawa a-t-il exercé un pouvoir centralisé depuis Edo (l'actuelle Tokyo)?"
+  },
+  {
+    "correctAnswer": "Les Guerres de Religion",
+    "id": 87884922751731800,
+    "options": [
+      "Les Guerres d'Italie",
+      "Les Guerres de Religion",
+      "La Guerre de la Ligue d'Augsbourg",
+      "La Guerre de Trente Ans"
+    ],
+    "question": "Quelles guerres civiles en France au 16ème siècle ont vu des affrontements majeurs entre catholiques et protestants huguenots?"
+  },
+  {
+    "correctAnswer": "Boudicca",
+    "id": 88995022761731800,
+    "options": [
+      "Vercingétorix",
+      "Arminius",
+      "Spartacus",
+      "Boudicca"
+    ],
+    "question": "Quelle reine guerrière des Iceni a mené une révolte majeure contre la domination romaine en Bretagne au 1er siècle après J.-C.?"
+  },
+  {
+    "correctAnswer": "L'Empire Ghaznévide",
+    "id": 90106122771731800,
+    "options": [
+      "L'Empire Ottomane",
+      "L'Empire Safavide",
+      "L'Empire Ghaznévide",
+      "L'Empire Maurya"
+    ],
+    "question": "Quel empire musulman, centré autour de l'actuel Afghanistan, a été un puissant royaume durant le 10ème et 11ème siècle, et est connu pour ses conquêtes en Inde du Nord?"
+  },
+  {
+    "correctAnswer": "Périclès",
+    "id": 91217233781731800,
+    "options": [
+      "Solon",
+      "Clisthène",
+      "Démocrite",
+      "Périclès"
+    ],
+    "question": "Quel homme d'État athénien du 5ème siècle av. J.-C. est souvent associé à l'apogée de la démocratie athénienne et à la construction du Parthénon?"
+  },
+  {
+    "correctAnswer": "Le Code d'Hammurabi",
+    "id": 92328333791731800,
+    "options": [
+      "Le Code d'Hammurabi",
+      "Le Code de Manu",
+      "Les Lois de Solon",
+      "Le Code Justinien"
+    ],
+    "question": "Quel ensemble de lois anciennes provenant de Babylone est l'un des plus anciens et des plus complets jamais découverts?"
+  },
+  {
+    "correctAnswer": "Les Phéniciens",
+    "id": 93439433801731800,
+    "options": [
+      "Les Hittites",
+      "Les Assyriens",
+      "Les Akkadiens",
+      "Les Phéniciens"
+    ],
+    "question": "Quel peuple antique est célèbre pour son alphabet et ses compétences en navigation, établissant des colonies telles que Carthage?"
+  },
+  {
+    "correctAnswer": "La Bataille de Marathon",
+    "id": 94540513811731800,
+    "options": [
+      "La Bataille de Thermopyles",
+      "La Bataille de Salamine",
+      "La Bataille de Platea",
+      "La Bataille de Marathon"
+    ],
+    "question": "Dans quelle bataille de 490 av. J.-C. les Athéniens ont-ils repoussé une invasion perse?"
+  },
+  {
+    "correctAnswer": "Cyrus le Grand",
+    "id": 95651623821731800,
+    "options": [
+      "Darius I",
+      "Xerxès I",
+      "Artaxerxès I",
+      "Cyrus le Grand"
+    ],
+    "question": "Quel fondateur de l'Empire achéménide est connu pour avoir créé un vaste empire qui s'étendait de l'Indus à la mer Égée?"
+  },
+  {
+    "correctAnswer": "Alexandrie",
+    "id": 96762723831731800,
+    "options": [
+      "Carthage",
+      "Rome",
+      "Babylone",
+      "Alexandrie"
+    ],
+    "question": "Quelle ville antique, fondée par Alexandre le Grand, est devenue un centre majeur de la culture et de la science hellénistique, abritant la célèbre bibliothèque?"
+  },
+  {
+    "correctAnswer": "Le Siècle d'or d'Athènes",
+    "id": 97873823841731800,
+    "options": [
+      "L'âge du bronze mycénien",
+      "La période archaïque",
+      "Le Siècle d'or d'Athènes",
+      "La période hellénistique"
+    ],
+    "question": "Comment appelle-t-on la période de l'histoire athénienne au 5ème siècle av. J.-C., marquée par des réalisations artistiques et intellectuelles majeures?"
+  },
+  {
+    "correctAnswer": "Les Carthaginois",
+    "id": 98984923851731800,
+    "options": [
+      "Les Étrusques",
+      "Les Romains",
+      "Les Samnites",
+      "Les Carthaginois"
+    ],
+    "question": "Quel peuple a affronté Rome lors des Guerres puniques, avec des généraux célèbres comme Hannibal?"
+  },
+  {
+    "correctAnswer": "Confucius",
+    "id": 100095023861731800,
+    "options": [
+      "Laozi",
+      "Sun Tzu",
+      "Confucius",
+      "Mencius"
+    ],
+    "question": "Quel philosophe chinois, actif au 5ème siècle av. J.-C., est le fondateur d'une école de pensée qui a profondément influencé la culture et la gouvernance chinoises?"
+  },
+  {
+    "correctAnswer": "Le Colosse de Rhodes",
+    "id": 101120623871731800,
+    "options": [
+      "Le Temple d'Artemis à Éphèse",
+      "La Statue de Zeus à Olympie",
+      "Le Colosse de Rhodes",
+      "Le Phare d'Alexandrie"
+    ],
+    "question": "Laquelle des Sept Merveilles du monde antique était une énorme statue représentant le dieu Hélios, érigée sur l'île de Rhodes?"
+  },
+  {
+    "correctAnswer": "Ptolémée",
+    "id": 102132623881731820,
+    "options": [
+      "Archimède",
+      "Eratosthène",
+      "Ptolémée",
+      "Pythagore"
+    ],
+    "question": "Quel astronome et géographe antique est connu pour son modèle géocentrique de l'univers, qui a prévalu pendant près de 1500 ans?"
+  },
+  {
+    "correctAnswer": "Les Minoens",
+    "id": 103143623891731820,
+    "options": [
+      "Les Doriques",
+      "Les Ioniques",
+      "Les Éoliens",
+      "Les Minoens"
+    ],
+    "question": "Quelle ancienne civilisation est associée au palais de Knossos sur l'île de Crète?"
+  },
+  {
+    "correctAnswer": "Le Forum romain",
+    "id": 104154623901731820,
+    "options": [
+      "Le Colisée",
+      "Le Circus Maximus",
+      "Le Panthéon",
+      "Le Forum romain"
+    ],
+    "question": "Quel était le centre de la vie publique à Rome, servant de lieu pour les activités politiques, commerciales et judiciaires?"
+  },
+  {
+    "correctAnswer": "Le satrape",
+    "id": 105165623911731820,
+    "options": [
+      "Le préteur",
+      "Le pharaon",
+      "Le shogun",
+      "Le satrape"
+    ],
+    "question": "Dans l'Empire achéménide, comment était appelé le gouverneur d'une province?"
+  },
+  {
+    "correctAnswer": "Les Néandertaliens",
+    "id": 106176734021731820,
+    "options": [
+      "Les Denisoviens",
+      "Les Homo erectus",
+      "Les Homo sapiens",
+      "Les Néandertaliens"
+    ],
+    "question": "Quelle espèce d'hominidé, disparue il y a environ 40 000 ans, a vécu en Europe et en Asie et est la plus proche parente connue de l'Homo sapiens?"
+  },
+  {
+    "correctAnswer": "L'agriculture",
+    "id": 107187734031731820,
+    "options": [
+      "La métallurgie",
+      "L'écriture",
+      "L'agriculture",
+      "La poterie"
+    ],
+    "question": "Quelle innovation majeure a marqué le passage du Paléolithique au Néolithique et a entraîné la sédentarisation des populations?"
+  },
+  {
+    "correctAnswer": "Les sumériens",
+    "id": 108198734041731820,
+    "options": [
+      "Les akkadiens",
+      "Les babyloniens",
+      "Les assyriens",
+      "Les sumériens"
+    ],
+    "question": "Quel peuple de la Mésopotamie antique est crédité de la création de l'une des premières formes d'écriture, le cunéiforme?"
+  },
+  {
+    "correctAnswer": "Le Nil",
+    "id": 109209734051731820,
+    "options": [
+      "Le Tigre",
+      "L'Euphrate",
+      "Le Gange",
+      "Le Nil"
+    ],
+    "question": "Quelle rivière a joué un rôle central dans le développement de la civilisation égyptienne antique, fournissant de l'eau, des nutriments et un moyen de transport?"
+  },
+  {
+    "correctAnswer": "Les pyramides de Gizeh",
+    "id": 110220734061731820,
+    "options": [
+      "Le temple de Karnak",
+      "Le temple d'Abou Simbel",
+      "Les pyramides de Gizeh",
+      "La Vallée des Rois"
+    ],
+    "question": "Quel ensemble monumental près du Caire comprend la pyramide de Khéops, l'une des Sept Merveilles du monde antique?"
+  },
+  {
+    "correctAnswer": "Les chasseurs-cueilleurs",
+    "id": 111231734071731820,
+    "options": [
+      "Les agriculteurs",
+      "Les artisans",
+      "Les marchands",
+      "Les chasseurs-cueilleurs"
+    ],
+    "question": "Avant la révolution agricole, comment étaient principalement organisées les sociétés humaines en termes de subsistance?"
+  },
+  {
+    "correctAnswer": "L'Ur",
+    "id": 112242734081731820,
+    "options": [
+      "Babylone",
+      "Ninive",
+      "Akkad",
+      "L'Ur"
+    ],
+    "question": "Quelle ancienne cité-État sumérienne, située près de l'actuel Nasiriyah en Irak, était un important centre religieux et commercial?"
+  },
+  {
+    "correctAnswer": "Le disque solaire d'Aton",
+    "id": 113253734091731820,
+    "options": [
+      "Le disque solaire d'Aton",
+      "Le scarabée de Rê",
+      "L'œil d'Horus",
+      "L'ankh de vie"
+    ],
+    "question": "Sous le règne du pharaon Akhenaton, quel symbole est devenu central dans la religion égyptienne lors de sa tentative de monothéisme?"
+  },
+  {
+    "correctAnswer": "Les mégalithes",
+    "id": 114264734101731820,
+    "options": [
+      "Les ziggourats",
+      "Les mastabas",
+      "Les obélisques",
+      "Les mégalithes"
+    ],
+    "question": "Comment appelle-t-on les grandes structures en pierre, comme Stonehenge en Angleterre, construites pendant la préhistoire?"
+  },
+  {
+    "correctAnswer": "Le bronze",
+    "id": 115275734111731820,
+    "options": [
+      "L'acier",
+      "Le fer",
+      "L'or",
+      "Le bronze"
+    ],
+    "question": "L'alliage de cuivre et d'étain, largement utilisé dans l'Antiquité pour la fabrication d'armes, d'outils et d'objets d'art, est connu sous quel nom?"
+  },
+  {
+    "correctAnswer": "Les Hittites",
+    "id": 116286734121731820,
+    "options": [
+      "Les Amorites",
+      "Les Kassites",
+      "Les Hittites",
+      "Les Mittani"
+    ],
+    "question": "Quel peuple, originaire de l'Anatolie, est devenu un rival majeur de l'Égypte antique et a signé avec elle le premier traité de paix connu de l'histoire après la bataille de Qadesh?"
+  },
+  {
+    "correctAnswer": "Les Hyksos",
+    "id": 117297734131731840,
+    "options": [
+      "Les Nubiens",
+      "Les Hyksos",
+      "Les Libyens",
+      "Les Hébreux"
+    ],
+    "question": "Quel peuple asiatique a envahi et régné sur une partie de l'Égypte pendant la Deuxième Période intermédiaire, introduisant notamment le chariot?"
+  },
+  {
+    "correctAnswer": "Les tablettes cunéiformes",
+    "id": 118308844241731840,
+    "options": [
+      "Les hiéroglyphes",
+      "Les rouleaux de papyrus",
+      "Les tablettes cunéiformes",
+      "Les manuscrits enluminés"
+    ],
+    "question": "Quel était le principal support d'écriture utilisé par les Sumériens pour enregistrer des transactions, des lois et des récits?"
+  },
+  {
+    "correctAnswer": "La ville d'Uruk",
+    "id": 119319844251731840,
+    "options": [
+      "La ville de Mohenjo-Daro",
+      "La ville de Memphis",
+      "La ville d'Uruk",
+      "La ville de Teotihuacan"
+    ],
+    "question": "Quelle ancienne cité mésopotamienne est souvent considérée comme l'une des plus anciennes villes du monde, célèbre pour ses murs massifs et sa ziggourat?"
+  },
+  {
+    "correctAnswer": "Le calendrier maya",
+    "id": 120330844261731840,
+    "options": [
+      "Le calendrier julien",
+      "Le calendrier lunaire chinois",
+      "Le calendrier égyptien",
+      "Le calendrier maya"
+    ],
+    "question": "Quel calendrier antique est connu pour sa précision astronomique et a été au cœur de nombreuses spéculations concernant la fin du monde en 2012?"
+  },
+  {
+    "correctAnswer": "La vallée de l'Indus",
+    "id": 121341844271731840,
+    "options": [
+      "La vallée du Nil",
+      "La vallée de l'Euphrate",
+      "La vallée du Yangtsé",
+      "La vallée de l'Indus"
+    ],
+    "question": "Dans quelle région géographique se trouvent les ruines des anciennes cités de Harappa et Mohenjo-Daro, centres d'une civilisation antique florissante?"
+  },
+  {
+    "correctAnswer": "Les druides",
+    "id": 122352844281731840,
+    "options": [
+      "Les vestales",
+      "Les magi",
+      "Les druides",
+      "Les shamans"
+    ],
+    "question": "Quels prêtres et savants celtiques étaient responsables de la transmission orale de la connaissance, notamment dans les domaines de la philosophie, de l'astronomie et de la théologie?"
+  },
+  {
+    "correctAnswer": "Le lapis-lazuli",
+    "id": 123363844291731840,
+    "options": [
+      "Le jade",
+      "L'obsidienne",
+      "Le lapis-lazuli",
+      "L'ambre"
+    ],
+    "question": "Quelle pierre semi-précieuse, d'un bleu profond et souvent utilisée dans l'art sumérien, était importée de régions éloignées comme l'actuel Afghanistan?"
+  },
+  {
+    "correctAnswer": "Le culte d'Amon-Rê",
+    "id": 124374844301731840,
+    "options": [
+      "Le culte d'Osiris",
+      "Le culte d'Amon-Rê",
+      "Le culte d'Aten",
+      "Le culte de Ptah"
+    ],
+    "question": "Quel culte religieux, centré autour du dieu du soleil, est devenu prédominant à Thèbes et a été intégré à la royauté égyptienne?"
+  },
+  {
+    "correctAnswer": "La poterie linéaire",
+    "id": 125385844311731840,
+    "options": [
+      "La poterie campaniforme",
+      "La poterie cordée",
+      "La poterie linéaire",
+      "La poterie à motifs géométriques"
+    ],
+    "question": "Quel style de poterie est associé aux premières communautés agricoles de l'Europe néolithique, caractérisé par des motifs incisés?"
+  },
+  {
+    "correctAnswer": "Les fresques de Théra",
+    "id": 126396844321731840,
+    "options": [
+      "Les fresques de Knossos",
+      "Les fresques de Théra",
+      "Les fresques d'Akrotiri",
+      "Les fresques de Mycènes"
+    ],
+    "question": "Quelles œuvres d'art minoen, découvertes sur l'île de Santorin, dépeignent des scènes de la vie quotidienne, des animaux et des rituels?"
+  },
+  {
+    "correctAnswer": "Les pétroglyphes",
+    "id": 127407844331731840,
+    "options": [
+      "Les hiéroglyphes",
+      "Les idéogrammes",
+      "Les pétroglyphes",
+      "Les glyphes"
+    ],
+    "question": "Comment appelle-t-on les gravures ou dessins créés par l'enlèvement de la surface d'une roche, souvent réalisés par des cultures préhistoriques?"
+  },
+  {
+    "correctAnswer": "Le cercle d'Avebury",
+    "id": 128418954441731840,
+    "options": [
+      "Le cercle de Stonehenge",
+      "Le cercle de Brodgar",
+      "Le cercle de Callanish",
+      "Le cercle d'Avebury"
+    ],
+    "question": "Quel monument mégalithique en Angleterre est le plus grand cercle de pierres préhistorique d'Europe?"
+  },
+  {
+    "correctAnswer": "Le royaume de Kush",
+    "id": 129429954451731840,
+    "options": [
+      "Le royaume d'Aksoum",
+      "Le royaume de Pount",
+      "Le royaume de Kush",
+      "Le royaume de Meroe"
+    ],
+    "question": "Quel ancien royaume africain, centré autour de Napata et plus tard Meroe, était à la fois un allié et un rival de l'Égypte ancienne?"
+  },
+  {
+    "correctAnswer": "Les Olmèques",
+    "id": 130440954461731840,
+    "options": [
+      "Les Mayas",
+      "Les Aztèques",
+      "Les Incas",
+      "Les Olmèques"
+    ],
+    "question": "Quelle est la plus ancienne civilisation majeure reconnue en Mesoamérique, célèbre pour ses imposantes têtes de pierre?"
+  },
+  {
+    "correctAnswer": "Les Scythes",
+    "id": 131451954471731840,
+    "options": [
+      "Les Parthes",
+      "Les Huns",
+      "Les Sarmates",
+      "Les Scythes"
+    ],
+    "question": "Quel peuple nomade, qui vivait dans les steppes de l'Eurasie, est connu pour sa maîtrise de l'archerie à cheval?"
+  },
+  {
+    "correctAnswer": "Les dolmens",
+    "id": 132462954481731840,
+    "options": [
+      "Les menhirs",
+      "Les cromlechs",
+      "Les dolmens",
+      "Les tumulus"
+    ],
+    "question": "Quels monuments mégalithiques préhistoriques sont caractérisés par une ou plusieurs grosses pierres plates soutenues par des pierres verticales?"
+  },
+  {
+    "correctAnswer": "Le Code de Manu",
+    "id": 133473954491731840,
+    "options": [
+      "Le Rigveda",
+      "Le Code d'Hammurabi",
+      "Le Code de Manu",
+      "Les Lois de Solon"
+    ],
+    "question": "Quel ancien texte législatif hindou fournit des directives détaillées sur la conduite sociale et morale?"
+  },
+  {
+    "correctAnswer": "Les Cyclades",
+    "id": 134484954501731860,
+    "options": [
+      "Les Doriens",
+      "Les Mycéniens",
+      "Les Cyclades",
+      "Les Minoens"
+    ],
+    "question": "Quelle culture préhistorique de la mer Égée est célèbre pour ses idoles de marbre, souvent représentant des figures féminines?"
+  },
+  {
+    "correctAnswer": "L'oracle de Delphes",
+    "id": 135495954511731860,
+    "options": [
+      "L'oracle d'Ammon",
+      "L'oracle de Dodone",
+      "L'oracle d'Éphèse",
+      "L'oracle de Delphes"
+    ],
+    "question": "Quel sanctuaire religieux grec était dédié au dieu Apollon et était célèbre pour ses prophéties?"
+  },
+  {
+    "correctAnswer": "Les Perséides",
+    "id": 136506954521731860,
+    "options": [
+      "Les Séleucides",
+      "Les Antigonides",
+      "Les Ptolémées",
+      "Les Perséides"
+    ],
+    "question": "Quelle dynastie a régné sur le royaume antique de Macédoine après l'assassinat d'Alexandre le Grand?"
+  },
+  {
+    "correctAnswer": "Le taureau",
+    "id": 137517954531731860,
+    "options": [
+      "Le faucon",
+      "Le lion",
+      "Le taureau",
+      "Le serpent"
+    ],
+    "question": "Dans la religion mésopotamienne, quel animal était souvent associé au dieu de l'orage Adad et représentait la force et la fertilité?"
+  },
+  {
+    "correctAnswer": "Vasco de Gama",
+    "id": 138528064641731860,
+    "options": [
+      "Christophe Colomb",
+      "Ferdinand Magellan",
+      "Jacques Cartier",
+      "Vasco de Gama"
+    ],
+    "question": "Quel explorateur a été le premier à naviguer directement de l'Europe à l'Inde en contournant le Cap de Bonne-Espérance en 1498?"
+  },
+  {
+    "correctAnswer": "Charlemagne",
+    "id": 139539064651731860,
+    "options": [
+      "Louis le Pieux",
+      "Charles Martel",
+      "Henri Ier",
+      "Charlemagne"
+    ],
+    "question": "Quel roi des Francs a été couronné empereur du Saint-Empire romain germanique en l'an 800?"
+  },
+  {
+    "correctAnswer": "La guillotine",
+    "id": 140550064661731860,
+    "options": [
+      "La potence",
+      "Le garrot",
+      "La guillotine",
+      "La chaise électrique"
+    ],
+    "question": "Quel instrument de mise à mort est devenu le symbole de la Terreur pendant la Révolution française?"
+  },
+  {
+    "correctAnswer": "Le traité de Tordesillas",
+    "id": 141561064671731860,
+    "options": [
+      "Le traité de Verdun",
+      "Le traité de Westphalie",
+      "Le traité de Tordesillas",
+      "Le traité d'Utrecht"
+    ],
+    "question": "Quel accord, signé en 1494, a divisé le Nouveau Monde entre l'Espagne et le Portugal?"
+  },
+  {
+    "correctAnswer": "Les Khmers",
+    "id": 142572064681731860,
+    "options": [
+      "Les Mongols",
+      "Les Maures",
+      "Les Khmers",
+      "Les Hittites"
+    ],
+    "question": "Quel peuple est responsable de la construction du temple d'Angkor Vat au Cambodge au 12ème siècle?"
+  },
+  {
+    "correctAnswer": "L'Impressionnisme",
+    "id": 143583064691731860,
+    "options": [
+      "Le Romantisme",
+      "Le Cubisme",
+      "Le Baroque",
+      "L'Impressionnisme"
+    ],
+    "question": "Quel mouvement artistique, ayant émergé à la fin du 19ème siècle, est associé à des artistes comme Claude Monet et Pierre-Auguste Renoir?"
+  },
+  {
+    "correctAnswer": "L'Édit de Milan",
+    "id": 144594064701731870,
+    "options": [
+      "L'Édit de Nantes",
+      "L'Édit de Worms",
+      "L'Édit de Thessalonique",
+      "L'Édit de Milan"
+    ],
+    "question": "Quel décret, proclamé par l'empereur romain Constantin en 313, a accordé la liberté de culte aux chrétiens?"
+  },
+  {
+    "correctAnswer": "La guerre de Cent Ans",
+    "id": 145605064711731870,
+    "options": [
+      "La guerre de Sept Ans",
+      "La guerre de Trente Ans",
+      "La guerre des Roses",
+      "La guerre de Cent Ans"
+    ],
+    "question": "Quel conflit prolongé s'est déroulé entre l'Angleterre et la France, débutant en 1337 et se terminant en 1453?"
+  },
+  {
+    "correctAnswer": "La Bataille de Waterloo",
+    "id": 146616064721731870,
+    "options": [
+      "La Bataille de Trafalgar",
+      "La Bataille d'Austerlitz",
+      "La Bataille de Jena",
+      "La Bataille de Waterloo"
+    ],
+    "question": "Lors de quelle bataille Napoléon Bonaparte a-t-il été définitivement défait en 1815?"
+  },
+  {
+    "correctAnswer": "La Renaissance",
+    "id": 147627064731731870,
+    "options": [
+      "L'Âge des Lumières",
+      "Le Moyen Âge",
+      "La Renaissance",
+      "L'Antiquité classique"
+    ],
+    "question": "Quelle période historique, débutant au 14ème siècle en Italie, est connue pour son renouveau des arts, de la science et de la littérature, s'inspirant de l'Antiquité?"
+  },
+  {
+    "correctAnswer": "Les Bogomiles",
+    "id": 148638174841731870,
+    "options": [
+      "Les Cathares",
+      "Les Hussites",
+      "Les Albigenses",
+      "Les Bogomiles"
+    ],
+    "question": "Quel mouvement religieux médiéval, originaire des Balkans, prônait un dualisme chrétien et a influencé d'autres hérésies en Europe?"
+  },
+  {
+    "correctAnswer": "La Route de l'ambre",
+    "id": 149649174851731870,
+    "options": [
+      "La Route de l'encens",
+      "La Route de la soie",
+      "La Route de l'or",
+      "La Route de l'ambre"
+    ],
+    "question": "Quelle ancienne route commerciale reliait la mer du Nord à la mer Méditerranée, principalement utilisée pour le transport de l'ambre?"
+  },
+  {
+    "correctAnswer": "Les Taïnos",
+    "id": 150660174861731870,
+    "options": [
+      "Les Aztèques",
+      "Les Incas",
+      "Les Mayas",
+      "Les Taïnos"
+    ],
+    "question": "Quel peuple indigène habitait principalement les Antilles lors de l'arrivée de Christophe Colomb en 1492?"
+  },
+  {
+    "correctAnswer": "Le Consulat",
+    "id": 151671174871731870,
+    "options": [
+      "La Commune",
+      "Le Directoire",
+      "Le Consulat",
+      "L'Empire"
+    ],
+    "question": "Quelle phase de la Révolution française a suivi le Directoire et précédé l'établissement de l'Empire napoléonien?"
+  },
+  {
+    "correctAnswer": "La Bataille de Carrhes",
+    "id": 152682174881731870,
+    "options": [
+      "La Bataille de Pharsale",
+      "La Bataille d'Actium",
+      "La Bataille de Carrhes",
+      "La Bataille de Zama"
+    ],
+    "question": "Lors de quelle bataille en 53 av. J.-C. une armée romaine dirigée par Crassus a-t-elle subi une défaite majeure face aux Parthes?"
+  },
+  {
+    "correctAnswer": "La Confédération Iroquoise",
+    "id": 153693174891731870,
+    "options": [
+      "La Confédération Sioux",
+      "La Confédération Algonquienne",
+      "La Confédération Apache",
+      "La Confédération Iroquoise"
+    ],
+    "question": "Quelle alliance de tribus amérindiennes, souvent appelée les « Cinq Nations », a joué un rôle influent dans les relations coloniales en Amérique du Nord?"
+  },
+  {
+    "correctAnswer": "Le Mandén Kurufaba",
+    "id": 154704174901731870,
+    "options": [
+      "Le Royaume de Kongo",
+      "L'Empire du Mali",
+      "Le Royaume d'Aksoum",
+      "Le Mandén Kurufaba"
+    ],
+    "question": "Sous quel autre nom est plus communément connu l'Empire du Mali, établi par Sundjata Keïta au 13ème siècle?"
+  },
+  {
+    "correctAnswer": "Les Janissaires",
+    "id": 155715174911731870,
+    "options": [
+      "Les Mamelouks",
+      "Les Ghazis",
+      "Les Samouraïs",
+      "Les Janissaires"
+    ],
+    "question": "Quelle élite militaire, formée principalement de chrétiens convertis à l'islam, a servi comme infanterie d'élite dans l'Empire ottoman?"
+  },
+  {
+    "correctAnswer": "La dynastie Sui",
+    "id": 156726174921731870,
+    "options": [
+      "La dynastie Han",
+      "La dynastie Tang",
+      "La dynastie Yuan",
+      "La dynastie Sui"
+    ],
+    "question": "Quelle courte mais influente dynastie chinoise (581-618 ap. J.-C.) a précédé la période florissante de la dynastie Tang?"
+  },
+  {
+    "correctAnswer": "Les Hussites",
+    "id": 157737174931731870,
+    "options": [
+      "Les Lollards",
+      "Les Albigeois",
+      "Les Valdois",
+      "Les Hussites"
+    ],
+    "question": "Quel mouvement religieux, centré autour des enseignements de Jan Hus, a défié l'autorité de l'Église catholique dans le royaume de Bohême au 15ème siècle?"
+  },
+  {
+    "correctAnswer": "La Bataille de Lépante",
+    "id": 158748285041731870,
+    "options": [
+      "La Bataille de Trafalgar",
+      "La Bataille de Lépante",
+      "La Bataille de Salamine",
+      "La Bataille d'Actium"
+    ],
+    "question": "Quelle bataille navale de 1571 a vu une coalition chrétienne menée par la Sainte Ligue défaire la flotte ottomane, marquant un tournant dans la lutte pour la Méditerranée?"
+  },
+  {
+    "correctAnswer": "Le Groupe de Bloomsbury",
+    "id": 159759285051731870,
+    "options": [
+      "Les Préraphaélites",
+      "Les Dadaïstes",
+      "Les Fauvistes",
+      "Le Groupe de Bloomsbury"
+    ],
+    "question": "Quel cercle littéraire et artistique du début du 20ème siècle, basé à Londres, comprenait des membres tels que Virginia Woolf et E.M. Forster?"
+  },
+  {
+    "correctAnswer": "Les Illyriens",
+    "id": 160770285061731870,
+    "options": [
+      "Les Thraces",
+      "Les Daces",
+      "Les Illyriens",
+      "Les Scythes"
+    ],
+    "question": "Quel groupe de tribus anciennes habitait principalement la région des Balkans occidentaux, correspondant en grande partie à l'actuelle Albanie, Croatie et Bosnie?"
+  },
+  {
+    "correctAnswer": "La guerre de l'Opium",
+    "id": 161781285071731870,
+    "options": [
+      "La guerre du Sel",
+      "La guerre des Boers",
+      "La guerre de l'Opium",
+      "La guerre du Péloponnèse"
+    ],
+    "question": "Quel conflit militaire entre la Chine Qing et le Royaume-Uni au 19ème siècle était en grande partie centré sur les désaccords commerciaux et la question du commerce de l'opium?"
+  },
+  {
+    "correctAnswer": "Les Gracques",
+    "id": 162792285081731870,
+    "options": [
+      "Les Scipions",
+      "Les Jules",
+      "Les Gracques",
+      "Les Antonins"
+    ],
+    "question": "Quels frères, réformateurs de la République romaine, ont cherché à redistribuer les terres pour aider les pauvres, mais ont tous deux été assassinés en raison de leurs efforts?"
+  },
+  {
+    "correctAnswer": "L'École de Francfort",
+    "id": 163803285091731870,
+    "options": [
+      "L'École de Vienne",
+      "L'École de Paris",
+      "L'École de Prague",
+      "L'École de Francfort"
+    ],
+    "question": "Quel groupe de penseurs sociaux et philosophes, comprenant des figures telles que Theodor Adorno et Max Horkheimer, est associé à la théorie critique et à l'analyse de la culture de masse?"
+  },
+  {
+    "correctAnswer": "Les Mississipiens",
+    "id": 164814285101731870,
+    "options": [
+      "Les Hopis",
+      "Les Mississipiens",
+      "Les Anasazis",
+      "Les Iroquois"
+    ],
+    "question": "Quelle culture précolombienne d'Amérique du Nord est connue pour avoir construit des monticules impressionnants, dont le plus célèbre est le monticule de Cahokia?"
+  },
+  {
+    "correctAnswer": "Le khâgne",
+    "id": 165825285111731870,
+    "options": [
+      "Le trivium",
+      "Le quadrivium",
+      "Le septenium",
+      "Le khâgne"
+    ],
+    "question": "Quel terme est utilisé en France pour désigner la deuxième année de classes préparatoires littéraires, axée sur la préparation aux concours des Écoles normales supérieures?"
+  },
+  {
+    "correctAnswer": "La Société des Nations",
+    "id": 166836285121731870,
+    "options": [
+      "La Ligue Hanseatique",
+      "La Société des Nations",
+      "L'Organisation des États américains",
+      "Le Commonwealth"
+    ],
+    "question": "Quelle organisation internationale, fondée après la Première Guerre mondiale avec pour but de prévenir les conflits futurs, est considérée comme un précurseur de l'Organisation des Nations Unies?"
+  },
+  {
+    "correctAnswer": "Les Philistins",
+    "id": 167847285131731870,
+    "options": [
+      "Les Cananéens",
+      "Les Hittites",
+      "Les Philistins",
+      "Les Amorrites"
+    ],
+    "question": "Quel peuple de l'Antiquité, souvent en conflit avec les Israélites selon la Bible, a vécu dans les cités-États de la côte est de la Méditerranée, notamment Gaza et Ashdod?"
   }
 ]

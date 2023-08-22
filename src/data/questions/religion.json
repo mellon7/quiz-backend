@@ -328,5 +328,1743 @@
       "L'Hindouisme"
     ],
     "question": "Quelle religion a pour symbole principal l'étoile de David ?"
+  },
+  {
+    "correctAnswer": "Siddhartha Gautama",
+    "id": 1234567890123453,
+    "options": [
+      "Ashoka",
+      "Siddhartha Gautama",
+      "Dalai Lama",
+      "Swami Vivekananda"
+    ],
+    "question": "Qui est communément reconnu comme le fondateur du bouddhisme?"
+  },
+  {
+    "correctAnswer": "Martin Luther",
+    "id": 1234567890123454,
+    "options": [
+      "Jean Calvin",
+      "John Wesley",
+      "Martin Luther",
+      "Thomas d'Aquin"
+    ],
+    "question": "Qui a initié la Réforme protestante au 16ème siècle?"
+  },
+  {
+    "correctAnswer": "Le Manichéisme",
+    "id": 1234567890123455,
+    "options": [
+      "Le Shintoïsme",
+      "Le Taoïsme",
+      "Le Zoroastrisme",
+      "Le Manichéisme"
+    ],
+    "question": "Quelle religion antique combine des éléments du bouddhisme, du zoroastrisme et du christianisme?"
+  },
+  {
+    "correctAnswer": "Vishnu",
+    "id": 1234567890123456,
+    "options": [
+      "Brahma",
+      "Shiva",
+      "Vishnu",
+      "Kali"
+    ],
+    "question": "Quelle divinité hindoue est souvent représentée en préservant l'univers?"
+  },
+  {
+    "correctAnswer": "L'Exode",
+    "id": 1234567890123457,
+    "options": [
+      "Le Lévitique",
+      "Les Nombres",
+      "La Genèse",
+      "L'Exode"
+    ],
+    "question": "Quel livre de la Bible raconte la fuite des Israélites d'Égypte sous la direction de Moïse?"
+  },
+  {
+    "correctAnswer": "L'Eden",
+    "id": 1234567890123458,
+    "options": [
+      "Le Mont Sinaï",
+      "La Terre Promise",
+      "Bethléem",
+      "L'Eden"
+    ],
+    "question": "Dans quel jardin biblique Adam et Ève vivaient-ils à l'origine?"
+  },
+  {
+    "correctAnswer": "Les Jésuites",
+    "id": 1234567890123459,
+    "options": [
+      "Les Dominicains",
+      "Les Franciscains",
+      "Les Bénédictins",
+      "Les Jésuites"
+    ],
+    "question": "Quel ordre religieux a été fondé par Ignace de Loyola?"
+  },
+  {
+    "correctAnswer": "L'Avesta",
+    "id": 1234567890123460,
+    "options": [
+      "Le Tripitaka",
+      "L'Upanishad",
+      "L'Avesta",
+      "Le Rigveda"
+    ],
+    "question": "Quel est le texte sacré du zoroastrisme?"
+  },
+  {
+    "correctAnswer": "Mithra",
+    "id": 1234567890123461,
+    "options": [
+      "Osiris",
+      "Mithra",
+      "Horus",
+      "Anubis"
+    ],
+    "question": "Quelle divinité a été vénérée dans un culte mystérieux populaire dans l'Empire romain avant l'ascension du christianisme?"
+  },
+  {
+    "correctAnswer": "La Kaaba",
+    "id": 1234567890123462,
+    "options": [
+      "La Masjid al-Nabawi",
+      "La Mosquée bleue",
+      "La Mosquée d'Al-Aqsa",
+      "La Kaaba"
+    ],
+    "question": "Quel est le nom du cube noir situé à La Mecque, le site le plus sacré de l'islam?"
+  },
+  {
+    "correctAnswer": "L'Apocalypse",
+    "id": 1234567890123463,
+    "options": [
+      "Les Actes des Apôtres",
+      "L'Évangile selon Jean",
+      "L'Apocalypse",
+      "L'Épître aux Romains"
+    ],
+    "question": "Quel livre du Nouveau Testament décrit la fin des temps et la victoire finale du bien sur le mal?"
+  },
+  {
+    "correctAnswer": "Le Vajrayana",
+    "id": 1234567890123464,
+    "options": [
+      "Le Theravada",
+      "Le Mahayana",
+      "Le Vajrayana",
+      "Le Zen"
+    ],
+    "question": "Quelle branche du bouddhisme est souvent associée au Tibet et met l'accent sur les rituels et les tantras?"
+  },
+  {
+    "correctAnswer": "L'Om",
+    "id": 1234567890123465,
+    "options": [
+      "Le Yin et le Yang",
+      "Le Swastika",
+      "L'Om",
+      "Le Khanda"
+    ],
+    "question": "Quel symbole sacré est souvent récité ou chanté dans les mantras hindous et bouddhistes?"
+  },
+  {
+    "correctAnswer": "Arya Samaj",
+    "id": 1234567890123466,
+    "options": [
+      "Brahmo Samaj",
+      "Ravidassia",
+      "Arya Samaj",
+      "Lingayat"
+    ],
+    "question": "Quel mouvement réformiste hindou a été fondé par Swami Dayananda Saraswati au 19ème siècle?"
+  },
+  {
+    "correctAnswer": "Thérèse d'Avila",
+    "id": 1234567890123467,
+    "options": [
+      "Hildegarde de Bingen",
+      "Thérèse d'Avila",
+      "Julienne de Norwich",
+      "Catherine de Sienne"
+    ],
+    "question": "Quelle mystique chrétienne a écrit 'Le château intérieur', décrivant sept étapes de l'union mystique avec Dieu?"
+  },
+  {
+    "correctAnswer": "Le Ramayana",
+    "id": 1234567890123468,
+    "options": [
+      "Le Mahabharata",
+      "Le Ramayana",
+      "Le Purana",
+      "Les Aranyakas"
+    ],
+    "question": "Quelle épopée hindoue raconte l'histoire du prince Rama et de sa femme Sita?"
+  },
+  {
+    "correctAnswer": "La Tripitaka",
+    "id": 1234567890123469,
+    "options": [
+      "La Sutra du Lotus",
+      "Le Dhammapada",
+      "Le Tantraloka",
+      "La Tripitaka"
+    ],
+    "question": "Quelle collection de textes est considérée comme le canon pali du bouddhisme Theravada?"
+  },
+  {
+    "correctAnswer": "Saint Augustin",
+    "id": 1234567890123470,
+    "options": [
+      "Saint Ambroise",
+      "Saint Augustin",
+      "Saint Grégoire le Grand",
+      "Saint Jérôme"
+    ],
+    "question": "Quel théologien chrétien a écrit 'Les Confessions', une autobiographie détaillant sa conversion au christianisme?"
+  },
+  {
+    "correctAnswer": "L'Église d'Angleterre",
+    "id": 2234567890123471,
+    "options": [
+      "L'Église catholique",
+      "Les Quakers",
+      "Les Puritains",
+      "L'Église d'Angleterre"
+    ],
+    "question": "Quelle église a été fondée à la suite de la rupture de Henri VIII avec Rome?"
+  },
+  {
+    "correctAnswer": "Les Dix Commandements",
+    "id": 2234567890123472,
+    "options": [
+      "Les Béatitudes",
+      "Les Sept Péchés Capitaux",
+      "Les Dix Commandements",
+      "Les Cinq Piliers de l'Islam"
+    ],
+    "question": "Quels préceptes ont été, selon la Bible, donnés par Dieu à Moïse sur le Mont Sinaï?"
+  },
+  {
+    "correctAnswer": "La Mecque",
+    "id": 2234567890123473,
+    "options": [
+      "Medina",
+      "Jérusalem",
+      "La Mecque",
+      "Damas"
+    ],
+    "question": "Où est né le prophète Mahomet?"
+  },
+  {
+    "correctAnswer": "Les Cathares",
+    "id": 2234567890123474,
+    "options": [
+      "Les Franciscains",
+      "Les Cathares",
+      "Les Jésuites",
+      "Les Templiers"
+    ],
+    "question": "Quel groupe religieux a été persécuté et presque exterminé lors de la Croisade des Albigeois au 13ème siècle?"
+  },
+  {
+    "correctAnswer": "Le Sikhisme",
+    "id": 2234567890123475,
+    "options": [
+      "Le Jaïnisme",
+      "Le Zoroastrisme",
+      "L'Hindouisme",
+      "Le Sikhisme"
+    ],
+    "question": "Quelle religion a été fondée par Guru Nanak au 15ème siècle dans la région du Pendjab?"
+  },
+  {
+    "correctAnswer": "L'Église orthodoxe",
+    "id": 2234567890123476,
+    "options": [
+      "L'Église luthérienne",
+      "L'Église anglicane",
+      "L'Église orthodoxe",
+      "L'Église méthodiste"
+    ],
+    "question": "Quelle église est née à la suite du Schisme d'Orient en 1054?"
+  },
+  {
+    "correctAnswer": "La Transsubstantiation",
+    "id": 2234567890123477,
+    "options": [
+      "L'Immaculée Conception",
+      "La Transfiguration",
+      "La Résurrection",
+      "La Transsubstantiation"
+    ],
+    "question": "Comment appelle-t-on la transformation du pain et du vin en corps et sang du Christ lors de l'Eucharistie?"
+  },
+  {
+    "correctAnswer": "Les Upanishads",
+    "id": 2234567890123478,
+    "options": [
+      "Les Vedas",
+      "Le Ramayana",
+      "Les Upanishads",
+      "Les Puranas"
+    ],
+    "question": "Quels textes philosophiques hindous discutent de concepts tels que le Brahman et l'Atman?"
+  },
+  {
+    "correctAnswer": "Saint Paul",
+    "id": 2234567890123479,
+    "options": [
+      "Saint Pierre",
+      "Saint Jean",
+      "Saint Luc",
+      "Saint Paul"
+    ],
+    "question": "Quel apôtre est connu pour ses voyages missionnaires et ses épîtres dans le Nouveau Testament?"
+  },
+  {
+    "correctAnswer": "Le Tao Te Ching",
+    "id": 2234567890123480,
+    "options": [
+      "Le Yi Jing",
+      "Les Analectes",
+      "Le Zhuangzi",
+      "Le Tao Te Ching"
+    ],
+    "question": "Quel texte est associé à la fondation du taoïsme et est traditionnellement attribué à Lao Tseu?"
+  },
+  {
+    "correctAnswer": "Les Esséniens",
+    "id": 2234567890123481,
+    "options": [
+      "Les Pharisiens",
+      "Les Sadducéens",
+      "Les Zélotes",
+      "Les Esséniens"
+    ],
+    "question": "Quel groupe juif est associé à la rédaction des Manuscrits de la mer Morte découverts à Qumrân?"
+  },
+  {
+    "correctAnswer": "Le Hajj",
+    "id": 2234567890123482,
+    "options": [
+      "Le Zakat",
+      "Le Sawm",
+      "La Salat",
+      "Le Hajj"
+    ],
+    "question": "Quel pilier de l'islam concerne le pèlerinage à La Mecque que chaque musulman doit effectuer au moins une fois dans sa vie?"
+  },
+  {
+    "correctAnswer": "L'Apocryphe",
+    "id": 2234567890123483,
+    "options": [
+      "Le Pentateuque",
+      "L'Évangile",
+      "L'Apocryphe",
+      "Le Deutéronome"
+    ],
+    "question": "Comment appelle-t-on les livres bibliques qui ne sont pas reconnus par toutes les branches du christianisme?"
+  },
+  {
+    "correctAnswer": "Le Dharma",
+    "id": 2234567890123484,
+    "options": [
+      "Le Karma",
+      "Le Samsara",
+      "Le Dharma",
+      "Le Moksha"
+    ],
+    "question": "Dans l'hindouisme, comment appelle-t-on le devoir moral et religieux, le droit chemin?"
+  },
+  {
+    "correctAnswer": "Les Gnostiques",
+    "id": 2234567890123485,
+    "options": [
+      "Les Arians",
+      "Les Iconoclastes",
+      "Les Gnostiques",
+      "Les Monophysites"
+    ],
+    "question": "Quel groupe antique croyait en un savoir secret nécessaire pour la salvation et voyait le monde matériel comme l'œuvre d'un dieu démiurge?"
+  },
+  {
+    "correctAnswer": "Le Hadith",
+    "id": 2234567890123486,
+    "options": [
+      "Le Tafsir",
+      "La Sira",
+      "Le Hadith",
+      "Le Fiqh"
+    ],
+    "question": "Comment appelle-t-on les traditions relatives aux paroles et aux actions du prophète Mahomet?"
+  },
+  {
+    "correctAnswer": "Le Nichiren",
+    "id": 2234567890123487,
+    "options": [
+      "Le Theravada",
+      "Le Shingon",
+      "Le Zen",
+      "Le Nichiren"
+    ],
+    "question": "Quelle branche du bouddhisme se concentre principalement sur le Sutra du Lotus et a été fondée au Japon?"
+  },
+  {
+    "correctAnswer": "Le Concile de Nicée",
+    "id": 2234567890123488,
+    "options": [
+      "Le Concile de Chalcédoine",
+      "Le Concile de Trente",
+      "Le Concile de Constance",
+      "Le Concile de Nicée"
+    ],
+    "question": "Quel concile, convoqué en 325, a réfuté l'arianisme et établi le Credo nicéen?"
+  },
+  {
+    "correctAnswer": "La Kabbale",
+    "id": 2234567890123489,
+    "options": [
+      "Le Talmud",
+      "La Mishna",
+      "La Kabbale",
+      "Le Zohar"
+    ],
+    "question": "Quelle tradition mystique juive se concentre sur l'interprétation ésotérique de la Torah?"
+  },
+  {
+    "correctAnswer": "Zarathoustra",
+    "id": 3234567890123490,
+    "options": [
+      "Mani",
+      "Ashoka",
+      "Zarathoustra",
+      "Confucius"
+    ],
+    "question": "Quel prophète est associé à la fondation du zoroastrisme?"
+  },
+  {
+    "correctAnswer": "Les Sept Sacrements",
+    "id": 3234567890123491,
+    "options": [
+      "Les Cinq Piliers",
+      "Les Dix Commandements",
+      "Les Quatre Nobles Vérités",
+      "Les Sept Sacrements"
+    ],
+    "question": "Quel ensemble de rites est central dans la doctrine de l'Église catholique?"
+  },
+  {
+    "correctAnswer": "Le Shabbat",
+    "id": 3234567890123492,
+    "options": [
+      "Le Hanoukka",
+      "Le Yom Kippour",
+      "Le Pessa'h",
+      "Le Shabbat"
+    ],
+    "question": "Comment s'appelle le jour de repos hebdomadaire dans la tradition juive?"
+  },
+  {
+    "correctAnswer": "La Réforme radicale",
+    "id": 3234567890123493,
+    "options": [
+      "La Réforme anglicane",
+      "La Contre-Réforme",
+      "La Réforme radicale",
+      "La Réforme luthérienne"
+    ],
+    "question": "Quel mouvement au sein de la Réforme protestante a rejeté l'idée d'une église d'État et a promu le baptême des adultes?"
+  },
+  {
+    "correctAnswer": "Les Ahmadiyya",
+    "id": 3234567890123494,
+    "options": [
+      "Les Soufis",
+      "Les Chiites",
+      "Les Sunnites",
+      "Les Ahmadiyya"
+    ],
+    "question": "Quelle secte de l'islam reconnaît Mirza Ghulam Ahmad comme le messie promis?"
+  },
+  {
+    "correctAnswer": "Le Concile de Jérusalem",
+    "id": 3234567890123495,
+    "options": [
+      "Le Concile d'Éphèse",
+      "Le Concile de Jérusalem",
+      "Le Concile de Carthage",
+      "Le Concile de Nicée"
+    ],
+    "question": "Quel concile, décrit dans les Actes des Apôtres, a décidé que les convertis gentils au christianisme n'avaient pas besoin de suivre toutes les lois juives?"
+  },
+  {
+    "correctAnswer": "Le Livre des Morts",
+    "id": 3234567890123496,
+    "options": [
+      "Le Livre de la Genèse",
+      "Le Livre de la Sagesse",
+      "Le Livre des Morts",
+      "Le Livre des Proverbes"
+    ],
+    "question": "Quel texte ancien égyptien contient des sortilèges destinés à aider les défunts dans l'au-delà?"
+  },
+  {
+    "correctAnswer": "La Vierge Marie",
+    "id": 3234567890123497,
+    "options": [
+      "Marie Madeleine",
+      "Marthe",
+      "Lydie",
+      "La Vierge Marie"
+    ],
+    "question": "Qui est vénérée comme la mère de Jésus dans le christianisme?"
+  },
+  {
+    "correctAnswer": "La Salle de l'Harmonie Suprême",
+    "id": 3234567890123498,
+    "options": [
+      "Le Temple du Ciel",
+      "La Salle de l'Harmonie Suprême",
+      "Le Palais de la Pureté Céleste",
+      "Le Jardin Impérial"
+    ],
+    "question": "Quelle est la plus grande salle du palais impérial dans la Cité Interdite à Pékin, souvent utilisée pour des cérémonies religieuses?"
+  },
+  {
+    "correctAnswer": "Les Samaritains",
+    "id": 3234567890123499,
+    "options": [
+      "Les Esséniens",
+      "Les Lévites",
+      "Les Pharisiens",
+      "Les Samaritains"
+    ],
+    "question": "Quel groupe religieux, mentionné dans le Nouveau Testament, a un canon des Écritures différent de celui du judaïsme rabbinique et existe encore aujourd'hui?"
+  },
+  {
+    "correctAnswer": "Le Rigveda",
+    "id": 3234567890123500,
+    "options": [
+      "Le Samaveda",
+      "Le Rigveda",
+      "Le Yajurveda",
+      "L'Atharvaveda"
+    ],
+    "question": "Quel est le plus ancien des quatre Vedas, les textes sacrés de l'hindouisme?"
+  },
+  {
+    "correctAnswer": "L'Arche d'alliance",
+    "id": 3234567890123501,
+    "options": [
+      "La Menorah",
+      "Le Veau d'or",
+      "L'Arche d'alliance",
+      "La Table des pains de proposition"
+    ],
+    "question": "Selon la Bible, quel objet sacré contenait les tablettes des Dix Commandements?"
+  },
+  {
+    "correctAnswer": "La Grande Disparition",
+    "id": 3234567890123502,
+    "options": [
+      "La Grande Éveil",
+      "La Grande Illumination",
+      "La Grande Ascension",
+      "La Grande Disparition"
+    ],
+    "question": "Comment est désigné le décès du Bouddha et son entrée dans le Nirvana final?"
+  },
+  {
+    "correctAnswer": "Saint Antoine le Grand",
+    "id": 3234567890123503,
+    "options": [
+      "Saint Benoît de Nursie",
+      "Saint Jérôme",
+      "Saint Grégoire le Grand",
+      "Saint Antoine le Grand"
+    ],
+    "question": "Qui est considéré comme le père du monachisme chrétien en Égypte?"
+  },
+  {
+    "correctAnswer": "Les Alévis",
+    "id": 3234567890123504,
+    "options": [
+      "Les Ismaéliens",
+      "Les Druses",
+      "Les Yazidis",
+      "Les Alévis"
+    ],
+    "question": "Quelle minorité religieuse en Turquie pratique un mélange unique d'éléments chiites, soufis et autochtones?"
+  },
+  {
+    "correctAnswer": "La Wicca",
+    "id": 3234567890123505,
+    "options": [
+      "Le Druidisme",
+      "Le Chamanisme",
+      "La Wicca",
+      "Le Paganisme"
+    ],
+    "question": "Quelle religion néo-païenne moderne est centrée sur la vénération de la nature et la déesse?"
+  },
+  {
+    "correctAnswer": "Le Pentecôtisme",
+    "id": 3234567890123506,
+    "options": [
+      "Le Calvinisme",
+      "L'Anglicanisme",
+      "Le Mennonitisme",
+      "Le Pentecôtisme"
+    ],
+    "question": "Quel mouvement chrétien met l'accent sur l'expérience directe du Saint-Esprit, notamment le parler en langues?"
+  },
+  {
+    "correctAnswer": "La Kaaba",
+    "id": 3234567890123507,
+    "options": [
+      "La Mosquée Al-Aqsa",
+      "La Mosquée du prophète",
+      "La Mosquée bleue",
+      "La Kaaba"
+    ],
+    "question": "Quel édifice est enveloppé dans un tissu noir appelé Kiswah, renouvelé chaque année lors du pèlerinage musulman?"
+  },
+  {
+    "correctAnswer": "Les Sept Conseils œcuméniques",
+    "id": 3234567890123508,
+    "options": [
+      "Les Quatre Évangiles",
+      "Les Sept Péchés Capitaux",
+      "Les Dix Plaies d'Égypte",
+      "Les Sept Conseils œcuméniques"
+    ],
+    "question": "Comment sont appelées les assemblées de théologiens et d'évêques du christianisme ancien qui ont défini la doctrine de l'Église?"
+  },
+  {
+    "correctAnswer": "Le Chintoïsme",
+    "id": 3234567890123509,
+    "options": [
+      "Le Taoïsme",
+      "Le Confucianisme",
+      "Le Chintoïsme",
+      "Le Bouddhisme Zen"
+    ],
+    "question": "Quelle religion traditionnelle japonaise vénère les kami, esprits ou divinités associés à des éléments naturels et des phénomènes?"
+  },
+  {
+    "correctAnswer": "Les Baha'is",
+    "id": 4234567890123510,
+    "options": [
+      "Les Rastafaris",
+      "Les Sikhs",
+      "Les Zoroastriens",
+      "Les Baha'is"
+    ],
+    "question": "Quel groupe religieux a été fondé au 19ème siècle en Perse et vénère Baha'u'llah comme le dernier prophète?"
+  },
+  {
+    "correctAnswer": "Le Shivaïsme",
+    "id": 4234567890123511,
+    "options": [
+      "Le Vaishnavisme",
+      "Le Shaktisme",
+      "Le Shivaïsme",
+      "Le Tantrisme"
+    ],
+    "question": "Quelle tradition hindoue vénère principalement le dieu Shiva?"
+  },
+  {
+    "correctAnswer": "Le Calendrier Hébraïque",
+    "id": 4234567890123512,
+    "options": [
+      "Le Calendrier Julien",
+      "Le Calendrier Grégorien",
+      "Le Calendrier Hébraïque",
+      "Le Calendrier Islamique"
+    ],
+    "question": "Quel calendrier est basé sur des cycles lunaires et solaires et est utilisé pour déterminer les dates des fêtes juives?"
+  },
+  {
+    "correctAnswer": "L'Iconoclasme",
+    "id": 4234567890123513,
+    "options": [
+      "Le Monophysisme",
+      "L'Iconoclasme",
+      "Le Nestorianisme",
+      "Le Docétisme"
+    ],
+    "question": "Quelle controverse religieuse a conduit à la destruction d'images religieuses dans l'Empire byzantin au 8ème et 9ème siècles?"
+  },
+  {
+    "correctAnswer": "Les Douze Imams",
+    "id": 4234567890123514,
+    "options": [
+      "Les Quatre Califes",
+      "Les Sept Prophètes",
+      "Les Cinq Piliers",
+      "Les Douze Imams"
+    ],
+    "question": "Quels leaders religieux sont particulièrement vénérés dans le chiisme duodécimain?"
+  },
+  {
+    "correctAnswer": "Le Livre de Mormon",
+    "id": 4234567890123515,
+    "options": [
+      "La Doctrine et Alliances",
+      "La Perle de Grand Prix",
+      "Le Livre de Mormon",
+      "L'Enseignement du Prophète"
+    ],
+    "question": "Quel texte est considéré comme un autre testament de Jésus-Christ par l'Église de Jésus-Christ des Saints des Derniers Jours?"
+  },
+  {
+    "correctAnswer": "La Sainte Trinité",
+    "id": 4234567890123516,
+    "options": [
+      "La Divine Providence",
+      "L'Immaculée Conception",
+      "La Transubstantiation",
+      "La Sainte Trinité"
+    ],
+    "question": "Comment appelle-t-on la doctrine chrétienne selon laquelle Dieu est un en essence mais trois en personnes: le Père, le Fils et le Saint-Esprit?"
+  },
+  {
+    "correctAnswer": "Le Santeria",
+    "id": 4234567890123517,
+    "options": [
+      "Le Vaudou",
+      "Le Candomblé",
+      "Le Santeria",
+      "Le Rastafarisme"
+    ],
+    "question": "Quelle religion afro-caribéenne, originaire de Cuba, mélange des éléments de la religion yoruba et du catholicisme?"
+  },
+  {
+    "correctAnswer": "La Kippa",
+    "id": 4234567890123518,
+    "options": [
+      "Le Talith",
+      "La Kippa",
+      "Les Téfilines",
+      "Le Chofar"
+    ],
+    "question": "Comment appelle-t-on le couvre-chef porté par les hommes juifs comme signe de respect envers Dieu?"
+  },
+  {
+    "correctAnswer": "Le Paradis",
+    "id": 4234567890123519,
+    "options": [
+      "Le Purgatoire",
+      "L'Enfer",
+      "Le Nirvana",
+      "Le Paradis"
+    ],
+    "question": "Dans la tradition chrétienne, comment est appelé le lieu de bonheur éternel réservé aux justes après la mort?"
+  },
+  {
+    "correctAnswer": "Les Quakers",
+    "id": 4234567890123520,
+    "options": [
+      "Les Amish",
+      "Les Mennonites",
+      "Les Huttérites",
+      "Les Quakers"
+    ],
+    "question": "Quel groupe religieux, aussi appelé la Société des Amis, est connu pour sa simplicité, son pacifisme et son refus de prêter serment?"
+  },
+  {
+    "correctAnswer": "Les Lamas",
+    "id": 4234567890123521,
+    "options": [
+      "Les Rinpoches",
+      "Les Bodhisattvas",
+      "Les Geshes",
+      "Les Lamas"
+    ],
+    "question": "Dans le bouddhisme tibétain, comment sont appelés les enseignants spirituels?"
+  },
+  {
+    "correctAnswer": "Le Mandéisme",
+    "id": 4234567890123522,
+    "options": [
+      "Le Manichéisme",
+      "Le Sabéisme",
+      "Le Mandéisme",
+      "Le Yazidisme"
+    ],
+    "question": "Quelle religion antique, encore pratiquée aujourd'hui, vénère Jean le Baptiste?"
+  },
+  {
+    "correctAnswer": "L'Église copte orthodoxe",
+    "id": 4234567890123523,
+    "options": [
+      "L'Église maronite",
+      "L'Église syriaque orthodoxe",
+      "L'Église arménienne apostolique",
+      "L'Église copte orthodoxe"
+    ],
+    "question": "Quelle Église chrétienne est basée principalement en Égypte?"
+  },
+  {
+    "correctAnswer": "La Lumière Intérieure",
+    "id": 4234567890123524,
+    "options": [
+      "Le Sola Scriptura",
+      "Le Salut par la foi",
+      "La Prédestination",
+      "La Lumière Intérieure"
+    ],
+    "question": "Quel concept est central dans la théologie quaker, faisant référence à la présence divine en chaque individu?"
+  },
+  {
+    "correctAnswer": "Les Théraphim",
+    "id": 5234567890123525,
+    "options": [
+      "Les Chérubins",
+      "Les Sérums",
+      "Les Nephilim",
+      "Les Théraphim"
+    ],
+    "question": "Quels objets, mentionnés dans la Bible hébraïque, étaient parfois utilisés à des fins divinatoires et cultuelles?"
+  },
+  {
+    "correctAnswer": "L'Église de la Scientologie",
+    "id": 5234567890123526,
+    "options": [
+      "L'Église de l'Unification",
+      "Les Témoins de Jéhovah",
+      "L'Église mormone",
+      "L'Église de la Scientologie"
+    ],
+    "question": "Quelle église a été fondée par L. Ron Hubbard au 20ème siècle?"
+  },
+  {
+    "correctAnswer": "Le Seder de Pessa'h",
+    "id": 5234567890123527,
+    "options": [
+      "Le Jeûne de Tisha Beav",
+      "La Fête de Pourim",
+      "Le Seder de Pessa'h",
+      "La Fête de Souccot"
+    ],
+    "question": "Quelle cérémonie juive commémore la sortie d'Égypte des Hébreux et se déroule autour d'un repas rituel?"
+  },
+  {
+    "correctAnswer": "Le Jainisme",
+    "id": 5234567890123528,
+    "options": [
+      "Le Sikhisme",
+      "Le Bahaïsme",
+      "Le Shintoïsme",
+      "Le Jainisme"
+    ],
+    "question": "Quelle religion indienne met l'accent sur la non-violence (ahimsa) et le respect de toutes les formes de vie?"
+  },
+  {
+    "correctAnswer": "Les Cathares",
+    "id": 5234567890123529,
+    "options": [
+      "Les Valdenses",
+      "Les Anabaptistes",
+      "Les Cathares",
+      "Les Huguenots"
+    ],
+    "question": "Quel groupe hérétique médiéval croyait en un dualisme cosmique, avec un bon dieu créateur du monde spirituel et un mauvais dieu créateur du monde matériel?"
+  },
+  {
+    "correctAnswer": "Le Manichéisme",
+    "id": 5234567890123530,
+    "options": [
+      "Le Gnosticisme",
+      "Le Manichéisme",
+      "Le Zoroastrisme",
+      "Le Mithraïsme"
+    ],
+    "question": "Quelle religion synchrétique, fondée par Mani au 3ème siècle, combinait des éléments de christianisme, bouddhisme et zoroastrisme?"
+  },
+  {
+    "correctAnswer": "Le Muezzin",
+    "id": 5234567890123531,
+    "options": [
+      "Le Calife",
+      "Le Muezzin",
+      "Le Sheikh",
+      "L'Imam"
+    ],
+    "question": "Dans l'islam, qui est chargé d'appeler les fidèles à la prière depuis le minaret d'une mosquée?"
+  },
+  {
+    "correctAnswer": "Le Sabbat des sorcières",
+    "id": 5234567890123532,
+    "options": [
+      "La Messe noire",
+      "Le Sabbat des sorcières",
+      "Le Grand Rite",
+      "Le Coven"
+    ],
+    "question": "Dans les légendes européennes, comment est appelée la prétendue réunion nocturne des sorcières avec le diable?"
+  },
+  {
+    "correctAnswer": "Les Maronites",
+    "id": 5234567890123533,
+    "options": [
+      "Les Jacobites",
+      "Les Nestoriens",
+      "Les Chaldéens",
+      "Les Maronites"
+    ],
+    "question": "Quelle Église chrétienne orientale, principalement basée au Liban, est en pleine communion avec l'Église catholique romaine?"
+  },
+  {
+    "correctAnswer": "Le Druisme",
+    "id": 5234567890123534,
+    "options": [
+      "Le Sufisme",
+      "Le Druisme",
+      "Le Bön",
+      "Le Taoïsme"
+    ],
+    "question": "Quelle religion monothéiste, principalement pratiquée dans certaines régions du Liban, de Syrie et d'Israël, est connue pour sa discrétion et ses pratiques ésotériques?"
+  },
+  {
+    "correctAnswer": "Les Sept Cieux",
+    "id": 5234567890123535,
+    "options": [
+      "Les Cinq Piliers",
+      "Les Quatre Rivières du Paradis",
+      "Les Trois Vertus",
+      "Les Sept Cieux"
+    ],
+    "question": "Dans la tradition islamique, comment est décrite la structure hiérarchique du paradis?"
+  },
+  {
+    "correctAnswer": "Le Livre de Job",
+    "id": 5234567890123536,
+    "options": [
+      "Le Livre d'Isaïe",
+      "Le Livre de Ruth",
+      "Le Livre de Job",
+      "Le Livre des Juges"
+    ],
+    "question": "Quel livre de la Bible hébraïque traite de la souffrance et de la foi d'un homme pieux mis à l'épreuve par Dieu?"
+  },
+  {
+    "correctAnswer": "Les Maccabées",
+    "id": 5234567890123537,
+    "options": [
+      "Les Zélotes",
+      "Les Esséniens",
+      "Les Pharisiens",
+      "Les Maccabées"
+    ],
+    "question": "Quel groupe juif a mené une révolte contre l'empire séleucide au 2ème siècle avant J.-C., conduisant à la redédication du Second Temple?"
+  },
+  {
+    "correctAnswer": "Les Rishis",
+    "id": 5234567890123538,
+    "options": [
+      "Les Brahmanes",
+      "Les Kshatriyas",
+      "Les Rishis",
+      "Les Vaishyas"
+    ],
+    "question": "Dans la tradition védique, comment sont appelés les sages ou poètes inspirés qui ont reçu les hymnes sacrés?"
+  },
+  {
+    "correctAnswer": "Le Chöd",
+    "id": 5234567890123539,
+    "options": [
+      "Le Vajrayana",
+      "Le Chöd",
+      "Le Lamrim",
+      "Le Lojong"
+    ],
+    "question": "Quelle pratique tantrique tibétaine consiste à visualiser l'offrande de son propre corps comme nourriture pour les êtres affamés et les esprits?"
+  },
+  {
+    "correctAnswer": "Le Hadj",
+    "id": 6234567890123540,
+    "options": [
+      "La Zakât",
+      "La Salat",
+      "Le Hadj",
+      "Le Ramadan"
+    ],
+    "question": "Quel pilier de l'islam se réfère au pèlerinage annuel à La Mecque que chaque musulman doit accomplir au moins une fois dans sa vie, s'il en a les moyens?"
+  },
+  {
+    "correctAnswer": "La Bhagavad-Gita",
+    "id": 6234567890123541,
+    "options": [
+      "Les Upanishads",
+      "La Bhagavad-Gita",
+      "Le Ramayana",
+      "Le Mahabharata"
+    ],
+    "question": "Quel texte sacré hindou est un dialogue entre le prince Arjuna et le dieu Krishna, qui sert de cocher à son char?"
+  },
+  {
+    "correctAnswer": "Le Sacrement de Pénitence",
+    "id": 6234567890123542,
+    "options": [
+      "La Confirmation",
+      "L'Eucharistie",
+      "L'Ordination",
+      "Le Sacrement de Pénitence"
+    ],
+    "question": "Dans l'Église catholique, comment est officiellement appelé le sacrement par lequel les fidèles confessent leurs péchés à un prêtre?"
+  },
+  {
+    "correctAnswer": "Les Gnostiques",
+    "id": 6234567890123543,
+    "options": [
+      "Les Arianistes",
+      "Les Gnostiques",
+      "Les Pélagiens",
+      "Les Donatistes"
+    ],
+    "question": "Quel groupe religieux antique croyait en une connaissance secrète (gnosis) nécessaire pour le salut et considérait souvent le monde matériel comme l'œuvre d'un dieu inférieur?"
+  },
+  {
+    "correctAnswer": "Les Yézidis",
+    "id": 6234567890123544,
+    "options": [
+      "Les Zoroastriens",
+      "Les Alawites",
+      "Les Yézidis",
+      "Les Druzes"
+    ],
+    "question": "Quelle minorité religieuse, principalement basée dans le nord de l'Irak, vénère un ange sous la forme d'un paon?"
+  },
+  {
+    "correctAnswer": "Le Livre des Ombres",
+    "id": 6234567890123545,
+    "options": [
+      "Le Livre de la Loi",
+      "Le Grimoire",
+      "Le Livre des Morts",
+      "Le Livre des Ombres"
+    ],
+    "question": "Quel texte est souvent utilisé par les Wiccans et les sorcières modernes pour enregistrer leurs rituels, sorts et traditions?"
+  },
+  {
+    "correctAnswer": "Le Concile de Chalcédoine",
+    "id": 6234567890123546,
+    "options": [
+      "Le Concile de Nicée",
+      "Le Concile d'Éphèse",
+      "Le Concile de Chalcédoine",
+      "Le Concile de Trente"
+    ],
+    "question": "Quel concile chrétien du 5ème siècle a établi la doctrine des deux natures, humaine et divine, de Jésus-Christ?"
+  },
+  {
+    "correctAnswer": "Le Tao",
+    "id": 6234567890123547,
+    "options": [
+      "Le Qi",
+      "Le Yin et le Yang",
+      "Le Wu Wei",
+      "Le Tao"
+    ],
+    "question": "Dans le taoïsme, comment est appelé le principe ultime et indéfinissable à partir duquel tout émane et vers lequel tout retourne?"
+  },
+  {
+    "correctAnswer": "Le Mur des Lamentations",
+    "id": 6234567890123548,
+    "options": [
+      "La Mosquée Al-Aqsa",
+      "Le Dôme du Rocher",
+      "Le Saint-Sépulcre",
+      "Le Mur des Lamentations"
+    ],
+    "question": "Quel lieu sacré à Jérusalem est le dernier vestige du Second Temple et est vénéré comme lieu de prière par les Juifs?"
+  },
+  {
+    "correctAnswer": "La Loi de Trois",
+    "id": 6234567890123549,
+    "options": [
+      "La Règle d'Or",
+      "La Loi du Karma",
+      "La Loi de Retour",
+      "La Loi de Trois"
+    ],
+    "question": "Dans la Wicca et d'autres formes de néo-paganisme, quelle loi éthique stipule que tout ce que vous faites vous reviendra triplé?"
+  },
+  {
+    "correctAnswer": "Les Dharmapalas",
+    "id": 6234567890123550,
+    "options": [
+      "Les Bodhisattvas",
+      "Les Arhats",
+      "Les Dakinis",
+      "Les Dharmapalas"
+    ],
+    "question": "Dans le bouddhisme tibétain, comment sont appelés les gardiens féroces de la doctrine qui protègent le dharma et assistent les pratiquants?"
+  },
+  {
+    "correctAnswer": "L'Église Éthiopienne Orthodoxe Tewahedo",
+    "id": 6234567890123551,
+    "options": [
+      "L'Église Copte Orthodoxe",
+      "L'Église Assyrienne de l'Est",
+      "L'Église Éthiopienne Orthodoxe Tewahedo",
+      "L'Église Arménienne Apostolique"
+    ],
+    "question": "Quelle église chrétienne orientale revendique la possession de l'Arche de l'Alliance à Axoum, en Éthiopie?"
+  },
+  {
+    "correctAnswer": "Les Amish",
+    "id": 6234567890123552,
+    "options": [
+      "Les Mennonites",
+      "Les Huttérites",
+      "Les Quakers",
+      "Les Amish"
+    ],
+    "question": "Quelle communauté chrétienne, principalement basée en Amérique du Nord, est connue pour son refus de la technologie moderne et son mode de vie simple et agraire?"
+  },
+  {
+    "correctAnswer": "Les Sikhs",
+    "id": 6234567890123553,
+    "options": [
+      "Les Parsis",
+      "Les Jains",
+      "Les Sikhs",
+      "Les Baha'is"
+    ],
+    "question": "Quelle communauté religieuse, fondée par Guru Nanak au 15ème siècle, a son principal lieu de culte, le Temple d'Or, à Amritsar, en Inde?"
+  },
+  {
+    "correctAnswer": "La Kabbale",
+    "id": 6234567890123554,
+    "options": [
+      "La Mishna",
+      "La Gemara",
+      "Le Midrash",
+      "La Kabbale"
+    ],
+    "question": "Quelle tradition mystique juive traite de l'interprétation ésotérique de la Torah et des secrets de l'univers?"
+  },
+  {
+    "correctAnswer": "Le Zikr",
+    "id": 7234567890123555,
+    "options": [
+      "Le Hajj",
+      "Le Salat",
+      "Le Zikr",
+      "Le Zakat"
+    ],
+    "question": "Dans le soufisme, comment est appelée la pratique de récitation répétée de noms de Dieu ou de phrases sacrées?"
+  },
+  {
+    "correctAnswer": "Le Guru Granth Sahib",
+    "id": 7234567890123556,
+    "options": [
+      "Le Vedas",
+      "Le Bhagavad Gita",
+      "Le Ramayana",
+      "Le Guru Granth Sahib"
+    ],
+    "question": "Quel est le texte sacré central du sikhisme?"
+  },
+  {
+    "correctAnswer": "Le Credo de Nicée",
+    "id": 7234567890123557,
+    "options": [
+      "Le Credo des Apôtres",
+      "Le Credo d'Athanase",
+      "Le Credo de Chalcédoine",
+      "Le Credo de Nicée"
+    ],
+    "question": "Quelle déclaration de foi chrétienne a été formulée lors du premier Concile de Nicée en 325 ap. J.-C.?"
+  },
+  {
+    "correctAnswer": "Les Mandéens",
+    "id": 7234567890123558,
+    "options": [
+      "Les Sabéens",
+      "Les Mandéens",
+      "Les Manichéens",
+      "Les Yazidis"
+    ],
+    "question": "Quelle communauté religieuse, présente principalement en Irak et en Iran, pratique le baptême régulièrement et considère Jean le Baptiste comme son principal prophète?"
+  },
+  {
+    "correctAnswer": "Le Dieu Soleil Aton",
+    "id": 7234567890123559,
+    "options": [
+      "Le Dieu Osiris",
+      "Le Dieu Anubis",
+      "Le Dieu Horus",
+      "Le Dieu Soleil Aton"
+    ],
+    "question": "Sous le règne du pharaon Akhenaton, quel dieu a été promu comme la principale divinité de l'Égypte antique?"
+  },
+  {
+    "correctAnswer": "La Circoncision",
+    "id": 7234567890123560,
+    "options": [
+      "Le Baptême",
+      "La Confirmation",
+      "La Circoncision",
+      "La Bar Mitzvah"
+    ],
+    "question": "Quel rite de passage est couramment pratiqué chez les juifs et les musulmans, marquant l'entrée d'un garçon dans la communauté religieuse?"
+  },
+  {
+    "correctAnswer": "Les Esséniens",
+    "id": 7234567890123561,
+    "options": [
+      "Les Pharisiens",
+      "Les Sadducéens",
+      "Les Zélotes",
+      "Les Esséniens"
+    ],
+    "question": "Quel groupe juif, vivant à l'époque du Second Temple, est associé à la communauté qui a produit les Manuscrits de la mer Morte?"
+  },
+  {
+    "correctAnswer": "La Transmigration des âmes",
+    "id": 7234567890123562,
+    "options": [
+      "Le Nirvana",
+      "La Moksha",
+      "La Samadhi",
+      "La Transmigration des âmes"
+    ],
+    "question": "Comment est appelée la croyance en la réincarnation, où l'âme d'un être vivant renaît dans un nouvel corps après la mort?"
+  },
+  {
+    "correctAnswer": "La Lotus Sutra",
+    "id": 7234567890123563,
+    "options": [
+      "Le Dhammapada",
+      "La Lotus Sutra",
+      "Les Jataka Tales",
+      "Le Sutra du Cœur"
+    ],
+    "question": "Quel texte bouddhiste, particulièrement vénéré dans le bouddhisme Mahayana, enseigne que chaque être vivant a le potentiel d'atteindre l'illumination?"
+  },
+  {
+    "correctAnswer": "La Menorah",
+    "id": 7234567890123564,
+    "options": [
+      "Le Chofar",
+      "Le Talith",
+      "La Menorah",
+      "Le Mezouzah"
+    ],
+    "question": "Comment est appelé le chandelier à sept branches, symbole ancien du judaïsme et utilisé dans le rituel du Temple de Jérusalem?"
+  },
+  {
+    "correctAnswer": "L'Ascétisme",
+    "id": 7234567890123565,
+    "options": [
+      "L'Hérésie",
+      "L'Exégèse",
+      "L'Évangélisation",
+      "L'Ascétisme"
+    ],
+    "question": "Comment est appelée la pratique religieuse de l'auto-discipline et de l'abstinence pour des raisons spirituelles?"
+  },
+  {
+    "correctAnswer": "Les Stoïciens",
+    "id": 7234567890123566,
+    "options": [
+      "Les Épicuriens",
+      "Les Sceptiques",
+      "Les Cyniques",
+      "Les Stoïciens"
+    ],
+    "question": "Quel groupe philosophique antique croyait que la vertu est suffisante pour le bonheur et enseignait l'acceptation résignée du destin?"
+  },
+  {
+    "correctAnswer": "Le Bodhi",
+    "id": 7234567890123567,
+    "options": [
+      "Le Dharma",
+      "Le Karma",
+      "Le Samsara",
+      "Le Bodhi"
+    ],
+    "question": "Dans le bouddhisme, comment est appelé l'état d'éveil spirituel ou d'illumination?"
+  },
+  {
+    "correctAnswer": "Les Archanges",
+    "id": 7234567890123568,
+    "options": [
+      "Les Sérums",
+      "Les Dominations",
+      "Les Vertus",
+      "Les Archanges"
+    ],
+    "question": "Dans la hiérarchie chrétienne des anges, quel ordre est juste au-dessus des anges ordinaires et inclut Michel, Gabriel et Raphaël?"
+  },
+  {
+    "correctAnswer": "Les Confucianistes",
+    "id": 8234567890123569,
+    "options": [
+      "Les Taoïstes",
+      "Les Confucianistes",
+      "Les Shintoïstes",
+      "Les Bouddhistes"
+    ],
+    "question": "Quel groupe religieux suit les enseignements de Confucius, mettant l'accent sur la morale, la famille et la rectitude sociale?"
+  },
+  {
+    "correctAnswer": "La Kaaba",
+    "id": 8234567890123570,
+    "options": [
+      "La Mosquée Al-Aqsa",
+      "Le Dôme du Rocher",
+      "La Madrasa",
+      "La Kaaba"
+    ],
+    "question": "Quel édifice cubique situé au centre de la Mosquée sacrée de La Mecque est le point le plus sacré de l'islam?"
+  },
+  {
+    "correctAnswer": "La Torah Orale",
+    "id": 8234567890123571,
+    "options": [
+      "Le Talmud",
+      "La Mishna",
+      "La Torah Orale",
+      "Le Midrash"
+    ],
+    "question": "Comment est appelée la tradition juive qui explique et complète la Torah écrite et qui est consignée principalement dans le Talmud?"
+  },
+  {
+    "correctAnswer": "Le Vajrayana",
+    "id": 8234567890123572,
+    "options": [
+      "Le Theravada",
+      "Le Mahayana",
+      "Le Zen",
+      "Le Vajrayana"
+    ],
+    "question": "Quelle école du bouddhisme, souvent appelée bouddhisme tantrique, est particulièrement pratiquée au Tibet et met l'accent sur les rituels et les mantras?"
+  },
+  {
+    "correctAnswer": "La Conversion de Saint Paul",
+    "id": 8234567890123573,
+    "options": [
+      "La Résurrection de Lazare",
+      "La Conversion de Saint Paul",
+      "La Cène",
+      "L'Annonciation"
+    ],
+    "question": "Quel événement biblique décrit la vision de Saul de Tarse, qui deviendra Paul, sur le chemin de Damas, le conduisant à embrasser le christianisme?"
+  },
+  {
+    "correctAnswer": "Les Dhimmis",
+    "id": 8234567890123574,
+    "options": [
+      "Les Mujtahids",
+      "Les Mawalis",
+      "Les Dhimmis",
+      "Les Salafis"
+    ],
+    "question": "Dans les sociétés musulmanes médiévales, comment étaient appelées les personnes appartenant à des religions monothéistes non musulmanes, telles que les chrétiens et les juifs, qui étaient protégées mais soumises à des réglementations spécifiques?"
+  },
+  {
+    "correctAnswer": "Le Sabbat",
+    "id": 8234567890123575,
+    "options": [
+      "Pessa'h",
+      "Souccot",
+      "Roch Hachana",
+      "Le Sabbat"
+    ],
+    "question": "Quel jour de repos et de prière est observé par les juifs du vendredi soir au samedi soir?"
+  },
+  {
+    "correctAnswer": "La Tripitaka",
+    "id": 8234567890123576,
+    "options": [
+      "La Sutra du Lotus",
+      "La Tripitaka",
+      "Les Jatakas",
+      "Le Dhammapada"
+    ],
+    "question": "Comment est appelé le canon bouddhiste Pali, qui est la collection des textes fondamentaux du bouddhisme Theravada?"
+  },
+  {
+    "correctAnswer": "Les Sept Sacrements",
+    "id": 8234567890123577,
+    "options": [
+      "Les Cinq Piliers",
+      "Les Dix Commandements",
+      "Les Quatre Nobles Vérités",
+      "Les Sept Sacrements"
+    ],
+    "question": "Quel ensemble de rites religieux, incluant le baptême, la confirmation et l'eucharistie, est central dans la doctrine de l'Église catholique?"
+  },
+  {
+    "correctAnswer": "La Kachina",
+    "id": 8234567890123578,
+    "options": [
+      "Le Totem",
+      "La Kachina",
+      "Le Manitu",
+      "Le Wakan Tanka"
+    ],
+    "question": "Dans la croyance des Pueblos du sud-ouest des États-Unis, comment sont appelés les esprits qui sont censés visiter les villages pendant une partie de chaque année?"
+  },
+  {
+    "correctAnswer": "L'Alchimie",
+    "id": 8234567890123579,
+    "options": [
+      "Le Chamanisme",
+      "La Divination",
+      "L'Alchimie",
+      "La Théurgie"
+    ],
+    "question": "Quelle pratique ésotérique cherche à transformer les métaux de base en or et à découvrir un élixir d'immortalité?"
+  },
+  {
+    "correctAnswer": "La Trinité",
+    "id": 8234567890123580,
+    "options": [
+      "La Dualité",
+      "Le Monothéisme",
+      "La Polythéisme",
+      "La Trinité"
+    ],
+    "question": "Quelle doctrine chrétienne décrit Dieu comme étant à la fois un et trois, composé du Père, du Fils et du Saint-Esprit?"
+  },
+  {
+    "correctAnswer": "Le Livre de Mormon",
+    "id": 8234567890123581,
+    "options": [
+      "La Doctrine et Alliances",
+      "Le Livre de Mormon",
+      "La Perle de Grand Prix",
+      "La Bible du Roi Jacques"
+    ],
+    "question": "Quel texte sacré, révélé à Joseph Smith, est central pour la foi des membres de l'Église de Jésus-Christ des Saints des Derniers Jours?"
+  },
+  {
+    "correctAnswer": "Les Wahhabites",
+    "id": 8234567890123582,
+    "options": [
+      "Les Soufis",
+      "Les Chiites",
+      "Les Wahhabites",
+      "Les Ahmadiyyas"
+    ],
+    "question": "Quelle secte sunnite, originaire d'Arabie Saoudite, est connue pour son interprétation stricte et puritaine de l'islam?"
+  },
+  {
+    "correctAnswer": "Les Parsis",
+    "id": 9234567890123584,
+    "options": [
+      "Les Sikhs",
+      "Les Jains",
+      "Les Parsis",
+      "Les Baha'is"
+    ],
+    "question": "Quelle communauté religieuse en Inde pratique le zoroastrisme et utilise des tours du silence pour les rites funéraires?"
+  },
+  {
+    "correctAnswer": "Le Synode de Whitby",
+    "id": 1707787287963057,
+    "options": [
+      "Le Concile de Trente",
+      "Le Concile de Nicée",
+      "Le Synode de Dordrecht",
+      "Le Synode de Whitby"
+    ],
+    "question": "Quel rassemblement religieux en 664 ap. J.-C. a décidé de la date de la célébration de Pâques par l'Église en Angleterre?"
+  },
+  {
+    "correctAnswer": "L'Iconoclasme",
+    "id": 1702161018761951,
+    "options": [
+      "L'Arianisme",
+      "Le Nestorianisme",
+      "L'Iconoclasme",
+      "Le Monophysitisme"
+    ],
+    "question": "Comment est appelée la controverse religieuse et politique du 8ème et 9ème siècle concernant la vénération des icônes dans l'Empire byzantin?"
+  },
+  {
+    "correctAnswer": "Le Livre des Morts",
+    "id": 9234567890123586,
+    "options": [
+      "Le Livre des Ombres",
+      "Le Livre de la Vie",
+      "Le Livre de l'Exode",
+      "Le Livre des Morts"
+    ],
+    "question": "Quel texte funéraire égyptien ancien contient des sortilèges pour aider une personne décédée dans l'au-delà?"
+  },
+  {
+    "correctAnswer": "Le Polythéisme",
+    "id": 9234567890123588,
+    "options": [
+      "Le Monothéisme",
+      "L'Athéisme",
+      "L'Animisme",
+      "Le Polythéisme"
+    ],
+    "question": "Comment est appelée la croyance ou l'adoration de plusieurs dieux?"
+  },
+  {
+    "correctAnswer": "Les Raeliens",
+    "id": 2691892548125223,
+    "options": [
+      "Les Scientologues",
+      "Les Raeliens",
+      "Les Aum Shinrikyo",
+      "Les Moonistes"
+    ],
+    "question": "Quel mouvement religieux moderne croit que la vie sur Terre a été créée par des extraterrestres?"
+  },
+  {
+    "correctAnswer": "Le Divin Enfant Jésus de Prague",
+    "id": 3824855276708041,
+    "options": [
+      "Le Sacré-Cœur de Jésus",
+      "Notre-Dame de Fatima",
+      "Le Divin Enfant Jésus de Prague",
+      "Notre-Dame de Guadalupe"
+    ],
+    "question": "Quelle statue vénérée est associée à des miracles et est souvent représentée comme un petit roi portant une couronne, un globe et un sceptre?"
+  },
+  {
+    "correctAnswer": "Le Samsara",
+    "id": 9234567890123590,
+    "options": [
+      "Le Nirvana",
+      "Le Dharma",
+      "Le Karma",
+      "Le Samsara"
+    ],
+    "question": "Dans le bouddhisme et l'hindouisme, comment est appelé le cycle sans fin de la naissance, de la mort et de la renaissance?"
+  },
+  {
+    "correctAnswer": "Les Douze Imams",
+    "id": 9234567890123592,
+    "options": [
+      "Les Cinq Piliers",
+      "Les Quatre Califes",
+      "Les Sept Dormants",
+      "Les Douze Imams"
+    ],
+    "question": "Dans le chiisme, comment sont appelés les leaders religieux considérés comme les successeurs légitimes de l'imam Ali?"
+  },
+  {
+    "correctAnswer": "La Grande Disjonction",
+    "id": 3523212424344203,
+    "options": [
+      "La Grande Commission",
+      "La Grande Disjonction",
+      "La Grande Apostasie",
+      "La Grande Persécution"
+    ],
+    "question": "Comment est appelée la rupture entre les Églises orthodoxe et catholique en 1054 ap. J.-C.?"
+  },
+  {
+    "correctAnswer": "Les Sadhus",
+    "id": 3334530292549651,
+    "options": [
+      "Les Gurus",
+      "Les Brahmanes",
+      "Les Sadhus",
+      "Les Yogi"
+    ],
+    "question": "Dans l'hindouisme, comment sont appelés les ascètes qui renoncent à la vie laïque et mènent une vie d'abstinence et de méditation?"
+  },
+  {
+    "correctAnswer": "Le Shintoïsme",
+    "id": 9234567890123594,
+    "options": [
+      "Le Taoïsme",
+      "Le Confucianisme",
+      "Le Bouddhisme Zen",
+      "Le Shintoïsme"
+    ],
+    "question": "Quelle religion autochtone du Japon vénère les kami, des esprits associés à des objets ou des phénomènes naturels?"
+  },
+  {
+    "correctAnswer": "Le Baptême du Christ",
+    "id": 9234567890123596,
+    "options": [
+      "La Nativité",
+      "La Cène",
+      "La Crucifixion",
+      "Le Baptême du Christ"
+    ],
+    "question": "Quel événement biblique décrit Jésus étant baptisé par Jean le Baptiste dans le Jourdain?"
+  },
+  {
+    "correctAnswer": "Les Maccabées",
+    "id": 7349928049287587,
+    "options": [
+      "Les Esséniens",
+      "Les Zélotes",
+      "Les Pharisiens",
+      "Les Maccabées"
+    ],
+    "question": "Quel groupe juif a mené une révolte contre l'Empire séleucide au 2ème siècle av. J.-C. et a été célébré lors de la fête de Hanoucca?"
+  },
+  {
+    "correctAnswer": "La Pentecôte",
+    "id": 10234567890123596,
+    "options": [
+      "L'Ascension",
+      "La Pentecôte",
+      "L'Épiphanie",
+      "La Transfiguration"
+    ],
+    "question": "Quelle fête chrétienne célèbre la descente du Saint-Esprit sur les apôtres après l'Ascension de Jésus au ciel?"
+  },
+  {
+    "correctAnswer": "Le Kalpa",
+    "id": 10234567890123598,
+    "options": [
+      "Le Karma",
+      "Le Dharma",
+      "Le Moksha",
+      "Le Kalpa"
+    ],
+    "question": "Dans l'hindouisme, comment est appelée une période cosmique, un cycle de création et de destruction de l'univers?"
+  },
+  {
+    "correctAnswer": "La Kippa",
+    "id": 10234567890123600,
+    "options": [
+      "Le Tallit",
+      "Le Tefillin",
+      "La Mezouza",
+      "La Kippa"
+    ],
+    "question": "Quel couvre-chef est porté par les hommes juifs comme signe de respect et de révérence envers Dieu?"
+  },
+  {
+    "correctAnswer": "Les Quakers",
+    "id": 1705385751901927,
+    "options": [
+      "Les Anabaptistes",
+      "Les Luthériens",
+      "Les Calvinistes",
+      "Les Quakers"
+    ],
+    "question": "Quel groupe religieux, également connu sous le nom de Société des Amis, met l'accent sur la méditation silencieuse et la révélation intérieure?"
+  },
+  {
+    "correctAnswer": "Les Sept Conseils",
+    "id": 8914650031087325,
+    "options": [
+      "Les Cinq Piliers",
+      "Les Dix Commandements",
+      "Les Quatre Nobles Vérités",
+      "Les Sept Conseils"
+    ],
+    "question": "Dans le zoroastrisme, comment sont appelés les principes fondamentaux qui guident la vie morale et spirituelle?"
+  },
+  {
+    "correctAnswer": "L'Ablution",
+    "id": 10234567890123602,
+    "options": [
+      "La Prière",
+      "Le Jeûne",
+      "L'Aumône",
+      "L'Ablution"
+    ],
+    "question": "Comment est appelé l'acte rituel de purification avec de l'eau avant la prière dans de nombreuses religions, notamment l'islam?"
+  },
+  {
+    "correctAnswer": "Les Druides",
+    "id": 10234567890123604,
+    "options": [
+      "Les Vestales",
+      "Les Druides",
+      "Les Oracles",
+      "Les Mystiques"
+    ],
+    "question": "Quels prêtres et savants celtes étaient responsables des rites religieux, de l'éducation et de la jurisprudence dans la société celtique ancienne?"
+  },
+  {
+    "correctAnswer": "La Scientologie",
+    "id": 7536845231807439,
+    "options": [
+      "Le Christianisme Science",
+      "La Théosophie",
+      "Le Nouvel Âge",
+      "La Scientologie"
+    ],
+    "question": "Quelle religion moderne, fondée par L. Ron Hubbard, enseigne que les humains sont des êtres immortels qui ont oublié leur vraie nature et doivent suivre un processus d'audition pour la retrouver?"
+  },
+  {
+    "correctAnswer": "Les Cathares",
+    "id": 7603589931076219,
+    "options": [
+      "Les Waldenses",
+      "Les Cathares",
+      "Les Fraticelli",
+      "Les Hussites"
+    ],
+    "question": "Quelle secte chrétienne médiévale, également connue sous le nom d'Albigeois, était considérée comme hérétique par l'Église catholique et a été persécutée lors de la croisade albigeoise?"
+  },
+  {
+    "correctAnswer": "Le Hadith",
+    "id": 10234567890123606,
+    "options": [
+      "La Sunna",
+      "Le Hadith",
+      "Le Fiqh",
+      "Le Tafsir"
+    ],
+    "question": "Quel terme désigne les paroles, actions et approbations du prophète Muhammad, qui sont une source importante de loi et de doctrine dans l'islam?"
+  },
+  {
+    "correctAnswer": "Le Mandala",
+    "id": 10234567890123608,
+    "options": [
+      "Le Mantra",
+      "Le Mudra",
+      "Le Mandala",
+      "Le Mala"
+    ],
+    "question": "Comment est appelé un diagramme ou une représentation géométrique complexe utilisé dans le bouddhisme et l'hindouisme comme instrument de méditation?"
+  },
+  {
+    "correctAnswer": "La Transsubstantiation",
+    "id": 2260862523659673,
+    "options": [
+      "La Consubstantiation",
+      "La Prédestination",
+      "L'Immaculée Conception",
+      "La Transsubstantiation"
+    ],
+    "question": "Dans la doctrine catholique, comment est appelée la transformation du pain et du vin en corps et en sang de Christ lors de l'Eucharistie?"
+  },
+  {
+    "correctAnswer": "Les Gnostiques",
+    "id": 747019959821333,
+    "options": [
+      "Les Marcionites",
+      "Les Arians",
+      "Les Donatistes",
+      "Les Gnostiques"
+    ],
+    "question": "Quelle secte chrétienne ancienne croyait en la dualité fondamentale entre le monde matériel, vu comme mauvais, et le monde spirituel, vu comme bon?"
+  },
+  {
+    "correctAnswer": "Le Book of Shadows",
+    "id": 10234567890123610,
+    "options": [
+      "Le Grimoire",
+      "Le Book of Shadows",
+      "Le Liber AL vel Legis",
+      "Le Sepher Yetzirah"
+    ],
+    "question": "Dans la Wicca moderne, comment est appelé le livre de rituels, de sorts et de traditions?"
   }
 ]

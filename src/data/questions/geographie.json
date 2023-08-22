@@ -504,5 +504,1765 @@
       "Francfort"
     ],
     "question": "Quelle est la capitale de l'Allemagne ?"
+  },
+  {
+    "correctAnswer": "Ural",
+    "id": 2001000010001,
+    "options": [
+      "Hindu Kush",
+      "Ural",
+      "Carpathians",
+      "Altai"
+    ],
+    "question": "Quelle chaîne de montagnes marque traditionnellement la frontière entre l'Europe et l'Asie?"
+  },
+  {
+    "correctAnswer": "Pangée",
+    "id": 2001000020002,
+    "options": [
+      "Pangée",
+      "Laurasia",
+      "Gondwana",
+      "Rodinia"
+    ],
+    "question": "Comment s'appelle le supercontinent qui existait il y a environ 300 millions d'années?"
+  },
+  {
+    "correctAnswer": "Hawaï",
+    "id": 2001000030003,
+    "options": [
+      "Galápagos",
+      "Hawaï",
+      "Bermudes",
+      "Seychelles"
+    ],
+    "question": "Quel archipel est le résultat de points chauds sous la croûte terrestre?"
+  },
+  {
+    "correctAnswer": "Guaraní",
+    "id": 2001000040004,
+    "options": [
+      "Amazon",
+      "Niger",
+      "Mekong",
+      "Guaraní"
+    ],
+    "question": "Quelle est l'une des plus grandes réserves d'eau douce souterraine au monde, située en Amérique du Sud?"
+  },
+  {
+    "correctAnswer": "Vostok",
+    "id": 2001000050005,
+    "options": [
+      "Baïkal",
+      "Tanganyika",
+      "Caspian",
+      "Vostok"
+    ],
+    "question": "Quel lac détient le record de la plus grande profondeur sous la glace en Antarctique?"
+  },
+  {
+    "correctAnswer": "Islande",
+    "id": 2001000060006,
+    "options": [
+      "Nouvelle-Zélande",
+      "Islande",
+      "Philippines",
+      "Japon"
+    ],
+    "question": "Quel pays est situé sur la dorsale médio-atlantique et la plaque tectonique eurasienne?"
+  },
+  {
+    "correctAnswer": "Mausolée de l'empereur Qin",
+    "id": 2001000070007,
+    "options": [
+      "Grande Muraille de Chine",
+      "Cité interdite",
+      "Palais d'été",
+      "Mausolée de l'empereur Qin"
+    ],
+    "question": "Où se trouvent les guerriers en terre cuite en Chine?"
+  },
+  {
+    "correctAnswer": "Mer d'Aral",
+    "id": 2001000080008,
+    "options": [
+      "Mer Caspienne",
+      "Mer Noire",
+      "Mer d'Aral",
+      "Mer Baltique"
+    ],
+    "question": "Quelle mer, autrefois le quatrième plus grand lac du monde, a considérablement rétréci en raison de la diversion de l'eau pour l'irrigation?"
+  },
+  {
+    "correctAnswer": "Tchad",
+    "id": 2001000090009,
+    "options": [
+      "Niger",
+      "Congo",
+      "Tchad",
+      "Tanzanie"
+    ],
+    "question": "Quel pays africain n'a pas d'accès à la mer mais abrite le lac du même nom?"
+  },
+  {
+    "correctAnswer": "San Francisco",
+    "id": 2001000010010,
+    "options": [
+      "San Diego",
+      "Los Angeles",
+      "San Francisco",
+      "Seattle"
+    ],
+    "question": "Quelle ville américaine est située près de la faille de San Andreas?"
+  },
+  {
+    "correctAnswer": "Vésuve",
+    "id": 2001000011011,
+    "options": [
+      "Etna",
+      "Stromboli",
+      "Vésuve",
+      "Mont Blanc"
+    ],
+    "question": "Quel volcan est responsable de la destruction de Pompéi en 79 après J.C.?"
+  },
+  {
+    "correctAnswer": "Sahel",
+    "id": 2001000012012,
+    "options": [
+      "Sahara",
+      "Kalahari",
+      "Sahel",
+      "Savane"
+    ],
+    "question": "Quelle région se trouve entre le Sahara au nord et les savanes au sud en Afrique?"
+  },
+  {
+    "correctAnswer": "Salinité",
+    "id": 2001000013013,
+    "options": [
+      "Température",
+      "Salinité",
+      "Oxygénation",
+      "pH"
+    ],
+    "question": "Quel facteur est principalement responsable de la stratification des masses d'eau dans les océans?"
+  },
+  {
+    "correctAnswer": "Baïkonour",
+    "id": 2001000014014,
+    "options": [
+      "Cape Canaveral",
+      "Baïkonour",
+      "Guyane",
+      "Tanegashima"
+    ],
+    "question": "Quel cosmodrome est situé au Kazakhstan et est utilisé par la Russie pour ses lancements spatiaux?"
+  },
+  {
+    "correctAnswer": "Sibérie",
+    "id": 2001000015015,
+    "options": [
+      "Mongolie",
+      "Tibet",
+      "Sibérie",
+      "Kazakhstan"
+    ],
+    "question": "Quelle région de la Russie est connue pour ses hivers extrêmement froids et ses vastes forêts?"
+  },
+  {
+    "correctAnswer": "Marie Byrd Land",
+    "id": 2001000016016,
+    "options": [
+      "Ellsworth Land",
+      "Dronning Maud Land",
+      "Marie Byrd Land",
+      "Adélie Land"
+    ],
+    "question": "Quelle partie de l'Antarctique n'est revendiquée par aucun pays?"
+  },
+  {
+    "correctAnswer": "Choropleth",
+    "id": 2001000017017,
+    "options": [
+      "Isoline",
+      "Dot distribution",
+      "Choropleth",
+      "Proportional symbol"
+    ],
+    "question": "Quel type de carte utilise des variations de couleur ou de teinte pour représenter des valeurs de données statistiques?"
+  },
+  {
+    "correctAnswer": "Troposphère",
+    "id": 2001000018018,
+    "options": [
+      "Mésosphère",
+      "Stratosphère",
+      "Troposphère",
+      "Exosphère"
+    ],
+    "question": "Dans quelle couche de l'atmosphère terrestre se produisent la plupart des phénomènes météorologiques?"
+  },
+  {
+    "correctAnswer": "Honduras",
+    "id": 2001000019019,
+    "options": [
+      "Nicaragua",
+      "Costa Rica",
+      "Honduras",
+      "Guatemala"
+    ],
+    "question": "Quel pays d'Amérique centrale a la ville de Tegucigalpa comme capitale?"
+  },
+  {
+    "correctAnswer": "Plateau tibétain",
+    "id": 2001000020020,
+    "options": [
+      "Plateau du Colorado",
+      "Plateau du Deccan",
+      "Plateau d'Anatolie",
+      "Plateau tibétain"
+    ],
+    "question": "Quelle formation géographique est souvent appelée le 'toit du monde'?"
+  },
+  {
+    "correctAnswer": "Taal",
+    "id": 3001000021001,
+    "options": [
+      "Pinatubo",
+      "Mayon",
+      "Taal",
+      "Bulusan"
+    ],
+    "question": "Quel volcan philippin est situé sur une île au milieu d'un lac?"
+  },
+  {
+    "correctAnswer": "Svalbard",
+    "id": 3001000022002,
+    "options": [
+      "Groenland",
+      "Svalbard",
+      "Îles Féroé",
+      "Aland"
+    ],
+    "question": "Quel archipel se trouve au nord de la Norvège et est connu pour sa banque de graines mondiale?"
+  },
+  {
+    "correctAnswer": "Orographique",
+    "id": 3001000023003,
+    "options": [
+      "Frontal",
+      "Orographique",
+      "Convection",
+      "Radiation"
+    ],
+    "question": "Quel type de précipitation est causé par l'élévation d'air humide sur les montagnes?"
+  },
+  {
+    "correctAnswer": "Atoll",
+    "id": 3001000024004,
+    "options": [
+      "Île-barrière",
+      "Île continentale",
+      "Île océanique",
+      "Atoll"
+    ],
+    "question": "Quel type d'île est formé par un anneau de corail entourant une lagune, souvent partiellement ou totalement submergé?"
+  },
+  {
+    "correctAnswer": "Potosí",
+    "id": 3001000025005,
+    "options": [
+      "Sucre",
+      "La Paz",
+      "Cochabamba",
+      "Potosí"
+    ],
+    "question": "Quelle ville bolivienne était autrefois considérée comme la plus grande ville d'Amérique en raison de ses mines d'argent?"
+  },
+  {
+    "correctAnswer": "Tchernozem",
+    "id": 3001000026006,
+    "options": [
+      "Pedocal",
+      "Laterite",
+      "Tchernozem",
+      "Spodosol"
+    ],
+    "question": "Quel type de sol fertile est caractéristique des prairies tempérées et est connu pour sa couleur foncée et sa riche teneur en matière organique?"
+  },
+  {
+    "correctAnswer": "Transnistrie",
+    "id": 3001000027007,
+    "options": [
+      "Transnistrie",
+      "Abkhazie",
+      "Ossetie du Sud",
+      "Nagorno-Karabakh"
+    ],
+    "question": "Quelle région séparatiste est située entre le fleuve Dniestr et la frontière ukrainienne?"
+  },
+  {
+    "correctAnswer": "Vale do Amanhecer",
+    "id": 3001000028008,
+    "options": [
+      "Brasília",
+      "São Paulo",
+      "Vale do Amanhecer",
+      "Rio de Janeiro"
+    ],
+    "question": "Quelle communauté religieuse brésilienne est connue pour ses croyances éclectiques combinant le christianisme, le spiritisme et des éléments ufologiques?"
+  },
+  {
+    "correctAnswer": "Karst",
+    "id": 3001000029009,
+    "options": [
+      "Alluvial",
+      "Lacustre",
+      "Estuaire",
+      "Karst"
+    ],
+    "question": "Quel type de topographie est caractérisé par des grottes, des gouffres et des sources, formés par la dissolution de roches solubles comme le calcaire?"
+  },
+  {
+    "correctAnswer": "Loess",
+    "id": 3001000030010,
+    "options": [
+      "Moor",
+      "Pampas",
+      "Loess",
+      "Mangrove"
+    ],
+    "question": "Quel type de dépôt éolien est composé de particules fines de silt et de clay, et est fertile mais sujet à l'érosion?"
+  },
+  {
+    "correctAnswer": "Timbuktu",
+    "id": 3001000031011,
+    "options": [
+      "Casablanca",
+      "Cairo",
+      "Timbuktu",
+      "Lagos"
+    ],
+    "question": "Quelle ville historique est située près du fleuve Niger au Mali et était autrefois un centre majeur d'échanges commerciaux et d'études islamiques?"
+  },
+  {
+    "correctAnswer": "Samarkand",
+    "id": 3001000032012,
+    "options": [
+      "Tashkent",
+      "Bishkek",
+      "Dushanbe",
+      "Samarkand"
+    ],
+    "question": "Quelle ville ouzbèke était un carrefour majeur sur la Route de la Soie et abrite le mausolée du conquérant Tamerlan?"
+  },
+  {
+    "correctAnswer": "Hadley",
+    "id": 3001000033013,
+    "options": [
+      "Polar",
+      "Hadley",
+      "Ferrel",
+      "Trade"
+    ],
+    "question": "Quelle cellule de circulation atmosphérique se trouve entre l'équateur et environ 30° de latitude et est responsable des alizés?"
+  },
+  {
+    "correctAnswer": "Altiplano",
+    "id": 3001000034014,
+    "options": [
+      "Meseta",
+      "Llanos",
+      "Pampas",
+      "Altiplano"
+    ],
+    "question": "Quelle haute plaine se trouve entre les cordillères occidentale et orientale des Andes en Bolivie et au Pérou?"
+  },
+  {
+    "correctAnswer": "Abyssal",
+    "id": 3001000035015,
+    "options": [
+      "Continental",
+      "Néritique",
+      "Bathyal",
+      "Abyssal"
+    ],
+    "question": "Quelle zone océanique se trouve à des profondeurs comprises entre 4000 et 6000 mètres?"
+  },
+  {
+    "correctAnswer": "Tierra del Fuego",
+    "id": 3001000036016,
+    "options": [
+      "Galápagos",
+      "Falkland",
+      "Easter",
+      "Tierra del Fuego"
+    ],
+    "question": "Quel archipel se trouve à l'extrême sud de l'Amérique du Sud et est partagé entre le Chili et l'Argentine?"
+  },
+  {
+    "correctAnswer": "Vasa",
+    "id": 3001000037017,
+    "options": [
+      "Viking",
+      "Vasa",
+      "Endeavour",
+      "Santa Maria"
+    ],
+    "question": "Quel navire suédois du 17e siècle a coulé lors de son voyage inaugural et a été récupéré près de 300 ans plus tard pour être exposé dans un musée?"
+  },
+  {
+    "correctAnswer": "Asie",
+    "id": 3001000038018,
+    "options": [
+      "Europe",
+      "Afrique",
+      "Amérique du Nord",
+      "Asie"
+    ],
+    "question": "Lequel des continents suivants a le plus de pays sans littoral?"
+  },
+  {
+    "correctAnswer": "Tchouktches",
+    "id": 3001000039019,
+    "options": [
+      "Béring",
+      "Hudson",
+      "Tchouktches",
+      "Okhotsk"
+    ],
+    "question": "Quelle mer borde la Russie et l'Alaska, et est située au nord de la mer de Béring?"
+  },
+  {
+    "correctAnswer": "Brunei",
+    "id": 3001000040020,
+    "options": [
+      "Qatar",
+      "Kuwait",
+      "Brunei",
+      "Bahrain"
+    ],
+    "question": "Quel pays, riche en pétrole, est situé sur l'île de Bornéo et est entièrement entouré par la Malaisie?"
+  },
+  {
+    "correctAnswer": "Lac Titicaca",
+    "id": 4001000041001,
+    "options": [
+      "Lac Maracaibo",
+      "Lac Nicaragua",
+      "Lac Titicaca",
+      "Lac Tahoe"
+    ],
+    "question": "Quel est le plus haut lac navigable du monde, situé à la frontière entre le Pérou et la Bolivie?"
+  },
+  {
+    "correctAnswer": "Tectonique des plaques",
+    "id": 4001000042002,
+    "options": [
+      "Érosion éolienne",
+      "Glaciation",
+      "Météorisation chimique",
+      "Tectonique des plaques"
+    ],
+    "question": "Quelle théorie explique la formation des montagnes, les séismes et la formation des fosses océaniques?"
+  },
+  {
+    "correctAnswer": "Doggerland",
+    "id": 4001000043003,
+    "options": [
+      "Atlantide",
+      "Doggerland",
+      "Mu",
+      "Lemuria"
+    ],
+    "question": "Quelle région submergée reliait autrefois la Grande-Bretagne au continent européen pendant l'âge de pierre?"
+  },
+  {
+    "correctAnswer": "La Tranchée de Porto Rico",
+    "id": 4001000044004,
+    "options": [
+      "Fosse des Mariannes",
+      "Fosse de Sunda",
+      "Fosse des Tonga",
+      "La Tranchée de Porto Rico"
+    ],
+    "question": "Quelle est la fosse océanique la plus profonde de l'océan Atlantique?"
+  },
+  {
+    "correctAnswer": "Guyots",
+    "id": 4001000045005,
+    "options": [
+      "Atolls",
+      "Guyots",
+      "Seamounts",
+      "Récifs barrières"
+    ],
+    "question": "Comment appelle-t-on les montagnes sous-marines qui ont un sommet aplati en raison de l'érosion?"
+  },
+  {
+    "correctAnswer": "Socotra",
+    "id": 4001000046006,
+    "options": [
+      "Sicile",
+      "Malte",
+      "Chypre",
+      "Socotra"
+    ],
+    "question": "Quelle île, située près de la corne de l'Afrique, est célèbre pour sa biodiversité unique, notamment l'arbre à encens et l'arbre bouteille?"
+  },
+  {
+    "correctAnswer": "Guatemala",
+    "id": 4001000047007,
+    "options": [
+      "Salvador",
+      "Honduras",
+      "Nicaragua",
+      "Guatemala"
+    ],
+    "question": "Quel pays d'Amérique centrale est célèbre pour ses ruines mayas, notamment la cité de Tikal?"
+  },
+  {
+    "correctAnswer": "Sahul",
+    "id": 4001000048008,
+    "options": [
+      "Zealandia",
+      "Laurasia",
+      "Sahul",
+      "Gondwana"
+    ],
+    "question": "Quel est le nom du plateau continental qui englobe l'Australie, la Nouvelle-Guinée et la Tasmanie?"
+  },
+  {
+    "correctAnswer": "Danakil",
+    "id": 4001000049009,
+    "options": [
+      "Kalahari",
+      "Namib",
+      "Danakil",
+      "Sahara"
+    ],
+    "question": "Quelle dépression, située en Éthiopie, est l'une des régions les plus chaudes et les plus basses du monde?"
+  },
+  {
+    "correctAnswer": "Annapurna",
+    "id": 4001000050010,
+    "options": [
+      "K2",
+      "Everest",
+      "Kangchenjunga",
+      "Annapurna"
+    ],
+    "question": "Quelle montagne de l'Himalaya est considérée comme l'une des plus dangereuses à gravir en raison de son taux élevé de mortalité?"
+  },
+  {
+    "correctAnswer": "Îles Spratleys",
+    "id": 4001000051011,
+    "options": [
+      "Îles Paracel",
+      "Îles Malouines",
+      "Îles Galápagos",
+      "Îles Spratleys"
+    ],
+    "question": "Quel groupe d'îles en mer de Chine méridionale est revendiqué par plusieurs nations et est le centre de tensions géopolitiques?"
+  },
+  {
+    "correctAnswer": "Makgadikgadi",
+    "id": 4001000052012,
+    "options": [
+      "Etosha",
+      "Makgadikgadi",
+      "Uyuni",
+      "Bonneville"
+    ],
+    "question": "Quel grand bassin salin se trouve au Botswana et est l'un des plus grands du monde?"
+  },
+  {
+    "correctAnswer": "Bassin du Congo",
+    "id": 4001000053013,
+    "options": [
+      "Bassin de l'Amazone",
+      "Bassin du Mississippi",
+      "Bassin du Nil",
+      "Bassin du Congo"
+    ],
+    "question": "Quel bassin fluvial est le deuxième plus grand bassin versant de forêt tropicale au monde après l'Amazone?"
+  },
+  {
+    "correctAnswer": "Péninsule de Yamal",
+    "id": 4001000054014,
+    "options": [
+      "Péninsule du Kamtchatka",
+      "Péninsule de Jutland",
+      "Péninsule de Kola",
+      "Péninsule de Yamal"
+    ],
+    "question": "Quelle péninsule russe est connue pour ses vastes réserves de gaz naturel et sa population nomade de Nénètses?"
+  },
+  {
+    "correctAnswer": "Vallée de la mort",
+    "id": 4001000055015,
+    "options": [
+      "Sahara",
+      "Atacama",
+      "Vallée de la mort",
+      "Gobi"
+    ],
+    "question": "Quelle région des États-Unis détient le record de la température la plus élevée jamais enregistrée sur Terre?"
+  },
+  {
+    "correctAnswer": "Géorgie du Sud",
+    "id": 4001000056016,
+    "options": [
+      "Îles Sandwich du Sud",
+      "Îles Malouines",
+      "Géorgie du Sud",
+      "Îles Kerguelen"
+    ],
+    "question": "Quelle île subantarctique a été le point d'arrivée d'Ernest Shackleton lors de son célèbre voyage de sauvetage en 1916?"
+  },
+  {
+    "correctAnswer": "Tuz Gölü",
+    "id": 4001000057017,
+    "options": [
+      "Lac Balaton",
+      "Lac Sevan",
+      "Lac Ohrid",
+      "Tuz Gölü"
+    ],
+    "question": "Quel est le deuxième plus grand lac de Turquie, célèbre pour sa salinité élevée?"
+  },
+  {
+    "correctAnswer": "Mont Olympe",
+    "id": 4001000058018,
+    "options": [
+      "Mont Etna",
+      "Mont Blanc",
+      "Mont Olympe",
+      "Mont Elbrous"
+    ],
+    "question": "Quelle montagne sur Mars est le plus haut volcan du système solaire?"
+  },
+  {
+    "correctAnswer": "Îles de Socotra",
+    "id": 4001000059019,
+    "options": [
+      "Îles Galápagos",
+      "Îles de Socotra",
+      "Îles Canaries",
+      "Îles des Açores"
+    ],
+    "question": "Quel archipel est situé près de la corne de l'Afrique et est célèbre pour sa biodiversité endémique?"
+  },
+  {
+    "correctAnswer": "La Grande Dune de Pyla",
+    "id": 4001000060020,
+    "options": [
+      "Dune du Sahara",
+      "Dune de Namib",
+      "Dune de Jockey's Ridge",
+      "La Grande Dune de Pyla"
+    ],
+    "question": "Quelle est la plus grande dune de sable d'Europe, située en France?"
+  },
+  {
+    "correctAnswer": "Islande",
+    "id": 5001000061001,
+    "options": [
+      "Norvège",
+      "Groenland",
+      "Islande",
+      "Féroé"
+    ],
+    "question": "Quel pays est situé sur deux plaques tectoniques, la plaque nord-américaine et la plaque eurasienne?"
+  },
+  {
+    "correctAnswer": "Les Alpes",
+    "id": 5001000062002,
+    "options": [
+      "Les Andes",
+      "L'Himalaya",
+      "Les Rocheuses",
+      "Les Alpes"
+    ],
+    "question": "Quelle chaîne de montagnes s'étend à travers huit pays européens, dont la France, la Suisse et l'Italie?"
+  },
+  {
+    "correctAnswer": "Lena",
+    "id": 5001000063003,
+    "options": [
+      "Amur",
+      "Ob",
+      "Yenisei",
+      "Lena"
+    ],
+    "question": "Quel fleuve en Russie coule principalement au nord pour se déverser dans l'océan Arctique?"
+  },
+  {
+    "correctAnswer": "Château d'If",
+    "id": 5001000064004,
+    "options": [
+      "Château de Versailles",
+      "Château de Chambord",
+      "Château de Fontainebleau",
+      "Château d'If"
+    ],
+    "question": "Quel château français, situé sur une île près de Marseille, est célèbre pour avoir été le lieu de détention du personnage fictif Edmond Dantès dans 'Le Comte de Monte-Cristo'?"
+  },
+  {
+    "correctAnswer": "Vatican",
+    "id": 5001000065005,
+    "options": [
+      "San Marino",
+      "Malte",
+      "Monaco",
+      "Vatican"
+    ],
+    "question": "Quel est le plus petit État souverain du monde en termes de superficie?"
+  },
+  {
+    "correctAnswer": "Lac Baïkal",
+    "id": 5001000066006,
+    "options": [
+      "Lac Supérieur",
+      "Lac Tanganyika",
+      "Lac Vostok",
+      "Lac Baïkal"
+    ],
+    "question": "Quel lac est le plus profond du monde et contient environ 20% de l'eau douce non gelée de la planète?"
+  },
+  {
+    "correctAnswer": "Arabe",
+    "id": 5001000067007,
+    "options": [
+      "Persique",
+      "Arabe",
+      "Baltique",
+      "d'Aden"
+    ],
+    "question": "La mer Rouge se jette dans quel autre étendue d'eau par le détroit de Bab-el-Mandeb?"
+  },
+  {
+    "correctAnswer": "Sarajevo",
+    "id": 5001000068008,
+    "options": [
+      "Belgrade",
+      "Skopje",
+      "Zagreb",
+      "Sarajevo"
+    ],
+    "question": "Quelle ville fut le théâtre de l'assassinat de l'archiduc François-Ferdinand en 1914, un événement qui a déclenché la Première Guerre mondiale?"
+  },
+  {
+    "correctAnswer": "Karakoum",
+    "id": 5001000069009,
+    "options": [
+      "Gobi",
+      "Kalahari",
+      "Sahara",
+      "Karakoum"
+    ],
+    "question": "Quel désert, situé principalement au Turkménistan, signifie 'montagnes noires' en turc?"
+  },
+  {
+    "correctAnswer": "Bhoutan",
+    "id": 5001000070010,
+    "options": [
+      "Mongolie",
+      "Népal",
+      "Bhoutan",
+      "Myanmar"
+    ],
+    "question": "Quel pays mesure son succès non pas par le PIB mais par l'indice du Bonheur National Brut?"
+  },
+  {
+    "correctAnswer": "Le Nil Bleu et le Nil Blanc",
+    "id": 5001000071011,
+    "options": [
+      "Le Nil Bleu et le Nil Rouge",
+      "Le Nil Jaune et le Nil Bleu",
+      "Le Nil Blanc et le Nil Rouge",
+      "Le Nil Bleu et le Nil Blanc"
+    ],
+    "question": "Quels sont les deux principaux affluents du Nil?"
+  },
+  {
+    "correctAnswer": "Gibraltar",
+    "id": 5001000072012,
+    "options": [
+      "Suez",
+      "Malacca",
+      "Panama",
+      "Gibraltar"
+    ],
+    "question": "Quel détroit relie la mer Méditerranée à l'océan Atlantique?"
+  },
+  {
+    "correctAnswer": "Uzbekistan",
+    "id": 5001000073013,
+    "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Turkménistan",
+      "Kirghizistan"
+    ],
+    "question": "Quel pays est le seul au monde à être entièrement entouré de pays enclavés?"
+  },
+  {
+    "correctAnswer": "Laponie",
+    "id": 5001000074014,
+    "options": [
+      "Laponie",
+      "Karelia",
+      "Samogitia",
+      "Silesia"
+    ],
+    "question": "Quelle région s'étend au nord de la Norvège, de la Suède, de la Finlande et du nord-ouest de la Russie, et est le foyer du peuple Sami?"
+  },
+  {
+    "correctAnswer": "Papouasie-Nouvelle-Guinée",
+    "id": 5001000075015,
+    "options": [
+      "Indonésie",
+      "Australie",
+      "Nouvelle-Zélande",
+      "Papouasie-Nouvelle-Guinée"
+    ],
+    "question": "Quel pays possède la plus grande diversité linguistique au monde avec plus de 800 langues parlées?"
+  },
+  {
+    "correctAnswer": "Le Mont Ararat",
+    "id": 5001000076016,
+    "options": [
+      "Le Mont Sinai",
+      "Le Mont Kilimandjaro",
+      "Le Mont Everest",
+      "Le Mont Ararat"
+    ],
+    "question": "Selon la légende, sur quelle montagne l'Arche de Noé s'est-elle échouée après le déluge?"
+  },
+  {
+    "correctAnswer": "Rwanda",
+    "id": 5001000077017,
+    "options": [
+      "Uganda",
+      "Burundi",
+      "Rwanda",
+      "Tanzanie"
+    ],
+    "question": "Quel pays est surnommé 'Le pays aux mille collines' en raison de son topographie vallonnée?"
+  },
+  {
+    "correctAnswer": "Chernobyl",
+    "id": 5001000078018,
+    "options": [
+      "Fukushima",
+      "Three Mile Island",
+      "Kyshtym",
+      "Chernobyl"
+    ],
+    "question": "Quelle ville d'Ukraine est célèbre pour son accident nucléaire en 1986?"
+  },
+  {
+    "correctAnswer": "La Serbie",
+    "id": 5001000079019,
+    "options": [
+      "La Bulgarie",
+      "La Macédoine du Nord",
+      "La Serbie",
+      "La Grèce"
+    ],
+    "question": "Belgrade est la capitale de quel pays?"
+  },
+  {
+    "correctAnswer": "Chili",
+    "id": 5001000080020,
+    "options": [
+      "Argentine",
+      "Chili",
+      "Bolivie",
+      "Pérou"
+    ],
+    "question": "Quel pays d'Amérique du Sud possède le désert d'Atacama, l'un des endroits les plus secs du monde?"
+  },
+  {
+    "correctAnswer": "Irkoutsk",
+    "id": 6001000081001,
+    "options": [
+      "Yakoutsk",
+      "Vladivostok",
+      "Novosibirsk",
+      "Irkoutsk"
+    ],
+    "question": "Quelle ville russe est souvent associée au lac Baïkal, le lac le plus profond du monde?"
+  },
+  {
+    "correctAnswer": "Mer Caspienne",
+    "id": 6001000082002,
+    "options": [
+      "Mer Noire",
+      "Mer d'Aral",
+      "Mer Caspienne",
+      "Mer Baltique"
+    ],
+    "question": "Quelle étendue d'eau est le plus grand lac du monde en termes de superficie?"
+  },
+  {
+    "correctAnswer": "Téhéran",
+    "id": 6001000083003,
+    "options": [
+      "Bagdad",
+      "Ankara",
+      "Kaboul",
+      "Téhéran"
+    ],
+    "question": "Quelle est la capitale de l'Iran?"
+  },
+  {
+    "correctAnswer": "Djibouti",
+    "id": 6001000084004,
+    "options": [
+      "Érythrée",
+      "Soudan",
+      "Somalie",
+      "Djibouti"
+    ],
+    "question": "Quel petit pays est situé à l'entrée sud de la mer Rouge, face au Yémen?"
+  },
+  {
+    "correctAnswer": "Bengale occidental",
+    "id": 6001000085005,
+    "options": [
+      "Punjab",
+      "Gujarat",
+      "Bengale occidental",
+      "Kerala"
+    ],
+    "question": "Dans quel État indien se trouve la ville de Calcutta (Kolkata)?"
+  },
+  {
+    "correctAnswer": "Tasmanie",
+    "id": 6001000086006,
+    "options": [
+      "Nouvelle-Calédonie",
+      "Nouvelle-Zélande",
+      "Tasmanie",
+      "Fidji"
+    ],
+    "question": "Quelle île est un État de l'Australie situé au sud du continent principal?"
+  },
+  {
+    "correctAnswer": "Krakatoa",
+    "id": 6001000087007,
+    "options": [
+      "Vesuvius",
+      "St. Helens",
+      "Etna",
+      "Krakatoa"
+    ],
+    "question": "Quel volcan, situé entre Java et Sumatra, est célèbre pour son éruption explosive en 1883?"
+  },
+  {
+    "correctAnswer": "Galápagos",
+    "id": 6001000088008,
+    "options": [
+      "Maldives",
+      "Bahamas",
+      "Galápagos",
+      "Seychelles"
+    ],
+    "question": "Sur quel archipel Charles Darwin a-t-il basé une grande partie de ses recherches qui ont conduit à sa théorie de l'évolution?"
+  },
+  {
+    "correctAnswer": "Caracas",
+    "id": 6001000089009,
+    "options": [
+      "Bogotá",
+      "Lima",
+      "Quito",
+      "Caracas"
+    ],
+    "question": "Quelle est la capitale du Venezuela?"
+  },
+  {
+    "correctAnswer": "Arctique",
+    "id": 6001000090010,
+    "options": [
+      "Indien",
+      "Arctique",
+      "Atlantique",
+      "Pacifique"
+    ],
+    "question": "Quel océan entoure l'archipel de Svalbard?"
+  },
+  {
+    "correctAnswer": "Fjords",
+    "id": 6001000091011,
+    "options": [
+      "Estuaires",
+      "Atolls",
+      "Fjords",
+      "Lagunes"
+    ],
+    "question": "Comment sont appelées les étroites et profondes inlets caractéristiques de la côte ouest de la Norvège?"
+  },
+  {
+    "correctAnswer": "Bosnie-Herzégovine",
+    "id": 6001000092012,
+    "options": [
+      "Slovénie",
+      "Bosnie-Herzégovine",
+      "Monténégro",
+      "Macédoine du Nord"
+    ],
+    "question": "Sarajevo est la capitale de quel pays?"
+  },
+  {
+    "correctAnswer": "Angkor Wat",
+    "id": 6001000093013,
+    "options": [
+      "Borobudur",
+      "Prambanan",
+      "Angkor Wat",
+      "Ayutthaya"
+    ],
+    "question": "Quel temple complexe, situé au Cambodge, est le plus grand monument religieux du monde?"
+  },
+  {
+    "correctAnswer": "Rivière Orénoque",
+    "id": 6001000094014,
+    "options": [
+      "Rivière Amazone",
+      "Rivière Parana",
+      "Rivière Magdalena",
+      "Rivière Orénoque"
+    ],
+    "question": "Quelle grande rivière traverse principalement le Venezuela et se jette dans l'Atlantique?"
+  },
+  {
+    "correctAnswer": "Pampas",
+    "id": 6001000095015,
+    "options": [
+      "Llanos",
+      "Pampas",
+      "Gran Chaco",
+      "Patagonia"
+    ],
+    "question": "Quelle région d'Amérique du Sud est une vaste plaine fertile située principalement en Argentine?"
+  },
+  {
+    "correctAnswer": "Aconcagua",
+    "id": 6001000096016,
+    "options": [
+      "Ojos del Salado",
+      "Aconcagua",
+      "Mont McKinley",
+      "Pico Cristóbal Colón"
+    ],
+    "question": "Quel est le plus haut sommet des Amériques?"
+  },
+  {
+    "correctAnswer": "Tchad",
+    "id": 6001000097017,
+    "options": [
+      "Tchad",
+      "Niger",
+      "Mali",
+      "Soudan"
+    ],
+    "question": "Le lac Tchad est situé principalement dans quel pays africain?"
+  },
+  {
+    "correctAnswer": "Andorre",
+    "id": 6001000098018,
+    "options": [
+      "Monaco",
+      "Liechtenstein",
+      "Saint-Marin",
+      "Andorre"
+    ],
+    "question": "Quel petit pays est situé dans les Pyrénées entre la France et l'Espagne?"
+  },
+  {
+    "correctAnswer": "Tibesti",
+    "id": 6001000099019,
+    "options": [
+      "Atlas",
+      "Drakensberg",
+      "Tibesti",
+      "Simien"
+    ],
+    "question": "Quelles montagnes, situées principalement au Tchad, sont les plus élevées du désert du Sahara?"
+  },
+  {
+    "correctAnswer": "Moldavie",
+    "id": 6001000100020,
+    "options": [
+      "Lettonie",
+      "Estonie",
+      "Moldavie",
+      "Lituanie"
+    ],
+    "question": "Chisinau est la capitale de quel pays?"
+  },
+  {
+    "correctAnswer": "Le Yangtsé",
+    "id": 7001000101001,
+    "options": [
+      "Le Fleuve Jaune",
+      "Le Mékong",
+      "Le Yangtsé",
+      "Le Fleuve Bleu"
+    ],
+    "question": "Quel est le plus long fleuve d'Asie?"
+  },
+  {
+    "correctAnswer": "Cappadoce",
+    "id": 7001000102002,
+    "options": [
+      "Pamukkale",
+      "Cappadoce",
+      "Anatolie",
+      "Antioche"
+    ],
+    "question": "Quelle région de Turquie est célèbre pour ses formations rocheuses uniques et ses villes souterraines?"
+  },
+  {
+    "correctAnswer": "Valparaiso",
+    "id": 7001000103003,
+    "options": [
+      "Santiago",
+      "Punta Arenas",
+      "Valparaiso",
+      "Antofagasta"
+    ],
+    "question": "Quelle ville chilienne est un important port et est inscrite au patrimoine mondial de l'UNESCO pour son architecture et son urbanisme?"
+  },
+  {
+    "correctAnswer": "L'Uruguay",
+    "id": 7001000104004,
+    "options": [
+      "Le Paraguay",
+      "L'Argentine",
+      "Le Brésil",
+      "L'Uruguay"
+    ],
+    "question": "Quel pays d'Amérique du Sud est bordé par le Brésil à l'est et l'Argentine à l'ouest, et possède Montevideo comme capitale?"
+  },
+  {
+    "correctAnswer": "Les Maoris",
+    "id": 7001000105005,
+    "options": [
+      "Les Aborigènes",
+      "Les Samis",
+      "Les Ainu",
+      "Les Maoris"
+    ],
+    "question": "Quel est le nom du peuple indigène de Nouvelle-Zélande?"
+  },
+  {
+    "correctAnswer": "Le Rift africain",
+    "id": 7001000106006,
+    "options": [
+      "La Grande Vallée du Rift",
+      "Le Rift africain",
+      "La Vallée de la mort",
+      "Le Grand Canyon"
+    ],
+    "question": "Quelle formation géologique s'étend du nord-est de l'Afrique jusqu'au Mozambique et est marquée par plusieurs lacs profonds et des volcans actifs?"
+  },
+  {
+    "correctAnswer": "Tropique du Cancer",
+    "id": 7001000107007,
+    "options": [
+      "Équateur",
+      "Tropique du Capricorne",
+      "Tropique du Cancer",
+      "Cercle arctique"
+    ],
+    "question": "Quelle ligne imaginaire traverse notamment le Mexique, l'Inde et l'Arabie Saoudite, marquant la latitude la plus au nord où le soleil peut être directement au-dessus à midi?"
+  },
+  {
+    "correctAnswer": "Ouessant",
+    "id": 7001000108008,
+    "options": [
+      "Belle-Île",
+      "Ouessant",
+      "Ré",
+      "Noirmoutier"
+    ],
+    "question": "Quelle est la plus occidentale des îles métropolitaines françaises?"
+  },
+  {
+    "correctAnswer": "Seychelles",
+    "id": 7001000109009,
+    "options": [
+      "Comores",
+      "Seychelles",
+      "Maldives",
+      "Maurice"
+    ],
+    "question": "Quel archipel de l'océan Indien est composé de 115 îles et est célèbre pour ses plages de granit?"
+  },
+  {
+    "correctAnswer": "Le delta du Mékong",
+    "id": 7001000110010,
+    "options": [
+      "Le delta du Nil",
+      "Le delta du Gange",
+      "Le delta de l'Amazone",
+      "Le delta du Mékong"
+    ],
+    "question": "Quelle région fertile est souvent appelée 'le bol de riz' du Vietnam?"
+  },
+  {
+    "correctAnswer": "La Lorraine",
+    "id": 7001000111011,
+    "options": [
+      "La Bourgogne",
+      "La Bretagne",
+      "La Normandie",
+      "La Lorraine"
+    ],
+    "question": "Dans quelle région française trouve-t-on la ville de Metz?"
+  },
+  {
+    "correctAnswer": "La Mer d'Aral",
+    "id": 7001000112012,
+    "options": [
+      "La Mer Caspienne",
+      "La Mer Noire",
+      "La Mer d'Okhotsk",
+      "La Mer d'Aral"
+    ],
+    "question": "Quelle mer, située entre le Kazakhstan et l'Ouzbékistan, a vu sa superficie considérablement réduite en raison de projets d'irrigation au XXe siècle?"
+  },
+  {
+    "correctAnswer": "Le Kirghizistan",
+    "id": 7001000113013,
+    "options": [
+      "Le Kazakhstan",
+      "L'Ouzbékistan",
+      "Le Tadjikistan",
+      "Le Kirghizistan"
+    ],
+    "question": "Bichkek est la capitale de quel pays d'Asie centrale?"
+  },
+  {
+    "correctAnswer": "La forêt de Black Forest",
+    "id": 7001000114014,
+    "options": [
+      "La forêt d'Ardennes",
+      "La forêt de Brocéliande",
+      "La forêt de Sherwood",
+      "La forêt de Black Forest"
+    ],
+    "question": "Quelle forêt d'Allemagne est célèbre pour ses légendes et ses horloges à coucou?"
+  },
+  {
+    "correctAnswer": "Le Groenland",
+    "id": 7001000115015,
+    "options": [
+      "Le Groenland",
+      "L'Islande",
+      "Les îles Féroé",
+      "L'Alaska"
+    ],
+    "question": "Quelle est la plus grande île du monde?"
+  },
+  {
+    "correctAnswer": "Le lac Toba",
+    "id": 7001000116016,
+    "options": [
+      "Le lac Baïkal",
+      "Le lac Victoria",
+      "Le lac Toba",
+      "Le lac Tanganyika"
+    ],
+    "question": "Quel lac indonésien est le plus grand lac de cratère du monde et résulte d'une éruption massive survenue il y a environ 74 000 ans?"
+  },
+  {
+    "correctAnswer": "Les îles Canaries",
+    "id": 7001000117017,
+    "options": [
+      "Les îles Baléares",
+      "Les îles Canaries",
+      "Les îles Açores",
+      "Les îles de la Madeleine"
+    ],
+    "question": "Quel archipel espagnol se trouve au large de la côte nord-ouest de l'Afrique?"
+  },
+  {
+    "correctAnswer": "Vésuve",
+    "id": 7001000118018,
+    "options": [
+      "Etna",
+      "Stromboli",
+      "Vésuve",
+      "Kilimandjaro"
+    ],
+    "question": "Quel volcan italien est célèbre pour son éruption en 79 après J.-C. qui a enseveli les villes de Pompéi et d'Herculanum?"
+  },
+  {
+    "correctAnswer": "Tunis",
+    "id": 7001000119019,
+    "options": [
+      "Cairo",
+      "Rabat",
+      "Algiers",
+      "Tunis"
+    ],
+    "question": "Quelle est la capitale de la Tunisie?"
+  },
+  {
+    "correctAnswer": "Le détroit de Béring",
+    "id": 7001000120020,
+    "options": [
+      "Le détroit de Gibraltar",
+      "Le détroit de Magellan",
+      "Le détroit de Malacca",
+      "Le détroit de Béring"
+    ],
+    "question": "Quel détroit sépare la Russie et l'Alaska?"
+  },
+  {
+    "correctAnswer": "Le Danube",
+    "id": 8001000121001,
+    "options": [
+      "Le Rhin",
+      "La Loire",
+      "Le Danube",
+      "Le Douro"
+    ],
+    "question": "Quel fleuve traverse dix pays et se jette dans la mer Noire?"
+  },
+  {
+    "correctAnswer": "Tbilissi",
+    "id": 8001000122002,
+    "options": [
+      "Erevan",
+      "Bakou",
+      "Astana",
+      "Tbilissi"
+    ],
+    "question": "Quelle est la capitale de la Géorgie?"
+  },
+  {
+    "correctAnswer": "L'isthme de Panama",
+    "id": 8001000123003,
+    "options": [
+      "Le détroit de Gibraltar",
+      "L'isthme de Suez",
+      "L'isthme de Panama",
+      "Le détroit de Malacca"
+    ],
+    "question": "Quelle formation géographique relie l'Amérique du Nord et l'Amérique du Sud?"
+  },
+  {
+    "correctAnswer": "Les Appalaches",
+    "id": 8001000124004,
+    "options": [
+      "Les Rocheuses",
+      "Sierra Nevada",
+      "Les Andes",
+      "Les Appalaches"
+    ],
+    "question": "Quelle chaîne de montagnes s'étend principalement de Terre-Neuve au Canada jusqu'à l'Alabama aux États-Unis?"
+  },
+  {
+    "correctAnswer": "La Manche",
+    "id": 8001000125005,
+    "options": [
+      "La mer Baltique",
+      "La mer Noire",
+      "La mer Égée",
+      "La Manche"
+    ],
+    "question": "Quelle mer sépare la France du Royaume-Uni?"
+  },
+  {
+    "correctAnswer": "Le mont Saint Helens",
+    "id": 8001000126006,
+    "options": [
+      "Le mont Rainier",
+      "Le mont McKinley",
+      "Le mont Saint Helens",
+      "Le mont Hood"
+    ],
+    "question": "Quel volcan des États-Unis a connu une éruption majeure en 1980?"
+  },
+  {
+    "correctAnswer": "La mer de Sargasse",
+    "id": 8001000127007,
+    "options": [
+      "La mer des Caraïbes",
+      "La mer de Corail",
+      "La mer d'Aral",
+      "La mer de Sargasse"
+    ],
+    "question": "Quelle mer est connue pour ses vastes étendues d'algues flottantes et est entourée de courants océaniques, la rendant unique car elle n'a pas de côtes?"
+  },
+  {
+    "correctAnswer": "Le delta du Mississippi",
+    "id": 8001000128008,
+    "options": [
+      "Le delta du Nil",
+      "Le delta du Gange",
+      "Le delta du Mississippi",
+      "Le delta du Yangtsé"
+    ],
+    "question": "Quelle région des États-Unis est souvent associée au jazz, en particulier à la ville de La Nouvelle-Orléans?"
+  },
+  {
+    "correctAnswer": "La mer Morte",
+    "id": 8001000129009,
+    "options": [
+      "La mer Rouge",
+      "La mer Morte",
+      "La mer d'Oman",
+      "La mer Méditerranée"
+    ],
+    "question": "Dans quelle étendue d'eau, située entre Israël et la Jordanie, est-il facile de flotter en raison de sa salinité exceptionnellement élevée?"
+  },
+  {
+    "correctAnswer": "Oulan-Bator",
+    "id": 8001000130010,
+    "options": [
+      "Astana",
+      "Bichkek",
+      "Oulan-Bator",
+      "Tachkent"
+    ],
+    "question": "Quelle est la capitale de la Mongolie?"
+  },
+  {
+    "correctAnswer": "La mer d'Aral",
+    "id": 8001000131011,
+    "options": [
+      "La mer Caspienne",
+      "La mer Noire",
+      "La mer d'Azov",
+      "La mer d'Aral"
+    ],
+    "question": "Quelle mer intérieure, située entre le Kazakhstan et l'Ouzbékistan, a connu une réduction dramatique de sa superficie au cours du 20e siècle?"
+  },
+  {
+    "correctAnswer": "L'atoll de Bikini",
+    "id": 8001000132012,
+    "options": [
+      "L'atoll de Midway",
+      "L'atoll de Bikini",
+      "L'atoll de Tarawa",
+      "L'atoll de Kwajalein"
+    ],
+    "question": "Sur quel atoll des îles Marshall les États-Unis ont-ils réalisé des essais nucléaires après la Seconde Guerre mondiale?"
+  },
+  {
+    "correctAnswer": "Les îles Malouines",
+    "id": 8001000133013,
+    "options": [
+      "Les îles Shetland",
+      "Les îles Féroé",
+      "Les îles Orcades",
+      "Les îles Malouines"
+    ],
+    "question": "Quelles îles, situées dans l'Atlantique Sud, ont été le théâtre d'un conflit entre le Royaume-Uni et l'Argentine en 1982?"
+  },
+  {
+    "correctAnswer": "Le plateau du Tibet",
+    "id": 8001000134014,
+    "options": [
+      "Le plateau du Deccan",
+      "Le plateau du Colorado",
+      "Le plateau d'Anatolie",
+      "Le plateau du Tibet"
+    ],
+    "question": "Quelle région, souvent appelée « le toit du monde », est la région la plus élevée et la plus grande du monde?"
+  },
+  {
+    "correctAnswer": "La cordillère des Andes",
+    "id": 8001000135015,
+    "options": [
+      "La chaîne des Cascades",
+      "La chaîne des Brooks",
+      "La cordillère des Andes",
+      "Les montagnes Rocheuses"
+    ],
+    "question": "Quelle est la plus longue chaîne de montagnes continentale du monde?"
+  },
+  {
+    "correctAnswer": "Le Karakoram",
+    "id": 8001000136016,
+    "options": [
+      "L'Himalaya",
+      "Les Alpes",
+      "Le Karakoram",
+      "Les montagnes de l'Atlas"
+    ],
+    "question": "Dans quelle chaîne de montagnes se trouve le célèbre K2, le deuxième sommet le plus élevé du monde après l'Everest?"
+  },
+  {
+    "correctAnswer": "La Polynésie française",
+    "id": 8001000137017,
+    "options": [
+      "Les îles Cook",
+      "Les îles Fidji",
+      "La Polynésie française",
+      "La Nouvelle-Calédonie"
+    ],
+    "question": "À quel territoire d'outre-mer appartient l'île de Bora Bora?"
+  },
+  {
+    "correctAnswer": "L'océan Indien",
+    "id": 8001000138018,
+    "options": [
+      "L'océan Atlantique",
+      "La mer Méditerranée",
+      "L'océan Pacifique",
+      "L'océan Indien"
+    ],
+    "question": "Sur les côtes de quel océan se trouve l'île de Madagascar?"
+  },
+  {
+    "correctAnswer": "L'Afrique",
+    "id": 8001000139019,
+    "options": [
+      "L'Asie",
+      "L'Europe",
+      "L'Afrique",
+      "L'Amérique du Sud"
+    ],
+    "question": "Quel continent est traversé par les tropiques du Cancer et du Capricorne?"
+  },
+  {
+    "correctAnswer": "Le Sahara",
+    "id": 8001000140020,
+    "options": [
+      "Le Kalahari",
+      "Le Gobi",
+      "Le Sahara",
+      "Le désert d'Arabie"
+    ],
+    "question": "Quel est le plus grand désert chaud du monde?"
+  },
+  {
+    "correctAnswer": "Le Nil",
+    "id": 9001000141001,
+    "options": [
+      "Le Congo",
+      "Le Niger",
+      "Le Nil",
+      "Le Zambèze"
+    ],
+    "question": "Quel fleuve est le plus long d'Afrique?"
+  },
+  {
+    "correctAnswer": "L'Islande",
+    "id": 9001000142002,
+    "options": [
+      "Les îles Féroé",
+      "La Groenland",
+      "La Norvège",
+      "L'Islande"
+    ],
+    "question": "Quel pays est situé sur la dorsale médio-atlantique, à cheval entre les plaques tectoniques eurasiatique et nord-américaine?"
+  },
+  {
+    "correctAnswer": "San Marino",
+    "id": 9001000143003,
+    "options": [
+      "Monaco",
+      "Vatican",
+      "Andorre",
+      "San Marino"
+    ],
+    "question": "Quel est le cinquième plus petit pays du monde, enclavé à l'intérieur de l'Italie?"
+  },
+  {
+    "correctAnswer": "Le mont Everest",
+    "id": 9001000144004,
+    "options": [
+      "Le K2",
+      "Le mont Blanc",
+      "Le mont Kilimandjaro",
+      "Le mont Everest"
+    ],
+    "question": "Quel sommet est le plus haut du monde?"
+  },
+  {
+    "correctAnswer": "La mer Baltique",
+    "id": 9001000145005,
+    "options": [
+      "La mer du Nord",
+      "La mer d'Irlande",
+      "La mer Adriatique",
+      "La mer Baltique"
+    ],
+    "question": "Sur les côtes de quelle mer se trouve la ville de Stockholm?"
+  },
+  {
+    "correctAnswer": "La taïga",
+    "id": 9001000146006,
+    "options": [
+      "La toundra",
+      "Le désert",
+      "La savane",
+      "La taïga"
+    ],
+    "question": "Comment appelle-t-on la vaste forêt de conifères qui s'étend à travers le nord de la Russie et du Canada?"
+  },
+  {
+    "correctAnswer": "Les montagnes Urales",
+    "id": 9001000147007,
+    "options": [
+      "Les montagnes Carpathes",
+      "Les montagnes Urales",
+      "Les montagnes Caucase",
+      "Les montagnes Alpes"
+    ],
+    "question": "Quelle chaîne de montagnes est généralement considérée comme la frontière naturelle entre l'Europe et l'Asie?"
+  },
+  {
+    "correctAnswer": "Le Gange",
+    "id": 9001000148008,
+    "options": [
+      "L'Indus",
+      "Le Brahmapoutre",
+      "Le Yamuna",
+      "Le Gange"
+    ],
+    "question": "Quelle rivière est sacrée pour les hindous et traverse une grande partie de l'Inde du Nord?"
+  },
+  {
+    "correctAnswer": "La Sibérie",
+    "id": 9001000149009,
+    "options": [
+      "La Mongolie",
+      "Le Kamtchatka",
+      "La Sibérie",
+      "Le Kazakhstan"
+    ],
+    "question": "Quelle vaste région de Russie est connue pour ses hivers extrêmement froids et ses vastes forêts?"
+  },
+  {
+    "correctAnswer": "Les îles Galápagos",
+    "id": 9001000150010,
+    "options": [
+      "Les îles Maldives",
+      "Les îles Canaries",
+      "Les îles Falkland",
+      "Les îles Galápagos"
+    ],
+    "question": "Quelles îles, situées dans l'océan Pacifique, font partie de l'Équateur et sont célèbres pour leur faune unique?"
+  },
+  {
+    "correctAnswer": "Le désert du Kalahari",
+    "id": 9001000151011,
+    "options": [
+      "Le désert du Sahara",
+      "Le désert du Namib",
+      "Le désert du Kalahari",
+      "Le désert du Sonora"
+    ],
+    "question": "Quel désert s'étend sur plusieurs pays d'Afrique australe, dont le Botswana, la Namibie et l'Afrique du Sud?"
+  },
+  {
+    "correctAnswer": "Les montagnes de l'Atlas",
+    "id": 9001000152012,
+    "options": [
+      "Les montagnes des Appalaches",
+      "Les montagnes des Alpes",
+      "Les montagnes des Pyrénées",
+      "Les montagnes de l'Atlas"
+    ],
+    "question": "Quelle chaîne de montagnes s'étend à travers le Maroc, l'Algérie et la Tunisie?"
+  },
+  {
+    "correctAnswer": "La mer Rouge",
+    "id": 9001000153013,
+    "options": [
+      "La mer Méditerranée",
+      "La mer Noire",
+      "La mer d'Oman",
+      "La mer Rouge"
+    ],
+    "question": "Quelle mer sépare l'Afrique de la péninsule arabique?"
+  },
+  {
+    "correctAnswer": "Les Alpes",
+    "id": 9001000154014,
+    "options": [
+      "Les Pyrénées",
+      "Les montagnes Rocheuses",
+      "Les Carpathes",
+      "Les Alpes"
+    ],
+    "question": "Quelle chaîne de montagnes sépare l'Italie de la France, de la Suisse, de l'Autriche et de l'Allemagne?"
+  },
+  {
+    "correctAnswer": "Le lac Titicaca",
+    "id": 9001000155015,
+    "options": [
+      "Le lac Maracaibo",
+      "Le lac Nicaragua",
+      "Le lac Titicaca",
+      "Le lac Tahoe"
+    ],
+    "question": "Quel est le plus haut lac navigable du monde, situé entre la Bolivie et le Pérou?"
+  },
+  {
+    "correctAnswer": "Bali",
+    "id": 9001000156016,
+    "options": [
+      "Java",
+      "Sumatra",
+      "Borneo",
+      "Bali"
+    ],
+    "question": "Quelle île d'Indonésie est célèbre pour ses plages, ses temples et sa culture unique?"
+  },
+  {
+    "correctAnswer": "La mer d'Azov",
+    "id": 9001000157017,
+    "options": [
+      "La mer Noire",
+      "La mer d'Azov",
+      "La mer Caspienne",
+      "La mer d'Aral"
+    ],
+    "question": "Quelle est la mer la plus peu profonde du monde, située entre l'Ukraine et la Russie?"
+  },
+  {
+    "correctAnswer": "L'Antarctique",
+    "id": 9001000158018,
+    "options": [
+      "L'Arctique",
+      "La Groenland",
+      "L'Islande",
+      "L'Antarctique"
+    ],
+    "question": "Sur quel continent se trouve le pôle Sud géographique?"
+  },
+  {
+    "correctAnswer": "Les îles Marshall",
+    "id": 9001000159019,
+    "options": [
+      "Les îles Solomon",
+      "Les îles Cook",
+      "Les îles Fiji",
+      "Les îles Marshall"
+    ],
+    "question": "Quel pays d'Océanie est composé de 29 atolls et 5 îles isolées?"
+  },
+  {
+    "correctAnswer": "La mer de Barents",
+    "id": 9001000160020,
+    "options": [
+      "La mer de Beaufort",
+      "La mer de Norvège",
+      "La mer de Bering",
+      "La mer de Barents"
+    ],
+    "question": "Quelle mer borde le nord de la Norvège et le nord-ouest de la Russie?"
   }
 ]
