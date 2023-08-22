@@ -90,7 +90,7 @@ let firestoreReadCounter = 0;
 let sessionScoreSubmitted = {};
 
 const isProduction = process.env.NODE_ENV === 'production';
-
+console.log("Environment:", process.env.NODE_ENV);
 app.use(express.json());
 
 app.use(cors({
