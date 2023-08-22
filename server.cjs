@@ -106,15 +106,11 @@ app.use(cors({
 app.use(
   session({
     secret: secretKey,
-    resave: true,
+    resave: false,
     saveUninitialized: true,
     cookie: {
-      path: '/',
-      proxy: true,
-      maxAge: 24 * 60 * 60 * 1000,
-      sameSite: 'None',
-      secure: true,
       httpOnly: true,
+      maxAge: 24 * 60 * 60 * 1000,
     },
   })
 );
