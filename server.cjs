@@ -111,8 +111,7 @@ app.use(
     cookie: {
       proxy: true,
       maxAge: 24 * 60 * 60 * 1000,
-      sameSite: isProduction ? 'None' : 'Lax',
-      secure: isProduction,
+
       httpOnly: true,
     },
   })
