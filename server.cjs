@@ -89,20 +89,19 @@ let userCache = {};
 let firestoreReadCounter = 0;
 let sessionScoreSubmitted = {};
 
+const isProduction = process.env.NODE_ENV === 'production';
+
 app.use(express.json());
+
 app.use(cors({
   origin: [
     'http://localhost:5173',
     'https://quiz-frontend-vhra.vercel.app',
     'https://quiz-frontend-rose.vercel.app',
-
-    
   ],
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true
 }));
-
-
 
 app.use(
   session({
@@ -112,12 +111,12 @@ app.use(
     cookie: {
       proxy: true,
       maxAge: 24 * 60 * 60 * 1000,
-
-      secure: false,
+      sameSite: isProduction ? 'None' : 'Lax',
+      secure: isProduction,
+      httpOnly: true,
     },
   })
 );
-
 
 let idSet = new Set();
 let allQuestions = [];
