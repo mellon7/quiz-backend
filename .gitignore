@@ -28,3 +28,4 @@ dist-ssr
 
 serviceAccountKey.json
 firebaseConfig.cjs      
+memory_log.txt
