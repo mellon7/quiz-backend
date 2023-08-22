@@ -112,7 +112,8 @@ app.use(
       path: '/',
       proxy: true,
       maxAge: 24 * 60 * 60 * 1000,
-      domain: '.mellon7.repl.co',
+      sameSite: 'None',
+      secure: true,
       httpOnly: true,
     },
   })
