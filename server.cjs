@@ -1,3 +1,4 @@
+
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
@@ -89,7 +90,7 @@ let userCache = {};
 let firestoreReadCounter = 0;
 let sessionScoreSubmitted = {};
 
-const isProduction = process.env.NODE_ENV === 'production';
+
 console.log("Environment:", process.env.NODE_ENV);
 app.use(express.json());
 
@@ -107,12 +108,11 @@ app.use(
   session({
     secret: secretKey,
     resave: false,
-    saveUninitialized: true,
+    saveUninitialized: false,
     cookie: {
       httpOnly: true,
       maxAge: 24 * 60 * 60 * 1000,
-      sameSite: 'None',
-      secure: true
+
     }
   })
 );
