@@ -590,8 +590,10 @@ const updatedData = {
   }
 });
 
+app.use(express.static(__dirname));
+
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'monitor.html'));
+    res.sendFile(path.join(__dirname, 'monitor.html'));
 });
 
 app.listen(PORT, () => {
