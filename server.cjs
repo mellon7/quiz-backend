@@ -85,7 +85,7 @@ const maintainMissions = (req, uid, category, score) => {
 
 
 
-const NB_QUIZ_QUESTIONS = 2;
+const NB_QUIZ_QUESTIONS = 10;
 let userCache = {};
 let firestoreReadCounter = 0;
 let sessionScoreSubmitted = {};
