@@ -103,7 +103,7 @@ app.use(cors({
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true
 }));
-
+app.set("trust proxy", 1);
 app.use(
   session({
     secret: secretKey,
