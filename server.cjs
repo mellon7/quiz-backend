@@ -103,21 +103,27 @@ app.use(cors({
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true
 }));
+const isProd = process.env.NODE_ENV === 'production';
+
 app.set("trust proxy", 1);
-app.use(
-  session({
-    secret: secretKey,
-    resave: false,
-    saveUninitialized: false,
-    name: 'CookieQwiz',
-    cookie: {
-      httpOnly: true,
-      maxAge: 24 * 60 * 60 * 1000,
-      secure: true,
-      sameSite: 'none'
-    }
-  })
-);
+
+const sessionOptions = {
+  secret: secretKey,
+  resave: false,
+  saveUninitialized: false,
+  name: 'CookieQwiz',
+  cookie: {
+    httpOnly: true,
+    maxAge: 24 * 60 * 60 * 1000
+  }
+};
+
+if (isProd) {
+  sessionOptions.cookie.secure = true;
+  sessionOptions.cookie.sameSite = 'none';
+}
+
+app.use(session(sessionOptions));
 
 let idSet = new Set();
 let allQuestions = [];
